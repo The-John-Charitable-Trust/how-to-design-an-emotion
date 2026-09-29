@@ -192,3 +192,155 @@ PART
 *How to Design an Emotion*
 
 @Cézjah
+
+## **Endnotes**
+
+1. Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
+
+2. Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
+
+3. Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
+
+4. Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
+
+5. Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
+
+6. Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
+
+7. Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
+
+8. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+
+9. Ben Bramble, "The Distinctive Feeling Theory of Pleasure," Philosophical Studies 162, no. 2 (2013): 201-217, https://doi.org/10.1007/s11098-011-9755-9. Access basis: DOI and author-uploaded full text.
+
+10. Ben Bramble, "The Distinctive Feeling Theory of Pleasure," Philosophical Studies 162, no. 2 (2013): 201-217, https://doi.org/10.1007/s11098-011-9755-9. Access basis: DOI and author-uploaded full text.
+
+11. Chris Heathwood, "The Reduction of Sensory Pleasure to Desire," Philosophical Studies 133, no. 1 (2007): 23-44, https://doi.org/10.1007/s11098-006-9004-9. Access basis: DOI and abstract verified.
+
+12. Ben Bramble, "The Distinctive Feeling Theory of Pleasure," Philosophical Studies 162, no. 2 (2013): 201-217, https://doi.org/10.1007/s11098-011-9755-9. Access basis: DOI and author-uploaded full text.
+
+13. Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
+
+14. Ben Bramble, "The Distinctive Feeling Theory of Pleasure," Philosophical Studies 162, no. 2 (2013): 201-217, https://doi.org/10.1007/s11098-011-9755-9. Access basis: DOI and author-uploaded full text.
+
+15. Ben Bramble, "The Distinctive Feeling Theory of Pleasure," Philosophical Studies 162, no. 2 (2013): 201-217, https://doi.org/10.1007/s11098-011-9755-9. Access basis: DOI and author-uploaded full text.
+
+16. Chris Heathwood, "The Reduction of Sensory Pleasure to Desire," Philosophical Studies 133, no. 1 (2007): 23-44, https://doi.org/10.1007/s11098-006-9004-9. Access basis: DOI and abstract verified.
+
+17. Ben Bramble, "The Distinctive Feeling Theory of Pleasure," Philosophical Studies 162, no. 2 (2013): 201-217, https://doi.org/10.1007/s11098-011-9755-9. Access basis: DOI and author-uploaded full text.
+
+18. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+
+19. Gottlob Frege, "On Sense and Reference," trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, "Gottlob Frege," in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification.
+
+20. Ben Bramble, "The Distinctive Feeling Theory of Pleasure," Philosophical Studies 162, no. 2 (2013): 201-217, https://doi.org/10.1007/s11098-011-9755-9. Access basis: DOI and author-uploaded full text.
+
+21. Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
+
+22. Paul Ekman, "An Argument for Basic Emotions," Cognition and Emotion 6, nos. 3-4 (1992): 169-200, https://doi.org/10.1080/02699939208411068. Access basis: Publisher abstract and DOI verified.
+
+23. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, "Emotional Expressions Reconsidered: Challenges to Inferring Emotion From Human Facial Movements," Psychological Science in the Public Interest 20, no. 1 (2019): 1-68, https://doi.org/10.1177/1529100619832930. Access basis: Open access/PubMed Central.
+
+24. Anil Gupta, "Definitions," in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.
+
+25. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
+
+26. Anil Gupta, "Definitions," in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.
+
+27. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
+
+28. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
+
+29. James A. Russell, "Core Affect and the Psychological Construction of Emotion," Psychological Review 110, no. 1 (2003): 145-172, https://doi.org/10.1037/0033-295X.110.1.145. Access basis: DOI and abstract/full-text preview verified.
+
+30. Andrea Scarantino and Ronald de Sousa, "Emotion," in The Stanford Encyclopedia of Philosophy, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/emotion/. Access basis: Open scholarly reference.
+
+31. Gottlob Frege, "On Sense and Reference," trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, "Gottlob Frege," in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification.
+
+32. W. V. O. Quine, "Two Dogmas of Empiricism," Philosophical Review 60, no. 1 (1951): 20-43, https://doi.org/10.2307/2181906. Access basis: DOI metadata and widely available journal record; claim verified through open scholarly summaries.
+
+## **Bibliography**
+
+Aristotle. *Rhetoric*. Translated by W. Rhys Roberts. In *The Complete Works of Aristotle*, edited by Jonathan Barnes. 2 vols. Princeton, NJ: Princeton University Press, 1984.
+
+Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
+
+Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. "Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements." *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68.
+
+Berridge, Kent C. "Incentive Salience in Behavioral Neuroscience." *Current Directions in Psychological Science* 18, no. 2 (2009): 71–75.
+
+Berridge, Kent C., and Morten L. Kringelbach. "Pleasure Systems in the Brain." *Neuron* 86, no. 3 (2015): 646–664.
+
+Bramble, Ben. "The Distinctive Feeling Theory of Pleasure." *Philosophical Studies* 162, no. 2 (2013): 201–217.
+
+Crisp, Roger. "Hedonism." In *The Stanford Encyclopedia of Philosophy*. Winter 2021 ed. Edited by Edward N. Zalta and Uri Nodelman.
+
+Damasio, Antonio. *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. New York: Harcourt Brace & Company, 1999.
+
+Descartes, René. *The Passions of the Soul*. Translated by Stephen H. Voss. Indianapolis: Hackett Publishing, 1989.
+
+Dixon, Thomas. *From Passions to Emotions: The Creation of a Secular Psychological Category*. Cambridge: Cambridge University Press, 2003.
+
+Eco, Umberto. *A Theory of Semiotics*. Bloomington: Indiana University Press, 1976.
+
+Ekman, Paul, and Wallace V. Friesen. "Constants across Cultures in the Face and Emotion." *Journal of Personality and Social Psychology* 17, no. 2 (1971): 124–129.
+
+Feldman, Fred. *Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism*. Oxford: Clarendon Press, 2004.
+
+Fodor, Jerry A. *Concepts: Where Cognitive Science Went Wrong*. Oxford: Clarendon Press, 1998.
+
+Harré, Rom, ed. *The Social Construction of Emotions*. Oxford: Basil Blackwell, 1986.
+
+Heathwood, Chris. "The Reduction of Sensory Pleasure to Desire." *Philosophical Studies* 133, no. 1 (2007): 23–44.
+
+Hempel, Carl G. *Aspects of Scientific Explanation and Other Essays in the Philosophy of Science*. New York: Free Press, 1965.
+
+Hochschild, Arlie Russell. *The Managed Heart: Commercialization of Human Feeling*. 3rd ed. Berkeley: University of California Press, 2012.
+
+Hume, David. *A Treatise of Human Nature*. Edited by David Fate Norton and Mary J. Norton. Oxford: Oxford University Press, 2000.
+
+James, William. "What Is an Emotion?" *Mind* 9, no. 34 (1884): 188–205.
+
+Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. Translated by Mary Gregor and Jens Timmermann. Cambridge: Cambridge University Press, 2012.
+
+Katz, Leonard D. "Pleasure." In *The Stanford Encyclopedia of Philosophy*. Summer 2023 ed. Edited by Edward N. Zalta and Uri Nodelman.
+
+LeDoux, Joseph E. *The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains*. New York: Viking, 2019.
+
+Lutz, Catherine A. *Unnatural Emotions: Everyday Sentiments on a Micronesian Atoll and Their Challenge to Western Theory*. Chicago: University of Chicago Press, 1988.
+
+Nagel, Thomas. "What Is It Like to Be a Bat?" *Philosophical Review* 83, no. 4 (1974): 435–450.
+
+Nussbaum, Martha C. *Upheavals of Thought: The Intelligence of Emotions*. Cambridge: Cambridge University Press, 2001.
+
+Panksepp, Jaak, and Lucy Biven. *The Archaeology of Mind: Neuroevolutionary Origins of Human Emotions*. New York: W. W. Norton, 2012.
+
+Peirce, Charles S. *Collected Papers of Charles Sanders Peirce*. Vols. 1–8. Edited by Charles Hartshorne, Paul Weiss, and Arthur W. Burks. Cambridge, MA: Harvard University Press, 1931–1958.
+
+Picard, Rosalind W. *Affective Computing*. Cambridge, MA: MIT Press, 1997.
+
+Plato. *Republic*. Translated by G. M. A. Grube. Revised by C. D. C. Reeve. In *Plato: Complete Works*, edited by John M. Cooper. Indianapolis: Hackett Publishing, 1997.
+
+Prinz, Jesse J. *Gut Reactions: A Perceptual Theory of Emotion*. Oxford: Oxford University Press, 2004.
+
+Quine, W. V. O. "On What There Is." *Review of Metaphysics* 2, no. 5 (1948): 21–38.
+
+———. "Two Dogmas of Empiricism." *Philosophical Review* 60, no. 1 (1951): 20–43.
+
+Robinson, Richard. *Definition*. Oxford: Clarendon Press, 1950.
+
+Russell, James A. "Is There Universal Recognition of Emotion from Facial Expression? A Review of the Cross-Cultural Studies." *Psychological Bulletin* 115, no. 1 (1994): 102–141.
+
+Saussure, Ferdinand de. *Course in General Linguistics*. Translated by Wade Baskin. New York: Philosophical Library, 1959.
+
+Scarantino, Andrea, and Ronald de Sousa. "Emotion." In *The Stanford Encyclopedia of Philosophy*. Spring 2024 ed. Edited by Edward N. Zalta and Uri Nodelman.
+
+Searle, John R. *The Construction of Social Reality*. New York: Free Press, 1995.
+
+Smith, Tiffany Watt. *The Book of Human Emotions: From Ambiguphobia to Umpty, 154 Words from around the World for How We Feel*. New York: Little, Brown and Company, 2016.
+
+Solomon, Robert C. *The Passions: Emotions and the Meaning of Life*. Indianapolis: Hackett Publishing, 1993.
+
+Wierzbicka, Anna. *Emotions across Languages and Cultures: Diversity and Universals*. Cambridge: Cambridge University Press, 1999.
+
+Wittgenstein, Ludwig. *Philosophical Investigations*. 4th ed. Translated by G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte. Oxford: Wiley-Blackwell, 2009.
