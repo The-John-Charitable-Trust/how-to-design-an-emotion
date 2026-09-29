@@ -46,11 +46,11 @@ I begin with a simple experimental pattern that Barrett references in *How Emoti
 
 The case matters because it seems to show that the mind can derive a central pattern from examples without retrieving a fixed intensional definition. I accept that lesson. But the experiment also hides a deeper constraint. Subjects can infer a central pattern only because the experiment already supplies a structured representational space within which the examples can vary.³⁷ The dots can move, but they do not cease to belong to the same task. The mind can infer a central tendency because the experiment has already fixed the underlying space within which variation occurs.
 
-<img src="../../assets/figures/chapter-04/figure-01.webp" style="width:6.5in;height:2.56944in" />  
+<img src="../../assets/figures/chapter-04/figure-01.png" style="width:6.5in;height:2.56944in" />  
 -----------------------------------------------------------------------------------------------------------------------------  
 **Figure 4-1. Dot-Pattern Distortions and Prototype Abstraction**
 
-<img src="../../assets/figures/chapter-04/figure-02.webp" style="width:6.5in;height:7.04167in" />  
+<img src="../../assets/figures/chapter-04/figure-02.png" style="width:6.5in;height:7.04167in" />  
 ------------------------------------------------------------------------------------------------------------------------------  
 **Figure 4-2. Dot-Pattern Central Tendency and Inferred Prototype**
 
@@ -78,15 +78,15 @@ Project 1 establishes the core thesis of the chapter by formalizing the distinct
 
 The color-boundary example clarifies the distinction. Viewed rhetorically, the example critiques naive essentialism. Viewed architecturally, it reveals a more specific confusion: treating partitioning behavior as conceptual identity. I introduce the color case not as an independent case study but as part of Barrett's own exposition of her theory of concepts.⁴⁸
 
-<img src="../../assets/figures/chapter-04/figure-03.webp" style="width:6.5in;height:2.09722in" />  
+<img src="../../assets/figures/chapter-04/figure-03.png" style="width:6.5in;height:2.09722in" />  
 ----------------------------------------------------------------------------------------------------------------------------  
 **Figure 4-3. Color Concept UML Class Diagram**
 
-<img src="../../assets/figures/chapter-04/figure-04.webp" style="width:6.5in;height:1.54167in" />  
+<img src="../../assets/figures/chapter-04/figure-04.png" style="width:6.5in;height:1.54167in" />  
 ------------------------------------------------------------------------------------------------------------------------------  
 **Figure 4-4. Color Constructs UML Object Diagrams**
 
-<img src="../../assets/figures/chapter-04/figure-05.webp" style="width:6.5in;height:1.98611in" />  
+<img src="../../assets/figures/chapter-04/figure-05.png" style="width:6.5in;height:1.98611in" />  
 ------------------------------------------------------------------------------------------------------------------------------  
 **Figure 4-5. Color Category UML Object Diagram**
 
@@ -106,11 +106,11 @@ Only after a valid instance exists does classification occur. The category is a 
 
 The sequence matters. Figure 4-6 presents the *Grub* concept as the class-level structure that fixes the relevant admissibility conditions: whether the organism can function as edible and whether it can function as a pest. Figure 4-7 presents a concrete grub instance, *grub_boston*, with determinate values for those conditions. The instance realizes the concept before any downstream category applies. Concept constrains. Instance realizes. Category groups.
 
-<img src="../../assets/figures/chapter-04/figure-06.webp" style="width:6.5in;height:2.09722in" />  
+<img src="../../assets/figures/chapter-04/figure-06.png" style="width:6.5in;height:2.09722in" />  
 ------------------------------------------------------------------------------------------------------------------------------  
 **Figure 4-6. Grub Concept UML Class Diagram**
 
-<img src="../../assets/figures/chapter-04/figure-07.webp" style="width:6.5in;height:2.09722in" />  
+<img src="../../assets/figures/chapter-04/figure-07.png" style="width:6.5in;height:2.09722in" />  
 ------------------------------------------------------------------------------------------------------------------------------  
 **Figure 4-7. Grub Constructs UML Object Diagrams**
 

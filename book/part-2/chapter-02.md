@@ -178,11 +178,11 @@ By adopting UML, I make it possible to diagram, compare, and analyze the structu
 
 The corresponding C# executables for the projects below appear in the downloaded ZIP file under the matching project folder. Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
 
-> <img src="../../assets/figures/chapter-02/figure-09.webp" style="width:6.54375in;height:2.11111in" />  
+> <img src="../../assets/figures/chapter-02/figure-09.png" style="width:6.54375in;height:2.11111in" />  
 > **------------------------------------------------------------------------------------------------------------------------------------------------  
 > Figure 2-1. Integer Concept UML Class Diagram**
 >
-> <img src="../../assets/figures/chapter-02/figure-04.webp" style="width:6.54375in;height:2.11111in" />**  
+> <img src="../../assets/figures/chapter-02/figure-04.png" style="width:6.54375in;height:2.11111in" />**  
 > ------------------------------------------------------------------------------------------------------------------------------------------------  
 > Figure 2-2. Integer Construct UML Object Diagram**
 
@@ -190,7 +190,7 @@ To illustrate my use of object-oriented architecture and UML to model the ontolo
 
 > The numeral “7” or the word “Seven” functions only as an identifier. The label does not supply meaning. The concept int supplies identity conditions as constraints because it declares what counts as an integer. The instantiation of that concept into a construct supplies determinate meaning by assigning values within those constraints. The object diagram in figure 2-2 then shows how declared structure becomes a construct when omitted measurements receive determinate values. In C#, this corresponds to initialization.
 >
-> <img src="../../assets/figures/chapter-02/figure-12.webp" style="width:6.54375in;height:1.18056in" />
+> <img src="../../assets/figures/chapter-02/figure-12.png" style="width:6.54375in;height:1.18056in" />
 >
 > Or, in a single unified form:
 >
@@ -200,13 +200,13 @@ Project 1 uses runtime parameters documented in its README. The project passes t
 
 > This is the corresponding output:
 >
-> <img src="../../assets/figures/chapter-02/figure-06.webp" style="width:6.54375in;height:3.76389in" />
+> <img src="../../assets/figures/chapter-02/figure-06.png" style="width:6.54375in;height:3.76389in" />
 
-<img src="../../assets/figures/chapter-02/figure-05.webp" style="width:6.54375in;height:2.02778in" />  
+<img src="../../assets/figures/chapter-02/figure-05.png" style="width:6.54375in;height:2.02778in" />  
 **-------------------------------------------------------------------------------------------------------------------------------------------------------------  
 Figure 2-3. Right Concept UML Class Diagram**
 
-<img src="../../assets/figures/chapter-02/figure-07.webp" style="width:6.54375in;height:2.29167in" />  
+<img src="../../assets/figures/chapter-02/figure-07.png" style="width:6.54375in;height:2.29167in" />  
 **-------------------------------------------------------------------------------------------------------------------------------------------------------------  
 Figure 2-4. Driving Right UML Object Diagram**
 
@@ -220,23 +220,23 @@ Project 2 uses runtime parameters documented in its README. The project passes t
 
 > This is the corresponding output:
 >
-> <img src="../../assets/figures/chapter-02/figure-11.webp" style="width:6.54375in;height:4.47222in" />
+> <img src="../../assets/figures/chapter-02/figure-11.png" style="width:6.54375in;height:4.47222in" />
 
 Figures 2-5 through 2-8 model core affect as the physiological substrate of feeling prior to emotion construction. In this framework, I define CoreAffect as a concept and implement it as a UML class. It declares the essential dimensions that constitute affective state as such: valence, arousal, and motivational intensity. These are not emotions, meanings, or attitudes. They fix only the identity conditions of affect at the most fundamental level.
 
-<img src="../../assets/figures/chapter-02/figure-02.webp" style="width:6.54375in;height:2.29167in" />  
+<img src="../../assets/figures/chapter-02/figure-02.png" style="width:6.54375in;height:2.29167in" />  
 **--------------------------------------------------------------------------------------------------------------------------------------------------  
 Figure 2-5. Core Affect Concept UML Class Diagram**
 
-<img src="../../assets/figures/chapter-02/figure-01.webp" style="width:6.54375in;height:2.29167in" />  
+<img src="../../assets/figures/chapter-02/figure-01.png" style="width:6.54375in;height:2.29167in" />  
 **--------------------------------------------------------------------------------------------------------------------------------------------------  
 Figure 2-6. Calm State UML Object Diagram**
 
-<img src="../../assets/figures/chapter-02/figure-08.webp" style="width:6.54375in;height:2.29167in" />  
+<img src="../../assets/figures/chapter-02/figure-08.png" style="width:6.54375in;height:2.29167in" />  
 **--------------------------------------------------------------------------------------------------------------------------------------------------  
 Figure 2-7. Excited State UML Object Diagram**
 
-<img src="../../assets/figures/chapter-02/figure-10.webp" style="width:6.54375in;height:2.29167in" />  
+<img src="../../assets/figures/chapter-02/figure-10.png" style="width:6.54375in;height:2.29167in" />  
 **-----------------------------------------------------------------------------------------------------------------------------------------------------  
 Figure 2-8. Distress State UML Object Diagram**
 
@@ -250,7 +250,7 @@ Project 3 uses runtime parameters documented in its README. The project passes d
 
 This is the corresponding output:
 
-<img src="../../assets/figures/chapter-02/figure-03.webp" style="width:6.54375in;height:4.23611in" />
+<img src="../../assets/figures/chapter-02/figure-03.png" style="width:6.54375in;height:4.23611in" />
 
 > Appendix B extends the framework through more complex UML diagrams. It uses associations such as inheritance and composition to model how affective states such as emotions, moods, and drives derive from feeling as a common structural base. It also applies structuralist syntagmatic relations to show how ordered association, not isolated elements, produces meaning. Finally, it introduces GoF creational patterns, including Factory and Prototype, to model the construction of emotional instances from stable conceptual structure rather than their discovery as natural kinds.<sup>99</sup>
 >
