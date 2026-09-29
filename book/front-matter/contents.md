@@ -32,18 +32,6 @@
 12. Our Feelings Are Real, But Are Our Emotions? The Misattribution of Affect
 13. The Sound of Feelings: Music as a Model for Affective Mechanisms, Felt Timbre, and Emotion Genres
 
-## Part VI — The Constructivist Ethics
-
-14. Ontology: How Do We Value? What Constitutes Human Agency?
-15. Value: Why Do We Value What We Value? The Classification, Comparison, and Prioritization of Values
-16. Agency: How Do We Govern Our Values? Rational Agency, Free Will, and the Governance of Human Action
-17. Meaning: What Do Our Values Mean? Deciphering our Feelings, Thoughts and Emotions
-18. Motivation: How Strongly Do We Value? From Motivational Intensity to Action
-19. Ethics: What Ought We to Value? From Moral Judgment to Ethical Action
-
-## Conclusion
-
-From Emotion to Rational Agency
 
 ## Appendices
 
