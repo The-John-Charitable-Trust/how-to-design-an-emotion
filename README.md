@@ -12,10 +12,14 @@
 <table>
 <tr>
 <td width="36%" valign="top" align="center">
-  <a href="assets/covers/how-to-design-an-emotion/cover.jpg">
-    <img src="assets/covers/how-to-design-an-emotion/cover.jpg" alt="How To Design an Emotion cover" width="300">
+  <a href="assets/covers/how-to-design-an-emotion/front-cover.jpg">
+    <img src="assets/covers/how-to-design-an-emotion/front-cover.jpg" alt="Front cover of How To Design an Emotion" width="180">
   </a>
-  <br><sub>Click the cover to view full size.</sub>
+  &nbsp;&nbsp;
+  <a href="assets/covers/how-to-design-an-emotion/back-cover.jpg">
+    <img src="assets/covers/how-to-design-an-emotion/back-cover.jpg" alt="Back cover of How To Design an Emotion" width="180">
+  </a>
+  <br><sub>Front and back covers. Click either image to view full size.</sub>
 </td>
 <td width="64%" valign="top">
 
@@ -27,7 +31,7 @@ This repository is the open, versioned, collaborative scholarly edition of the b
 
 ### COMING SOON
 
-[**SUBSCRIBE TO BE NOTIFIED ↓**](https://open.johntrust.org/#newsletter)
+[**SUBSCRIBE TO BE NOTIFIED ↓**](https://the-john-charitable-trust.github.io/open-publishing/#newsletter)
 
 </td>
 </tr>
@@ -37,7 +41,13 @@ This repository is the open, versioned, collaborative scholarly edition of the b
 
 ## THE BOOK IDEOLOGY
 
-<p align="center">\n  <a href="https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly">\n    <img src="https://i.ytimg.com/vi/1pjmcboMYOM/hqdefault.jpg" alt="Watch The Book Ideology" width="800">\n  </a>\n</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly">
+    <img src="https://img.youtube.com/vi/1pjmcboMYOM/0.jpg" alt="Watch The Book Ideology" width="800">
+  </a>
+</p>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly"><strong>▶ WATCH THE BOOK IDEOLOGY</strong></a></p>
 
 *Watch the video to explore the ideas and intellectual framework behind the book.*
 
