@@ -12,14 +12,10 @@
 <table>
 <tr>
 <td width="36%" valign="top" align="center">
-  <a href="assets/covers/how-to-design-an-emotion/front-cover.jpg">
-    <img src="assets/covers/how-to-design-an-emotion/front-cover.jpg" alt="Front cover of How To Design an Emotion" width="180">
+  <a href="assets/covers/how-to-design-an-emotion/cover.jpg">
+    <img src="assets/covers/how-to-design-an-emotion/cover.jpg" alt="How To Design an Emotion cover" width="300">
   </a>
-  &nbsp;&nbsp;
-  <a href="assets/covers/how-to-design-an-emotion/back-cover.jpg">
-    <img src="assets/covers/how-to-design-an-emotion/back-cover.jpg" alt="Back cover of How To Design an Emotion" width="180">
-  </a>
-  <br><sub>Front and back covers. Click either image to view full size.</sub>
+  <br><sub>Click the cover to view full size.</sub>
 </td>
 <td width="64%" valign="top">
 
