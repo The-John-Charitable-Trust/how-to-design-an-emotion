@@ -43,11 +43,13 @@ This repository is the open, versioned, collaborative scholarly edition of the b
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly">
-    <img src="https://img.youtube.com/vi/1pjmcboMYOM/0.jpg" alt="Watch The Book Ideology" width="800">
+    <img src="https://img.youtube.com/vi/1pjmcboMYOM/maxresdefault.jpg" alt="Play The Book Ideology video" width="800">
   </a>
 </p>
 
-<p align="center"><a href="https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly"><strong>▶ WATCH THE BOOK IDEOLOGY</strong></a></p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly"><strong>▶ PLAY VIDEO</strong></a>
+</p>
 
 *Watch the video to explore the ideas and intellectual framework behind the book.*
 
