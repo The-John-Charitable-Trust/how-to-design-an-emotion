@@ -38,8 +38,12 @@ This repository is the open, versioned, collaborative scholarly edition of the b
 ## THE BOOK IDEOLOGY
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly"><strong>▶ PLAY THE BOOK IDEOLOGY VIDEO</strong></a>
+  <a href="https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly">
+    <img src="assets/images/book-ideology-thumbnail.png" alt="The Book Ideology — The Intersection of Ethics & Emotions" width="900">
+  </a>
 </p>
+
+<p align="center"><strong>Click the image to play the video.</strong></p>
 
 *Watch the video to explore the ideas and intellectual framework behind the book.*
 
