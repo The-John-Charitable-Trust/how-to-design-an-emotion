@@ -37,7 +37,7 @@ This repository is the open, versioned, collaborative scholarly edition of the b
 
 ## THE BOOK IDEOLOGY
 
-[![Watch The Book Ideology](https://img.youtube.com/vi/1pjmcboMYOM/maxresdefault.jpg)](https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly)
+<p align="center">\n  <a href="https://www.youtube.com/watch?v=1pjmcboMYOM&list=PLeSNXBpf5Q-Ad8Op7Yyw46_0ZAZ4j13ly">\n    <img src="https://i.ytimg.com/vi/1pjmcboMYOM/hqdefault.jpg" alt="Watch The Book Ideology" width="800">\n  </a>\n</p>
 
 *Watch the video to explore the ideas and intellectual framework behind the book.*
 
