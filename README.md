@@ -9,6 +9,14 @@
 **Universal Moral Concepts III**  
 **Author: Cézjah**
 
+<p align="center">
+  <a href="book/part-1/chapter-01.md"><strong>READ</strong></a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <a href="CONTRIBUTING.md"><strong>CONTRIBUTE</strong></a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <a href="https://github.com/The-John-Charitable-Trust/how-to-design-an-emotion"><strong>SOURCE</strong></a>
+</p>
+
 <table>
 <tr>
 <td width="36%" valign="top" align="center">
