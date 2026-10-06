@@ -10,9 +10,9 @@
 **Author: Cézjah**
 
 <p align="center">
-  <a href="book/part-1/chapter-01.md"><strong>READ</strong></a>
+  <a href="book/"><strong>READ</strong></a>
   &nbsp;&nbsp; | &nbsp;&nbsp;
-  <a href="CONTRIBUTING.md"><strong>CONTRIBUTE</strong></a>
+  <a href="contribute/"><strong>CONTRIBUTE</strong></a>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://github.com/The-John-Charitable-Trust/how-to-design-an-emotion"><strong>SOURCE</strong></a>
 </p>
