@@ -1,3 +1,5 @@
+[John Trust Open Publishing](https://open.johntrust.org) › [How To Design an Emotion](README.md) › **Contribute**
+
 # Contributing
 
 *How To Design an Emotion* is maintained as an author-governed, living scholarly work. The purpose of contribution is to improve the work while preserving authorship, provenance, intellectual coherence, and a reviewable history of change.
