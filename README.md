@@ -12,7 +12,7 @@
 <p align="center">
   <a href="book/"><strong>READ</strong></a>
   &nbsp;&nbsp; | &nbsp;&nbsp;
-  <a href="contribute/"><strong>CONTRIBUTE</strong></a>
+  <a href="CONTRIBUTING.md"><strong>CONTRIBUTE</strong></a>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://github.com/The-John-Charitable-Trust/how-to-design-an-emotion"><strong>SOURCE</strong></a>
 </p>
