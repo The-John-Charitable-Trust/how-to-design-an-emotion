@@ -1,3 +1,5 @@
+[John Trust Open Publishing](https://open.johntrust.org) › [How To Design an Emotion](../../README.md) › [Read](../) › **Chapter 1**
+
 **<span class="smallcaps">CHAPTER 1</span>**
 
 *What the Bleep Is an Emotion?: Why Centuries of Science and Philosophy Still Can’t Define How We Feel*
