@@ -1,3 +1,5 @@
+[John Trust Open Publishing](https://open.johntrust.org) › **How To Design an Emotion**
+
 <p align="center">
   <img src="assets/images/how-to-design-an-emotion-banner.png" alt="How To Design an Emotion banner" width="100%">
 </p>
