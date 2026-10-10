@@ -1,3 +1,3 @@
 # Part IV — The Construction of Emotion
 
-This directory is reserved for Part IV of *How To Design an Emotion*.
+- [Chapter 9 — Emotions Are Not Triggered They Are Made](chapter-09.md)
