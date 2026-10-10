@@ -76,8 +76,6 @@ This view aligns with the tradition represented by Jerry Fodor and Ray Jackendof
 
 Natural language is  one paradigmatic instantiation of this architecture. Mathematics, music, and formal computational systems likewise organize discrete units under combinatorial constraint. In each domain, hierarchical organization enables structured significance to emerge from minimal symbolic primitives.<sup><a href="../references/notes/chapter-10.md#note-20">20</a></sup>
 
-**Table 10-1. Hierarchical Organization of Meaning Across Symbolic Domains**
-
 | Domain | Minimal Unit | Intermediate Structure | Higher-Order Structure |
 | --- | --- | --- | --- |
 | Natural Language | Phoneme / Character | Word / Clause | Proposition |
@@ -85,6 +83,7 @@ Natural language is  one paradigmatic instantiation of this architecture. Mathem
 | Music | Note | Motif / Phrase | Thematic or Expressive Structure |
 | Formal Systems | Token / Symbol | Statement / Instruction | Executable Program or Proof |
 
+<p align="center">**Table 10-1. Hierarchical Organization of Meaning Across Symbolic Domains**</p>
 Table 10-1 illustrates a common structural pattern. Discrete elements do not merely accumulate; they are organized under rule into increasingly complex configurations that admit interpretation. Where such generative structure operates, symbols can function as components of structured meaning. Where it does not, tokens fail to enter relations with one another, and significance cannot stabilize.<sup><a href="../references/notes/chapter-10.md#note-21">21</a></sup>
 
 If language produces structured significance, I must now ask what enables it to organize symbols into such structure.

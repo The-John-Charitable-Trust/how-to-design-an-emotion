@@ -166,13 +166,17 @@ Test 1. The Arbitrariness of the Constructivist Semiotic Sign: Does any intrinsi
 
 This test examines whether anything intrinsic to a sign determines its identifier. If the relation is objective, then identical sign configurations must yield the same identifier.<sup><a href="../references/notes/chapter-12.md#note-62">62</a></sup>
 
-**Figure 12.1. FamilyClanSign UML Class Diagram**<img src="../../assets/figures/chapter-12/figure-01.png" />
+<img src="../../assets/figures/chapter-12/figure-01.png" />
+<p align="center">**Figure 12.1. FamilyClanSign UML Class Diagram**</p>
 
-**Figure 12.2. English Family Clan UML Object Diagram**<img src="../../assets/figures/chapter-12/figure-02.png" />
+<img src="../../assets/figures/chapter-12/figure-02.png" />
+<p align="center">**Figure 12.2. English Family Clan UML Object Diagram**</p>
 
-**Figure 12.3. Spanish Family Clan UML Object Diagram**<img src="../../assets/figures/chapter-12/figure-03.png" />
+<img src="../../assets/figures/chapter-12/figure-03.png" />
+<p align="center">**Figure 12.3. Spanish Family Clan UML Object Diagram**</p>
 
-**Figure 12.4. Swahili Family Clan UML Object Diagram**<img src="../../assets/figures/chapter-12/figure-04.png" />
+<img src="../../assets/figures/chapter-12/figure-04.png" />
+<p align="center">**Figure 12.4. Swahili Family Clan UML Object Diagram**</p>
 
 Each instance preserves the same admissible sign configuration relative to its context. The identity conditions remain constant. The members remain constant. The structural constraints remain constant. The context varies across linguistic systems, and the identifier varies accordingly.
 
@@ -190,13 +194,17 @@ Test 2. Underdetermination: Does one identifier uniquely fix one sign configurat
 
 This test examines whether an identifier uniquely determines a sign. If the relation is objective, then a single identifier must fix a single set of identity conditions and corresponding instance.<sup><a href="../references/notes/chapter-12.md#note-68">68</a></sup>
 
-**Figure 12.5. FamilyClanSign UML Class Diagram**<img src="../../assets/figures/chapter-12/figure-05.png" />
+<img src="../../assets/figures/chapter-12/figure-05.png" />
+<p align="center">**Figure 12.5. FamilyClanSign UML Class Diagram**</p>
 
-**Figure 12.6. English Family Clan UML Object Diagram (Biological)**<img src="../../assets/figures/chapter-12/figure-06.png" />
+<img src="../../assets/figures/chapter-12/figure-06.png" />
+<p align="center">**Figure 12.6. English Family Clan UML Object Diagram (Biological)**</p>
 
-**Figure 12.7. English Family Clan UML Object Diagram (Chosen)**<img src="../../assets/figures/chapter-12/figure-07.png" />
+<img src="../../assets/figures/chapter-12/figure-07.png" />
+<p align="center">**Figure 12.7. English Family Clan UML Object Diagram (Chosen)**</p>
 
-**Figure 12.8. English Family Clan UML Object Diagram (Legal Household)**<img src="../../assets/figures/chapter-12/figure-08.png" />
+<img src="../../assets/figures/chapter-12/figure-08.png" />
+<p align="center">**Figure 12.8. English Family Clan UML Object Diagram (Legal Household)**</p>
 
 Each instance uses the same identifier. The context remains constant. The members remain constant. The structure remains constant. The identity conditions differ. In the UML diagrams, those admissibility conditions appear in the IdentityConditions property.
 
@@ -212,13 +220,17 @@ Test 3. Universal Objective Essence: Does a single invariant set of identity con
 
 This test examines whether a sign possesses a universal and objective essence. If such an essence exists, then a single set of identity conditions must hold invariantly across all admissible instances of the sign.<sup><a href="../references/notes/chapter-12.md#note-73">73</a></sup>
 
-**Figure 12.9. FamilyClanSign UML Class Diagram**<img src="../../assets/figures/chapter-12/figure-09.png" />
+<img src="../../assets/figures/chapter-12/figure-09.png" />
+<p align="center">**Figure 12.9. FamilyClanSign UML Class Diagram**</p>
 
-**Figure 12.10. English Family Clan UML Object Diagram (Biological Essence)**<img src="../../assets/figures/chapter-12/figure-10.png" />
+<img src="../../assets/figures/chapter-12/figure-10.png" />
+<p align="center">**Figure 12.10. English Family Clan UML Object Diagram (Biological Essence)**</p>
 
-**Figure 12.11. English Family Clan UML Object Diagram (Chosen Essence)**<img src="../../assets/figures/chapter-12/figure-11.png" />
+<img src="../../assets/figures/chapter-12/figure-11.png" />
+<p align="center">**Figure 12.11. English Family Clan UML Object Diagram (Chosen Essence)**</p>
 
-**Figure 12.12. English Family Clan UML Object Diagram (Institutional Essence)**<img src="../../assets/figures/chapter-12/figure-12.png" />
+<img src="../../assets/figures/chapter-12/figure-12.png" />
+<p align="center">**Figure 12.12. English Family Clan UML Object Diagram (Institutional Essence)**</p>
 
 Each instance uses the same identifier. The context remains constant. The structure remains constant. The identity conditions differ, and the admissible membership changes with them.
 
@@ -234,13 +246,17 @@ Test 4. Universal Objective Identity: Do identical identity conditions applied t
 
 This test examines whether a sign possesses a universal and objective identity. If identity is intrinsic, then identical identity conditions applied to the same referent must yield a single, invariant identity.<sup><a href="../references/notes/chapter-12.md#note-78">78</a></sup>
 
-**Figure 12.13. FamilyClanSign UML Class Diagram**<img src="../../assets/figures/chapter-12/figure-13.png" />
+<img src="../../assets/figures/chapter-12/figure-13.png" />
+<p align="center">**Figure 12.13. FamilyClanSign UML Class Diagram**</p>
 
-**Figure 12.14. English Family Clan UML Object Diagram (Kinship Identity)**<img src="../../assets/figures/chapter-12/figure-14.png" />
+<img src="../../assets/figures/chapter-12/figure-14.png" />
+<p align="center">**Figure 12.14. English Family Clan UML Object Diagram (Kinship Identity)**</p>
 
-**Figure 12.15. Spanish Family Clan UML Object Diagram (Lineage Identity)**<img src="../../assets/figures/chapter-12/figure-15.png" />
+<img src="../../assets/figures/chapter-12/figure-15.png" />
+<p align="center">**Figure 12.15. Spanish Family Clan UML Object Diagram (Lineage Identity)**</p>
 
-**Figure 12.16. Swahili Family Clan UML Object Diagram (Clan Identity)**<img src="../../assets/figures/chapter-12/figure-16.png" />
+<img src="../../assets/figures/chapter-12/figure-16.png" />
+<p align="center">**Figure 12.16. Swahili Family Clan UML Object Diagram (Clan Identity)**</p>
 
 Each instance applies the same identity conditions. The members remain constant. The structure remains constant. The underlying group remains constant. Only the context changes, and the resulting identity changes with it. In this test, the changing identifier marks the context-specific symbolic label, while the changing identity names the role the same group occupies within that context.
 
@@ -256,17 +272,23 @@ Test 5. Universal Objective Significance: Does the same sign carry the same moti
 
 This test examines whether a sign possesses a universal and objective significance. If significance is intrinsic to the sign, then the same sign must carry the same motivational force for every interpreter. If significance varies while the sign remains constant, then significance does not reside in the sign itself.<sup><a href="../references/notes/chapter-12.md#note-83">83</a></sup>
 
-**Figure 12.17. EventSign UML Class Diagram**<img src="../../assets/figures/chapter-12/figure-17.png" />
+<img src="../../assets/figures/chapter-12/figure-17.png" />
+<p align="center">**Figure 12.17. EventSign UML Class Diagram**</p>
 
-**Figure 12.18. Job Interview UML Object Diagram**<img src="../../assets/figures/chapter-12/figure-18.png" />
+<img src="../../assets/figures/chapter-12/figure-18.png" />
+<p align="center">**Figure 12.18. Job Interview UML Object Diagram**</p>
 
-**Figure 12.19. Interpreter UML Class Diagram**<img src="../../assets/figures/chapter-12/figure-19.png" />
+<img src="../../assets/figures/chapter-12/figure-19.png" />
+<p align="center">**Figure 12.19. Interpreter UML Class Diagram**</p>
 
-**Figure 12.20. Interpreter UML Object Diagram (Low Significance)**<img src="../../assets/figures/chapter-12/figure-20.png" />
+<img src="../../assets/figures/chapter-12/figure-20.png" />
+<p align="center">**Figure 12.20. Interpreter UML Object Diagram (Low Significance)**</p>
 
-**Figure 12.21. Interpreter UML Object Diagram (Moderate Significance)**<img src="../../assets/figures/chapter-12/figure-21.png" />
+<img src="../../assets/figures/chapter-12/figure-21.png" />
+<p align="center">**Figure 12.21. Interpreter UML Object Diagram (Moderate Significance)**</p>
 
-**Figure 12.22. Interpreter UML Object Diagram (High Significance)**<img src="../../assets/figures/chapter-12/figure-22.png" />
+<img src="../../assets/figures/chapter-12/figure-22.png" />
+<p align="center">**Figure 12.22. Interpreter UML Object Diagram (High Significance)**</p>
 
 The sign remains constant. Its identifier remains constant. Its identity conditions remain constant. The event remains the same. Only the interpreters differ in their motivational intensity toward the same sign. The variation arises because each interpreter relates the same sign to different goals, stakes, and consequences.
 
@@ -348,8 +370,6 @@ If emotion exists only through authorized interpretation, I must now identify th
 
 The barrier between the observer and the agent is not a technological hurdle. It is a structural feature of reality.
 
-**Table 12-1. Stratified Levels of Emotional Reality: Access and Primary Content**
-
 | Reality Level | Access Type | Primary Content |
 | --- | --- | --- |
 | Empirical | Third-Person (Direct) | Physiological signals, neural firing, behavior |
@@ -357,6 +377,7 @@ The barrier between the observer and the agent is not a technological hurdle. It
 | Emotional | First-Person (Authorized) | Constructed meaning, symbolic identifiers |
 | Social | Second-Person (Inferred) | Shared labels, cultural norms, “Emotionese” |
 
+<p align="center">**Table 12-1. Stratified Levels of Emotional Reality: Access and Primary Content**</p>
 Because the observer only has direct access to the Empirical level, any statement they make about the Emotional level is an inference. I can measure the heat of the engine, but I cannot see the driver’s authorization of the destination.<sup><a href="../references/notes/chapter-12.md#note-112">112</a></sup>
 
 Emotion remains inaccessible from the outside perspective. It does not appear as an observable property in signals, physiology, or behavior, because meaning exists only where an agent authorizes a construct under symbolic constraint. Others interpret expression and infer emotional attribution. Science measures correlates and models regularities.<sup><a href="../references/notes/chapter-12.md#note-113">113</a></sup>
@@ -389,13 +410,12 @@ This example makes the two-level structure of constructed meaning explicit.<sup>
 
 If a non-emotional construct requires this architecture, emotional meaning satisfies no weaker conditions. I now apply this architecture to emotion.<sup><a href="../references/notes/chapter-12.md#note-126">126</a></sup>
 
-**Table 12-2. Two-Level Architecture of Emotional Meaning: Process and Result**
-
 | Level | Process | Result |
 | --- | --- | --- |
 | Agent (Individual) | Authorization: Binding a symbolic identifier (e.g., “Grief”) to a felt state under specific identity conditions. | Prototype: A first-person authorized meaning that governs the agent’s internal state. |
 | Agents (Social) | Consensus: Coordinating the use of “Grief” across multiple agents using shared rules and contextual cues. | Stereotype: A socially stabilized category that allows for coordination and “Emotionese.” |
 
+<p align="center">**Table 12-2. Two-Level Architecture of Emotional Meaning: Process and Result**</p>
 This application reveals that emotion is not a biological "find" but a semiotic "achievement." To have an emotion, the agent must be a certain kind of system; one capable of both internal authorization and external alignment.<sup><a href="../references/notes/chapter-12.md#note-127">127</a></sup>
 
 Emotion construction requires rule-governed application. The agent must apply the identifier across contexts, maintain admissibility under constraint, and sustain consistency over time. Without this capacity, the system produces affect and feeling but does not produce emotion.<sup><a href="../references/notes/chapter-12.md#note-128">128</a></sup>
@@ -404,13 +424,12 @@ Social interaction extends this process. Agents communicate emotional constructs
 
 I can now proceed to further argue the distinction between entities that possess affective states and those that possess emotional meaning.
 
-**Table 12-3. Emotion Construction: Structural Capacities by Entity**
-
 | Entity | Primary Process | Structural Capacity |
 | --- | --- | --- |
 | Infants / Animals | Reactivity & Association | Affective arousal + sensory integration |
 | Interpretive Agents | Authorization & Consensus | Symbolic detachability + rule-governed identity |
 
+<p align="center">**Table 12-3. Emotion Construction: Structural Capacities by Entity**</p>
 The two-level architecture clarifies why animals and infants differ in their capacity to construct emotional meaning. Animals exhibit affect, signaling, and coordinated behavior. They regulate states, respond to cues, and interact within social structures. These capacities, however, do not suffice for meaning. Animals do not demonstrate authorization. They do not stabilize the states they feel under detachable symbolic identifiers that identity conditions govern, nor do they endorse such constructs as binding. Their responses track stimuli and patterns, but they do not organize meaning under rules for construction.<sup><a href="../references/notes/chapter-12.md#note-130">130</a></sup>
 
 Animals also do not demonstrate consensus in the relevant sense. They coordinate behavior, but they do not agree on rules that determine when symbolic constructs count as admissible. Animal coordination does not stabilize meaning across agents.<sup><a href="../references/notes/chapter-12.md#note-131">131</a></sup>

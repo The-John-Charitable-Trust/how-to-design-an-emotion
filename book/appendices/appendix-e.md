@@ -31,11 +31,13 @@ Paste the following code into the Console, then press Enter. This creates the th
 
 Layer 1: The Concept Object
 
-![Source figure 1](../../assets/figures/appendix-e/figure-01.png)
+<img src="../../assets/figures/appendix-e/figure-01.png" />
+<p align="center">**Source figure 1**</p>
 
 Layer 2: The Instance Objects
 
-![Source figure 2](../../assets/figures/appendix-e/figure-02.png)
+<img src="../../assets/figures/appendix-e/figure-02.png" />
+<p align="center">**Source figure 2**</p>
 
 | You can paste both code blocks together. Use Shift + Enter to add lines without running the code too early. Press Enter on a blank line to execute the full block. |
 | --- |
@@ -54,7 +56,8 @@ Click the expand arrow next to the returned object.
 
 At this level, Chrome shows the object's own properties:
 
-![Source figure 3](../../assets/figures/appendix-e/figure-03.png)
+<img src="../../assets/figures/appendix-e/figure-03.png" />
+<p align="center">**Source figure 3**</p>
 
 These are the instance's own properties: its particular descriptors and contextual values. This is Layer 2: Instance-Level Realization. The object has a type and a sides value, both assigned at the instance level. They do not define what a triangle is.
 
@@ -67,7 +70,8 @@ Click the expand arrow next to [[Prototype]], sometimes shown as __proto__.
 
 At this level, Chrome shows the inherited structure:
 
-![Source figure 4](../../assets/figures/appendix-e/figure-04.png)
+<img src="../../assets/figures/appendix-e/figure-04.png" />
+<p align="center">**Source figure 4**</p>
 
 This is Layer 1: Concept-Level Constraint. Here you observe:
 
@@ -88,7 +92,8 @@ Expand the second [[Prototype]] entry inside the first.
 
 At this level, Chrome shows JavaScript's runtime infrastructure:
 
-![Source figure 5](../../assets/figures/appendix-e/figure-05.png)
+<img src="../../assets/figures/appendix-e/figure-05.png" />
+<p align="center">**Source figure 5**</p>
 
 This is Layer 0: Runtime Infrastructure Constraint. You have reached Object.prototype, the terminus of JavaScript's ordinary prototype chain. The final [[Prototype]] is null. Delegation has a boundary. Property lookup has an end.
 
@@ -105,7 +110,8 @@ Each operation below targets a different ontological layer and produces a differ
 
 Assign an invalid value to the instance's own property.
 
-![What this shows:](../../assets/figures/appendix-e/figure-06.png)
+<img src="../../assets/figures/appendix-e/figure-06.png" />
+<p align="center">**What this shows:**</p>
 
 What this shows:
 
@@ -122,7 +128,8 @@ Prototype theory can describe variation among instances, but this operation show
 | Typicality gradients and variability (the phenomena prototype theory correctly observes) appear here at Layer 2. But they presuppose the stability of Layer 1. |
 | --- |
 
-![Source figure 7](../../assets/figures/appendix-e/figure-07.png)
+<img src="../../assets/figures/appendix-e/figure-07.png" />
+<p align="center">**Source figure 7**</p>
 
 ## B. Parametric Revision: Layer 1 Change
 
@@ -144,7 +151,8 @@ The extension of the concept shifts, but the architecture remains intact. Classi
 
 Remove the evaluative rule from the prototype.
 
-![Source figure 8](../../assets/figures/appendix-e/figure-08.png)
+<img src="../../assets/figures/appendix-e/figure-08.png" />
+<p align="center">**Source figure 8**</p>
 
 What this shows:
 

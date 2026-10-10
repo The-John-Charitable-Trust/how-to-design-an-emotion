@@ -24,8 +24,6 @@ To answer this, I move from definition to discrimination. I use the Emotional Me
 
 After I specified the architecture and its threshold clearly in Chapter 10, I can now ask the decisive question: Do animals and infants possess these structural conditions?
 
-**Table 11-1. Emotional Meaning Architecture: Animal vs. Neurotypical Adolescent**
-
 | Level | Architectural Stage | What Structurally Exists | Symbolic / Reflective Features Present | Meaning Status | Species Qualification (Animal / Adolescent) |
 | --- | --- | --- | --- | --- | --- |
 | 0 | Computational Mapping | Rule execution without lived stake | No interpreter-with-stake | None | Animal: N/A biologically / Adolescent: N/A |
@@ -40,6 +38,7 @@ After I specified the architecture and its threshold clearly in Chapter 10, I ca
 | 8 | Normative Emotional Evaluation | Emotional interpretation evaluated under reasons and standards | Reflective comparison across alternatives | Reflectively governed emotional meaning | Animal: Not established / Adolescent: Established |
 | 9 | Recursive Emotional Self-Regulation | Ongoing revision of emotional | Iterative metarepresentation | Fully recursive emotional agency | Animal: Not established / Adolescent: Established |
 
+<p align="center">**Table 11-1. Emotional Meaning Architecture: Animal vs. Neurotypical Adolescent**</p>
 Table 11-1 presents the Emotional Meaning Architecture in its complete form. Each level specifies what must exist structurally for a felt state to qualify as emotional meaning in the strict semiotic sense.<sup><a href="../references/notes/chapter-11.md#note-7">7</a></sup>
 
 The decisive transition occurs at Level 5, where the system stabilizes affect under a reusable identifier. Full emotional meaning requires the additional capacity I specify at Level 7.<sup><a href="../references/notes/chapter-11.md#note-8">8</a></sup>
@@ -110,8 +109,6 @@ I therefore do not defend linguistic introspection as the threshold here. It doe
 
 Current evidence does not show that animals reach Level 7. Without detachable symbolic stabilization at Level 5 and without reflective revision at Level 7, affect may retain organization, but it does not become fully semiotic. Emotional meaning in the strict sense requires symbolic detachment and metarepresentational endorsement.<sup><a href="../references/notes/chapter-11.md#note-47">47</a></sup>
 
-**Table 11-2. Neurotypical Infant Development from Affective Activation to Full Emotional Meaning**
-
 | Level | Architectural Stage | Approximate Age | What Structurally Exists | Symbolic / Reflective Features Present | Emotional Meaning Status |
 | --- | --- | --- | --- | --- | --- |
 | 0 | Physiological Activation | Birth | Neural and autonomic reflex responses | None | None |
@@ -124,6 +121,7 @@ Current evidence does not show that animals reach Level 7. Without detachable sy
 | 6 | Goal‑Governed Emotional Organization | ~3–4 years | Emotion integrated relative to stake and alternatives | Stable endorsement under concept; reflective capacity emerging | Partially reflective emotional meaning |
 | 7 | Metarepresentational Endorsement | ~4–5 years | Emotional interpretation becomes object of evaluation | Detachment, endorsement, and metarepresentation present | Full emotional meaning |
 
+<p align="center">**Table 11-2. Neurotypical Infant Development from Affective Activation to Full Emotional Meaning**</p>
 Table 11-2 traces the developmental ascent toward emotional meaning. The age ranges are approximate and represent typical developmental windows rather than rigid thresholds. The architecture is the constant; developmental timing may vary across individuals.<sup><a href="../references/notes/chapter-11.md#note-48">48</a></sup>
 
 The early levels display physiological activation, affective modulation, conscious feeling, and increasingly differentiated affective organization. These stages demonstrate that infants experience and regulate affect long before symbolic stabilization emerges. Feeling precedes the symbol.<sup><a href="../references/notes/chapter-11.md#note-49">49</a></sup>

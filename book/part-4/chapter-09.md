@@ -84,8 +84,6 @@ To preserve the flow of the argument, I report only the final results of the wei
 | Conceptual Act Theory / TCE (Barrett) (Conditional)    | 0.55 × 30 = 16.5   | 0.50 × 20 = 10.0 | 0.45 × 25 = 11.25        | 0.65 × 25 = 16.25   | 54.00                |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------  
-**Table 9-1. Consolidated Weighted Score Matrix (WSM) Showing the Architectural Viability of Surviving Emotion Theories**
-
 I now construct the Constructivist Semiotic Model of Emotions (CSME) by integrating the indispensable architectural contributions identified through the comparative trade study.<sup><a href="../references/notes/chapter-09.md#note-32">32</a></sup> I organize those contributions within a unified cognitive-semiotic architecture that preserves their explanatory strengths while maintaining stable ontological distinctions and computational coherence.<sup><a href="../references/notes/chapter-09.md#note-33">33</a></sup>
 
 I begin with Conceptual Act Theory (CAT), or the Theory of Constructed Emotion (TCE), because it contributes one of the most important architectural insights to the Constructivist Semiotic Model of Emotions (CSME) despite receiving the lowest architectural viability score among the qualifying candidates.<sup><a href="../references/notes/chapter-09.md#note-34">34</a></sup> Barrett rejects the view that emotions exist as intrinsic natural kinds waiting for discovery.<sup><a href="../references/notes/chapter-09.md#note-35">35</a></sup> Instead, she explains how agents construct emotional meaning through the interaction of physiological affect,<sup><a href="../references/notes/chapter-09.md#note-36">36</a></sup> conceptual knowledge,<sup><a href="../references/notes/chapter-09.md#note-37">37</a></sup> prediction,<sup><a href="../references/notes/chapter-09.md#note-38">38</a></sup> prior experience,<sup><a href="../references/notes/chapter-09.md#note-39">39</a></sup> and context.<sup><a href="../references/notes/chapter-09.md#note-40">40</a></sup>
@@ -157,9 +155,9 @@ The preceding declarations establish three non-substitutable ontological constru
 | Feeling       | Subjective phenomenological awareness      | Conscious metaperceptual awareness of a semiotically available affective experience.                                          | Conscious availability  |
 | Emotion       | Cognitive‑semiotic interpretive construct  | Goal‑governed, context‑sensitive interpretive act by which an agent assigns meaning and significance to feeling.              | Emotional meaning       |
 
-—------------------------------------------------------------------------------------------------------------------------------------------------------  
-**Table 9-2. Tripartite Ontology of Affect, Feeling, and Emotion**
+<p align="center">**Table 9-1. Consolidated Weighted Score Matrix (WSM) Showing the Architectural Viability of Surviving Emotion Theories**</p>
 
+—------------------------------------------------------------------------------------------------------------------------------------------------------  
 The tripartite ontology resolves the longstanding conflation of physiology, consciousness, and interpretation by assigning each construct a unique ontological identity and explanatory role.<sup><a href="../references/notes/chapter-09.md#note-136">136</a></sup>
 
 I now specify how these constructs interact within the Constructivist Semiotic Model of Emotions (CSME). The layered architecture preserves the physiological foundation of affect, the phenomenological awareness of feeling, and the cognitive-semiotic construction of emotion while assigning each construct a distinct explanatory role within a single computational sequence.<sup><a href="../references/notes/chapter-09.md#note-137">137</a></sup>
@@ -175,9 +173,9 @@ I now specify how these constructs interact within the Constructivist Semiotic M
 | Commitment             | Normative              | Authorize one interpretation                 | “This is fear.”                          |
 | Emotion                | Cognitive‑Semiotic     | Stabilized emotional meaning                 | Fear, relief, gratitude                  |
 
-—------------------------------------------------------------------------------------------------------------------------------------------------------  
-**Table 9-3. Layered Architecture of Emotional Construction**
+<p align="center">**Table 9-2. Tripartite Ontology of Affect, Feeling, and Emotion**</p>
 
+—------------------------------------------------------------------------------------------------------------------------------------------------------  
 The layered architecture preserves the architectural differentiation introduced by the Component Process Model while extending it through explicit ontological separation. It also preserves the constructivist insight that emotional meaning emerges through interpretation while mitigating the longstanding conflation of objective physiology, subjective awareness, and emotional meaning.<sup><a href="../references/notes/chapter-09.md#note-138">138</a></sup>
 
 The familiar experience of touching a hot stove illustrates why that distinction matters.<sup><a href="../references/notes/chapter-09.md#note-139">139</a></sup>
@@ -193,9 +191,9 @@ The familiar experience of touching a hot stove illustrates why that distinction
 | Commitment             | Endorse one interpretation          | “This is dangerous.”                                                                  |
 | Emotion                | Cognitive‑semiotic construct        | Fear, anger, embarrassment, relief                                                    |
 
-—------------------------------------------------------------------------------------------------------------------------------------------------------  
-**Table 9-4. From Physical Pain to Psychological Emotion**
+<p align="center">**Table 9-3. Layered Architecture of Emotional Construction**</p>
 
+—------------------------------------------------------------------------------------------------------------------------------------------------------  
 Suppose I fall and break my hand. The fracture produces tissue damage, physiological affect, and interoceptive signaling. Feeling makes that bodily condition consciously available through metaperception. At this stage, I consciously perceive my injured hand, but I have not yet constructed emotional meaning. The interpreter first constructs a **somatic state** by recognizing the bodily condition as injury. When I subsequently contemplate the consequences of that injury for my goals, activities, or future well-being, I experience **psychological pain**. Although psychological pain arises from the somatic state, it does not yet constitute emotion. Only after the interpreter assigns meaning and significance to that experience do emotions such as sadness, frustration, fear, or relief emerge.<sup><a href="../references/notes/chapter-09.md#note-140">140</a></sup>
 
 This sequence resolves a longstanding ontological ambiguity. The CSME distinguishes physiological affect, metaperceived feeling, somatic state, psychological pain, and emotion as successive explanatory levels. Somatic states classify the condition of the body. Psychological pain expresses the conscious experience of the body’s affective disturbance. Emotion arises only when the interpreter assigns meaning and significance to that experience relative to goals and context. Although these operations often occur rapidly and appear unified in experience, they perform different explanatory functions and therefore cannot substitute for one another.<sup><a href="../references/notes/chapter-09.md#note-141">141</a></sup>
@@ -215,8 +213,10 @@ The same layered architecture resolves another longstanding philosophical ambigu
 | Commitment        | Endorse one interpretation            | “The forest path may be blocked.”              |
 | Belief            | Stabilized cognitive construct        | “The tree fell.”                               |
 
+<p align="center">**Table 9-4. From Physical Pain to Psychological Emotion**</p>
+
 —------------------------------------------------------------------------------------------------------------------------------------------------------  
-**Table 9-5. From Physical Sound to Auditory Experience**
+<p align="center">**Table 9-5. From Physical Sound to Auditory Experience**</p>
 
 **Table 9.5 resolves this ambiguity by separating the physical event from its conscious perception.** Acoustic pressure waves belong to the physical world. Auditory encoding belongs to the nervous system. Hearing belongs to conscious awareness. The table therefore distinguishes sensation, encoding, and perception as separate explanatory layers rather than treating them as a single phenomenon.<sup><a href="../references/notes/chapter-09.md#note-143">143</a></sup>
 
@@ -255,7 +255,7 @@ This bridge also resolves one of the principal ambiguities that motivated the pr
 | Emotion                 | Cognitive‑Semiotic     | Stabilizes the committed interpretation           | Emotional meaning     |
 
 —------------------------------------------------------------------------------------------------------------------------------------------------------  
-**Table 9-6. The Bridge Between Semiotic Availability and Semantic Achievement**
+<p align="center">**Table 9-6. The Bridge Between Semiotic Availability and Semantic Achievement**</p>
 
 Table 9.6 shows that emotion emerges only after an agent completes the transition from semiotic availability to semantic achievement.<sup><a href="../references/notes/chapter-09.md#note-171">171</a></sup>
 
@@ -335,7 +335,8 @@ Together, these semantic operations explain how emotional meaning emerges from t
 
 <img src="../../assets/figures/chapter-09/figure-01.png" />  
 —---------------------------------------------------------------------------------------------------------------------------------------------------------  
-**Figure 9-1. Emotion Concept UML Class Diagram**<img src="../../assets/figures/chapter-09/figure-02.png" />  
+<img src="../../assets/figures/chapter-09/figure-02.png" />
+<p align="center">**Figure 9-1. Emotion Concept UML Class Diagram**</p>  
 —--------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-2. Emotion Semiotic Sign UML Object Diagram**
 
@@ -409,7 +410,7 @@ Parents with child and dog</td>
 </table>
 
 —--------------------------------------------------------------------------------------------------------------------------------------------------------  
-**Table 9.7. Interpretive Variations of Love under the Constructivist Semiotic Model of Emotions**
+<p align="center">**Table 9.7. Interpretive Variations of Love under the Constructivist Semiotic Model of Emotions**</p>
 
 Table 9.7 shows why CSME treats emotion as interpretive construction rather than simple biological activation. Biochemistry contributes real constraint, but it does not determine the emotion by itself. Context contributes real constraint, but it does not determine the emotion by itself. The agent constructs the emotion sign by binding felt state, context, concept, identifier, and goal into a coherent interpretation. In this sense, Romance, Lust, and Attachment function as distinct interpretations of Love rather than as isolated emotional substances.
 
@@ -534,7 +535,8 @@ The contrast between these outputs demonstrates the core argument in executable 
 
 <img src="../../assets/figures/chapter-09/figure-31.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
-**Figure 9-16. Performance Goal UML Object Diagram**<img src="../../assets/figures/chapter-09/figure-32.png" />  
+<img src="../../assets/figures/chapter-09/figure-32.png" />
+<p align="center">**Figure 9-16. Performance Goal UML Object Diagram**</p>  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-17. Excitement Interpretation UML Object Diagram**
 
@@ -639,7 +641,8 @@ The contrast between these outputs demonstrates the argument in executable form.
 
 <img src="../../assets/figures/chapter-09/figure-51.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
-**Figure 9-33. Reinterpreter UML Class Diagram**<img src="../../assets/figures/chapter-09/figure-52.png" />  
+<img src="../../assets/figures/chapter-09/figure-52.png" />
+<p align="center">**Figure 9-33. Reinterpreter UML Class Diagram**</p>  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-34. Feeling State (Stable) UML Object Diagram**
 
