@@ -2,6 +2,8 @@
 
 ***A Cognitive and Computational Approach for Defining Ideas***
 
+[Notes](../references/notes/chapter-02.md) · [Bibliography](../references/bibliography/chapter-02.md)
+
 *Chapter 1 exposed the first problem: I do not believe we disagree about emotion merely because the evidence is incomplete. We disagree because we do not yet know what kind of thing we are trying to define. In this chapter, I directly address that problem. I ask what an idea is before I ask what emotion is, because no theory of feeling, value, morality, or rights can stand on concepts whose identity conditions remain vague.*
 
 *The danger is not abstract. We invoke Rights, Morality, and Emotions as if these ideas possessed obvious meaning. We argue from them, suffer for them, legislate by them, and organize our lives around them. Yet when pressed to say what these ideas are, we often retreat into examples, intuitions, slogans, or inherited words. The result is not merely confusion. It is the collapse of belief into rhetoric.*
@@ -266,11 +268,11 @@ The chapter also established why definition and analytic truth must remain disti
 
 The computational and diagrammatic work tests the same architecture under stricter conditions. Classical Theory preserves the need for identity conditions, while Prototype Theory explains typicality only after some concept already governs admissibility. Object-oriented grammar, UML, and C# sharpen the distinction: a class declares; an object instantiates; a category collects. The examples of integer, right, and core affect show the same principle across domains. Identity must govern variation, or meaning dissolves into rhetoric, preference, or resemblance. With that architecture in place, the inquiry can now ask whether contemporary theory preserves identity conditions after it rejects naive essence.
 
-> I have now established the structural conditions for defining, instantiating, and evaluating ideas. The inquiry must confront a deeper question. Structure fixes identity at the level of declaration and realization. It distinguishes concept from construct, intension from extension, and constraint from instantiation. But this clarification exposes a fault line in contemporary theory. What secures identity conditions once essentialist metaphysics collapses?¹⁰⁹
+> I have now established the structural conditions for defining, instantiating, and evaluating ideas. The inquiry must confront a deeper question. Structure fixes identity at the level of declaration and realization. It distinguishes concept from construct, intension from extension, and constraint from instantiation. But this clarification exposes a fault line in contemporary theory. What secures identity conditions once essentialist metaphysics collapses?<sup><a href="../references/notes/chapter-02.md#note-109">109</a></sup>
 >
-> In this chapter, I have demonstrated how a concept can function as a declarative constraint structure and how instantiation realizes that structure under determinate values. The architecture preserves identity without appealing to hidden substances, invariant neural signatures, or metaphysical essences. The question now shifts from how identity operates to whether contemporary concept theory still preserves it at all.¹¹⁰
+> In this chapter, I have demonstrated how a concept can function as a declarative constraint structure and how instantiation realizes that structure under determinate values. The architecture preserves identity without appealing to hidden substances, invariant neural signatures, or metaphysical essences. The question now shifts from how identity operates to whether contemporary concept theory still preserves it at all.<sup><a href="../references/notes/chapter-02.md#note-110">110</a></sup>
 >
-> In rejecting naive essentialism, much of the field has not merely abandoned fixed essences. It has abandoned identity conditions themselves. The next chapter examines this displacement. It asks whether identity must disappear once essence disappears, or whether a third architecture remains possible: constraint without universality, admissibility without substance, identity without essence.¹¹¹
+> In rejecting naive essentialism, much of the field has not merely abandoned fixed essences. It has abandoned identity conditions themselves. The next chapter examines this displacement. It asks whether identity must disappear once essence disappears, or whether a third architecture remains possible: constraint without universality, admissibility without substance, identity without essence.<sup><a href="../references/notes/chapter-02.md#note-111">111</a></sup>
 >
 > The inquiry therefore turns to the status of identity conditions in contemporary concept theory.
 >
