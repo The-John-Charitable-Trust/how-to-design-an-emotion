@@ -22,12 +22,16 @@ I use terms such as “application server,” “stored procedures,” and “qu
 
 Because I prioritize architectural coherence over mechanistic reduction, this model demands a clear division of labor. If emotion can go wrong, change under correction, and depend on concepts, the system must distinguish between processes that simulate or regulate and the act that interprets and commits.11 This appendix demonstrates one internally consistent way to formalize that distinction.
 
+**Figure AJ-1. CCME Architecture Overview**<img src="../../assets/figures/appendix-j/figure-01.png" />
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Figure AJ-1. Constructivist Computational Model of Emotions (CCME) -Conscious Emotional Cognition
 
 I now introduce the architecture in visual and functional terms. Figures AJ-1 and AJ-2 present the CCME as a layered system where I define components by their operational roles rather than anchoring them to specific brain structures. The diagrams distinguish four major domains: stimulus activation, contextual framing, the Biological Intelligence Application Server, and agency. They also mark the meaning boundary between processes that prepare interpretation and the act through which the agent commits.12
 
 Within the diagrams, I show the Database Lane as a visually distinct layer, but I do not treat it as an additional architectural domain. The database functions as the persistent memory substrate of the Biological Intelligence Application Server. It stores learned schemas, stored procedures, and conceptual repertoires that the system retrieves during computation. I separate it graphically only to illustrate retrieval and update operations during emotional processing.13
+
+**Figure AJ-2. CCME Database Lane Architecture**<img src="../../assets/figures/appendix-j/figure-02.png" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Figure AJ-2. Constructivist Computational Model of Emotions (CCME) -Non-Conscious Emotional Cognition
@@ -78,8 +82,12 @@ The scope of this demonstration is intentionally limited. It traces how a stimul
 
 The C# executables for the projects below are in the downloaded ZIP file under the matching project folders. Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
 
+**Project 1 — Architecture Diagram**<img src="../../assets/figures/appendix-j/figure-03.png" />
+
 -----------------------------------------------------------------------------------------------------------------------------
 Figure AJ-3. UML Class Diagram for PreparationTrace
+
+**Project 1 — Component Detail**<img src="../../assets/figures/appendix-j/figure-04.png" />
 
 ------------------------------------------------------------------------------------------------------------------------------
 Figure AJ-4. UML Object Diagram for PreparationTrace
@@ -92,12 +100,20 @@ The additional README test case, dotnet run -- dog, confirms the same point with
 
 The run command is shown in the input image.
 
+**Project 1 — Run Command (Input)**<img src="../../assets/figures/appendix-j/figure-05.png" />
+
 The corresponding output is shown in the output image.
+
+**Project 1 — Output**<img src="../../assets/figures/appendix-j/figure-06.png" />
 
 At this stage, the system has fully prepared the field of possible interpretations, yet no emotional meaning exists. The next step introduces the operation that produces emotion: commitment to a concept under a governing goal.
 
+**Project 1 — Execution Result**<img src="../../assets/figures/appendix-j/figure-07.png" />
+
 ----------------------------------------------------------------------------------------------------------------------------
 Figure AJ-5: UML Object Diagram for Fear Instance
+
+**Project 1 — Final Output**<img src="../../assets/figures/appendix-j/figure-08.png" />
 
 ----------------------------------------------------------------------------------------------------------------------------
 Figure AJ-6: UML Object Diagram for Interest Instance
@@ -112,7 +128,11 @@ This project operationalizes the central claim of the model: computation does no
 
 The run command is shown in the following image.
 
+**Project 2 — Run Command (Input)**<img src="../../assets/figures/appendix-j/figure-09.png" />
+
 The corresponding output is shown in the following image.
+
+**Project 2 — Output**<img src="../../assets/figures/appendix-j/figure-10.png" />
 
 This execution completes the architecture. The system now produces an emotion, not because it simulates or predicts more accurately, but because the agent commits to a concept under constraint. If the goal changes, the meaning changes, even if all prior computational steps remain the same. The contrast between snake safety and snake curiosity demonstrates that emotional meaning remains goal-relative and capable of correction, while conceptual identity rather than computation governs the result.
 
@@ -122,17 +142,23 @@ Having shown the completed interpretive output, I now move inside the executable
 
 //Interpreter Initialization
 
+**Code — Interpreter Initialization**<img src="../../assets/figures/appendix-j/figure-11.png" />
+
 This block initializes the execution environment and defines the interpreter’s governing inputs. The interpreter operates as a goal-governed agent that receives a stimulus and determines how much of the computational trace to expose through the verbose flag.
 
 Within CCME, the interpreter corresponds to the CSS constituent: Interpreter (Goal). The interpreter does not passively receive meaning from computation. It governs evaluation by maintaining the agent’s current goal as a constraint on interpretation. The stimulus therefore enters the system already situated within an evaluative frame rather than in a neutral computational vacuum.
 
 //CSS Constituent: Interpreter (Goal)
 
+**Code — CSS Constituent: Interpreter (Goal)**<img src="../../assets/figures/appendix-j/figure-12.png" />
+
 This block establishes the governing goal that constrains evaluation. The interpreter explicitly declares the goal before any simulation or prediction occurs.
 
 Within CCME, the goal functions as an interpretive constraint, not as an outcome of computation. Computational processes can narrow possibilities, but they cannot determine meaning independently of the agent’s purposes. By fixing the goal at the beginning of execution, the program demonstrates that evaluation does not occur in a goal vacuum.
 
 //Computational Stage: Simulation
+
+**Code — Computational Stage: Simulation**<img src="../../assets/figures/appendix-j/figure-13.png" />
 
 This block models the first computational stage of the architecture: simulation of the external situation.
 
@@ -142,6 +168,8 @@ Simulation does not assign meaning. It produces the environmental model that lat
 
 //Computational Stage: Predictive Processing
 
+**Code — Computational Stage: Predictive Processing**<img src="../../assets/figures/appendix-j/figure-14.png" />
+
 This block represents the predictive processing layer.
 
 The predictive system evaluates the simulated situation and generates expectations about possible outcomes. In this scenario, the model predicts danger and prepares a withdrawal response.
@@ -149,6 +177,8 @@ The predictive system evaluates the simulated situation and generates expectatio
 Prediction narrows the space of possible interpretations, but it does not yet commit to an emotion concept. The architecture therefore maintains a strict distinction between prediction and interpretation.
 
 //Computational Stage: Body Budget Regulation
+
+**Code — Computational Stage: Body Budget Regulation**<img src="../../assets/figures/appendix-j/figure-15.png" />
 
 This block models allostatic regulation, often described in the model as body-budget management.
 
@@ -158,11 +188,15 @@ The body budget generates affective readiness, not emotional meaning. It produce
 
 //CSS Constituent: Referent (Context)
 
+**Code — CSS Constituent: Referent (Context)**<img src="../../assets/figures/appendix-j/figure-16.png" />
+
 This block constructs the referent, which binds together the simulated situation and the metaperceived bodily state.
 
 The referent corresponds to the CSS constituent Referent (Context). It integrates environmental representation with interoceptive awareness while remaining pre-interpretive. At this stage, the system has formed a structured situation for the interpreter, but the agent has not yet assigned an emotional category.
 
 //Category Retrieval (Stored Procedures)
+
+**Code — Category Retrieval (Stored Procedures)**<img src="../../assets/figures/appendix-j/figure-17.png" />
 
 This block represents the retrieval of conceptual categories from memory.
 
@@ -172,6 +206,8 @@ Categories therefore supply candidate interpretations without determining which 
 
 //CSS Constituent: Concept
 
+**Code — CSS Constituent: Concept**<img src="../../assets/figures/appendix-j/figure-18.png" />
+
 This block selects the emotion concept that best satisfies the structural constraints of the referent under the governing goal.
 
 Emotion concepts function as universal-bearing types that define the identity conditions of possible emotional constructs. The concept of fear specifies what must be true for an emotional episode to count as fear.
@@ -179,6 +215,8 @@ Emotion concepts function as universal-bearing types that define the identity co
 The program therefore identifies the concept that fits the predicted threat conditions.
 
 //CSS Constituent: Interpretation (Default Meaning)
+
+**Code — CSS Constituent: Interpretation (Default Meaning)**<img src="../../assets/figures/appendix-j/figure-19.png" />
 
 This block marks the transition from computation to interpretation.
 
@@ -188,6 +226,8 @@ Within CCME, this moment constitutes the origin of emotional meaning.
 
 //CSS Constituent: Identifier
 
+**Code — CSS Constituent: Identifier**<img src="../../assets/figures/appendix-j/figure-20.png" />
+
 This block assigns an identifier to the emotional instance.
 
 The identifier stabilizes the interpretation by binding the selected concept to the specific referent. In this example, the system labels the emotional instance as Fear(snake).
@@ -195,6 +235,8 @@ The identifier stabilizes the interpretation by binding the selected concept to 
 The identifier therefore represents the moment of commitment within the architecture.
 
 //CSS Constituent: Construct
+
+**Code — CSS Constituent: Construct**<img src="../../assets/figures/appendix-j/figure-21.png" />
 
 This block produces the final emotional construct.
 

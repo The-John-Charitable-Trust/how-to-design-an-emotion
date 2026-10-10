@@ -22,19 +22,19 @@ A construct emerges when the perceptual configuration satisfies those governing 
 
 The referent-in-context is the apple under particular environmental conditions. The interpreter evaluates the classification in light of perceptual evidence and contextual understanding.<sup>12</sup> When identifier, concept, construct, referent, interpreter, goal, and context align, structured meaning arises.
 
-If any constituent collapses, interpretation fails. Without the identifier “red,” symbolic designation cannot occur. Without an appropriate conceptual framework, stable linguistic and intensional classification cannot proceed. Perceptual discrimination may persist, but it does not yield governed, symbolically articulated meaning.<sup>10</sup>
+If any constituent collapses, interpretation fails. Without the identifier “red,” symbolic designation cannot occur. Without an appropriate conceptual framework, stable linguistic and intensional classification cannot proceed. Perceptual discrimination may persist, but it does not yield governed, symbolically articulated meaning.<sup>13</sup>
 
 Distorted lighting may prevent the construct from satisfying the governing conditions. The perceptual stimulus remains available, but intensional understanding disappears.
 
 Sound: If a Tree Falls in a Forest
 
-We turn next to sound. The familiar philosophical question asks whether a falling tree produces sound in the absence of a listener. Philosophers have long debated this problem in connection with distinctions between physical vibration and auditory experience.<sup>13</sup>
+We turn next to sound. The familiar philosophical question asks whether a falling tree produces sound in the absence of a listener. Philosophers have long debated this problem in connection with distinctions between physical vibration and auditory experience.<sup>14</sup>
 
 Within the CSS framework, the disagreement can be understood as arising from different ways of defining the concept SOUND.
 
 The identifier “sound” frames the question. The construct consists of the physical event of the tree falling and producing pressure waves. The concept SOUND specifies the conditions under which the event qualifies as sound. The interpreter adopts a conceptual definition that governs classification. The goal is to determine whether the concept applies to the event, and the context includes the philosophical framework in which the question is posed.
 
-Two interpretations follow from different conceptual definitions. If we define sound as mechanical vibration propagating through a medium, the event produces sound regardless of listeners. If we define sound as auditory experience, sound occurs only when a perceiver hears it.<sup>14</sup>
+Two interpretations follow from different conceptual definitions. If we define sound as mechanical vibration propagating through a medium, the event produces sound regardless of listeners. If we define sound as auditory experience, sound occurs only when a perceiver hears it.<sup>15</sup>
 
 Once these constituents coordinate, interpretation emerges. The interpreter may conclude that the event produces sound or that it does not, depending on the governing concept.
 
@@ -42,17 +42,17 @@ If any constituent fails, interpretation collapses. Without the identifier “so
 
 Music: Hearing Gamelan Without Understanding
 
-The final example concerns music. Imagine hearing a gamelan ensemble for the first time. The listener perceives tones, rhythms, and sonic textures. Yet without enculturation, the acquisition of the symbolic identifiers, conceptual grammar, and contextual norms that govern the system, the listener cannot interpret what the performance means.<sup>15</sup> Enculturation therefore functions as the developmental condition by which the interpreter acquires the semiotic resources required for intensional interpretation.
+The final example concerns music. Imagine hearing a gamelan ensemble for the first time. The listener perceives tones, rhythms, and sonic textures. Yet without enculturation, the acquisition of the symbolic identifiers, conceptual grammar, and contextual norms that govern the system, the listener cannot interpret what the performance means.<sup>16</sup> Enculturation therefore functions as the developmental condition by which the interpreter acquires the semiotic resources required for intensional interpretation.
 
 Perception occurs, but interpretation fails.
 
-In the CSS architecture, the construct consists of the sounding performance itself. The concept involves the musical grammar that governs gamelan composition, including tuning structures and interlocking rhythmic patterns.<sup>16</sup> The identifier consists of musical symbols that enable classification of motifs, rhythms, and forms.
+In the CSS architecture, the construct consists of the sounding performance itself. The concept involves the musical grammar that governs gamelan composition, including tuning structures and interlocking rhythmic patterns.<sup>17</sup> The identifier consists of musical symbols that enable classification of motifs, rhythms, and forms.
 
 The interpreter attempts to parse the auditory input using available conceptual tools. The goal is to understand the musical structure or expressive meaning of the piece. The context includes cultural and musical conventions surrounding gamelan performance. The referent is the musical work instantiated in the performance.
 
 Interpretation emerges only when the symbolic and conceptual resources of the musical system are available to the listener. If any constituent fails, interpretation collapses. Without musical identifiers such as motifs or notation, classification cannot occur. Without the conceptual grammar of gamelan music, the performance cannot be structured. The listener continues to perceive sound, but intensional musical meaning disappears.
 
-Across color, sound, and music, the pattern remains constant. Perception provides access to extensional constructs, but meaning requires the coordination of symbols and signs. Interpretation arises only when the full architecture of the Constructivist Semiotic Sign becomes active.<sup>17</sup>
+Across color, sound, and music, the pattern remains constant. Perception provides access to extensional constructs, but meaning requires the coordination of symbols and signs. Interpretation arises only when the full architecture of the Constructivist Semiotic Sign becomes active.<sup>18</sup>
 
 Whenever an essential constituent is missing, intensional understanding collapses. Sensory input may persist, but the ability to classify, interpret, or evaluate the phenomenon disappears.
 
