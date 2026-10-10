@@ -2,6 +2,28 @@
 
 *Why We Need a New Architecture for Identity*
 
+*In Chapter 2, I established the principles that govern definition. I showed that an idea cannot survive as a slogan, a word, or a familiar example. It must have structure. It must specify the conditions under which something counts as an instance.*
+
+*Chapter 3 begins with a different question. If contemporary theory rejects fixed essences, what now secures the identity conditions of concepts?*
+
+*Lisa Feldman Barrett is right to reject naive essentialism. Emotions do not possess fixed biological essences, universal neural fingerprints, or identical phenomenological cores. Anger does not always present the same physiological organization, phenomenological quality, or behavioral expression. Fear does not correspond to a single invariant biological pattern. The classical view expected identity to arise from biological regularity, but the empirical record reveals substantial variation instead.*
+
+*Rejecting naive essentialism does not eliminate the need for identity conditions. It relocates the problem. If concepts no longer derive their identity from essences, a theory must explain what now constrains their admissible instances. For example, we can see how some constructivist theories, particularly Barrett's Theory of Constructed Emotion, relocate conceptual stability into prediction, categorization, and use rather than reconstructing identity conditions themselves. Meaning becomes performance. Correctness becomes whatever works. Disagreement becomes difference. Persistence becomes recurrence.*
+
+*That is not construction. It is drift.*
+
+*I do not intend to restore essence. My goal is to restore conceptual constraint.*
+
+*In this chapter, I  argue for identity conditions without depending on naive essentialism. A concept does not derive its identity from a universal essence in nature. It needs admissibility conditions within a conceptual system. Anger need not possess invariant features, but once a system defines anger, its instances must satisfy the conditions that distinguish anger from grief, fear, or indignation. That is not a claim about a hidden essence. It is an analytic truth within the system.*
+
+*This distinction changes everything. It allows concepts to vary without becoming arbitrary. It allows agents to construct meaning without abandoning constraint. It allows emotion theory to preserve Barrett's empirical insights while refusing the conclusion that identity conditions must collapse into prediction, categorization, or use.*
+
+*The identity condition is dead only if identity condition means essence.*
+
+*Long live the identity condition as constraint.*
+
+*I have restored identity conditions as conceptual constraints. One problem nevertheless remains. Theorists may still detach those conditions from the concepts they govern. Chapter 4 examines this misappropriation and shows how theorists sever identity conditions from the concepts whose admissible instances they are meant to constrain.*
+
 [Notes](../references/notes/chapter-03.md) · [Bibliography](../references/bibliography/chapter-03.md)
 
 In Chapter 2, I established the principles that govern definition. I showed that an idea cannot survive as a slogan, a word, or a familiar example. It must have structure. It must specify the conditions under which something counts as an instance.

@@ -1,5 +1,23 @@
 # Chapter 2: What Is an Idea, Anyway?
 
+*Why Our Most Cherished Beliefs Rest on Shaky Ground*
+
+*In Chapter 1, I exposed the foundational failure: we do not disagree about emotion merely because empirical evidence remains incomplete. We disagree because thinkers have not yet established what kind of entity they seek to define. In this chapter, I confront that problem directly. I examine what an idea is before I define what emotion is, because no theory of feeling, value, or agency can endure on concepts whose identity conditions remain vague.*
+
+*This failure carries concrete danger. We invoke rights, morality, and emotion as if these abstractions carried self-evident authority. We argue from them, legislate by them, and organize our lives around them. Yet when challenged to explain what these concepts are, thinkers routinely retreat into intuitions, slogans, or inherited vocabulary. The result is not merely intellectual confusion; it is the degradation of conviction into rhetoric.*
+
+*I offer a way out of this conceptual collapse. I define an idea as a unit of meaning composed of truth-apt propositions. I then build a framework that distinguishes the concept from the construct, and the construct from the category. A concept supplies identity conditions as binding constraints; a construct realizes those constraints under determinate values; and a category gathers valid realizations without displacing the identity of the concept itself.*
+
+*I execute this method across three procedural tiers. First, I use linguistic definition and analytic truth to establish what must follow once an agent imposes determinate structure onto meaning. Second, I develop a layered ontology that separates concept, construct, and category. Third, I employ object-oriented grammar, UML modeling, and C# code to demonstrate that this conceptual structure survives executable execution. I do not merely argue for clarity; I computationally model clarity.*
+
+*When an agent deploys Prototype Theory, they account for recognition, resemblance, and typicality, but recognition alone cannot establish identity. An observer may perceive a robin as more birdlike than a penguin, yet superficial resemblance cannot explain what makes either entity a bird. When a rational agent evaluates claims regarding truth, universality, and legitimacy, they require more than typical examples; they demand strict identity conditions. Classical Theory supplies the exact discipline a mind requires.*
+
+*I then test this architecture through three decisive cases: integer, right, and core affect. Through the integer example, I demonstrate how a type constrains possible values. Through the rights example, I prove why authority cannot collapse into preference, assertion, or moral appeal. Through the core affect example, I show how an agent evaluates valence, arousal, and motivational intensity as candidate identity conditions for affective states before emotional construction begins. In each case, I enforce the same governing principle: identity must constrain variation, or meaning dissolves.*
+
+*I turn to computation because formal modeling demands absolute explicitness. When an engineer constructs a program, a class cannot pretend to be an object; a declaration cannot silently become an instance; and a construct cannot redefine the concept that makes it possible. By executing code, I expose the ambiguity that prose routinely hides.*
+
+*By the end of this chapter, I have built a disciplined architecture for defining ideas as structured systems. Yet this victory creates the next challenge. If identity conditions matter, what secures them after naïve essentialism collapses? In Chapter 3, I confront that question, asking whether identity must die with essence, or whether an agent can establish identity conditions without relying on naïve essentialism.*
+
 ## Why Our Most Cherished Beliefs Rest on Shaky Ground
 
 [Notes](../references/notes/chapter-02.md) · [Bibliography](../references/bibliography/chapter-02.md)

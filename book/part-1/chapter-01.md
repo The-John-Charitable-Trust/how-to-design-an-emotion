@@ -2,6 +2,30 @@
 
 *Why Centuries of Science and Philosophy Still Can’t Define How We Feel*
 
+*We experience emotions every day.*
+
+*Yet we still do not agree on what they are.*
+
+*This failure stems not from a lack of evidence, but from a lack of architecture. We possess brain scans, behavioral models, and centuries of philosophy. We do not lack data; we lack the structural foundation to synthesize it.*
+
+*This chapter asks a prior question: before defining emotion, we must establish what every definition of emotion must preserve. A definition that sacrifices the physical body and conscious feeling cannot explain emotion. A definition that sacrifices cognitive evaluation and constructed meaning cannot explain emotion. A definition that sacrifices self-governing agency cannot explain emotion.*
+
+*Pleasure seduces the theorist by masquerading as a primary. It arrives feeling immediate, self-evident, and pre-marked as good. Yet pleasure does not solve the problem of valuation; it exposes it.*
+
+*According to the Distinctive Feeling View, pleasure constitutes a raw feeling with a distinctive hedonic tone. Stepping from winter cold into warmth causes skin to register heat, the body to adjust, and consciousness to experience sensation. This view captures the immediacy of affective life, yet it assumes raw feeling can explain its own evaluative significance.*
+
+*According to the Attitudinal View, pleasure depends upon a favorable evaluative stance. Persevering through a grueling task yields an outcome an agent approves, creating pleasure in achievement. This view captures judgment, purpose, and context, yet it assumes cognitive evaluation can manufacture affective experience out of nothing.*
+
+*Both views reveal a partial truth, yet both fail when they mistake a constituent part for the integrated whole. From their collision emerge three essential principles of epistemological hygiene.*
+
+*First, do not confuse a component with the whole; subjective phenomenology and cognitive appraisal are mere constituents of valuation, not its complete architecture. Second, do not confuse evidence with essence; a conscious feeling or cognitive endorsement indicates value, but neither constitutes its definition. Third, do not confuse naming with knowing; categorizing an affective state supplies a label, but it does not explain how the mind constructed its meaning.*
+
+*These principles govern the remainder of this book. They explain why a facial expression, a neural signal, or a linguistic label does not constitute an emotion, and why culture alone cannot bear the burden of ontology.*
+
+*Emotion requires more than physical affect, more than conscious feeling, and more than cognitive judgment. It requires a self-governing agent capable of experiencing state transitions, interpreting significance, and governing meaning.*
+
+*If we intend to define emotion, we must stop accepting superficial slogans and begin constructing an objective architecture. That architecture rests upon conceptual foundation. The following chapter therefore begins where every serious theory of emotion must begin, with the fragile structure of belief itself.*
+
 [Notes](../references/notes/chapter-01.md) · [Bibliography](../references/bibliography/chapter-01.md)
 
 I OPEN THIS CHAPTER with a refusal: I will not add one more definition of emotion to a field cluttered with unexamined terms. Instead, I ask a prior and far more demanding question: what must any definition of emotion preserve if it is to possess ontological validity? I do not offer a premature label here. I establish the non-negotiable conditions that any adequate theory of emotion must satisfy.

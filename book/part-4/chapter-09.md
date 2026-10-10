@@ -2,9 +2,9 @@
 
 # Chapter 9 — Emotions Are Not Triggered They Are Made
 
-*A Constructivist Semiotic Model of Emotions* 
+*How We Construct Emotional Meaning*
 
-*In Chapter 8, I established that meaning does not exist intrinsically; an agent achieves meaning by interpreting signs under constraint. Saussure showed that signs gain stability through relations, and Peirce showed that interpretation remains indispensable, yet neither framework secured the full architecture of the Constructivist Semiotic Sign. In this chapter, I instantiate that architecture as the Constructivist Semiotic Model of Emotions (CSME). If an agent realizes emotional meaning through semiotic achievement rather than discovering an intrinsic property of bodily states, then I cannot identify emotion with physiological affect or bodily activity. I must therefore explain what an agent experiences when feeling, how feeling becomes semiotically available for interpretation, and how an agent constructs emotional meaning through an active interpretive act.*
+*In Chapter 8, I established that meaning is not intrinsic but is achieved through an agent interpreting signs under constraint. Saussure showed that signs gain stability through relations, and Peirce showed that interpretation is indispensable, but neither framework secured the full architecture of the Constructivist Semiotic Sign. In this chapter, I instantiate that architecture as the Constructivist Semiotic Model of Emotions (CSME). If emotional meaning is a semiotic achievement rather than an intrinsic property of bodily states, then emotion cannot be identified with physiological affect or bodily activity. I must therefore explain what it means for an agent to feel, how feeling becomes semiotically available for interpretation, and how an agent constructs emotional meaning as an interpretive act.*
 
 *This chapter also marks a decisive stage in the metamorphosis of the ontology. In Part III, The Architecture of Meaning, I provisionally defined phenomenological experience as the conscious affective experience that enters the architecture of meaning through semiotic availability. I now determine that feeling replaces phenomenological experience as the proper ontological construct: the conscious metaperceptual awareness of a semiotically available affective experience with a distinctive affective character. Likewise, in Part III, I provisionally defined evaluative orientation as the cognitive disposition through which an agent subjects phenomenological experience to semiotic interpretation. I now determine that emotion replaces evaluative orientation as the proper ontological construct: the semiotic interpretive act by which an agent assigns meaning and significance to feeling. Finally, I introduce physiological affect as the bodily and regulatory substrate that causally prepares feeling without itself becoming feeling or emotion. The ontology now distinguishes three non-substitutable levels. Physiological affect is the causal bodily substrate. Feeling is the conscious metaperceptual awareness of a semiotically available affective experience. Emotion is the semiotic interpretive act by which an agent constructs emotional meaning.*
 
@@ -21,6 +21,20 @@
 *The fourth deliverable is Emotional Constructivism, the broader philosophical position that emotions are cognitive-semiotic constructions through which agents construct emotional meaning rather than discover it as an intrinsic property of bodily states.*
 
 *I then demonstrate the CSME architecture computationally through five C# projects:*
+
+*1.	Project 1 tests identity conditions by showing that a concept governs admissible instances.*
+
+*2.	Project 2 tests the bridge between semiotic availability and semantic achievement by showing that feeling can become available for interpretation independent of meaning.*
+
+*3.	Project 3 tests goal-governed interpretation by showing that the same feeling-in-context can yield different emotions under different goals.*
+
+*4.	Project 4 tests phase separation by preserving the ontological distinction between situation, physiological affect, feeling, and emotional interpretation.*
+
+*5.	Project 5 tests revisability by demonstrating that an agent can revise emotional meaning while preserving the underlying feeling.*
+
+*Together, these projects show why computation matters: executable form forces the architecture to preserve distinctions that prose can too easily blur.*
+
+*By the end of this chapter, I have delivered four complementary contributions: the Constructivist Semiotic Model of Emotions (CSME), the Constructivist Computational Model of Emotions (CCME), the Constructivist Interpretation Theory of Emotion (CITE), and the broader philosophical position of Emotional Constructivism. Together, these establish emotion as a cognitive-semiotic achievement that an agent constructs through interpretation rather than discovers as an intrinsic property of bodily states. In the next chapter, I move upstream from emotional meaning to the symbolic conditions that make signs, concepts, and understanding possible.*
 
 1.  *Project 1 tests identity conditions by showing that a concept governs admissible instances.*
 

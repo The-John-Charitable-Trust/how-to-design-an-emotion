@@ -2,6 +2,32 @@
 
 *The Theory of Constrained Identity*
 
+*In chapter 5, I ended the false dichotomy between structure and variation by assigning classical and prototype theories different explanatory responsibilities. Classical theory specifies identity conditions. Prototype theory explains categorization over admissible instances.*
+
+*Rather than treating prototype theory as an account of conceptual identity, I recast it as a theory of categorization operating downstream from conceptual identity. Chapter 6 builds the architecture that makes this division of explanatory labor possible.*
+
+*A concept cannot survive when theorists relocate its identity conditions downstream into similarity, use, prediction, habit, culture, or performance. Those phenomena matter. They explain how rational agents and computational systems instantiate concepts, categorize admissible instances, evaluate performance, learn from experience, and optimize execution. Each presupposes the concept’s intensional structure rather than accounting for it.*
+
+*This chapter gives the concept its computational architecture.*
+
+*I propose the Goal-Governed Model of Conceptual Identity. The model separates four functions that theory too often conflates: conceptual identity, instantiation, categorization, and goal-directed evaluation.*
+
+*Once I distinguish these functions, I no longer have to choose between structure and variability because each occupies a different level of the architecture.*
+
+*The constraint layer specifies identity conditions and admissibility. The instantiation layer realizes those conditions under determinate values. The categorization layer organizes admissible instances according to similarity, typicality, contextual relevance, and graded membership without redefining conceptual identity. The goal layer regulates those categorized instances relative to governing purposes.*
+
+*This is the key: identity conditions do not perform every explanatory task. They do not explain similarity, typicality, usefulness, priority, error correction, learning, or optimization by themselves. They define the admissible space within which those downstream processes operate.*
+
+*Similarity belongs downstream. Categorization belongs downstream. Learning belongs downstream. Optimization belongs downstream. Prototype effects belong downstream. Similarity, categorization, prototype effects, learning, and optimization all contribute to computational execution, by which I mean the operational application of conceptual identity to admissible instances. None of these downstream processes, however, generates the identity conditions they presuppose.*
+
+*The model therefore rests on five computational invariants. Identity conditions remain stable unless the constraint structure changes. Every admissible instance satisfies those identity conditions before categorization begins. Categorization organizes admissible instances without redefining conceptual identity. Goals regulate evaluation rather than admissibility. Learning and optimization refine computational execution without altering the identity conditions they presuppose. Consequently, no downstream success condition alone constitutes a concept.*
+
+*The result is a computational architecture that preserves stable identity conditions while permitting flexible execution. Those identity conditions authorize meaningful variation, and downstream computational processes realize rather than replace conceptual identity.*
+
+*This chapter completes the architecture of conceptual identity. But architecture alone does not yet explain meaning. Identity conditions determine what may count as an admissible instance. They do not yet explain how concepts come to stand for anything beyond themselves.*
+
+*That is the task of Chapter 7, The Constructivist Semiotics: The Architecture of Meaning. There I explain how constraint structures acquire semantic significance, how constructs come to stand for their referents, and how interpretation binds conceptual identity to meaning.*
+
 [Notes](../references/notes/chapter-06.md) · [Bibliography](../references/bibliography/chapter-06.md)
 
 In chapter 5, I ended the false dichotomy between structure and variation by assigning classical and prototype theories different explanatory responsibilities. Classical theory specifies identity conditions. Prototype theory explains categorization over admissible instances.

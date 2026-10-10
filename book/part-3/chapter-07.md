@@ -2,6 +2,40 @@
 
 *The Architecture of Meaning*
 
+*In Chapter 6, I established the architecture of conceptual identity: concepts supply identity conditions, constructs instantiate them, and rational agents govern their interpretation and application in pursuit of goals. That architecture explains how identity remains stable while execution varies. It does not yet explain how a rational agent transforms conceptual structure into meaning. They may recognize a symbol without understanding it, detect a pattern without knowing why it matters, or discover a correlation without determining what it means.*
+
+*That is why, in this chapter, I turn to semiotics.*
+
+*I argue that meaning is not an intrinsic property of signs, objects, feelings, social habits, or statistical associations. It is a dependent achievement of a rational agent who constructs meaning by coordinating an identifier, a concept, an instantiated construct, and a contextual referent in pursuit of a goal. The agent must judge whether the interpretation succeeds or fails. Without that act of accountability, we may have detection, response, classification, or regulation, but we do not yet have meaning.*
+
+*To establish this account, I specify the architectural principles that govern the Constructivist Semiotic Sign (CSS) together with its five necessary and irreducible constituents:*
+
+*1.	Identifier: the symbolic form that functions as the sign vehicle.*
+
+*2.	Concept: the identity conditions that govern what kind of thing an agent can instantiate.*
+
+*3.	Construct: the concrete instantiation of a Concept that satisfies its identity conditions.*
+
+*4.	Referent: the contextual object, domain, or situation toward which the interpreter directs the sign.*
+
+*5.	Interpreter: the rational agent who evaluates the sign relative to a goal.*
+
+*These constituents provide the architectural framework from which I derive the chapter's cognitive and computational principles. Meaning is not an automatic consequence of detection, classification, or response. A thermometer can track temperature. A neural network can classify a pattern. A person can react automatically to a symbol. None of these activities explains what the sign means, why it matters, or whether an agent's interpretation succeeds or fails.*
+
+*The Foundational Cognitive-Semiotic Principle of the CSS states that meaning is a dependent achievement of rational interpretation by an agent under constraint. From it follow seven commitments:*
+
+*1.	Meaning does not live inside symbols.*
+
+*2.	Meaning does not license arbitrariness.*
+
+*3.	Interpretation remains necessary.*
+
+*4.	Meaning answers to standards of correctness.*
+
+*5.	Meaning can succeed or fail.*
+
+*6.	Meaning requires perspective.*
+
 [Notes](../references/notes/chapter-07.md) · [Bibliography](../references/bibliography/chapter-07.md)
 
 
