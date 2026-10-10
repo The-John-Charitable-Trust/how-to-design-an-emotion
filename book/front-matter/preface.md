@@ -1,100 +1,41 @@
-# Preface — Notes
+# Preface
 
-[Back to Preface](../../front-matter/preface.md) · [Bibliography](../bibliography/preface.md)
+[Notes](../references/notes/preface.md) · [Bibliography](../references/bibliography/preface.md)
 
-<a id="note-1"></a>
+*Why I Had to Rethink Emotion*
 
-1. William James, "What Is an Emotion?" Mind 9, no. 34 (1884): 188-205, https://doi.org/10.1093/mind/os-IX.34.188; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 35-52. Access basis: DOI/public-domain article copies and standard scholarly monograph metadata verified.
+Emotion stands among the most familiar facts of human life.1 We feel before we explain; we name before we define; we build moral theories and public institutions around our affective states. Yet the moment we ask what an emotion is, certainty fractures.2
 
-<a id="note-2"></a>
+This paradox forms my starting point. I do not doubt that human beings feel, nor do I doubt that states like anger, fear, and joy shape human action. The difficulty lies elsewhere. I do not merely seek to observe that people feel; I must establish what kind of thing an emotion is, and what distinguishes it from bodily arousal, instinctive reaction, or cognitive appraisal.3
 
-2. Klaus R. Scherer, "What Are Emotions? And How Can They Be Measured?" Social Science Information 44, no. 4 (2005): 695-729, https://doi.org/10.1177/0539018405058216. Access basis: Publisher page and repository abstract verified.
+We far too often mistake familiarity for understanding.4 We speak as though emotion were self-evident simply because experience feels immediate. Yet immediacy does not equal understanding. We can experience a feeling vividly while failing to identify its nature; we can undergo a reaction intensely while failing to grasp its origin; we can use a word with confidence while failing to establish its identity.5
 
-<a id="note-3"></a>
+This book begins where that naive confidence ends. I ask why a central reality of human life remains so profoundly misunderstood. I ask what theorists lose when they mistake the mere presence of feeling for the definition of emotion.
 
-3. Andrea Scarantino and Ronald de Sousa, "Emotion," in The Stanford Encyclopedia of Philosophy, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/emotion/. Access basis: Open scholarly reference.
+When theorists fail to establish the stable identity of emotion, unexamined assumptions corrupt our vital institutions. They distort the clinic, where practitioners diagnose suffering before securing the meaning of the state they name.6 They distort the courtroom, where questions of intent, culpability, and responsibility shape human destinies. They distort technology, where engineers train machines to classify faces, gestures, and physiological signals while mistaking outward correlates for emotional identity.7
 
-<a id="note-4"></a>
+The cost extends far beyond philosophy. The global emotion recognition market reached an estimated $47.28 billion in 2023 and projects beyond $136 billion by 2030.8 Over this same period, depression rates among adolescents and adults continued to climb despite unprecedented focus on emotional intelligence, trauma, and mental health.9 Gallup reports that more than one in four American adults have received a lifetime diagnosis of depression, while depression-related absenteeism costs U.S. employers an estimated $23 billion annually.10 We measure, monetize, and automate affective life at an enormous scale. Yet without a coherent ontology, we cannot determine whether our systems identify emotions, physiological signals, or social conventions.11
 
-4. Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Malden, MA: Wiley-Blackwell, 2009), secs. 43, 66-71, 243-271. Access basis: Standard scholarly edition metadata verified.
+If we reduce emotion to bodily arousal, we mistake physiological signals for inner states. If we equate emotion with subjective feeling, private experience becomes an unchallengeable authority. If we define emotion as cultural construction, we sever affect from the living body. Each reduction promises clarity; each introduces distortion.12
 
-<a id="note-5"></a>
+A theory that fails to define emotion cannot safely measure it, model it, or employ it to guide human judgment.13 Before we construct clinical, legal, or technological systems around emotion, we must first establish what we mean by the term. Before we allow emotion to explain human action, we must establish the identity of emotion itself.14
 
-5. Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Malden, MA: Wiley-Blackwell, 2009), secs. 43, 66-71, 243-271. Access basis: Standard scholarly edition metadata verified.
+I do not begin by assuming a definition of emotion; I begin by refusing to inherit one.15 Rather than demanding acceptance of a finished doctrine at the outset, I lay open the process of inquiry. My goal is not to defend a preconceived conclusion, but to discover what a satisfactory account of emotion must explain and what distinctions it must preserve.
 
-<a id="note-6"></a>
+That is why I treat emotion as a proof of concept for a primary philosophical problem: the formation of meaning itself. If I can demonstrate how the mind transforms affect into emotional meaning, I illuminate a far broader question: how mind-dependent concepts preserve identity across changing contexts while retaining objective validity. Academics face this exact challenge whenever they define rights, morality, or personhood. None can survive on familiarity alone; each requires principled criteria that establish what it is, what it preserves, and how an agent validly applies it.16
 
-6. Jerome C. Wakefield, "The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values," American Psychologist 47, no. 3 (1992): 373-388, https://doi.org/10.1037/0003-066X.47.3.373. Access basis: DOI/publisher page verified.
+Accordingly, I do not merely ask what emotions are. I ask how meaning forms, how concepts preserve their identity, how interpretation earns validity, and how an agent lives by ideas whose foundations have withstood critical examination.17
 
-<a id="note-7"></a>
+That broader question explains why I refused to approach emotion from within a single disciplinary tradition. My work as an architect, software designer, and systems thinker trained me to view emotion beyond conventional academic boundaries. My sustained engagement with philosophy, affective neuroscience, and computation revealed that these fields frequently address disparate dimensions of a single underlying phenomenon. I did not encounter emotion merely as a feeling, a biological signal, or a cultural label; I encountered it as an architectural problem: how the mind constructs meaning from experience.18
 
-7. Rosalind W. Picard, Affective Computing (Cambridge, MA: MIT Press, 1997), 55-89; Rafael A. Calvo and Sidney D'Mello, "Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications," IEEE Transactions on Affective Computing 1, no. 1 (2010): 18-37, https://doi.org/10.1109/T-AFFC.2010.1. Access basis: DOI/publisher page verified; monograph metadata verified.
+That is the journey I invite the reader to undertake. This is not a survey of competing theories, nor a mere critique of existing views. I reconstruct the concept of emotion from first principles by establishing what any adequate theory must explain before it claims to define its subject.19
 
-<a id="note-8"></a>
+I write for readers who refuse to accept inherited meanings simply because they are familiar. I write for philosophers dissatisfied with concepts that dissolve into ordinary usage; for scientists who recognize that measurement without conceptual clarity cannot explain the mind; and for computational researchers who understand that accurate classification does not equal meaningful interpretation.20 I write equally for artists, ethicists, and thinkers who realize that feeling possesses a structure deeper than sensation and a significance far beyond mood.
 
-8. Grand View Research, "Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2024-2030," accessed August 2, 2026, https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report. Access basis: Open publisher report summary.
+I invite the reader to approach this work first as a deconstruction, then as a systematic reconstruction. I begin by examining inherited theories against the questions they leave unanswered, the assumptions they leave unchallenged, and the distinctions they fail to preserve. Only then do I construct the architecture that an objective account of affective reality demands. This investigation repays disciplined reading, because each chapter establishes the conceptual foundation upon which the next depends.21
 
-<a id="note-9"></a>
+Throughout this process, I ask the reader to suspend premature judgment. As I examine existing theories, I question assumptions, challenge familiar distinctions, and propose alternatives. Some ideas will initially seem counterintuitive; others will appear obvious only after exposing the underlying conceptual confusion. My aim is not to persuade through rhetoric, but to invite rigorous examination. The conclusions hold value only when the reader's critical judgment confirms them.22
 
-9. Debra J. Brody and Jeffery P. Hughes, "Depression Prevalence in Adolescents and Adults: United States, August 2021-August 2023," NCHS Data Brief no. 527 (April 2025): 1-11, https://dx.doi.org/10.15620/cdc/174579. Access basis: Open CDC/NCHS report.
+Ultimately, this book concerns far more than emotion; it concerns intellectual responsibility. Human beings live by ideas long before they understand them. We build institutions upon them, govern societies through them, and encode them into the intelligent systems that direct human decisions. Before we trust any idea, we must understand what it is, how it acquires meaning, and under what conditions its application remains valid. That responsibility applies not to emotion alone, but to every concept by which we choose to live.23
 
-<a id="note-10"></a>
-
-10. Dan Witters, Diana Liu, and Sangeeta Agrawal, "Depression Costs U.S. Workplaces $23 Billion in Absenteeism," Gallup, July 24, 2013, https://news.gallup.com/poll/163619/depression-costs-workplaces-billion-absenteeism.aspx. Access basis: Open research organization report.
-
-<a id="note-11"></a>
-
-11. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, "Emotional Expressions Reconsidered: Challenges to Inferring Emotion From Human Facial Movements," Psychological Science in the Public Interest 20, no. 1 (2019): 1-68, https://doi.org/10.1177/1529100619832930. Access basis: Open access/PubMed Central.
-
-<a id="note-12"></a>
-
-12. Raymond S. Nickerson, "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises," Review of General Psychology 2, no. 2 (1998): 175-220, https://doi.org/10.1037/1089-2680.2.2.175. Access basis: DOI/publisher page verified.
-
-<a id="note-13"></a>
-
-13. Klaus R. Scherer, "What Are Emotions? And How Can They Be Measured?" Social Science Information 44, no. 4 (2005): 695-729, https://doi.org/10.1177/0539018405058216. Access basis: Publisher page and repository abstract verified.
-
-<a id="note-14"></a>
-
-14. Anil Gupta, "Definitions," in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.
-
-<a id="note-15"></a>
-
-15. Plato, Apology, trans. G. M. A. Grube, rev. John M. Cooper, in Plato: Complete Works, ed. John M. Cooper (Indianapolis: Hackett, 1997), 17a-42a. Access basis: Standard primary text edition metadata verified.
-
-<a id="note-16"></a>
-
-16. Anil Gupta, "Definitions," in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.
-
-<a id="note-17"></a>
-
-17. Jaroslav Peregrin, "Inferentialism," in The Stanford Encyclopedia of Philosophy, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/. Access basis: Open scholarly reference.
-
-<a id="note-18"></a>
-
-18. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
-
-<a id="note-19"></a>
-
-19. Andrea Scarantino and Ronald de Sousa, "Emotion," in The Stanford Encyclopedia of Philosophy, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/emotion/. Access basis: Open scholarly reference.
-
-<a id="note-20"></a>
-
-20. David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 24-27; see also Shimon Edelman, "Marr, David," in Encyclopedia of Cognitive Science (2006), https://doi.org/10.1002/0470018860.s00143. Access basis: DOI/publisher page and standard scholarly reference.
-
-<a id="note-21"></a>
-
-21. Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111-138. Access basis: Standard scholarly monograph metadata verified.
-
-<a id="note-22"></a>
-
-22. Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111-138. Access basis: Standard scholarly monograph metadata verified.
-
-<a id="note-23"></a>
-
-23. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
-
-<a id="note-24"></a>
-
-24. Plato, Apology, trans. G. M. A. Grube, rev. John M. Cooper, in Plato: Complete Works, ed. John M. Cooper (Indianapolis: Hackett, 1997), 17a-42a. Access basis: Standard primary text edition metadata verified.
-
+I therefore invite the reader to fulfill what philosophy demands at its best: define the ideas that govern human life, test them rigorously, and embody only those that withstand examination.24
