@@ -1,0 +1,65 @@
+# Appendix H: Macro to Micro
+
+## Justifying Weights Across Governing Domains
+
+Appendix G established the methodological foundation for the Chapter 9 comparative trade study by deriving a dependency-ordered evaluation methodology. This appendix operationalizes that methodology through a two-level weighting structure. I first assign macro-level weights to the four governing evaluative domains according to their logical dependency within the overall architecture. I then assign micro-level weights to the individual principles within each domain according to their relative contribution to that domain's successful execution. Together, these two levels produce the explicit weighting structure that governs every evaluation in the trade study.<sup>1</sup>
+
+Macro-Level Weighting of the Dependency-Ordered Governing Domains
+
+I assign macro-level weights to the four governing domains according to their logical dependency within the overall architecture of the trade study. A domain receives greater weight when failure within that domain prevents meaningful evaluation in the domains that follow. Table H.1 summarizes the resulting macro-level weighting structure.<sup>2</sup>
+
+Table H-1. Macro-Level Weighting of the Dependency-Ordered Governing Domains
+
+H.1 Definitional (Concept-Fixing) Domain — 30%
+
+I assign the definitional domain the highest macro-level weight because it establishes the identity conditions of emotion as the object of evaluation. Unless a theory first distinguishes emotion from affect, feeling, regulation, behavior, categorization, and prediction, I cannot meaningfully evaluate its analytic propositions, its account of emotional meaning, or its computational implementation. The definitional domain therefore functions as the primary gate of the trade study.<sup>3</sup>
+
+Table H-1.1. Definitional Domain: Micro-Level Weighting of the Governing Principles
+
+The micro-level weightings in Table H.2.1 derive from the logical dependency among the definitional principles. Identity Fixation receives the highest weighting because it establishes the object of definition upon which every remaining principle depends. Without a stable object of inquiry, no subsequent principle can determine how the concept applies, whether it remains internally consistent, or whether it preserves its identity across contexts (a priority judgment informed by Aristotle, Carnap, Frege, and Kripke on conceptual identity).<sup>4</sup>
+
+Determinacy receives the second-highest weighting because, once identity conditions have been established, the concept must specify the conditions under which it applies and the conditions under which it does not. Determinacy therefore governs the transition from conceptual identity to principled conceptual application (informed by Carnap, Suppes, and Rand on determinate conceptual application).<sup>5</sup>
+
+The three fifteen-percent principles preserve the integrity of the definition after identity and application have been secured. Non-Contradiction ensures that the definition remains internally coherent. Non-Arbitrariness prevents the concept from resting on stipulation, preference, or convenience. Scope Invariance preserves the same identity conditions across legitimate contexts of use. Although each performs a distinct function, all depend upon the successful operation of Identity Fixation and Determinacy.<sup>6</sup>
+
+Ontological Coherence receives the lowest weighting because it serves as the final verification of the completed definition rather than its foundation. Once the preceding principles have established identity, application, consistency, and scope, Ontological Coherence confirms that the concept remains distinct from neighboring constructs such as affect, feeling, regulation, behavior, categorization, and prediction. It completes the definitional architecture rather than establishing it (a judgment informed by Kripke, Quine, and Carnap on referential and categorial coherence).<sup>7</sup>
+
+H.2 Analytic (Truth-Governing) Domain — 20%
+
+I assign the analytic domain the second-highest macro-level priority because it evaluates whether propositions concerning emotion follow necessarily and coherently from the theory's definitions. Unlike the definitional domain, analytic evaluation presupposes that the theory has already established a stable concept of emotion. It therefore receives a lower macro-level weight while remaining indispensable to the logical integrity of the architecture.<sup>8</sup>
+
+Table H-2.1. Analytic Domain: Micro-Level Weighting of the Governing Principles
+
+The micro-level weightings in Table H.3 derive from the logical dependency among the analytic principles. Logical Entailment receives the highest weighting because it determines whether propositions follow necessarily from the fixed definitions established in the preceding domain. Without necessary entailment, no subsequent analytic principle can evaluate the coherence, necessity, or validity of the theory's propositions (informed by Tarski, Carnap, and Suppes on logical entailment).<sup>9</sup>
+
+Inferential Closure, Necessity Under Substitution, and Counterexample Impossibility receive equal weight because each preserves the integrity of analytic reasoning once logical entailment has been established. Inferential Closure ensures that valid conclusions remain consistent with the theory's definitions. Necessity Under Substitution preserves truth when equivalent expressions replace one another. Counterexample Impossibility confirms that no contradiction or admissible exception can invalidate an analytically necessary proposition. Although each performs a distinct function, all presuppose successful logical entailment (a judgment informed by Suppes, Tarski, and Haack).<sup>10</sup>
+
+Independence from Empirical Revision, Modal Stability, and Non-Circular Justification receive the remaining weight because they reinforce and verify the completed analytic architecture rather than establishing it. Independence from Empirical Revision distinguishes analytic necessity from empirical contingency. Modal Stability ensures that analytically true propositions remain valid across admissible contexts. Non-Circular Justification confirms that the theory does not assume the very propositions it seeks to establish. Together, these principles complete the analytic architecture by safeguarding its objectivity, necessity, and explanatory integrity (informed by Haack, Carnap, and Quine on analytic objectivity).<sup>11</sup>
+
+H.3 Cognitive-Semiotic Domain — 25%
+
+I assign the cognitive-semiotic domain a higher macro-level weight than the analytic domain because the present inquiry concerns emotional meaning rather than conceptual analysis alone, requiring every theory to explain not only what emotion is and whether propositions about emotion hold, but also how an agent achieves emotional meaning through interpretation under goal-relative constraints.<sup>12</sup>
+
+Table H-3.1. Cognitive-Semiotic Domain: Micro-Level Weighting of the Governing Principles
+
+The micro-level weightings in Table H.3.1 derive from the logical dependency among the cognitive-semiotic principles. The first six principles receive equal weight because each follows directly from the Foundational Cognitive-Semiotic Principle established in Chapter 7. Together, they define the minimum architectural conditions required for meaning as an interpretive achievement. No single principle can perform the work of another. A theory that fails any one of these principles cannot adequately explain meaning as a governed act of interpretation (a judgment informed by Peirce, Eco, and Brandom on governed interpretation).<sup>13</sup>
+
+Meaning Is Not Intrinsic rejects the claim that meaning resides within symbols or bodily states. Meaning Is Not Arbitrary requires interpretation to remain constrained rather than unconstrained. Interpretation Is Necessary establishes interpretation as indispensable to meaning. Meaning Is Normative subjects interpretation to standards of correctness. Meaning Can Succeed or Fail establishes accountability by permitting error, correction, and revision. Meaning Requires Perspective preserves the standpoint of the interpreting agent. Together, these six principles establish the irreducible architecture of cognitive-semiotic meaning.<sup>14</sup>
+
+Goals Govern Meaning receives a slightly lower weighting because it governs the application of the preceding principles rather than establishing them. Once an interpreting agent exists, goals determine relevance, constrain interpretation, and define the conditions under which meaning succeeds or fails. The principle therefore completes the architecture of meaning without replacing the foundational role performed collectively by the preceding six principles (informed by Brandom, Frankfurt, and Searle on goal-governed interpretation).<sup>15</sup>
+
+H.4 Computational Domain — 25%
+
+I assign the computational domain the same macro-level weight as the cognitive-semiotic domain because both domains test whether the architecture survives execution. The cognitive-semiotic domain evaluates meaning conceptually. The computational domain evaluates whether those same distinctions remain intact when a subject formally executes the theory. A theory that cannot preserve its own distinctions during execution has not supplied an architecture capable of implementation. Computational adequacy therefore carries equal importance within the present trade study.<sup>16</sup>
+
+Table H-4.1. Computational Domain: Micro-Level Weighting of the Governing Principles
+
+The micro-level weightings in Table H.5 derive from the logical dependency among the computational principles. Executability Without Collapse receives the highest weighting because it determines whether the theory preserves every architectural distinction it claims to make under formal execution. A theory may appear coherent in prose yet fail when implemented computationally. This principle therefore evaluates the integrity of the computational architecture as a whole rather than any individual component (a judgment informed by Marr, Floridi, and Booch, Rumbaugh, and Jacobson).<sup>17</sup>
+
+Ontological Separability, Instantiation Integrity, Symbolic Reference Integrity, and Context Anchoring receive equal weight because each preserves a distinct structural requirement of executable meaning. Ontological Separability prevents the architecture from collapsing its constituent roles. Instantiation Integrity preserves the distinction between concepts and their realized constructs. Symbolic Reference Integrity maintains the distinction between identifiers and referents. Context Anchoring ensures that interpretation remains constrained by a determinate situational context. Although each protects a different architectural distinction, all function together to preserve the integrity of formal execution (informed by Booch, Rumbaugh, and Jacobson; Fowler; and Marr).<sup>18</sup>
+
+Interpretive Governance and Agent and Goal Preservation receive the remaining weight because they govern the successful execution of the preserved architecture rather than establishing it. Interpretive Governance ensures that meaning remains the product of a rule-constrained interpretive act rather than an automatic computational process. Agent and Goal Preservation maintains the interpreting agent and its governing purpose as indispensable constituents of executable meaning. Together, these principles complete the computational architecture by ensuring that formal execution preserves not only structural distinctions but also interpretive accountability (a judgment informed by Brandom, Searle, and Floridi).<sup>19</sup>
+
+Appendix H completes the weighting framework for the Chapter 9 comparative trade study. The macro-level weightings establish the relative contribution of each governing domain to the overall evaluation, while the micro-level weightings distribute that contribution according to the logical dependency among the principles within each domain. Together, these weightings operationalize the dependency-ordered methodology established in Appendix G and provide the explicit evaluation framework for the weighted scoring matrix. Appendix I now applies this framework by assigning scores to each candidate theory, framework, and model and presenting the detailed scoring rationales together with the consolidated weighted scoring matrix.<sup>20</sup>
+
+Appendix I Detailed Scoring Rationales and Consolidated Weighted Scoring Matrix
