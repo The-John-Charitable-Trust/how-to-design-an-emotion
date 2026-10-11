@@ -22,7 +22,7 @@ I use terms such as “application server,” “stored procedures,” and “qu
 
 Because I prioritize architectural coherence over mechanistic reduction, this model demands a clear division of labor. If emotion can go wrong, change under correction, and depend on concepts, the system must distinguish between processes that simulate or regulate and the act that interprets and commits.11 This appendix demonstrates one internally consistent way to formalize that distinction.
 
-<img src="../../assets/figures/appendix-j/figure-01.png" />
+<img src="../../assets/figures/appendix-j/figure-aj-1.svg" />
 <p align="center">**Figure AJ-1. CCME Architecture Overview**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ I now introduce the architecture in visual and functional terms. Figures AJ-1 an
 
 Within the diagrams, I show the Database Lane as a visually distinct layer, but I do not treat it as an additional architectural domain. The database functions as the persistent memory substrate of the Biological Intelligence Application Server. It stores learned schemas, stored procedures, and conceptual repertoires that the system retrieves during computation. I separate it graphically only to illustrate retrieval and update operations during emotional processing.13
 
-<img src="../../assets/figures/appendix-j/figure-02.png" />
+<img src="../../assets/figures/appendix-j/figure-aj-2.svg" />
 <p align="center">**Figure AJ-2. CCME Database Lane Architecture**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
