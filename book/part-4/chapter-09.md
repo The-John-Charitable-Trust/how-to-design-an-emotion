@@ -574,7 +574,7 @@ Output
 <img src="../../assets/figures/chapter-09/figure-36.png" />
 
 Input  
-<img src="../../assets/figures/chapter-09/figure-37.png" />
+<img src="../../assets/figures/chapter-09/figure-9-37.svg" />
 
 Output  
 <img src="../../assets/figures/chapter-09/figure-38.png" />
