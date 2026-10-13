@@ -14,11 +14,11 @@ Craig, A. D. “How Do You Feel? Interoception: The Sense of the Physiological C
 
 Damasio, Antonio, and Gil B. Carvalho. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52. https://doi.org/10.1038/nrn3403.
 
-Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, no. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
+Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
 
 Feldman, Fred. “On the Intrinsic Value of Pleasures.” *Ethics* 107, no. 3 (1997): 448–66. https://doi.org/10.1086/233744.
 
-Nagel, Thomas. “What Is It Like to Be a Bat?.” *Philosophical Review* 83, no. 4 (1974): 435–50. https://doi.org/10.2307/2183914.
+Nagel, Thomas. “What Is It Like to Be a Bat?” *Philosophical Review* 83, no. 4 (1974): 435–50. https://doi.org/10.2307/2183914.
 
 Nussbaum, Martha C. *Upheavals of Thought: The Intelligence of Emotions*. Cambridge: Cambridge University Press, 2001.
 
@@ -30,4 +30,4 @@ Russell, James A. “Core Affect and the Psychological Construction of Emotion.�
 
 Wang, Avery Li-Chun. “An Industrial-Strength Audio Search Algorithm.” In *Proceedings of the 4th International Conference on Music Information Retrieval (ISMIR 2003)*, 7–13. Baltimore, MD, 2003.
 
-Watson, John B.. “Psychology as the Behaviorist Views It.” *Psychological Review* 20, no. 2 (1913): 158–77. https://doi.org/10.1037/h0074428.
+Watson, John B. “Psychology as the Behaviorist Views It.” *Psychological Review* 20, no. 2 (1913): 158–77. https://doi.org/10.1037/h0074428.

@@ -1,0 +1,11 @@
+# Appendix B — Bibliography
+
+[Return to Appendix B](../../appendices/appendix-b.md) · [Notes](../notes/appendix-b.md)
+
+Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
+
+Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software*. Reading, MA: Addison-Wesley, 1995.
+
+Object Management Group. *Unified Modeling Language*. Version 2.5.1. formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
+
+Panksepp, Jaak. “Cross-Species Affective Neuroscience Decoding of the Primal Affective Experiences of Humans and Related Animals.” *PLoS ONE* 6, no. 9 (2011): e21236. https://doi.org/10.1371/journal.pone.0021236.
