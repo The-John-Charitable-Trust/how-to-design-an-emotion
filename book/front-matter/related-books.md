@@ -1,6 +1,6 @@
 # Related Books
 
-## Universal Moral Constructs I
+## Universal Moral Concepts I
 
 ![God Father](../../assets/covers/related-books/god-father.jpg)
 
