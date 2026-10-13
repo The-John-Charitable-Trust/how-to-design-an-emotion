@@ -1,3 +1,4 @@
 # Part III — The Architecture of Meaning
 
-This directory is reserved for Part III of *How To Design an Emotion*.
+- [Chapter 7 — The Constructivist Semiotics](chapter-07.md)
+- [Chapter 8 — The War of Signs](chapter-08.md)
