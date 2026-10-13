@@ -32,7 +32,7 @@
 
 <a id="note-8"></a>
 
-8. Grand View Research, *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2024–2030*, accessed August 2, 2026, https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
+8. Grand View Research, *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2026–2033*, accessed October 13, 2026, https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
 
 <a id="note-9"></a>
 

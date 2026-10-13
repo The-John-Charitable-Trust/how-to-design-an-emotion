@@ -14,7 +14,7 @@ Damasio, Antonio. *The Feeling of What Happens: Body and Emotion in the Making o
 
 Edelman, Shimon. “Marr, David.” In *Encyclopedia of Cognitive Science*. Chichester, UK: Wiley, 2006. https://doi.org/10.1002/0470018860.s00143.
 
-Grand View Research. *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2024–2030*. Accessed August 2, 2026. https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
+Grand View Research. *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2026–2033*. Accessed October 13, 2026. https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
 
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
 
