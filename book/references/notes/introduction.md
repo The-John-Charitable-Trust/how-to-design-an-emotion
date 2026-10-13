@@ -68,36 +68,24 @@
 
 <a id="note-17"></a>
 
-17. Gottlob Frege, “On Sense and Reference,” trans. Max Black, in *Translations from the Philosophical Writings of Gottlob Frege*, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56–78; see also Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/.
+17. A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, https://doi.org/10.1038/nrn894.
 
 <a id="note-18"></a>
 
-18. A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, https://doi.org/10.1038/nrn894.
+18. Jordan Zlatev, “The Semiotic Hierarchy: Life, Consciousness, Signs and Language,” *Cognitive Semiotics* 4, suppl. (2009): 169–200, https://doi.org/10.1515/cogsem.2009.4.spring2009.169.
 
 <a id="note-19"></a>
 
-19. Barrett, “Theory of Constructed Emotion.”
+19. On music and emotional meaning, see Patrik N. Juslin and Daniel Västfjäll, “Emotional Responses to Music: The Need to Consider Underlying Mechanisms,” *Behavioral and Brain Sciences* 31, no. 5 (2008): 559–75, https://doi.org/10.1017/S0140525X08005293. On variation within emotion categories, see Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
 
 <a id="note-20"></a>
 
-20. Jordan Zlatev, “The Semiotic Hierarchy: Life, Consciousness, Signs and Language,” *Cognitive Semiotics* 4, suppl. (2009): 169–200, https://doi.org/10.1515/cogsem.2009.4.spring2009.169.
+20. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 24–27; see also Shimon Edelman, “Marr, David,” in *Encyclopedia of Cognitive Science* (Chichester, UK: Wiley, 2006), https://doi.org/10.1002/0470018860.s00143.
 
 <a id="note-21"></a>
 
-21. On music and emotional meaning, see Patrik N. Juslin and Daniel Västfjäll, “Emotional Responses to Music: The Need to Consider Underlying Mechanisms,” *Behavioral and Brain Sciences* 31, no. 5 (2008): 559–75, https://doi.org/10.1017/S0140525X08005293. On variation within emotion categories, see Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
+21. Scarantino and de Sousa, “Emotion.”
 
 <a id="note-22"></a>
 
-22. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 24–27; see also Shimon Edelman, “Marr, David,” in *Encyclopedia of Cognitive Science* (Chichester, UK: Wiley, 2006), https://doi.org/10.1002/0470018860.s00143.
-
-<a id="note-23"></a>
-
-23. Scarantino and de Sousa, “Emotion.”
-
-<a id="note-24"></a>
-
-24. Barrett et al., “Emotional Expressions Reconsidered.”
-
-<a id="note-25"></a>
-
-25. Jaroslav Peregrin, “Inferentialism,” in *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/.
+22. Barrett et al., “Emotional Expressions Reconsidered.”

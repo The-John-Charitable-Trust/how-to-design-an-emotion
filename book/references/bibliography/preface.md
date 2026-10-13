@@ -10,35 +10,19 @@ Brody, Debra J., and Jeffery P. Hughes. *Depression Prevalence in Adolescents an
 
 Calvo, Rafael A., and Sidney D’Mello. “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications.” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37. https://doi.org/10.1109/T-AFFC.2010.1.
 
-Damasio, Antonio. *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. New York: Harcourt, 1999.
-
-Edelman, Shimon. “Marr, David.” In *Encyclopedia of Cognitive Science*. Chichester, UK: Wiley, 2006. https://doi.org/10.1002/0470018860.s00143.
-
 Grand View Research. *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2026–2033*. Accessed October 13, 2026. https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
 
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
 
 James, William. “What Is an Emotion?” *Mind* 9, no. 34 (1884): 188–205. https://doi.org/10.1093/mind/os-IX.34.188.
 
-Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
-
-Marr, David. *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*. San Francisco: W. H. Freeman, 1982.
-
-Nickerson, Raymond S. “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises.” *Review of General Psychology* 2, no. 2 (1998): 175–220. https://doi.org/10.1037/1089-2680.2.2.175.
-
-Peregrin, Jaroslav. “Inferentialism.” In *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/inferentialism/.
-
 Picard, Rosalind W. *Affective Computing*. Cambridge, MA: MIT Press, 1997.
-
-Plato. *Apology*. Translated by G. M. A. Grube, revised by John M. Cooper. In *Plato: Complete Works*, edited by John M. Cooper, 17–36. Indianapolis: Hackett, 1997.
 
 Rosch, Eleanor, and Carolyn B. Mervis. “Family Resemblances: Studies in the Internal Structure of Categories.” *Cognitive Psychology* 7, no. 4 (1975): 573–605. https://doi.org/10.1016/0010-0285(75)90024-9.
 
 Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
 
 Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.
-
-Simon, Herbert A. *The Sciences of the Artificial*. 3rd ed. Cambridge, MA: MIT Press, 1996.
 
 Wakefield, Jerome C. “The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values.” *American Psychologist* 47, no. 3 (1992): 373–88. https://doi.org/10.1037/0003-066X.47.3.373.
 

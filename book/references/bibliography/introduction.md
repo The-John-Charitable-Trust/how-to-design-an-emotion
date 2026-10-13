@@ -28,8 +28,6 @@ Edelman, Shimon. “Marr, David.” In *Encyclopedia of Cognitive Science*. Chic
 
 Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
 
-Frege, Gottlob. “On Sense and Reference.” Translated by Max Black. In *Translations from the Philosophical Writings of Gottlob Frege*, edited by Peter Geach and Max Black, 56–78. Oxford: Blackwell, 1952.
-
 Grisez, Germain G. “The First Principle of Practical Reason: A Commentary on the *Summa theologiae*, 1–2, Question 94, Article 2.” *American Journal of Jurisprudence* 10, no. 1 (1965): 168–201. https://doi.org/10.1093/ajj/10.1.168.
 
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
@@ -54,8 +52,6 @@ Murphy, Mark C. “The Natural Law Tradition in Ethics.” In *The Stanford Ency
 
 Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals and Humans.” *Consciousness and Cognition* 14, no. 1 (2005): 30–80. https://doi.org/10.1016/j.concog.2004.10.004.
 
-Peregrin, Jaroslav. “Inferentialism.” In *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/inferentialism/.
-
 Picard, Rosalind W. *Affective Computing*. Cambridge, MA: MIT Press, 1997.
 
 Rohlf, Michael. “Immanuel Kant.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/kant/.
@@ -67,7 +63,5 @@ Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclo
 Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.
 
 Simmons, A. John. “Locke’s Political Philosophy.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/locke-political/.
-
-Zalta, Edward N. “Gottlob Frege.” In *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/frege/.
 
 Zlatev, Jordan. “The Semiotic Hierarchy: Life, Consciousness, Signs and Language.” *Cognitive Semiotics* 4, suppl. (2009): 169–200. https://doi.org/10.1515/cogsem.2009.4.spring2009.169.

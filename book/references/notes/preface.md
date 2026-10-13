@@ -4,7 +4,7 @@
 
 <a id="note-1"></a>
 
-1. William James, “What Is an Emotion?,” *Mind* 9, no. 34 (1884): 188–205, https://doi.org/10.1093/mind/os-IX.34.188; Antonio Damasio, *The Feeling of What Happens: Body and Emotion in the Making of Consciousness* (New York: Harcourt, 1999), 35–52.
+1. Cf. William James, “What Is an Emotion?,” *Mind* 9, no. 34 (1884): 188–205, https://doi.org/10.1093/mind/os-IX.34.188.
 
 <a id="note-2"></a>
 
@@ -44,52 +44,20 @@
 
 <a id="note-11"></a>
 
-11. Raymond S. Nickerson, “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises,” *Review of General Psychology* 2, no. 2 (1998): 175–220, https://doi.org/10.1037/1089-2680.2.2.175.
+11. Scherer, “What Are Emotions?,” 695–729.
 
 <a id="note-12"></a>
 
-12. Scherer, “What Are Emotions?,” 695–729.
+12. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
 
 <a id="note-13"></a>
 
-13. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
+13. Gupta, “Definitions.”
 
 <a id="note-14"></a>
 
-14. Plato, *Apology*, trans. G. M. A. Grube, rev. John M. Cooper, in *Plato: Complete Works*, ed. John M. Cooper (Indianapolis: Hackett, 1997), 17a–42a.
+14. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-15"></a>
 
-15. Gupta, “Definitions.”
-
-<a id="note-16"></a>
-
-16. Jaroslav Peregrin, “Inferentialism,” in *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/.
-
-<a id="note-17"></a>
-
-17. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
-
-<a id="note-18"></a>
-
-18. Scarantino and de Sousa, “Emotion.”
-
-<a id="note-19"></a>
-
-19. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 24–27; see also Shimon Edelman, “Marr, David,” in *Encyclopedia of Cognitive Science* (Chichester, UK: Wiley, 2006), https://doi.org/10.1002/0470018860.s00143.
-
-<a id="note-20"></a>
-
-20. Herbert A. Simon, *The Sciences of the Artificial*, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111–38.
-
-<a id="note-21"></a>
-
-21. Simon, *Sciences of the Artificial*, 111–38.
-
-<a id="note-22"></a>
-
-22. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
-
-<a id="note-23"></a>
-
-23. Plato, *Apology*, 17a–42a.
+15. Scarantino and de Sousa, “Emotion.”
