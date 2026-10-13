@@ -10,11 +10,15 @@ Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference
 
 Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements.” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68. https://doi.org/10.1177/1529100619832930.
 
+Bolton, Robert. “Essentialism and Semantic Theory in Aristotle: *Posterior Analytics*, II, 7–10.” *Philosophical Review* 85, no. 4 (1976): 514–44. https://doi.org/10.2307/2184277.
+
 Calvo, Rafael A., and Sidney D’Mello. “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications.” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37. https://doi.org/10.1109/T-AFFC.2010.1.
+
+Coleman, Jules L. “Negative and Positive Positivism.” *Journal of Legal Studies* 11, no. 1 (1982): 139–64. https://doi.org/10.1086/467696.
 
 Craig, A. D. “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body.” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66. https://doi.org/10.1038/nrn894.
 
-Damasio, Antonio. *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. New York: Harcourt, 1999.
+Damasio, Antonio, and Gil B. Carvalho. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52. https://doi.org/10.1038/nrn3403.
 
 Darwall, Stephen. “Normativity.” In *Routledge Encyclopedia of Philosophy*. London: Routledge, 2001. https://doi.org/10.4324/9780415249126-L135-1.
 
@@ -26,15 +30,15 @@ Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, no
 
 Frege, Gottlob. “On Sense and Reference.” Translated by Max Black. In *Translations from the Philosophical Writings of Gottlob Frege*, edited by Peter Geach and Max Black, 56–78. Oxford: Blackwell, 1952.
 
-Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
+Grisez, Germain G. “The First Principle of Practical Reason: A Commentary on the *Summa theologiae*, 1–2, Question 94, Article 2.” *American Journal of Jurisprudence* 10, no. 1 (1965): 168–201. https://doi.org/10.1093/ajj/10.1.168.
 
-Hart, H. L. A. *The Concept of Law*. 3rd ed. Oxford: Oxford University Press, 2012.
+Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
 
 Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
 
 *The Holy Bible: New Revised Standard Version Updated Edition*. Psalm 118:22. https://www.biblegateway.com/passage/?search=Psalm%20118%3A22&version=NRSVUE.
 
-Juslin, Patrik N., and John A. Sloboda, eds. *Handbook of Music and Emotion: Theory, Research, Applications*. Oxford: Oxford University Press, 2010.
+Juslin, Patrik N., and Daniel Västfjäll. “Emotional Responses to Music: The Need to Consider Underlying Mechanisms.” *Behavioral and Brain Sciences* 31, no. 5 (2008): 559–75. https://doi.org/10.1017/S0140525X08005293.
 
 Kant, Immanuel. *Critique of Pure Reason*. Translated by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press, 1998.
 
@@ -46,11 +50,7 @@ Locke, John. *Two Treatises of Government*. Edited by Peter Laslett. Cambridge: 
 
 Marr, David. *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*. San Francisco: W. H. Freeman, 1982.
 
-Meyer, Leonard B. *Emotion and Meaning in Music*. Chicago: University of Chicago Press, 1956.
-
 Murphy, Mark C. “The Natural Law Tradition in Ethics.” In *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/natural-law-ethics/.
-
-Nöth, Winfried. *Handbook of Semiotics*. Bloomington: Indiana University Press, 1990.
 
 Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals and Humans.” *Consciousness and Cognition* 14, no. 1 (2005): 30–80. https://doi.org/10.1016/j.concog.2004.10.004.
 
@@ -69,3 +69,5 @@ Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social
 Simmons, A. John. “Locke’s Political Philosophy.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/locke-political/.
 
 Zalta, Edward N. “Gottlob Frege.” In *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/frege/.
+
+Zlatev, Jordan. “The Semiotic Hierarchy: Life, Consciousness, Signs and Language.” *Cognitive Semiotics* 4, suppl. (2009): 169–200. https://doi.org/10.1515/cogsem.2009.4.spring2009.169.

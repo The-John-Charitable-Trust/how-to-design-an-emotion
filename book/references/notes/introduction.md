@@ -32,11 +32,11 @@
 
 <a id="note-8"></a>
 
-8. Thomas Aquinas, *Summa Theologiae* I–II, q. 91, a. 2; Mark C. Murphy, “The Natural Law Tradition in Ethics,” in *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/natural-law-ethics/.
+8. Germain G. Grisez, “The First Principle of Practical Reason: A Commentary on the *Summa theologiae*, 1–2, Question 94, Article 2,” *American Journal of Jurisprudence* 10, no. 1 (1965): 168–201, https://doi.org/10.1093/ajj/10.1.168; Mark C. Murphy, “The Natural Law Tradition in Ethics,” in *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/natural-law-ethics/.
 
 <a id="note-9"></a>
 
-9. H. L. A. Hart, *The Concept of Law*, 3rd ed. (Oxford: Oxford University Press, 2012), 79–99.
+9. Jules L. Coleman, “Negative and Positive Positivism,” *Journal of Legal Studies* 11, no. 1 (1982): 139–64, https://doi.org/10.1086/467696.
 
 <a id="note-10"></a>
 
@@ -60,11 +60,11 @@
 
 <a id="note-15"></a>
 
-15. Immanuel Kant, *Critique of Pure Reason*, trans. Paul Guyer and Allen W. Wood (Cambridge: Cambridge University Press, 1998), A19/B33–A22/B36; Michael Rohlf, “Immanuel Kant,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/kant/.
+15. Robert Bolton, “Essentialism and Semantic Theory in Aristotle: *Posterior Analytics*, II, 7–10,” *Philosophical Review* 85, no. 4 (1976): 514–44, https://doi.org/10.2307/2184277; Immanuel Kant, *Critique of Pure Reason*, trans. Paul Guyer and Allen W. Wood (Cambridge: Cambridge University Press, 1998), A19/B33–A22/B36; Michael Rohlf, “Immanuel Kant,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/kant/.
 
 <a id="note-16"></a>
 
-16. Antonio Damasio, *The Feeling of What Happens: Body and Emotion in the Making of Consciousness* (New York: Harcourt, 1999), 35–52; Russell, “Core Affect.”
+16. Antonio Damasio and Gil B. Carvalho, “The Nature of Feelings: Evolutionary and Neurobiological Origins,” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52, https://doi.org/10.1038/nrn3403; Russell, “Core Affect.”
 
 <a id="note-17"></a>
 
@@ -80,11 +80,11 @@
 
 <a id="note-20"></a>
 
-20. Winfried Nöth, *Handbook of Semiotics* (Bloomington: Indiana University Press, 1990).
+20. Jordan Zlatev, “The Semiotic Hierarchy: Life, Consciousness, Signs and Language,” *Cognitive Semiotics* 4, suppl. (2009): 169–200, https://doi.org/10.1515/cogsem.2009.4.spring2009.169.
 
 <a id="note-21"></a>
 
-21. On music and emotional meaning, see Leonard B. Meyer, *Emotion and Meaning in Music* (Chicago: University of Chicago Press, 1956); and Patrik N. Juslin and John A. Sloboda, eds., *Handbook of Music and Emotion: Theory, Research, Applications* (Oxford: Oxford University Press, 2010). On variation within emotion categories, see Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
+21. On music and emotional meaning, see Patrik N. Juslin and Daniel Västfjäll, “Emotional Responses to Music: The Need to Consider Underlying Mechanisms,” *Behavioral and Brain Sciences* 31, no. 5 (2008): 559–75, https://doi.org/10.1017/S0140525X08005293. On variation within emotion categories, see Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
 
 <a id="note-22"></a>
 
