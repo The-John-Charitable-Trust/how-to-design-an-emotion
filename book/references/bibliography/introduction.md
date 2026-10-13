@@ -38,7 +38,7 @@ Marr, David. *Vision: A Computational Investigation into the Human Representatio
 
 Murphy, Mark C. “The Natural Law Tradition in Ethics.” In *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/natural-law-ethics/.
 
-Nöth, Winfried. “Semiotics.” In *Oxford Research Encyclopedia of Literature*. Oxford: Oxford University Press, 2017. https://doi.org/10.1093/acrefore/9780190201098.013.134.
+Nöth, Winfried. *Handbook of Semiotics*. Bloomington: Indiana University Press, 1990.
 
 Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals and Humans.” *Consciousness and Cognition* 14, no. 1 (2005): 30–80. https://doi.org/10.1016/j.concog.2004.10.004.
 

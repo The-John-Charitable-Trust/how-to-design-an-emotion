@@ -72,7 +72,7 @@
 
 <a id="note-18"></a>
 
-18. Winfried Nöth, “Semiotics,” in *Oxford Research Encyclopedia of Literature* (Oxford: Oxford University Press, 2017), https://doi.org/10.1093/acrefore/9780190201098.013.134.
+18. Winfried Nöth, *Handbook of Semiotics* (Bloomington: Indiana University Press, 1990).
 
 <a id="note-19"></a>
 
