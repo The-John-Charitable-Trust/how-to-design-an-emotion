@@ -24,7 +24,7 @@
 
 <a id="note-6"></a>
 
-6. Margolis and Laurence, “Concepts.”
+6. Richard S. Lazarus, *Emotion and Adaptation* (New York: Oxford University Press, 1991), 122, table 3.4 [UNVERIFIED: page confirmed only via secondary citations]; Nico H. Frijda, *The Emotions* (Cambridge: Cambridge University Press, 1986); see also Craig A. Smith and Richard S. Lazarus, “Appraisal Components, Core Relational Themes, and the Emotions,” *Cognition and Emotion* 7, nos. 3–4 (1993): 233–69, https://doi.org/10.1080/02699939308409189.
 
 <a id="note-7"></a>
 
@@ -40,12 +40,16 @@
 
 <a id="note-10"></a>
 
-10. Gupta, “Definitions.”
+10. Margolis and Laurence, “Concepts.”
 
 <a id="note-11"></a>
 
-11. Charles S. Peirce, “Logic as Semiotic: The Theory of Signs,” in *Philosophical Writings of Peirce*, ed. Justus Buchler (New York: Dover, 1955), 98–119; see also James Liszka, “Charles Sanders Peirce,” *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/peirce/.
+11. Gupta, “Definitions.”
 
 <a id="note-12"></a>
 
-12. Peirce, “Logic as Semiotic,” 98–119; Liszka, “Charles Sanders Peirce.”
+12. Charles S. Peirce, “Logic as Semiotic: The Theory of Signs,” in *Philosophical Writings of Peirce*, ed. Justus Buchler (New York: Dover, 1955), 98–119; see also James Liszka, “Charles Sanders Peirce,” *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/peirce/.
+
+<a id="note-13"></a>
+
+13. Peirce, “Logic as Semiotic,” 98–119; Liszka, “Charles Sanders Peirce.”

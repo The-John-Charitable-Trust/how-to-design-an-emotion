@@ -9,11 +9,11 @@
 
 <a id="note-2"></a>
 
-2. Gottlob Frege, “On Sense and Reference,” trans. Max Black, in *Translations from the Philosophical Writings of Gottlob Frege*, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56–78; see also Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/. [CITATION NEEDED: verify — the phrase echoes Saussure, Course in General Linguistics, on pre-linguistic thought as a shapeless mass; locate passage and page]
+2. Ferdinand de Saussure, *Course in General Linguistics*, ed. Charles Bally and Albert Sechehaye, trans. Wade Baskin (New York: Philosophical Library, 1959), pt. 2, chap. 4, 111–12. The sentence paraphrases Saussure. Baskin’s wording is that thought apart from words “is only a shapeless and indistinct mass” and that “without language, thought is a vague, uncharted nebula.”
 
 <a id="note-3"></a>
 
-3. Ayn Rand, *Introduction to Objectivist Epistemology*, 2nd ed., ed. Harry Binswanger and Leonard Peikoff (New York: Meridian, 1990). [CITATION NEEDED: verify — locate the passage on attributes and concepts and add page]
+3. Ayn Rand, *Introduction to Objectivist Epistemology*, 2nd ed., ed. Harry Binswanger and Leonard Peikoff (New York: Meridian, 1990), 15: “Attributes cannot exist by themselves, they are merely the characteristics of entities.” Passage and page as given in the Ayn Rand Lexicon, s.v. “Entity,” https://aynrandlexicon.com/lexicon/entity.html.
 
 <a id="note-4"></a>
 
@@ -57,7 +57,7 @@
 
 <a id="note-14"></a>
 
-14. Frege, “On Sense and Reference,” 56–78; Zalta, “Gottlob Frege.” [CITATION NEEDED: verify — empirical generalization about academics; cite a survey of concept theory or remove]
+14. Gupta, “Definitions.”
 
 <a id="note-15"></a>
 
@@ -65,31 +65,31 @@
 
 <a id="note-16"></a>
 
-16. Gupta, “Definitions.”
+16. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-17"></a>
 
-17. Object Management Group, *Unified Modeling Language*.
+17. Wesley Newcomb Hohfeld, “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning,” *Yale Law Journal* 23, no. 1 (1913): 16–59, https://doi.org/10.2307/785533.
 
 <a id="note-18"></a>
 
-18. Wesley Newcomb Hohfeld, “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning,” *Yale Law Journal* 23, no. 1 (1913): 16–59, https://doi.org/10.2307/785533.
+18. “Declaration of Independence: A Transcription,” National Archives, https://www.archives.gov/founding-docs/declaration-transcript.
 
 <a id="note-19"></a>
 
-19. “Declaration of Independence: A Transcription,” National Archives, https://www.archives.gov/founding-docs/declaration-transcript.
+19. Hohfeld, “Fundamental Legal Conceptions.”
 
 <a id="note-20"></a>
 
-20. Hohfeld, “Fundamental Legal Conceptions.”
+20. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-21"></a>
 
-21. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
+21. Gupta, “Definitions.”
 
 <a id="note-22"></a>
 
-22. Gupta, “Definitions.”
+22. Rand, *Introduction to Objectivist Epistemology*, 40, 51.
 
 <a id="note-23"></a>
 
@@ -97,11 +97,11 @@
 
 <a id="note-24"></a>
 
-24. Rand, *Introduction to Objectivist Epistemology*, 40, 51.
+24. Gupta, “Definitions.”
 
 <a id="note-25"></a>
 
-25. Gupta, “Definitions.”
+25. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-26"></a>
 
@@ -109,7 +109,7 @@
 
 <a id="note-27"></a>
 
-27. Object Management Group, *Unified Modeling Language*.
+27. Gupta, “Definitions.”
 
 <a id="note-28"></a>
 
@@ -117,31 +117,31 @@
 
 <a id="note-29"></a>
 
-29. Gupta, “Definitions.”
+29. Georges Rey, “The Analytic/Synthetic Distinction,” in *The Stanford Encyclopedia of Philosophy*, substantive revision June 1, 2026, https://plato.stanford.edu/entries/analytic-synthetic/.
 
 <a id="note-30"></a>
 
-30. Georges Rey, “The Analytic/Synthetic Distinction,” in *The Stanford Encyclopedia of Philosophy*, substantive revision June 1, 2026, https://plato.stanford.edu/entries/analytic-synthetic/.
+30. Gupta, “Definitions.”
 
 <a id="note-31"></a>
 
-31. Gupta, “Definitions.”
+31. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-32"></a>
 
-32. Object Management Group, *Unified Modeling Language*.
+32. Rey, “Analytic/Synthetic Distinction.”
 
 <a id="note-33"></a>
 
-33. Rey, “Analytic/Synthetic Distinction.”
+33. Michael I. Posner and Steven W. Keele, “On the Genesis of Abstract Ideas,” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63, https://doi.org/10.1037/h0025953.
 
 <a id="note-34"></a>
 
-34. Michael I. Posner and Steven W. Keele, “On the Genesis of Abstract Ideas,” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63, https://doi.org/10.1037/h0025953.
+34. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
 
 <a id="note-35"></a>
 
-35. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
+35. Gupta, “Definitions.”
 
 <a id="note-36"></a>
 
@@ -149,27 +149,27 @@
 
 <a id="note-37"></a>
 
-37. Gupta, “Definitions.”
+37. Ludwig Wittgenstein, *Philosophical Investigations*, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), §§65–71.
 
 <a id="note-38"></a>
 
-38. Ludwig Wittgenstein, *Philosophical Investigations*, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), §§65–71.
+38. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
 
 <a id="note-39"></a>
 
-39. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
+39. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-40"></a>
 
-40. Posner and Keele, “Genesis of Abstract Ideas.”
+40. Gupta, “Definitions.”
 
 <a id="note-41"></a>
 
-41. Gupta, “Definitions.”
+41. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-42"></a>
 
-42. Object Management Group, *Unified Modeling Language*.
+42. Rand, *Introduction to Objectivist Epistemology*, chap. 2, “Concept-Formation.”
 
 <a id="note-43"></a>
 
@@ -177,7 +177,7 @@
 
 <a id="note-44"></a>
 
-44. Rand, *Introduction to Objectivist Epistemology*, chap. 2, “Concept-Formation.”
+44. Gupta, “Definitions.”
 
 <a id="note-45"></a>
 
@@ -185,7 +185,7 @@
 
 <a id="note-46"></a>
 
-46. Gupta, “Definitions.”
+46. Margolis and Laurence, “Concepts.”
 
 <a id="note-47"></a>
 
@@ -193,7 +193,7 @@
 
 <a id="note-48"></a>
 
-48. Margolis and Laurence, “Concepts.”
+48. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-49"></a>
 
@@ -201,27 +201,27 @@
 
 <a id="note-50"></a>
 
-50. Object Management Group, *Unified Modeling Language*.
+50. Gupta, “Definitions.”
 
 <a id="note-51"></a>
 
-51. Gupta, “Definitions.”
+51. Frege, “On Sense and Reference,” 56–78; Zalta, “Gottlob Frege.”
 
 <a id="note-52"></a>
 
-52. Frege, “On Sense and Reference,” 56–78; Zalta, “Gottlob Frege.”
+52. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-53"></a>
 
-53. Object Management Group, *Unified Modeling Language*, 126.
+53. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-54"></a>
 
-54. Object Management Group, *Unified Modeling Language*.
+54. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-55"></a>
 
-55. Posner and Keele, “Genesis of Abstract Ideas.”
+55. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-56"></a>
 
@@ -237,7 +237,7 @@
 
 <a id="note-59"></a>
 
-59. Object Management Group, *Unified Modeling Language*.
+59. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-60"></a>
 
@@ -249,12 +249,8 @@
 
 <a id="note-62"></a>
 
-62. Object Management Group, *Unified Modeling Language*, 126.
+62. Jerry A. Fodor, *Concepts: Where Cognitive Science Went Wrong* (Oxford: Oxford University Press, 1998), 9–16.
 
 <a id="note-63"></a>
 
-63. Jerry A. Fodor, *Concepts: Where Cognitive Science Went Wrong* (Oxford: Oxford University Press, 1998), 9–16.
-
-<a id="note-64"></a>
-
-64. Wittgenstein, *Philosophical Investigations*, §§65–71.
+63. Wittgenstein, *Philosophical Investigations*, §§65–71.

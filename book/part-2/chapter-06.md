@@ -72,19 +72,55 @@ If a term like right indexes a moral claim in one context and a legal entitlemen
 
 The rule is simple: the constraint structure fixes identity conditions. If the constraint changes, the concept changes. If the constraint remains and only the realization varies, identity remains intact. What appears to be conceptual change often reflects modifications to instantiation, categorization, or goal evaluation rather than to the identity conditions themselves.
 
+**A worked case: anger.**
+
+Abstraction hides its weaknesses. So I now apply the Goal-Governed Model to a single concept in a single system.
+
+The system is specified. It is the folk-psychological concept of anger as used by adult speakers of contemporary American English in ordinary interpersonal life. It is not anger in every culture. It is not a scientific kind. I fix the system first because constraint without universality requires it. Identity conditions hold within a system. They need not hold across all of them.
+
+**The constraint layer.** Within this system, an episode is admissible as anger only if it satisfies four conditions.
+
+First, appraised offense. The agent construes some event as a wrong, slight, or obstruction attributable to an agent, including oneself.
+
+Second, other-directed evaluation. The agent holds that agent accountable. The construal is not merely "this is bad." It is "you did this, and you should not have."
+
+Third, an affective realization. The episode is realized in core affect, typically unpleasant and aroused. I state this as a constraint on admissible values, not a fixed value. Arousal may be high or low; valence must be negative relative to the offense.
+
+Fourth, an action orientation. The episode includes a readiness to confront, correct, retaliate, or restore, even if the agent suppresses it.
+
+These are admissibility conditions. They do not describe a neural signature. They do not require a facial expression. They state what an episode must satisfy to count as anger in this system.
+
+**The instantiation layer.** Instances realize those conditions under determinate values. Road rage realizes them with high arousal and an urge to shout. Cold resentment at a colleague realizes them with low arousal and a plan to withhold cooperation. Anger at oneself after a missed deadline realizes them with the self as the accountable agent. These episodes differ in physiology, behavior, and feeling. Each satisfies the same constraint structure. Variation lives in the values. Identity lives in the constraints.
+
+**The categorization layer.** Only admitted instances are grouped. Here prototype effects do their proper work. In this system, a shouted confrontation over an obvious insult is a highly typical instance. Quiet resentment is less typical. Speakers rate the first as "more anger-like." That rating is real and measurable. It is a fact about the distribution of admitted instances, not about the concept's identity. Typicality ranks members. It does not admit them.
+
+**The goal layer.** Goals regulate how admitted instances are used. A therapist's goal may be regulation, so she groups anger episodes by intensity and triggers. A lawyer's goal may be culpability, so she groups them by provocation and control. A parent's goal may be teaching, so she groups them by appropriateness. Each goal produces a different grouping. None of them changes what counts as anger.
+
+**Misapplication.** The model now explains error. Suppose a man reports that he is angry at the weather for ruining his picnic. If he truly construes no agent as accountable, the episode fails the second condition. He is disappointed, not angry, and his self-report misapplies the concept. Suppose instead he half-blames the forecaster. Then the episode is admissible, though atypical. The constraint, not the word he chose, decides the case. Barrett's account explains why he reached for the word. Mine explains whether the word was correct.
+
+**Disagreement.** Two observers watch a woman speak sharply to her manager. One calls it anger. The other calls it assertiveness. On a purely use-based account, this is a difference between two predictive histories. On mine, it is a genuine disagreement with a determinate subject matter. Did she construe the manager as accountable for a wrong? If yes, the episode is anger, however controlled. If no, it is not. The observers may lack the evidence to settle the question. But they disagree about something, and the constraint structure says what.
+
+**Cross-cultural variation.** Now change the system. In a community whose concept of anger requires a public status violation, or whose concept merges what English separates, the admissibility conditions differ. Some episodes that English speakers call anger will not qualify there, and the reverse. This is constraint without universality. Each system binds its own instances. No system binds all of them. Translation then becomes an empirical question about overlapping constraint structures, not a search for one true anger.
+
+**Revision.** Concepts change. Suppose this community comes to accept that anger can be directed at impersonal systems, such as "the bureaucracy," with no accountable agent. If speakers then treat such episodes as correct uses, and correct one another accordingly, they have revised the second condition. The concept has changed. That is a real event with a date and a cause. It differs from mere drift because it changes the constraint, not just the frequency of a usage. Prediction errors may motivate the revision. They do not constitute it.
+
+The admissibility conditions resemble appraisal accounts of anger. Lazarus summarizes anger's core relational theme as "a demeaning offense against me and mine," and Frijda ties emotions to action readiness.<sup><a href="../references/notes/chapter-06.md#note-6">6</a></sup> The resemblance is deliberate, but the claim differs. Appraisal theories describe a process: how an agent evaluates an encounter and how that evaluation produces the emotion. The conditions here state a constraint structure: what an episode must satisfy to count as anger within a system, however it was produced. An appraisal theorist explains how anger arises. The constraint layer says when an episode is anger.
+
+The case shows the architecture at work. Construction explains how each episode is assembled. Prediction explains how the agent anticipates and regulates. Constraint explains why the episode counts as anger rather than disappointment, assertiveness, or a successful regulatory act.
+
 A goal is a regulatory criterion applied to admissible instances. It specifies standards of adequacy, efficiency, relevance, or compliance relative to a particular purpose. Goals regulate admissible instances after they have satisfied identity conditions; they do not determine what may count as an instance in the first place.
 
 The architecture now contains the elements required for categorization and evaluation. Concepts fix admissibility. Instantiation realizes admissible instances. Goals specify the criteria by which agents later categorize and evaluate those instances. Identity conditions determine what may count as an instance. Goal-directed evaluation determines how well categorized instances satisfy those criteria.
 
 I can now assign categorization its proper explanatory role. Categorization groups admissible instances according to governing goals. It operates over determinate realizations that already satisfy conceptual constraints. It does not fix conceptual identity. It does not determine admissibility.
 
-We compute similarity relative to governing goals. No instance is similar in the abstract. We compare admissible instances by selecting dimensions, thresholds, and priorities that reflect those goals. The same admissible instances can support different categorizations under different goals without changing the concept.<sup><a href="../references/notes/chapter-06.md#note-6">6</a></sup>
+We compute similarity relative to governing goals. No instance is similar in the abstract. We compare admissible instances by selecting dimensions, thresholds, and priorities that reflect those goals. The same admissible instances can support different categorizations under different goals without changing the concept.<sup><a href="../references/notes/chapter-06.md#note-7">7</a></sup>
 
 I evaluate categorized instances relative to governing criteria. Success and failure indicate how well an admissible instance satisfies the selected criterion. An instance may satisfy the concept and still fail the governing goal. Identity determines what something is; evaluation determines how well it serves a particular purpose.
 
 I can distinguish correct from incorrect categorization only because identity conditions remain stable. A misclassification is possible only when fixed identity conditions exist against which I can compare an instance. If conceptual identity depended on successful categorization, no principled distinction between correct and incorrect grouping would remain. Disagreement would become nothing more than divergent clustering habits.
 
-I locate correction at the level of goal-directed evaluation. When categorized instances fail to satisfy governing criteria, agents adjust execution strategies, similarity metrics, thresholds, priorities, or goal weightings rather than revising conceptual identity. Conceptual identity remains stable while its application improves.<sup><a href="../references/notes/chapter-06.md#note-7">7</a></sup>
+I locate correction at the level of goal-directed evaluation. When categorized instances fail to satisfy governing criteria, agents adjust execution strategies, similarity metrics, thresholds, priorities, or goal weightings rather than revising conceptual identity. Conceptual identity remains stable while its application improves.<sup><a href="../references/notes/chapter-06.md#note-8">8</a></sup>
 
 Up to this point, I have specified the architecture of conceptual identity. I now distinguish that architecture from the computational processes that operate over it. Constraint, instantiation, categorization, and goal-directed evaluation define the architecture. Similarity computation, evaluation, correction, learning, and optimization execute that architecture without constituting it.
 
@@ -92,7 +128,7 @@ Learning refines how agents apply conceptual constraints. Agents adjust paramete
 
 Optimization likewise operates within a fixed constraint structure. Systems may update parameters, recalibrate thresholds, or refine execution strategies, but those adjustments presuppose a stable conceptual architecture. Engineers define loss functions to represent goal criteria formally. Minimizing those functions improves performance relative to specified goals without determining what the system is about. The identity of the task, the admissible mappings, and the representational role of the output must already be specified.,
 
-No computational process generates identity conditions. Learning, optimization, evaluation, and correction all presuppose the constraint structure within which they operate. When agents respond to prediction errors by revising parameters, thresholds, or execution strategies, conceptual identity remains intact while performance improves. Only when agents revise the identity conditions themselves do they revise the concept. That distinction separates improved execution from conceptual revision.,<sup><a href="../references/notes/chapter-06.md#note-8">8</a></sup>
+No computational process generates identity conditions. Learning, optimization, evaluation, and correction all presuppose the constraint structure within which they operate. When agents respond to prediction errors by revising parameters, thresholds, or execution strategies, conceptual identity remains intact while performance improves. Only when agents revise the identity conditions themselves do they revise the concept. That distinction separates improved execution from conceptual revision.,<sup><a href="../references/notes/chapter-06.md#note-9">9</a></sup>
 
 This distinction also makes the Goal-Governed Model compatible with computational implementation without reducing conceptual identity to statistical convergence. Learning refines execution. Optimization improves performance relative to governing goals. Neither generates the identity conditions that make those processes intelligible.
 
@@ -104,9 +140,9 @@ Identity. Conceptual identity resides at the constraint layer as an intensional 
 
 Instantiation. Execution occurs through admissible realizations of those identity conditions. Instantiation, embodiment, contextual realization, and implementation produce variation without revising conceptual identity.
 
-Categorization and Goal-Directed Evaluation. Categorization organizes admissible instances according to similarity, typicality, contextual relevance, and graded membership. Goal-directed evaluation then regulates those categorized instances according to governing criteria. Neither function determines conceptual identity.<sup><a href="../references/notes/chapter-06.md#note-9">9</a></sup>
+Categorization and Goal-Directed Evaluation. Categorization organizes admissible instances according to similarity, typicality, contextual relevance, and graded membership. Goal-directed evaluation then regulates those categorized instances according to governing criteria. Neither function determines conceptual identity.<sup><a href="../references/notes/chapter-06.md#note-10">10</a></sup>
 
-Computational Processes. Evaluation, correction, learning, and optimization refine execution within the fixed constraint space established by the architecture. They improve execution without generating, replacing, or redefining identity conditions.<sup><a href="../references/notes/chapter-06.md#note-10">10</a></sup>
+Computational Processes. Evaluation, correction, learning, and optimization refine execution within the fixed constraint space established by the architecture. They improve execution without generating, replacing, or redefining identity conditions.<sup><a href="../references/notes/chapter-06.md#note-11">11</a></sup>
 
 In this chapter, I have stated the Goal-Governed Model of Conceptual Identity. I have shown that conceptual identity depends on an upstream constraint structure rather than on downstream similarity, categorization, performance, or learning. I distinguished four architectural functions—conceptual identity, instantiation, categorization, and goal-directed evaluation—and separated them from the computational processes that execute them. By assigning each function its proper explanatory role, I resolved the apparent conflict between stability and variability within a single computational architecture.
 
@@ -116,6 +152,6 @@ The Goal-Governed Model therefore defines the minimal computational architecture
 
 This architecture preserves disciplined flexibility. Agents, cultures, and computational systems may apply different goals to admissible instances without multiplying concepts or revising their identity conditions. If the constraint structure changes, the concept changes. If the constraint remains and only execution varies, conceptual identity remains stable across variation.
 
-The Goal-Governed Model explains the architecture of conceptual identity, but it does not yet explain how conceptual identity becomes meaning. In this chapter, I have explained how conceptual identity remains stable while execution varies, but architecture alone does not explain how concepts acquire semantic significance. Constraint structures specify what may count as an admissible instance. They do not yet explain how concepts come to stand for their referents, how signs acquire meaning, or how interpretation binds conceptual identity to reference.<sup><a href="../references/notes/chapter-06.md#note-11">11</a></sup>
+The Goal-Governed Model explains the architecture of conceptual identity, but it does not yet explain how conceptual identity becomes meaning. In this chapter, I have explained how conceptual identity remains stable while execution varies, but architecture alone does not explain how concepts acquire semantic significance. Constraint structures specify what may count as an admissible instance. They do not yet explain how concepts come to stand for their referents, how signs acquire meaning, or how interpretation binds conceptual identity to reference.<sup><a href="../references/notes/chapter-06.md#note-12">12</a></sup>
 
-That is the task of Chapter 7. I now move from the architecture of conceptual identity to the architecture of meaning by developing the Constructivist Semiotics. There I explain how structured constraints become intelligible constructs and how interpretation transforms conceptual identity into semantic significance.<sup><a href="../references/notes/chapter-06.md#note-12">12</a></sup>
+That is the task of Chapter 7. I now move from the architecture of conceptual identity to the architecture of meaning by developing the Constructivist Semiotics. There I explain how structured constraints become intelligible constructs and how interpretation transforms conceptual identity into semantic significance.<sup><a href="../references/notes/chapter-06.md#note-13">13</a></sup>

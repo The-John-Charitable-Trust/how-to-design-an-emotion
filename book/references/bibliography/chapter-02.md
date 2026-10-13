@@ -114,6 +114,8 @@ Russell, Bertrand. *Introduction to Mathematical Philosophy*. London: George All
 
 Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally and Albert Sechehaye. Translated by Wade Baskin. New York: McGraw-Hill, 1966.
 
+Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally and Albert Sechehaye. Translated by Wade Baskin. New York: Philosophical Library, 1959.
+
 Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
 
 Suppes, Patrick. *Introduction to Logic*. New York: Dover, 1999.
