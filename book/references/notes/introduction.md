@@ -32,7 +32,7 @@
 
 <a id="note-8"></a>
 
-8. Mark C. Murphy, “The Natural Law Tradition in Ethics,” in *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/natural-law-ethics/.
+8. Thomas Aquinas, *Summa Theologiae* I–II, q. 91, a. 2; Mark C. Murphy, “The Natural Law Tradition in Ethics,” in *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/natural-law-ethics/.
 
 <a id="note-9"></a>
 
