@@ -416,7 +416,8 @@ I can now proceed to further argue the distinction between entities that possess
 
 | Entity | Primary Process | Structural Capacity |
 | --- | --- | --- |
-| Infants / Animals | Reactivity & Association | Affective arousal + sensory integration |
+| Infants (before symbolic stabilization) | Reactivity & Association | Affective arousal + sensory integration; symbolic capacity acquired developmentally |
+| Nonhuman Animals | Reactivity & Association | Affective arousal + sensory integration; authorization and consensus not established species-typically |
 | Interpretive Agents | Authorization & Consensus | Symbolic detachability + rule-governed identity |
 
 <p align="center">**Table 12-3. Emotion Construction: Structural Capacities by Entity**</p>

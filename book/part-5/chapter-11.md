@@ -112,11 +112,10 @@ Current evidence does not show that animals reach Level 7. Without detachable sy
 
 | Level | Architectural Stage | Approximate Age | What Structurally Exists | Symbolic / Reflective Features Present | Emotional Meaning Status |
 | --- | --- | --- | --- | --- | --- |
-| 0 | Physiological Activation | Birth | Neural and autonomic reflex responses | None | None |
-| 1 | Affective Modulation | Birth–3 months | Valence/arousal regulation; approach/avoid bias | No detachment; no endorsement | None |
-| 2 | Feeling | ~2–6 months | Conscious affective presence | Minimal self‑presence; no symbolic stabilization | Affective proto‑meaning |
-| 3 | Pre‑Conceptual Awareness | ~6–12 months | Awareness of being in a state about something | No detachable identifier; no endorsement | Pre‑conceptual proto‑meaning |
-| 4 | Conceptual Organization of Feeling | ~12–24 months | Stable affect categories emerging; differentiation of anger, fear, sadness | Implicit non‑symbolic conceptual constraint; no detachment | Structured affective proto‑meaning |
+| 1 | Physiological Activation | Birth | Neural and autonomic reflex responses | None | None |
+| 2 | Affective Modulation | Birth–3 months | Valence/arousal regulation; approach/avoid bias | No detachment; no endorsement | None |
+| 3 | Feeling | ~2–6 months | Conscious affective presence | Minimal self‑presence; no symbolic stabilization | Affective proto‑meaning |
+| 4 | Representational Feeling | ~6–24 months | Awareness of being in a state about something (~6–12 months), then stable affect categories emerging, with differentiation of anger, fear, sadness (~12–24 months) | No detachable identifier; no endorsement; implicit non‑symbolic conceptual constraint emerging | Structured affective proto‑meaning |
 | — Symbolic Threshold Emerging — | — Symbolic Threshold Emerging — | — Symbolic Threshold Emerging — | — Symbolic Threshold Emerging — | — Symbolic Threshold Emerging — | — Symbolic Threshold Emerging — |
 | 5 | Detachable Symbolic Stabilization | ~2–3 years | Emotion words applied to internal states; cross‑context labeling | Detachable symbolic identifier present; symbolic endorsement present; no metarepresentation | Proto‑emotional meaning |
 | 6 | Goal‑Governed Emotional Organization | ~3–4 years | Emotion integrated relative to stake and alternatives | Stable endorsement under concept; reflective capacity emerging | Partially reflective emotional meaning |
@@ -146,7 +145,7 @@ This is the decisive threshold. On the Emotional Meaning Table, it corresponds t
 
 With this criterion in place, the comparative result is straightforward. Non-human animals reliably reach Levels 1 through 4. They exhibit physiological activation, affective modulation, feeling, and structured representational organization of behavior relative to social targets and objects. They can regulate, learn, generalize, and coordinate signals. What the current evidence does not establish species-typically is Level 5: the stabilization of inner states under detachable, endorsable identifiers. Without Level 5, there is no proto-emotional meaning in the strict semiotic sense. Because current evidence does not establish Level 5, it also does not establish Level 7 species-typically. Animals therefore qualify for affect, feeling, and sophisticated regulation, but they do not meet the threshold for emotional meaning.
 
-Infants, by contrast, cross the threshold developmentally. They begin at Levels 0 through 4, with arousal, affective modulation, conscious feeling, and early non-symbolic organization of affect. They do not possess emotional meaning at birth. Proto-emotional meaning emerges when detachable identifiers enter the system and the child can apply them to felt states across contexts.
+Infants, by contrast, cross the threshold developmentally. They begin at Levels 1 through 4, with arousal, affective modulation, conscious feeling, and early non-symbolic organization of affect. They do not possess emotional meaning at birth. Proto-emotional meaning emerges when detachable identifiers enter the system and the child can apply them to felt states across contexts.
 
 On the table, that occurs at Level 5, typically around 2 to 3 years, when emotion words and other detachable identifiers begin to stabilize self-attributed constructs. Full emotional meaning emerges later when metarepresentational capacities develop and the child can reflectively revise an attribution, such as recognizing that an earlier “fear” was actually excitement. On the table, that corresponds to Level 7, typically around 4 to 5 years.<sup><a href="../references/notes/chapter-11.md#note-10">10</a></sup>
 
