@@ -273,6 +273,18 @@ The inclusion of stored procedures, category schemas, and prediction error updat
 
 The CCME thus achieves a strict division of labor. Biological intelligence supplies readiness and probabilistic structure. Memory supplies conceptual resources shaped by past success and failure. Interpretation binds universals to particulars and commits to an evaluative orientation. Emotional meaning does not function as the output of a calculation. It constitutes the achievement of a judgment enacted within constraint.
 
+**How this differs.**
+
+Computational models of emotion have a long history, and mine joins it late. Reviews of the field show how many architectures exist and how hard they are to compare.<sup><a href="../references/notes/appendix-j.md#note-3">3</a></sup>
+
+Most are appraisal engines. The OCC model types emotions by how an agent evaluates events, agents, and objects. Its authors now read it as compatible with psychological construction.<sup><a href="../references/notes/appendix-j.md#note-4">4</a></sup> EMA computes appraisals over a causal model of the agent’s plans and lets coping feed back into them.<sup><a href="../references/notes/appendix-j.md#note-5">5</a></sup> FLAME adds fuzzy rules and learning to appraisal.<sup><a href="../references/notes/appendix-j.md#note-6">6</a></sup> Scherer’s group models appraisal as a sequence of checks that drive change across several components.<sup><a href="../references/notes/appendix-j.md#note-7">7</a></sup> These models are richer than mine. They simulate behavior, coping, and time course. CCME does not.
+
+I differ in what I treat as the output. In these models, emotion is what appraisal computes. In CCME, computation prepares candidates and stops. Simulation, prediction, retrieval, and schema updating narrow the field. Emotion begins only when an agent commits to an identifier under a goal. Until then, the program reports that no emotion has been constructed. I also keep emotion concepts apart from learned schemas, so that a construction can be checked against identity conditions, not just scored.
+
+CCME is small and hypothetical. Its code enforces distinctions; it does not predict data. That is a limit, and I state it plainly.
+
+What is shared: emotion as a structured, goal-relative process that can be computed. What is new: a hard boundary between computational preparation and interpretive commitment, with identity conditions built into the model.
+
 The CCME offers one coherent way to formalize that structure. If we understand emotion as interpretive rather than merely reactive, then we must preserve the distinction between constraint and commitment, between preparation and interpretation. The Constructivist Computational Model of Emotions (CCME) demonstrates such a distinction precisely without denying the predictive, regulatory, and learning capacities of the organism.
 
 The agent does not calculate meaning; the agent achieves it.
