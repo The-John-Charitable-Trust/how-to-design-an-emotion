@@ -4,6 +4,7 @@
 - Acknowledgments
 - Introduction: The Problem of Emotional Meaning
 - Methodology of an Ontology: From Provisional Description to Constrained Identity
+- How to Run the Code Examples in This Book
 
 ## Part I — The Problem of Feeling and Emotion
 
