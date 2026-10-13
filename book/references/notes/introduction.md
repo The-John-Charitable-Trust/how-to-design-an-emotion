@@ -12,11 +12,11 @@
 
 <a id="note-3"></a>
 
-3. John Locke, *Two Treatises of Government*, ed. Peter Laslett (Cambridge: Cambridge University Press, 1988), 269–302; A. John Simmons, “Locke’s Political Philosophy,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/locke-political/.
+3. David C. Snyder, “Locke on Natural Law and Property Rights,” *Canadian Journal of Philosophy* 16, no. 4 (1986): 723–50, https://doi.org/10.1080/00455091.1986.10717145; A. John Simmons, “Locke’s Political Philosophy,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/locke-political/.
 
 <a id="note-4"></a>
 
-4. Christine M. Korsgaard, *The Sources of Normativity* (Cambridge: Cambridge University Press, 1996), 7–48; Stephen Darwall, “Normativity,” in *Routledge Encyclopedia of Philosophy* (London: Routledge, 2001), https://doi.org/10.4324/9780415249126-L135-1.
+4. Christine M. Korsgaard, “Skepticism about Practical Reason,” *Journal of Philosophy* 83, no. 1 (1986): 5–25, https://doi.org/10.2307/2026464; Stephen Darwall, Allan Gibbard, and Peter Railton, “Toward Fin de siècle Ethics: Some Trends,” *Philosophical Review* 101, no. 1 (1992): 115–89, https://doi.org/10.2307/2185045.
 
 <a id="note-5"></a>
 
@@ -52,7 +52,7 @@
 
 <a id="note-13"></a>
 
-13. Rosalind W. Picard, *Affective Computing* (Cambridge, MA: MIT Press, 1997), 55–89; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
+13. Rosalind W. Picard, “Affective Computing: Challenges,” *International Journal of Human-Computer Studies* 59, nos. 1–2 (2003): 55–64, https://doi.org/10.1016/S1071-5819(03)00052-1; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
 
 <a id="note-14"></a>
 
@@ -64,7 +64,7 @@
 
 <a id="note-16"></a>
 
-16. Robert Bolton, “Essentialism and Semantic Theory in Aristotle: *Posterior Analytics*, II, 7–10,” *Philosophical Review* 85, no. 4 (1976): 514–44, https://doi.org/10.2307/2184277; Immanuel Kant, *Critique of Pure Reason*, trans. Paul Guyer and Allen W. Wood (Cambridge: Cambridge University Press, 1998), A19/B33–A22/B36; Michael Rohlf, “Immanuel Kant,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/kant/.
+16. Robert Bolton, “Essentialism and Semantic Theory in Aristotle: *Posterior Analytics*, II, 7–10,” *Philosophical Review* 85, no. 4 (1976): 514–44, https://doi.org/10.2307/2184277; Lucy Allais, “Kant, Non-Conceptual Content and the Representation of Space,” *Journal of the History of Philosophy* 47, no. 3 (2009): 383–413, https://doi.org/10.1353/hph.0.0134; Michael Rohlf, “Immanuel Kant,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/kant/.
 
 <a id="note-17"></a>
 

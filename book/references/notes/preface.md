@@ -28,7 +28,7 @@
 
 <a id="note-7"></a>
 
-7. Rosalind W. Picard, *Affective Computing* (Cambridge, MA: MIT Press, 1997), 55–89; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
+7. Rosalind W. Picard, “Affective Computing: Challenges,” *International Journal of Human-Computer Studies* 59, nos. 1–2 (2003): 55–64, https://doi.org/10.1016/S1071-5819(03)00052-1; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
 
 <a id="note-8"></a>
 
