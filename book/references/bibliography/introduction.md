@@ -2,6 +2,8 @@
 
 [Back to Introduction](../../front-matter/introduction.md) · [Notes](../notes/introduction.md)
 
+Barrett, Lisa Feldman. “Are Emotions Natural Kinds?” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58. https://doi.org/10.1111/j.1745-6916.2006.00003.x.
+
 Barrett, Lisa Feldman. “Categories and Their Role in the Science of Emotion.” *Psychological Inquiry* 28, no. 1 (2017): 20–26. https://doi.org/10.1080/1047840X.2017.1261581.
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
@@ -45,6 +47,8 @@ Peregrin, Jaroslav. “Inferentialism.” In *The Stanford Encyclopedia of Philo
 Picard, Rosalind W. *Affective Computing*. Cambridge, MA: MIT Press, 1997.
 
 Rohlf, Michael. “Immanuel Kant.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/kant/.
+
+Russell, James A. “Core Affect and the Psychological Construction of Emotion.” *Psychological Review* 110, no. 1 (2003): 145–72. https://doi.org/10.1037/0033-295X.110.1.145.
 
 Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
 
