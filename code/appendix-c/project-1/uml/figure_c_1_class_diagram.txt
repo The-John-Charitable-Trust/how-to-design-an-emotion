@@ -1,0 +1,14 @@
+\
+    Figure C-1. Fish Concept UML Class Diagram
+
+    +--------------------------------------------------+
+    |                       Fish                       |
+    +--------------------------------------------------+
+    | - Species : string                              |
+    | - IsAquatic : bool                              |
+    | - IsOrganism : bool                             |
+    +--------------------------------------------------+
+    | + Fish(species : string, isAquatic : bool,      |
+    |        isOrganism : bool)                       |
+    | + ToString() : string                           |
+    +--------------------------------------------------+

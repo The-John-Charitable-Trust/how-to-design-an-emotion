@@ -1,0 +1,10 @@
+Object Diagram
+
+Cars:
+Honda Civic ($25000)
+Mercedes S-Class ($120000)
+
+Goals:
+Transport -> selects all cars
+Status -> selects high value cars
+Shelter -> selects all cars

@@ -1,0 +1,12 @@
+Class Diagram
+
+Car
+ - Model
+ - Value
+
+IGoal
+ + Select(Car)
+
+TransportGoal : IGoal
+StatusGoal : IGoal
+ShelterGoal : IGoal

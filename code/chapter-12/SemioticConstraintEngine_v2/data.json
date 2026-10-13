@@ -1,0 +1,143 @@
+{
+  "arbitrariness": {
+    "familyClan": {
+      "identityConditions": {
+        "relation": "shared ancestry",
+        "rule": "recognized kinship group"
+      },
+      "members": ["Suri", "Mako", "Rika"],
+      "contexts": [
+        { "language": "English", "identifier": "family" },
+        { "language": "Spanish", "identifier": "familia" },
+        { "language": "Swahili", "identifier": "ukoo" }
+      ]
+    },
+    "river": {
+      "identityConditions": {
+        "relation": "flowing watercourse",
+        "rule": "natural channel"
+      },
+      "members": [],
+      "contexts": [
+        { "language": "English", "identifier": "river" },
+        { "language": "Spanish", "identifier": "rio" },
+        { "language": "Swahili", "identifier": "mto" }
+      ]
+    },
+    "tree": {
+      "identityConditions": {
+        "relation": "woody perennial plant",
+        "rule": "single trunk or dominant stem"
+      },
+      "members": [],
+      "contexts": [
+        { "language": "English", "identifier": "tree" },
+        { "language": "Spanish", "identifier": "arbol" },
+        { "language": "Swahili", "identifier": "mti" }
+      ]
+    }
+  },
+  "underdetermination": {
+    "family": {
+      "context": "English",
+      "configurations": [
+        {
+          "title": "Biological family",
+          "identityConditions": {
+            "relation": "biological descent",
+            "rule": "bloodline"
+          },
+          "members": ["Suri", "Mako", "Rika"]
+        },
+        {
+          "title": "Chosen family",
+          "identityConditions": {
+            "relation": "voluntary affiliation",
+            "rule": "chosen bonds"
+          },
+          "members": ["Suri", "Mako", "Rika"]
+        },
+        {
+          "title": "Legal household",
+          "identityConditions": {
+            "relation": "co-residence",
+            "rule": "legal or domestic unit"
+          },
+          "members": ["Suri", "Mako", "Rika"]
+        }
+      ]
+    }
+  },
+  "essence": {
+    "family": {
+      "context": "English",
+      "instances": [
+        {
+          "title": "Biological Essence",
+          "identityConditions": {
+            "relation": "biological descent",
+            "rule": "bloodline"
+          },
+          "members": ["Suri", "Mako"]
+        },
+        {
+          "title": "Chosen Essence",
+          "identityConditions": {
+            "relation": "voluntary affiliation",
+            "rule": "chosen bonds"
+          },
+          "members": ["Suri", "Mako", "Rika"]
+        },
+        {
+          "title": "Institutional Essence",
+          "identityConditions": {
+            "relation": "legal or domestic unit",
+            "rule": "co-residence"
+          },
+          "members": ["Suri", "Rika", "Toma"]
+        }
+      ]
+    }
+  },
+  "identity": {
+    "family": {
+      "identityConditions": {
+        "relation": "shared affiliation",
+        "rule": "recognized group membership"
+      },
+      "members": ["Suri", "Mako", "Rika"],
+      "contexts": [
+        { "language": "English", "identifier": "family", "identity": "kinship identity" },
+        { "language": "Spanish", "identifier": "familia", "identity": "lineage identity" },
+        { "language": "Swahili", "identifier": "ukoo", "identity": "clan identity" }
+      ]
+    }
+  },
+  "significance": {
+    "jobInterview": {
+      "identifier": "job interview",
+      "identityConditions": {
+        "type": "employment evaluation",
+        "rule": "formal candidate assessment"
+      },
+      "context": "professional setting",
+      "interpreters": [
+        {
+          "name": "Candidate A",
+          "motivationalIntensity": "low",
+          "reason": "Already employed; outcome has minimal impact."
+        },
+        {
+          "name": "Candidate B",
+          "motivationalIntensity": "moderate",
+          "reason": "Seeks career progression; outcome is beneficial but not critical."
+        },
+        {
+          "name": "Candidate C",
+          "motivationalIntensity": "high",
+          "reason": "Unemployed; outcome directly affects livelihood."
+        }
+      ]
+    }
+  }
+}

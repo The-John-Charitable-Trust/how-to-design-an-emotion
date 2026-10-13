@@ -1,0 +1,11 @@
+\
+    Figure C-5. Dog Candidate UML Object Diagram
+
+    +----------------------------------+
+    | dog : Fish?                      |
+    +----------------------------------+
+    | Species = "Dog"                  |
+    | IsAquatic = false                |
+    | IsOrganism = true                |
+    +----------------------------------+
+    Rejected at construction

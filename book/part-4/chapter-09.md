@@ -422,7 +422,7 @@ Emotional meaning exists only when an agent interprets a sign relative to a goal
 
 This commitment grounds everything that follows. Without a semiotic architecture, emotion cannot be meaning at all. It becomes a pulse without a person. I restore the identity of emotion by restoring the authority of the agent who means it.
 
-The corresponding C# executables for the projects below are available in the downloaded ZIP file under the matching project folder. Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
+The corresponding C# executables for the projects below are available in the matching project folders in this repository: [Project 1](../../code/chapter-09/project-1/), [Project 2](../../code/chapter-09/project-2/), [Project 3](../../code/chapter-09/project-3/), [Project 4](../../code/chapter-09/project-4/), [Project 5](../../code/chapter-09/project-5/). Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
 
 Project 1 formalizes the claim that an emotion concept functions as a constraint structure. For demonstration, the program stipulates a simplified Fear concept with two admissibility conditions: the context must equal danger, and the arousal level must meet or exceed 6. The number does not claim to identify a psychological threshold for fear. It gives the executable a clear constraint so the program can test whether a runtime instance satisfies the concept.
 
@@ -744,7 +744,7 @@ What remains is to present the system as a unified execution. The projects demon
 
 Figure 9-38 now integrates these constraints into a single, phase-ordered architecture.
 
-<img src="../../assets/figures/chapter-09/figure-53.png" />
+<img src="../../assets/figures/chapter-09/figure-9-37.svg" alt="Figure 9-38. Metamorphosis of an Emotion" />
 
 **Figure 9-38. Metamorphosis of an Emotion**
 

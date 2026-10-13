@@ -1,0 +1,11 @@
+Appendix C.5 – Multi-Concept Participation
+
+Placement: Immediately after Appendix C.4.
+
+This project demonstrates that a single object can participate in multiple goal-bound concepts without changing its identity.
+
+A car remains the same object across all contexts. Under a transport goal, it functions as a means of movement. Under a status goal, it is evaluated by value. Under a shelter goal, it can serve as temporary housing.
+
+The same object is selected differently under different goals. This does not imply that the identity of the car changes. It shows that different goal-bound constraint structures define different conceptual roles.
+
+This clarifies Barrett’s claim that a single object can belong to multiple concepts. Participation varies with the goal, but identity remains invariant.

@@ -213,7 +213,7 @@ Each demonstration uses a single invariant scenario: an interpreter takes the sy
 
 Each demonstration corresponds to a specific Computational Principle within Constructivist Semiotics and produces a concrete output that can succeed or fail. Together, they show that meaning is not intrinsic to symbols, not reducible to correlation, and not arbitrary, but a governed achievement of a goal-directed agent under constraint.
 
-The corresponding C# executables for the projects below appear in the downloaded ZIP file under the matching project folder. Each folder includes a README with the canonical instructions for building, running, and reproducing the sample outputs.
+The corresponding C# executables for the projects below appear in the matching project folders in this repository: [Project 1](../../code/chapter-07/project-1/), [Project 2](../../code/chapter-07/project-2/), [Project 3](../../code/chapter-07/project-3/), [Project 4](../../code/chapter-07/project-4/), [Project 5](../../code/chapter-07/project-5/). Each folder includes a README with the canonical instructions for building, running, and reproducing the sample outputs.
 
 Project 1 demonstrates the minimal executable form of the Constructivist Semiotic Sign.
 
@@ -430,7 +430,7 @@ Computational Principle 6. Agent and Goal Preservation: The architecture must pr
 
 Computational Principle 7. Executability Without Collapse: A theory must not merge what it claims to distinguish under the pressure of execution. If these distinctions vanish in the machine, the theory is explanatorily inadequate.
 
-These principles ensure that the Constructivist Semiotic Sign functions as a purposive instrument of reason. By mapping the Interpreter (Goal) and Referent (Context) above the Boundary of Stake, we satisfy the requirement for Interpretive Governance and Goal Preservation. The structure of the Semiotic Sign rectangle below that boundary ensures Ontological Separability and Symbolic Reference Integrity by isolating the Label from the Context.
+These principles ensure that the Constructivist Semiotic Sign functions as a purposive instrument of reason. By positioning the Interpreter (Goal) and Referent (Context) as governing constraints on the sign, we satisfy the requirement for Interpretive Governance and Goal Preservation. The structure of the Semiotic Sign ensures Ontological Separability and Symbolic Reference Integrity by isolating the Label from the Context.
 
 In this chapter, I have answered the governing question: how does a symbol become meaningful without collapsing meaning into intrinsic essence, private feeling, social convention, or statistical correlation? I answered by specifying the Constructivist Semiotic Sign as an architecture. Its necessary constituents are Identifier, Concept, Construct, Referent, and Interpreter. Its governing act is interpretation under a goal.
 

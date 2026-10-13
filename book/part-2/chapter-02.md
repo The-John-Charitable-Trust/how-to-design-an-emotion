@@ -183,7 +183,7 @@ Applied to ideas, UML functions as formal syntax. It represents meaning as archi
 
 By adopting UML, I make it possible to diagram, compare, and analyze the structure of meaning without reducing philosophy to engineering or collapsing meaning into computation.
 
-The corresponding C# executables for the projects below appear in the downloaded ZIP file under the matching project folder. Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
+The corresponding C# executables for the projects below appear in the matching project folders in this repository: [Project 1](../../code/chapter-02/project-1/), [Project 2](../../code/chapter-02/project-2/), [Project 3](../../code/chapter-02/project-3/). Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
 
 ![Chapter 2 figure 01](../../assets/figures/chapter-02/figure-01.png)
 
