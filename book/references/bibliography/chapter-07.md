@@ -16,7 +16,7 @@ Guerra-Pujol, F. E. “Gödel’s Loophole.” *Capital University Law Review* 4
 
 Harnad, Stevan. “The Symbol Grounding Problem.” *Physica D: Nonlinear Phenomena* 42, nos. 1–3 (1990): 335–46. https://doi.org/10.1016/0167-2789(90)90087-6.
 
-John, Cecil. *God Father: Why Would I Get Married?* Universal Moral Constructs, bk. 1.
+John, Cecil. *God Father: Why Would I Get Married?* Universal Moral Constructs, bk. 1. Miami: New Intellectual, 2023.
 
 Mayer, John D., Peter Salovey, and David R. Caruso. “Emotional Intelligence: New Ability or Eclectic Traits?” *American Psychologist* 63, no. 6 (2008): 503–17. https://doi.org/10.1037/0003-066X.63.6.503.
 

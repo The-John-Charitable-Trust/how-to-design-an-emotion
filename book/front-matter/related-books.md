@@ -1,12 +1,12 @@
 # Related Books
 
-## Universal Moral Concepts I
+## Universal Moral Constructs I
 
 ![God Father](../../assets/covers/related-books/god-father.jpg)
 
 ### God Father
 
-*A Story of Love, Power and Moral Sovereignty*
+*Why Would I Get Married?*
 
 ## Universal Moral Concepts II
 
