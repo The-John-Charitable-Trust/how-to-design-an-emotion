@@ -4,7 +4,7 @@
 
 <a id="note-1"></a>
 
-1. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), 24–45.
+1. For the claim that perception depends on concepts, see Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-2"></a>
 
