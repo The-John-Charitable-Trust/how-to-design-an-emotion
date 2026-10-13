@@ -26,8 +26,6 @@ Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fa
 
 Lakoff, George. *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind*. Chicago: University of Chicago Press, 1987.
 
-Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
-
 Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
 
 Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63. https://doi.org/10.1037/h0025953.

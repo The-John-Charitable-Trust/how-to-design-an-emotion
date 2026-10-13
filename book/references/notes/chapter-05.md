@@ -64,31 +64,31 @@
 
 <a id="note-16"></a>
 
-16. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
+16. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-17"></a>
 
-17. Posner and Keele, “Genesis of Abstract Ideas.”
+17. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
 
 <a id="note-18"></a>
 
-18. Object Management Group, *Unified Modeling Language*, 126.
+18. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-19"></a>
 
-19. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
+19. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-20"></a>
 
-20. MDN Web Docs, “Inheritance and the Prototype Chain.”
+20. Yann LeCun, Yoshua Bengio, and Geoffrey Hinton, “Deep Learning,” *Nature* 521, no. 7553 (2015): 436–44, https://doi.org/10.1038/nature14539.
 
 <a id="note-21"></a>
 
-21. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
+21. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. [CITATION NEEDED: verify — examples of architecture search, meta-learning, dynamic graphs, and self-supervised pretraining need a survey source]
 
 <a id="note-22"></a>
 
-22. Margolis and Laurence, “Concepts.”
+22. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-23"></a>
 
@@ -96,56 +96,24 @@
 
 <a id="note-24"></a>
 
-24. Margolis and Laurence, “Concepts.”
+24. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-25"></a>
 
-25. Margolis and Laurence, “Concepts.”
+25. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-26"></a>
 
-26. Object Management Group, *Unified Modeling Language*, 126.
+26. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-27"></a>
 
-27. Margolis and Laurence, “Concepts.”
+27. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-28"></a>
 
-28. MDN Web Docs, “Inheritance and the Prototype Chain.”
+28. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-29"></a>
 
-29. MDN Web Docs, “Inheritance and the Prototype Chain.”
-
-<a id="note-30"></a>
-
-30. Posner and Keele, “Genesis of Abstract Ideas.”
-
-<a id="note-31"></a>
-
-31. Object Management Group, *Unified Modeling Language*, 126.
-
-<a id="note-32"></a>
-
-32. Gupta, “Definitions.”
-
-<a id="note-33"></a>
-
-33. Margolis and Laurence, “Concepts.”
-
-<a id="note-34"></a>
-
-34. Posner and Keele, “Genesis of Abstract Ideas.”
-
-<a id="note-35"></a>
-
-35. Object Management Group, *Unified Modeling Language*, 126.
-
-<a id="note-36"></a>
-
-36. Object Management Group, *Unified Modeling Language*, 126.
-
-<a id="note-37"></a>
-
-37. Gupta, “Definitions.”
+29. Object Management Group, *Unified Modeling Language*, 126.

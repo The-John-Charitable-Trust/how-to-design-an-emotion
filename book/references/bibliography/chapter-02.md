@@ -6,15 +6,11 @@ Adams, Robert Merrihew. *Finite and Infinite Goods: A Framework for Ethics*. Oxf
 
 Aristotle. *Categories*. Translated by E. M. Edghill. Oxford: Clarendon Press, 1928.
 
-Aristotle. *Metaphysics*. Translated by W. D. Ross. Internet Classics Archive. http://classics.mit.edu/Aristotle/metaphysics.html.
-
 Aristotle. *Metaphysics*. Translated by W. D. Ross. Oxford: Clarendon Press, 1924.
 
 Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
-
-Barsalou, Lawrence W. “Ad Hoc Categories.” *Memory & Cognition* 11, no. 3 (1983): 211–27. https://doi.org/10.3758/BF03196968.
 
 Barsalou, Lawrence W. “Perceptual Symbol Systems.” *Behavioral and Brain Sciences* 22, no. 4 (1999): 577–660.
 
@@ -31,8 +27,6 @@ Davidson, Donald. “Actions, Reasons, and Causes.” *Journal of Philosophy* 60
 Davidson, Donald. “On the Very Idea of a Conceptual Scheme.” *Proceedings and Addresses of the American Philosophical Association* 47 (1974): 5–20.
 
 Dennett, Daniel C. *The Intentional Stance*. Cambridge, MA: MIT Press, 1987.
-
-Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
 
 Ekman, Paul. *Emotions Revealed*. 2nd ed. New York: Times Books, 2007.
 
@@ -56,7 +50,7 @@ Haack, Susan. *Evidence and Inquiry: Towards Reconstruction in Epistemology*. Ox
 
 Hart, H. L. A. *The Concept of Law*. 2nd ed. Oxford: Oxford University Press, 1994.
 
-Hohfeld, Wesley N. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59.
+Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
 
 Husserl, Edmund. *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Translated by F. Kersten. The Hague: Martinus Nijhoff, 1982.
 
@@ -66,15 +60,11 @@ James, William. *The Principles of Psychology*. Vol. 2. New York: Henry Holt, 18
 
 Kant, Immanuel. *Critique of Pure Reason*. Translated by Paul Guyer and Allen Wood. Cambridge: Cambridge University Press, 1998.
 
-Kripke, Saul A. *Naming and Necessity*. Cambridge, MA: Harvard University Press, 1980.
-
 Kuhn, Thomas S. *The Structure of Scientific Revolutions*. 2nd ed. Chicago: University of Chicago Press, 1970.
 
 Locke, John. *Two Treatises of Government*. Edited by Peter Laslett. Cambridge: Cambridge University Press, 1988.
 
 Lyons, John. *Language and Linguistics: An Introduction*. Cambridge: Cambridge University Press, 1981.
-
-Machery, Edouard. “Concepts.” *Stanford Encyclopedia of Philosophy*. 2015. https://plato.stanford.edu/entries/concepts/.
 
 Machery, Edouard. *Doing without Concepts*. Oxford: Oxford University Press, 2009.
 
@@ -87,6 +77,8 @@ Marr, David. *Vision: A Computational Investigation into the Human Representatio
 Murphy, Gregory. *The Big Book of Concepts*. Cambridge, MA: MIT Press, 2002.
 
 Nagel, Thomas. “What Is It Like to Be a Bat?” *Philosophical Review* 83, no. 4 (1974): 435–50.
+
+National Archives. “Declaration of Independence: A Transcription.” https://www.archives.gov/founding-docs/declaration-transcript.
 
 Newell, Allen, and Herbert A. Simon. *Human Problem Solving*. Englewood Cliffs, NJ: Prentice-Hall, 1972.
 
@@ -108,19 +100,17 @@ Putnam, Hilary. *Reason, Truth and History*. Cambridge: Cambridge University Pre
 
 Putnam, Hilary. “The Meaning of ‘Meaning.’” In *Mind, Language and Reality: Philosophical Papers*, vol. 2, 215–71. Cambridge: Cambridge University Press, 1975.
 
-Quine, W. V. O. “Two Dogmas of Empiricism.” *Philosophical Review* 60, no. 1 (1951): 20–43. https://doi.org/10.2307/2181906.
-
 Quine, W. V. O. *Word and Object*. Cambridge, MA: MIT Press, 1960.
 
 Rand, Ayn. *Introduction to Objectivist Epistemology*. 2nd ed. Edited by Harry Binswanger and Leonard Peikoff. New York: Meridian, 1990.
+
+Rey, Georges. “The Analytic/Synthetic Distinction.” In *The Stanford Encyclopedia of Philosophy*. Substantive revision June 1, 2026. https://plato.stanford.edu/entries/analytic-synthetic/.
 
 Rosch, Eleanor. “Cognitive Representations of Semantic Categories.” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233. https://doi.org/10.1037/0096-3445.104.3.192.
 
 Rosch, Eleanor. “Principles of Categorization.” In *Cognition and Categorization*, edited by Eleanor Rosch and Barbara B. Lloyd, 27–48. Hillsdale, NJ: Lawrence Erlbaum, 1978.
 
 Russell, Bertrand. *Introduction to Mathematical Philosophy*. London: George Allen & Unwin, 1919.
-
-Russell, James A. “Core Affect and the Psychological Construction of Emotion.” *Psychological Review* 110, no. 1 (2003): 145–72. https://doi.org/10.1037/0033-295X.110.1.145.
 
 Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally and Albert Sechehaye. Translated by Wade Baskin. New York: McGraw-Hill, 1966.
 

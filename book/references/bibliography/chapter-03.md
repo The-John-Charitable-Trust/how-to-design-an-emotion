@@ -2,6 +2,8 @@
 
 [Back to Chapter 3](../../part-2/chapter-03.md) · [Notes](../notes/chapter-03.md)
 
+Barrett, Lisa Feldman. “Are Emotions Natural Kinds?” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58. https://doi.org/10.1111/j.1745-6916.2006.00003.x.
+
 Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
@@ -13,7 +15,3 @@ Gross, James J. “The Emerging Field of Emotion Regulation: An Integrative Revi
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
 
 Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
-
-Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals and Humans.” *Consciousness and Cognition* 14, no. 1 (2005): 30–80. https://doi.org/10.1016/j.concog.2004.10.004.
-
-Peregrin, Jaroslav. “Inferentialism.” In *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/inferentialism/.
