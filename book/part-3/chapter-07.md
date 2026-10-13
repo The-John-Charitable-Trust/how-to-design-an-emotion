@@ -64,7 +64,7 @@
 
 [Chapter 6](../part-2/chapter-06.md) explained how identity remains stable while instantiations vary, but not how a rational agent transforms conceptual structure into meaning. Meaning arises only when a rational agent interprets conceptual structure as a sign under conditions that admit success or failure.<sup><a href="../references/notes/chapter-07.md#note-1">1</a></sup>
 
-In my novel, *God Father: Why Would I Get Married?* (Universal Moral Constructs, Book 1),<sup><a href="../references/notes/chapter-07.md#note-2">2</a></sup> René Deschamps dramatizes this unresolved transition from structure to intelligibility:
+In my novel, *God Father: Why Would I Get Married?* (Universal Moral Concepts, Book 1),<sup><a href="../references/notes/chapter-07.md#note-2">2</a></sup> René Deschamps dramatizes this unresolved transition from structure to intelligibility:
 
 “We know how to define ideas, but we do not yet explain how they become intelligible to ourselves or to one another. We treat meaning as inherently infallible, reliably self-governing, and automatically self-validating. We mistake cognition for comprehension, judgment for justification, and coincidence for consensus. The task before us is not to refine another ontology of ideas, but to explain how a rational agent constructs meaning before interpretation can succeed or communication can begin.”
 

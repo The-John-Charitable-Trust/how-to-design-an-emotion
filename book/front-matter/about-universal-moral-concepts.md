@@ -3,11 +3,11 @@
 ## A String Theory for the Integration of Ethics and Emotions
 
 Universal Moral Concepts is a 3 VOLUME publication consisting of:
-The Story - God Father: Why Would I Get Married? (Universal Moral Constructs, Book 1)
+The Story - God Father: Why Would I Get Married? (Universal Moral Concepts, Book 1)
 The Philosophy - The Art of Sovereignty: How Morality Is Made
 Psychology/Affective Neuroscience - How To Design an Emotion: The Deconstruction and Computation of Emotional Meaning from First Principles
 
-My goal as an author is to use THE STORY to present complex philosophy and psychology ideas in a digestible format via the God Father fiction novel series. Each episode of the God Father is accompanied by the corresponding books from Good is Dead, and How to Design an Emotion.
+My goal as an author is to use THE STORY to present complex philosophy and psychology ideas in a digestible format via the God Father fiction novel series. Each episode of the God Father is accompanied by the corresponding books from *The Art of Sovereignty*, and How to Design an Emotion.
 
 ## THE STORY - GOD FATHER
 

@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. Cecil John, *God Father: Why Would I Get Married?*, Universal Moral Constructs, bk. 1 (Miami: New Intellectual, 2023).
+2. Cecil John, *God Father: Why Would I Get Married?*, Universal Moral Concepts, bk. 1 (Miami: New Intellectual, 2023).
 
 <a id="note-3"></a>
 
