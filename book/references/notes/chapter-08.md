@@ -24,11 +24,11 @@
 
 <a id="note-6"></a>
 
-6. Peirce, “New List”.
+6. Peirce, “New List.”
 
 <a id="note-7"></a>
 
-7. Peirce, “New List”.
+7. Peirce, “New List.”
 
 <a id="note-8"></a>
 
@@ -56,7 +56,7 @@
 
 <a id="note-14"></a>
 
-14. Benveniste, “Nature du signe”.
+14. Benveniste, “Nature du signe.”
 
 <a id="note-15"></a>
 
@@ -68,24 +68,28 @@
 
 <a id="note-17"></a>
 
-17. Peirce, “New List”.
+17. Peirce, “New List.”
 
 <a id="note-18"></a>
 
-18. Peirce, “New List”.
+18. Peirce, “New List.”
 
 <a id="note-19"></a>
 
-19. On the interpretant and the much-debated final interpretant, see Göran Sonesson, “Semiosis and the Elusive Final Interpretant of Understanding,” *Semiotica* 179 (2010): 145–258, https://doi.org/10.1515/semi.2010.023.
+19. On the distinction between the immediate and the dynamical object, see Giacomo Guidetti, “On Peirce’s Immediate Object,” *Transactions of the Charles S. Peirce Society* 57, no. 3 (2021): 299–318, https://doi.org/10.2979/trancharpeirsoc.57.3.01.
 
 <a id="note-20"></a>
 
-20. Barnouw, “Peirce and Derrida”.
+20. On the interpretant and the much-debated final interpretant, see Göran Sonesson, “Semiosis and the Elusive Final Interpretant of Understanding,” *Semiotica* 179 (2010): 145–258, https://doi.org/10.1515/semi.2010.023.
 
 <a id="note-21"></a>
 
-21. Sonesson, “Elusive Final Interpretant”.
+21. Barnouw, “Peirce and Derrida.”
 
 <a id="note-22"></a>
 
-22. Barnouw, “Peirce and Derrida”.
+22. Sonesson, “Elusive Final Interpretant.”
+
+<a id="note-23"></a>
+
+23. Barnouw, “Peirce and Derrida.”
