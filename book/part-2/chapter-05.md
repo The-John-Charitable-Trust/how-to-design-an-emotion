@@ -20,7 +20,7 @@ Deep learning and JavaScript both illustrate this architecture. Engineers specif
 
 I conclude that the longstanding opposition between classical and prototype theories results from assigning different explanatory responsibilities to the same level of analysis. Once identity conditions remain upstream and prototype effects operate downstream, the apparent conflict disappears.
 
-In Chapter 6, I move from diagnosis to construction. Building on this architectural repair, I develop a goal-governed model of conceptual identity that explains how identity conditions constrain admissible variation without eliminating flexibility.
+In Chapter 6, I move from diagnosis to construction. Building on this architectural repair, I develop the Theory of Constrained Identity, which explains how identity conditions constrain admissible variation without eliminating flexibility.
 
 In the last chapter, I completed the diagnostic work. I argued that several influential strands of contemporary concept theory fail for an architectural reason rather than an empirical one: they push identity conditions downstream into categorization, prediction, learning, and cultural grouping.<sup><a href="../references/notes/chapter-05.md#note-1">1</a></sup>,<sup><a href="../references/notes/chapter-05.md#note-2">2</a></sup> This reversal weakens our ability to explain sameness, error, and disagreement across contexts.<sup><a href="../references/notes/chapter-05.md#note-3">3</a></sup>
 
@@ -92,4 +92,4 @@ This architecture secures operational identity without restoring naive essential
 
 In this chapter, I have therefore answered the governing question directly: I do not have to choose between rigid classical essence and unconstrained prototype flexibility. I need a layered account in which structure and variation occupy different positions in the same architecture.
 
-Chapter 6 now states that account positively as a goal-governed model of conceptual identity: a model in which identity conditions remain upstream while norm-governed grouping varies in execution.
+Chapter 6 now states that account positively as the Theory of Constrained Identity: a model in which identity conditions remain upstream while norm-governed grouping varies in execution.
