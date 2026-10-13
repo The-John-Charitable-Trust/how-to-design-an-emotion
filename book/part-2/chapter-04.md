@@ -2,28 +2,6 @@
 
 *The Orphaning of Identity Conditions*
 
-*Chapter 3 argued that identity conditions ought to survive the rejection of fixed essences. Chapter 4 examines what follows when theories fail to preserve that distinction.*
-
-*Modern theories rightly reject the classical assumption that concepts derive their identity from fixed essences. Emotion does not come stamped with one neural signature, one bodily pattern, or one universal expression. Concepts do not exist as fixed inner essences awaiting application. Lisa Feldman Barrett, Eleanor Rosch, George Lakoff, Lawrence Barsalou, Andy Clark, and Karl Friston all contribute to dismantling that assumption.*
-
-*Rejecting fixed essences, however, does not by itself explain what secures identity conditions.*
-
-*When theorists reject essences without reconstructing identity conditions, they relocate explanatory work to the wrong level. They ask categorization, prediction, similarity, learning, culture, and task success to perform work that belongs to identity conditions. They mistake partitioning for concept formation. They treat the classification of observed instances as if it could explain the conditions that make an instance admissible in the first place.*
-
-*A color boundary can separate blue from green. It cannot define what color is. A culture can treat a grub as food or as a pest. It cannot change what makes the organism a grub. An agent can classify a bodily state as anger or fear. That classification still presupposes conditions that distinguish anger from fear.*
-
-*This chapter exposes that architectural error: downstream operations assume upstream authority. They borrow the explanatory work of identity conditions while denying the need for them.*
-
-*The repair is simple but fundamental: restore each explanatory level to its proper place.*
-
-*Concept constrains. Instance realizes. Category groups.*
-
-*A concept specifies admissibility conditions. An instance either satisfies or violates those conditions. A category organizes admissible instances relative to a goal. Prediction, simulation, learning, culture, and embodiment all contribute to conceptual performance, but they operate within a constraint space. They do not create that space.*
-
-*This distinction allows me to preserve the major achievements of contemporary concept theory without surrendering meaning to conceptual drift. Concepts may adapt without becoming arbitrary. Categories may vary without redefining the concepts they organize. Agents may construct meaning without abandoning conceptual constraint.*
-
-*Chapter 5 examines the false dichotomy that made this architectural error appear inevitable: the supposed opposition between classical definitions and prototype theories. I argue that this choice is mistaken. The deeper question does not concern whether concepts possess rigid essences or flexible prototypes. It concerns where a theory locates identity conditions. Do they reside upstream in the concept that constrains admissible instances, or downstream in the operations that sort those instances? That question frames the next stage of the argument.*
-
 [Notes](../references/notes/chapter-04.md) · [Bibliography](../references/bibliography/chapter-04.md)
 
 Chapter 3 argued that identity conditions ought to survive the rejection of fixed essences. Chapter 4 examines what follows when theories fail to preserve that distinction.
@@ -47,12 +25,6 @@ A concept specifies admissibility conditions. An instance either satisfies or vi
 This distinction allows me to preserve the major achievements of contemporary concept theory without surrendering meaning to conceptual drift. Concepts may adapt without becoming arbitrary. Categories may vary without redefining the concepts they organize. Agents may construct meaning without abandoning conceptual constraint.
 
 Chapter 5 examines the false dichotomy that made this architectural error appear inevitable: the supposed opposition between classical definitions and prototype theories. I argue that this choice is mistaken. The deeper question does not concern whether concepts possess rigid essences or flexible prototypes. It concerns where a theory locates identity conditions. Do they reside upstream in the concept that constrains admissible instances, or downstream in the operations that sort those instances? That question frames the next stage of the argument.
-
-CHAPTER V
-
-Rules vs. Prototypes
-
-Why the Great Debate Over Concepts Is a Faux Dichotomy
 
 In the previous chapter, I established a critical distinction: identity condition does not naively mean essence.<sup><a href="../references/notes/chapter-04.md#note-1">1</a></sup> Identity conditions function as architectural constraints.<sup><a href="../references/notes/chapter-04.md#note-2">2</a></sup> They specify the admissibility conditions under which something can count as an instance.<sup><a href="../references/notes/chapter-04.md#note-3">3</a></sup> I agreed with Lisa Feldman Barrett that emotion theory should reject naive essentialism.<sup><a href="../references/notes/chapter-04.md#note-4">4</a></sup> Emotions do not possess invariant neural signatures, universal biological fingerprints, or necessary and sufficient features.<sup><a href="../references/notes/chapter-04.md#note-5">5</a></sup> The empirical evidence no longer supports the classical view.<sup><a href="../references/notes/chapter-04.md#note-6">6</a></sup>
 
@@ -207,5 +179,3 @@ The examples developed throughout this chapter illustrate that distinction. The 
 The chapter therefore answers its governing question directly. Partitioning does not define. Similarity does not ground identity. Prediction does not create the concept it uses. A concept constrains. An instance realizes. A category groups. Once I restore that order, I can preserve the achievements of prototype, constructionist, embodied, and predictive theories without allowing their downstream operations to replace the identity conditions they presuppose.
 
 This conclusion prepares the next step. The conflict between classical and prototype theories looks decisive only because both sides treat the wrong explanatory level as fundamental. Classical theory tries to secure identity by hardening definition into rigidity. Prototype theory explains flexible recognition but often lets typicality perform work that belongs to identity conditions. Chapter 5 takes up that false choice and shows why the real alternative is not classical essence versus prototype flexibility, but constraint architecture over both.
-
-CHAPTER V

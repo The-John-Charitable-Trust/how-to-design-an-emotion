@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. Jaroslav Peregrin, "Inferentialism," in The Stanford Encyclopedia of Philosophy, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/. Access basis: Open scholarly reference.
+2. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, abstract and fig. 1, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-3"></a>
 
@@ -20,11 +20,11 @@
 
 <a id="note-5"></a>
 
-5. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+5. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-6"></a>
 
-6. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+6. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-7"></a>
 
@@ -36,7 +36,7 @@
 
 <a id="note-9"></a>
 
-9. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+9. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Theory of Constructed Emotion." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-10"></a>
 
@@ -48,11 +48,11 @@
 
 <a id="note-12"></a>
 
-12. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+12. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
 
 <a id="note-13"></a>
 
-13. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+13. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, abstract and fig. 1, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-14"></a>
 
@@ -84,35 +84,35 @@
 
 <a id="note-21"></a>
 
-21. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+21. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-22"></a>
 
-22. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+22. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-23"></a>
 
-23. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+23. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
 
 <a id="note-24"></a>
 
-24. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+24. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
 
 <a id="note-25"></a>
 
-25. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+25. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified. [CITATION NEEDED: verify — "imposes similarities" verified in chap. 5; the quoted phrase "collections of instances" was not found (chap. 5 and SCAN 2017 use "population(s) of instances/representations"); confirm wording and page]
 
 <a id="note-26"></a>
 
-26. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+26. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-27"></a>
 
-27. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+27. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "An Internal Model Is Predictive, Not Reactive." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-28"></a>
 
-28. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+28. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified. [CITATION NEEDED: verify — the phrase "constructed on the fly" was not verified; chap. 5 describes concepts as constructed "in the moment"; confirm exact wording and page]
 
 <a id="note-29"></a>
 
@@ -120,7 +120,7 @@
 
 <a id="note-30"></a>
 
-30. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
+30. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central. [CITATION NEEDED: verify — "concepts stabilize because they work" is not a verified Barrett claim in SCAN 2017; supply a passage or rephrase as interpretation]
 
 <a id="note-31"></a>
 
@@ -138,13 +138,17 @@
 
 34. James J. Gross, "The Emerging Field of Emotion Regulation: An Integrative Review," Review of General Psychology 2, no. 3 (1998): 271-299, https://doi.org/10.1037/1089-2680.2.3.271. Access basis: DOI/publisher page verified.
 
+<a id="note-35"></a>
+
+35. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+
 <a id="note-36"></a>
 
-36. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+36. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
 
 <a id="note-37"></a>
 
-37. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+37. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
 
 <a id="note-38"></a>
 
@@ -152,27 +156,27 @@
 
 <a id="note-39"></a>
 
-39. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
+39. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "An Internal Model Is Predictive, Not Reactive." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-40"></a>
 
-40. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+40. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-41"></a>
 
-41. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+41. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central. [CITATION NEEDED: verify — same as note 30: "concepts stabilize because they work" not verified in SCAN 2017]
 
 <a id="note-42"></a>
 
-42. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
+42. Jaak Panksepp, "Affective Consciousness: Core Emotional Feelings in Animals and Humans," Consciousness and Cognition 14, no. 1 (2005): 30-80, https://doi.org/10.1016/j.concog.2004.10.004. Access basis: DOI/publisher abstract verified.
 
 <a id="note-43"></a>
 
-43. Jaak Panksepp, "Affective Consciousness: Core Emotional Feelings in Animals and Humans," Consciousness and Cognition 14, no. 1 (2005): 30-80, https://doi.org/10.1016/j.concog.2004.10.004. Access basis: DOI/publisher abstract verified.
+43. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
 
 <a id="note-44"></a>
 
-44. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
+44. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central. [CITATION NEEDED: verify — SCAN 2017, sec. "The Theory of Constructed Emotion," states that emotion categories "are as real as any other conceptual categories"; the attributed assumption that emotions "lack stable identities" needs a supporting passage or should be framed as the author's inference]
 
 <a id="note-45"></a>
 
@@ -180,7 +184,7 @@
 
 <a id="note-46"></a>
 
-46. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
+46. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Theory of Constructed Emotion." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-47"></a>
 
@@ -188,7 +192,7 @@
 
 <a id="note-48"></a>
 
-48. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+48. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
 
 <a id="note-49"></a>
 
@@ -196,16 +200,12 @@
 
 <a id="note-50"></a>
 
-50. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
+50. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
 
 <a id="note-51"></a>
 
-51. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+51. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Theory of Constructed Emotion." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-52"></a>
 
-52. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
-
-<a id="note-53"></a>
-
-53. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
+52. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.

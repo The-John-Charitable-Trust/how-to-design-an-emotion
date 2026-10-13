@@ -14,4 +14,6 @@ Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Review
 
 Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154.
 
+Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017).
+
 Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.

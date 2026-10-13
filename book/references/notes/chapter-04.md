@@ -16,7 +16,7 @@
 
 <a id="note-4"></a>
 
-4. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+4. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, abstract and fig. 1, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-5"></a>
 
@@ -40,7 +40,7 @@
 
 <a id="note-10"></a>
 
-10. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+10. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Theory of Constructed Emotion." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-11"></a>
 
@@ -140,7 +140,7 @@
 
 <a id="note-35"></a>
 
-35. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
+35. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
 
 <a id="note-36"></a>
 
@@ -152,27 +152,27 @@
 
 <a id="note-38"></a>
 
-38. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+38. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard. [CITATION NEEDED: verify — the "public lecture on concepts accompanying How Emotions Are Made" is not identified (title, venue, date, URL); note currently cites the UML 2.5.1 specification]
 
 <a id="note-39"></a>
 
-39. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+39. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard. [CITATION NEEDED: verify — same lecture as note 38; currently cites the UML 2.5.1 specification]
 
 <a id="note-40"></a>
 
-40. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+40. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
 
 <a id="note-41"></a>
 
-41. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+41. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
 
 <a id="note-42"></a>
 
-42. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+42. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard. [CITATION NEEDED: verify — Barrett's naming of the Posner–Keele paradigm in the lecture/book not verified; currently cites the UML 2.5.1 specification]
 
 <a id="note-43"></a>
 
-43. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+43. Michael I. Posner and Steven W. Keele, "On the Genesis of Abstract Ideas," Journal of Experimental Psychology 77, no. 3 (1968): 353-363, https://doi.org/10.1037/h0025953. Access basis: DOI and author-uploaded full text.
 
 <a id="note-44"></a>
 
@@ -196,11 +196,11 @@
 
 <a id="note-49"></a>
 
-49. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+49. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
 
 <a id="note-50"></a>
 
-50. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+50. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard. [CITATION NEEDED: verify — same lecture as note 38; currently cites the UML 2.5.1 specification]
 
 <a id="note-51"></a>
 
@@ -212,7 +212,7 @@
 
 <a id="note-53"></a>
 
-53. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+53. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard. [CITATION NEEDED: verify — the grub (food vs. pest) example was not found in How Emotions Are Made or SCAN 2017 (the book's verified food example is hachinoko, baby bees); identify the lecture or source]
 
 <a id="note-54"></a>
 
@@ -224,7 +224,7 @@
 
 <a id="note-56"></a>
 
-56. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+56. George Lakoff, Women, Fire, and Dangerous Things: What Categories Reveal about the Mind (Chicago: University of Chicago Press, 1987). Access basis: source attribution corrected; page not verified.
 
 <a id="note-57"></a>
 
@@ -232,7 +232,7 @@
 
 <a id="note-58"></a>
 
-58. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+58. Lawrence W. Barsalou, "Perceptual Symbol Systems," Behavioral and Brain Sciences 22, no. 4 (1999): 577-660, https://doi.org/10.1017/S0140525X99002149. Access basis: DOI and publisher metadata verified.
 
 <a id="note-59"></a>
 
@@ -244,7 +244,7 @@
 
 <a id="note-61"></a>
 
-61. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+61. Andy Clark, "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science," Behavioral and Brain Sciences 36, no. 3 (2013): 181-204, https://doi.org/10.1017/S0140525X12000477. Access basis: DOI and abstract verified.
 
 <a id="note-62"></a>
 
@@ -256,7 +256,7 @@
 
 <a id="note-64"></a>
 
-64. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
+64. David E. Rumelhart, James L. McClelland, and the PDP Research Group, Parallel Distributed Processing: Explorations in the Microstructure of Cognition, vol. 1, Foundations (Cambridge, MA: MIT Press, 1986). Access basis: source attribution corrected; chapter and page not verified.
 
 <a id="note-65"></a>
 
@@ -264,11 +264,11 @@
 
 <a id="note-66"></a>
 
-66. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+66. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-67"></a>
 
-67. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+67. Lawrence W. Barsalou, "Perceptual Symbol Systems," Behavioral and Brain Sciences 22, no. 4 (1999): 577-660, https://doi.org/10.1017/S0140525X99002149. Access basis: DOI and publisher metadata verified.
 
 <a id="note-68"></a>
 
@@ -276,23 +276,23 @@
 
 <a id="note-69"></a>
 
-69. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+69. George Lakoff, Women, Fire, and Dangerous Things: What Categories Reveal about the Mind (Chicago: University of Chicago Press, 1987). Access basis: source attribution corrected; page not verified.
 
 <a id="note-70"></a>
 
-70. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+70. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-71"></a>
 
-71. Anil Gupta, "Definitions," in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.
+71. Eleanor Rosch and Carolyn B. Mervis, "Family Resemblances: Studies in the Internal Structure of Categories," Cognitive Psychology 7, no. 4 (1975): 573-605, https://doi.org/10.1016/0010-0285(75)90024-9. Access basis: DOI and publisher metadata verified.
 
 <a id="note-72"></a>
 
-72. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
+72. Eleanor Rosch, "Cognitive Representations of Semantic Categories," Journal of Experimental Psychology: General 104, no. 3 (1975): 192-233, https://doi.org/10.1037/0096-3445.104.3.192. Access basis: DOI and abstract verified.
 
 <a id="note-73"></a>
 
-73. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.
+73. Lawrence W. Barsalou, "Ad Hoc Categories," Memory & Cognition 11, no. 3 (1983): 211-227, https://doi.org/10.3758/BF03196968. Access basis: DOI and publisher metadata verified.
 
 <a id="note-74"></a>
 
@@ -300,7 +300,7 @@
 
 <a id="note-75"></a>
 
-75. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+75. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
 
 <a id="note-76"></a>
 
@@ -308,15 +308,15 @@
 
 <a id="note-77"></a>
 
-77. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+77. Lawrence W. Barsalou, "Perceptual Symbol Systems," Behavioral and Brain Sciences 22, no. 4 (1999): 577-660, https://doi.org/10.1017/S0140525X99002149. Access basis: DOI and publisher metadata verified.
 
 <a id="note-78"></a>
 
-78. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+78. Eleanor Rosch, "Cognitive Representations of Semantic Categories," Journal of Experimental Psychology: General 104, no. 3 (1975): 192-233, https://doi.org/10.1037/0096-3445.104.3.192. Access basis: DOI and abstract verified.
 
 <a id="note-79"></a>
 
-79. Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.
+79. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "What Is a Brain?." Access basis: PubMed Central (PMC5390700), section verified.
 
 <a id="note-80"></a>
 

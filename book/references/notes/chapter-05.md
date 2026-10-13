@@ -76,11 +76,11 @@
 
 <a id="note-19"></a>
 
-19. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+19. MDN Web Docs, "Inheritance and the Prototype Chain," Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain. Access basis: Official documentation.
 
 <a id="note-20"></a>
 
-20. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+20. MDN Web Docs, "Inheritance and the Prototype Chain," Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain. Access basis: Official documentation.
 
 <a id="note-21"></a>
 
@@ -108,15 +108,15 @@
 
 <a id="note-27"></a>
 
-27. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+27. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
 
 <a id="note-28"></a>
 
-28. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+28. MDN Web Docs, "Inheritance and the Prototype Chain," Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain. Access basis: Official documentation.
 
 <a id="note-29"></a>
 
-29. Michael I. Posner and Steven W. Keele, "On the Genesis of Abstract Ideas," Journal of Experimental Psychology 77, no. 3 (1968): 353-363, https://doi.org/10.1037/h0025953. Access basis: DOI and author-uploaded full text.
+29. MDN Web Docs, "Inheritance and the Prototype Chain," Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain. Access basis: Official documentation.
 
 <a id="note-30"></a>
 

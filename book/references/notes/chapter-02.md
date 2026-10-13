@@ -25,7 +25,7 @@
 
 <a id="note-6"></a>
 
-6. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
+6. Ayn Rand, Introduction to Objectivist Epistemology, 2nd ed., ed. Harry Binswanger and Leonard Peikoff (New York: Meridian, 1990). Access basis: source attribution corrected; passage and page not verified. [CITATION NEEDED: verify — locate the passage on attributes and concepts and add page]
 
 <a id="note-7"></a>
 
@@ -137,7 +137,7 @@
 
 <a id="note-34"></a>
 
-34. James A. Russell, "Core Affect and the Psychological Construction of Emotion," Psychological Review 110, no. 1 (2003): 145-172, https://doi.org/10.1037/0033-295X.110.1.145. Access basis: DOI and abstract/full-text preview verified.
+34. James A. Russell, "Core Affect and the Psychological Construction of Emotion," Psychological Review 110, no. 1 (2003): 145-172, https://doi.org/10.1037/0033-295X.110.1.145. Access basis: DOI and abstract/full-text preview verified. [CITATION NEEDED: verify — claim about the Declaration of Independence is cited to Russell's core-affect paper; supply a source on the Declaration/Locke or mark as the author's argument]
 
 <a id="note-35"></a>
 
@@ -165,7 +165,7 @@
 
 <a id="note-41"></a>
 
-41. Anil Gupta, "Definitions," in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.
+41. Ayn Rand, Introduction to Objectivist Epistemology, 2nd ed., ed. Harry Binswanger and Leonard Peikoff (New York: Meridian, 1990), 40, 51. Access basis: quotations and pages verified via the Ayn Rand Lexicon (aynrandlexicon.com, "Definitions").
 
 <a id="note-42"></a>
 
@@ -269,11 +269,11 @@
 
 <a id="note-67"></a>
 
-67. Anil Gupta, "Definitions," in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.
+67. Ludwig Wittgenstein, Philosophical Investigations, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), §§65-71.
 
 <a id="note-68"></a>
 
-68. Anil Gupta, "Definitions," in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.
+68. Eleanor Rosch, "Cognitive Representations of Semantic Categories," Journal of Experimental Psychology: General 104, no. 3 (1975): 192-233, https://doi.org/10.1037/0096-3445.104.3.192. Access basis: DOI and abstract verified.
 
 <a id="note-69"></a>
 

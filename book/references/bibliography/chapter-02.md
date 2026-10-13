@@ -99,6 +99,8 @@ Quine, W. V. O. Word and Object. Cambridge, MA: MIT Press, 1960.
 
 Rand, Ayn. Introduction to Objectivist Epistemology. 2nd ed. New York: Meridian, 1990.
 
+Rosch, Eleanor. “Cognitive Representations of Semantic Categories.” Journal of Experimental Psychology: General 104, no. 3 (1975): 192–233. https://doi.org/10.1037/0096-3445.104.3.192.
+
 Rosch, Eleanor. “Principles of Categorization.” In Cognition and Categorization, edited by Eleanor Rosch and Barbara B. Lloyd, 27-48. Hillsdale, NJ: Lawrence Erlbaum, 1978.
 
 Russell, Bertrand. Introduction to Mathematical Philosophy. London: George Allen & Unwin, 1919.
