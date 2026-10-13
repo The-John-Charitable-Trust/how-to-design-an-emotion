@@ -60,4 +60,4 @@
 
 <a id="note-15"></a>
 
-15. Scarantino and de Sousa, “Emotion.”
+15. Scarantino and de Sousa, “Emotion”; Scherer, “What Are Emotions?”
