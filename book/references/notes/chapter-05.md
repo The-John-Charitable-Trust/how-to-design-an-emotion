@@ -96,52 +96,64 @@
 
 <a id="note-24"></a>
 
-24. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
+24. Richard S. Lazarus, “Progress on a Cognitive-Motivational-Relational Theory of Emotion,” *American Psychologist* 46, no. 8 (1991): 819–34, https://doi.org/10.1037/0003-066X.46.8.819; Robert Solomon, “Beyond Ontology: Ideation, Phenomenology and the Cross Cultural Study of Emotion,” *Journal for the Theory of Social Behaviour* 27, nos. 2–3 (1997): 289–303, https://doi.org/10.1111/1468-5914.00039.
 
 <a id="note-25"></a>
 
-25. MDN Web Docs, “Inheritance and the Prototype Chain.”
+25. Fabrice Teroni, “Emotions and Formal Objects,” *Dialectica* 61, no. 3 (2007): 395–415, https://doi.org/10.1111/j.1746-8361.2007.01108.x; Julien A. Deonna and Fabrice Teroni, “Emotions as Attitudes,” *Dialectica* 69, no. 3 (2015): 293–311, https://doi.org/10.1111/1746-8361.12116.
 
 <a id="note-26"></a>
 
-26. MDN Web Docs, “Inheritance and the Prototype Chain.”
+26. Paul A. Boghossian, “The Rule-Following Considerations,” *Mind* 98, no. 392 (1989): 507–49, https://doi.org/10.1093/mind/XCVIII.392.507.
 
 <a id="note-27"></a>
 
-27. Yann LeCun, Yoshua Bengio, and Geoffrey Hinton, “Deep Learning,” *Nature* 521, no. 7553 (2015): 436–44, https://doi.org/10.1038/nature14539.
+27. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
 
 <a id="note-28"></a>
 
-28. Thomas Elsken, Jan Hendrik Metzen, and Frank Hutter, “Neural Architecture Search: A Survey,” *Journal of Machine Learning Research* 20, no. 55 (2019): 1–21, http://jmlr.org/papers/v20/18-598.html; Timothy M. Hospedales et al., “Meta-Learning in Neural Networks: A Survey,” *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, no. 9 (2022): 5149–69, https://doi.org/10.1109/TPAMI.2021.3079209; Adam Paszke et al., “PyTorch: An Imperative Style, High-Performance Deep Learning Library,” in *Advances in Neural Information Processing Systems 32* (2019), https://papers.nips.cc/paper/2019/hash/bdbca288fee7f92f2bfa9f7012727740-Abstract.html; Jacob Devlin et al., “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” in *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, vol. 1 (Minneapolis: Association for Computational Linguistics, 2019), 4171–86, https://doi.org/10.18653/v1/N19-1423.
+28. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-29"></a>
 
-29. Object Management Group, *Unified Modeling Language*, 126.
+29. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-30"></a>
 
-30. Margolis and Laurence, “Concepts.”
+30. Yann LeCun, Yoshua Bengio, and Geoffrey Hinton, “Deep Learning,” *Nature* 521, no. 7553 (2015): 436–44, https://doi.org/10.1038/nature14539.
 
 <a id="note-31"></a>
 
-31. MDN Web Docs, “Inheritance and the Prototype Chain.”
+31. Thomas Elsken, Jan Hendrik Metzen, and Frank Hutter, “Neural Architecture Search: A Survey,” *Journal of Machine Learning Research* 20, no. 55 (2019): 1–21, http://jmlr.org/papers/v20/18-598.html; Timothy M. Hospedales et al., “Meta-Learning in Neural Networks: A Survey,” *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, no. 9 (2022): 5149–69, https://doi.org/10.1109/TPAMI.2021.3079209; Adam Paszke et al., “PyTorch: An Imperative Style, High-Performance Deep Learning Library,” in *Advances in Neural Information Processing Systems 32* (2019), https://papers.nips.cc/paper/2019/hash/bdbca288fee7f92f2bfa9f7012727740-Abstract.html; Jacob Devlin et al., “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” in *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, vol. 1 (Minneapolis: Association for Computational Linguistics, 2019), 4171–86, https://doi.org/10.18653/v1/N19-1423.
 
 <a id="note-32"></a>
 
-32. MDN Web Docs, “Inheritance and the Prototype Chain.”
+32. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-33"></a>
 
-33. Posner and Keele, “Genesis of Abstract Ideas.”
+33. Margolis and Laurence, “Concepts.”
 
 <a id="note-34"></a>
 
-34. Posner and Keele, “Genesis of Abstract Ideas.”
+34. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-35"></a>
 
-35. Object Management Group, *Unified Modeling Language*, 126.
+35. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-36"></a>
 
-36. Object Management Group, *Unified Modeling Language*, 126.
+36. Posner and Keele, “Genesis of Abstract Ideas.”
+
+<a id="note-37"></a>
+
+37. Posner and Keele, “Genesis of Abstract Ideas.”
+
+<a id="note-38"></a>
+
+38. Object Management Group, *Unified Modeling Language*, 126.
+
+<a id="note-39"></a>
+
+39. Object Management Group, *Unified Modeling Language*, 126.
