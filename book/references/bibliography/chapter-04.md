@@ -2,8 +2,6 @@
 
 [Back to Chapter 4](../../part-2/chapter-04.md) · [Notes](../notes/chapter-04.md)
 
-Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
-
 Barrett, Lisa Feldman. “Concepts and Emotion, Part 1 of 3.” YouTube video, 2:24. June 11, 2023. https://www.youtube.com/watch?v=mpjrD1jCEls.
 
 Barrett, Lisa Feldman. “Concepts and Emotion, Part 2 of 3.” YouTube video, 2:22. June 11, 2023. https://www.youtube.com/watch?v=1pfVLdv8Kto.
@@ -11,6 +9,8 @@ Barrett, Lisa Feldman. “Concepts and Emotion, Part 2 of 3.” YouTube video, 2
 Barrett, Lisa Feldman. “Concepts and Emotion, Part 3 of 3.” YouTube video, 4:30. June 11, 2023. https://www.youtube.com/watch?v=tecACXSjc2k.
 
 Barrett, Lisa Feldman. “How Emotions are Made (Cinematic Lecture).” Flow. YouTube video, 40:00. April 14, 2020. https://www.youtube.com/watch?v=0rbyC5m557I.
+
+Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
