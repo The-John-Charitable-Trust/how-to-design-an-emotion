@@ -2,7 +2,11 @@
 
 [Return to Chapter 9](../../part-4/chapter-09.md) · [Notes](../notes/chapter-09.md)
 
+Averill, James R. “The Future of Social Constructionism: Introduction to a Special Section of *Emotion Review*.” *Emotion Review* 4, no. 3 (2012): 215–20. https://doi.org/10.1177/1754073912439811.
+
 Barrett, Lisa Feldman. “Are Emotions Natural Kinds?” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58. https://doi.org/10.1111/j.1745-6916.2006.00003.x.
+
+Barrett, Lisa Feldman. “Psychological Construction: The Darwinian Approach to the Science of Emotion.” *Emotion Review* 5, no. 4 (2013): 379–89. https://doi.org/10.1177/1754073913489753.
 
 Barrett, Lisa Feldman. “The Conceptual Act Theory: A Précis.” *Emotion Review* 6, no. 4 (2014): 292–97. https://doi.org/10.1177/1754073914534479.
 
@@ -28,9 +32,15 @@ Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature 
 
 Goldie, Peter. “Emotions, Feelings and Intentionality.” *Phenomenology and the Cognitive Sciences* 1, no. 3 (2002): 235–54. https://doi.org/10.1023/A:1021306500055.
 
+Gross, James J., and Lisa Feldman Barrett. “Emotion Generation and Emotion Regulation: One or Two Depends on Your Point of View.” *Emotion Review* 3, no. 1 (2011): 8–16. https://doi.org/10.1177/1754073910380974.
+
 Gross, James J. “The Emerging Field of Emotion Regulation: An Integrative Review.” *Review of General Psychology* 2, no. 3 (1998): 271–99. https://doi.org/10.1037/1089-2680.2.3.271.
 
+Harré, Rom. “Emotions as Cognitive-Affective-Somatic Hybrids.” *Emotion Review* 1, no. 4 (2009): 294–301. https://doi.org/10.1177/1754073909338304.
+
 Lazarus, Richard S. “Progress on a Cognitive-Motivational-Relational Theory of Emotion.” *American Psychologist* 46, no. 8 (1991): 819–34. https://doi.org/10.1037/0003-066X.46.8.819.
+
+Mesquita, Batja, and Michael Boiger. “Emotions in Context: A Sociodynamic Model of Emotions.” *Emotion Review* 6, no. 4 (2014): 298–302. https://doi.org/10.1177/1754073914534480.
 
 Moors, Agnes, Phoebe C. Ellsworth, Klaus R. Scherer, and Nico H. Frijda. “Appraisal Theories of Emotion: State of the Art and Future Development.” *Emotion Review* 5, no. 2 (2013): 119–24. https://doi.org/10.1177/1754073912468165.
 
