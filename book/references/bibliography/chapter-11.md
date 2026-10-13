@@ -20,7 +20,7 @@ Kaminski, Juliane, Josep Call, and Julia Fischer. “Word Learning in a Domestic
 
 McDowell, John. “Précis of *Mind and World*.” *Philosophy and Phenomenological Research* 58, no. 2 (1998): 365–68. https://doi.org/10.2307/2653515.
 
-Premack, David, and Guy Woodruff. “Does the Chimpanzee Have a Theory of Mind?.” *Behavioral and Brain Sciences* 1, no. 4 (1978): 515–26. https://doi.org/10.1017/S0140525X00076512.
+Premack, David, and Guy Woodruff. “Does the Chimpanzee Have a Theory of Mind?” *Behavioral and Brain Sciences* 1, no. 4 (1978): 515–26. https://doi.org/10.1017/S0140525X00076512.
 
 Raby, C. R., D. M. Alexis, A. Dickinson, and N. S. Clayton. “Planning for the Future by Western Scrub-Jays.” *Nature* 445, no. 7130 (2007): 919–21. https://doi.org/10.1038/nature05575.
 

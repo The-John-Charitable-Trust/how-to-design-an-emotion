@@ -208,5 +208,3 @@ These are not competing answers to the same question. They answer different ques
 ## Conclusion
 
 Appendix E supplies the runtime demonstration of the layered ontology. DevTools shows that instance behavior does not create the concept layer, and prototype effects do not replace inherited constraint. The appendix therefore answers its governing question: JavaScript's prototype chain does not vindicate prototype theory as concept theory. It makes visible the distinction between infrastructure, identity conditions, and instance-level variation.
-
-Appendix E: Chrome DevTools Demonstration of Layered Ontology

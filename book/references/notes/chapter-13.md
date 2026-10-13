@@ -20,7 +20,7 @@
 
 <a id="note-5"></a>
 
-5. Paul Ekman, “An Argument for Basic Emotions,” *Cognition and Emotion* 6, no. 3–4 (1992): 169–200, https://doi.org/10.1080/02699939208411068; Lisa Feldman Barrett, “Are Emotions Natural Kinds?,” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58, https://doi.org/10.1111/j.1745-6916.2006.00003.x.
+5. Paul Ekman, “An Argument for Basic Emotions,” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200, https://doi.org/10.1080/02699939208411068; Lisa Feldman Barrett, “Are Emotions Natural Kinds?,” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58, https://doi.org/10.1111/j.1745-6916.2006.00003.x.
 
 <a id="note-6"></a>
 

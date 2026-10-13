@@ -6,4 +6,4 @@ Bramble, Ben. “The Distinctive Feeling Theory of Pleasure.” *Philosophical S
 
 Feldman, Fred. “On the Intrinsic Value of Pleasures.” *Ethics* 107, no. 3 (1997): 448–66. https://doi.org/10.1086/233744.
 
-James, William. “What Is an Emotion?.” *Mind* 9, no. 34 (1884): 188–205. https://doi.org/10.1093/mind/os-IX.34.188.
+James, William. “What Is an Emotion?” *Mind* 9, no. 34 (1884): 188–205. https://doi.org/10.1093/mind/os-IX.34.188.

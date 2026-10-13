@@ -14,7 +14,7 @@ Jackendoff, Ray. “Précis of *Foundations of Language: Brain, Meaning, Grammar
 
 Moors, Agnes, Phoebe C. Ellsworth, Klaus R. Scherer, and Nico H. Frijda. “Appraisal Theories of Emotion: State of the Art and Future Development.” *Emotion Review* 5, no. 2 (2013): 119–24. https://doi.org/10.1177/1754073912468165.
 
-Nagel, Thomas. “What Is It Like to Be a Bat?.” *Philosophical Review* 83, no. 4 (1974): 435–50. https://doi.org/10.2307/2183914.
+Nagel, Thomas. “What Is It Like to Be a Bat?” *Philosophical Review* 83, no. 4 (1974): 435–50. https://doi.org/10.2307/2183914.
 
 Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals and Humans.” *Consciousness and Cognition* 14, no. 1 (2005): 30–80. https://doi.org/10.1016/j.concog.2004.10.004.
 

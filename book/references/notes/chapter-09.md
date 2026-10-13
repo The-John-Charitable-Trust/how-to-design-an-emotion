@@ -140,7 +140,7 @@
 
 <a id="note-35"></a>
 
-35. Scherer, “What Are Emotions?.”
+35. Scherer, “What Are Emotions?”
 
 <a id="note-36"></a>
 
@@ -280,7 +280,7 @@
 
 <a id="note-70"></a>
 
-70. Clark, “Whatever Next?.”
+70. Clark, “Whatever Next?”
 
 <a id="note-71"></a>
 
