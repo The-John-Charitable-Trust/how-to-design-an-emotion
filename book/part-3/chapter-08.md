@@ -1,6 +1,6 @@
 [Contents](../front-matter/contents.md) · [Notes](../references/notes/chapter-08.md) · [Bibliography](../references/bibliography/chapter-08.md)
 
-# Chapter 8 — The War of Signs
+# Chapter 8: The War of Signs
 
 *Saussure, Peirce, and the Reconstruction of Meaning*
 

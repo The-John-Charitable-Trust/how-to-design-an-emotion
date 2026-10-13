@@ -1,6 +1,6 @@
 [Contents](README.md) · [Notes](../references/notes/chapter-14.md) · [Bibliography](../references/bibliography/chapter-14.md)
 
-# Chapter 14 — So, What Is an Emotion?
+# Chapter 14: So, What Is an Emotion?
 
 *A Unified Ontology of Affect, Feeling, and Emotion*
 

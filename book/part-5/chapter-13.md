@@ -1,6 +1,6 @@
 [Contents](README.md) · [Notes](../references/notes/chapter-13.md) · [Bibliography](../references/bibliography/chapter-13.md)
 
-# Chapter 13 — The Sound of Feelings
+# Chapter 13: The Sound of Feelings
 
 *Using Music to Model How We Make and Experience Emotion*
 
