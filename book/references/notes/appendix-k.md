@@ -65,3 +65,15 @@
 <a id="note-16"></a>
 
 16. Scherer, “What Are Emotions?”
+
+<a id="note-17"></a>
+
+17. Lisa Feldman Barrett, “Solving the Emotion Paradox: Categorization and the Experience of Emotion,” *Personality and Social Psychology Review* 10, no. 1 (2006): 20–46, https://doi.org/10.1207/s15327957pspr1001_2.
+
+<a id="note-18"></a>
+
+18. Robert C. Roberts, “What an Emotion Is: A Sketch,” *Philosophical Review* 97, no. 2 (1988): 183–209, https://doi.org/10.2307/2185261.
+
+<a id="note-19"></a>
+
+19. Jan Slaby, “Affective Intentionality and the Feeling Body,” *Phenomenology and the Cognitive Sciences* 7, no. 4 (2008): 429–44, https://doi.org/10.1007/s11097-007-9083-x.

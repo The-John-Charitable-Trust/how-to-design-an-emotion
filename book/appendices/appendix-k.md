@@ -70,4 +70,16 @@ The five structural divergences identify the architectural boundary between appr
 
 CSME preserves those contributions while assigning each a distinct computational role. Physiological regulation generates affect. Feeling makes that affect phenomenologically available. Appraisal evaluates significance and constrains admissible interpretations. Interpretation constructs emotional meaning by binding an emotion concept to a referent under a governing goal and stabilizing that construction through an identifier.
 
+**How this differs.**
+
+“Interpretation” is a common word in emotion theory. I have set out above where I depart from appraisal theory. Three other neighbors need placing.
+
+Barrett’s conceptual act theory holds that an emotion is made when core affect is categorized with emotion concepts.<sup><a href="../references/notes/appendix-k.md#note-17">17</a></sup> That is close to my claim. I differ on what does the work. For Barrett, categorization is largely automatic prediction. For me, emotional meaning needs an agent’s commitment to one interpretation under a goal. That commitment can be right or wrong by the concept’s identity conditions.
+
+Philosophers have long treated emotions as interpretive. Roberts calls them construals: ways of seeing a situation as something, shaped by the agent’s concerns.<sup><a href="../references/notes/appendix-k.md#note-18">18</a></sup> I share that view. Slaby argues that feeling is itself already directed at the world.<sup><a href="../references/notes/appendix-k.md#note-19">19</a></sup> Here I part ways. On my account, feeling is available before it means anything, and interpretation comes after.
+
+I also owe a debt to Schachter and Singer, who separated arousal from its label. But a label is not yet a commitment under a goal.
+
+What is shared: emotion depends on how an agent takes a situation. What is new: interpretation as a distinct act after appraisal and after feeling, governed by identity conditions, and open to error even when the appraisal is right.
+
 The Constructivist Interpretation Theory of Emotion therefore does not reject appraisal theory. It relocates appraisal within a broader cognitive-semiotic architecture by distinguishing evaluative constraint from interpretive construction. Appraisal determines what matters. Interpretation determines what the emotion means.

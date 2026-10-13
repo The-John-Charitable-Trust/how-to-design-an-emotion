@@ -18,6 +18,8 @@ Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature 
 
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
 
+Hampton, James A. “Testing the Prototype Theory of Concepts.” *Journal of Memory and Language* 34, no. 5 (1995): 686–708. https://doi.org/10.1006/jmla.1995.1031.
+
 Hospedales, Timothy M., Antreas Antoniou, Paul Micaelli, and Amos J. Storkey. “Meta-Learning in Neural Networks: A Survey.” *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, no. 9 (2022): 5149–69. https://doi.org/10.1109/TPAMI.2021.3079209.
 
 Lazarus, Richard S. “Progress on a Cognitive-Motivational-Relational Theory of Emotion.” *American Psychologist* 46, no. 8 (1991): 819–34. https://doi.org/10.1037/0003-066X.46.8.819.
@@ -43,6 +45,10 @@ Osherson, Daniel N., and Edward E. Smith. “On the Adequacy of Prototype Theory
 Paszke, Adam, Sam Gross, Francisco Massa, Adam Lerer, James Bradbury, Gregory Chanan, Trevor Killeen, et al. “PyTorch: An Imperative Style, High-Performance Deep Learning Library.” In *Advances in Neural Information Processing Systems 32*. 2019. https://papers.nips.cc/paper/2019/hash/bdbca288fee7f92f2bfa9f7012727740-Abstract.html.
 
 Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63. https://doi.org/10.1037/h0025953.
+
+Rey, Georges. “Concepts and Stereotypes.” *Cognition* 15, nos. 1–3 (1983): 237–62. https://doi.org/10.1016/0010-0277(83)90044-6.
+
+Smith, Edward E., Edward J. Shoben, and Lance J. Rips. “Structure and Process in Semantic Memory: A Featural Model for Semantic Decisions.” *Psychological Review* 81, no. 3 (1974): 214–41. https://doi.org/10.1037/h0036351.
 
 Solomon, Robert. “Beyond Ontology: Ideation, Phenomenology and the Cross Cultural Study of Emotion.” *Journal for the Theory of Social Behaviour* 27, nos. 2–3 (1997): 289–303. https://doi.org/10.1111/1468-5914.00039.
 

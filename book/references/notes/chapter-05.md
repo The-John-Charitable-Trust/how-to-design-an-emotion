@@ -68,92 +68,104 @@
 
 <a id="note-17"></a>
 
-17. Daniel N. Osherson and Edward E. Smith, “On the Adequacy of Prototype Theory as a Theory of Concepts,” *Cognition* 9, no. 1 (1981): 35–58, https://doi.org/10.1016/0010-0277(81)90013-5.
+17. Edward E. Smith, Edward J. Shoben, and Lance J. Rips, “Structure and Process in Semantic Memory: A Featural Model for Semantic Decisions,” *Psychological Review* 81, no. 3 (1974): 214–41, https://doi.org/10.1037/h0036351.
 
 <a id="note-18"></a>
 
-18. Sharon Lee Armstrong, Lila R. Gleitman, and Henry Gleitman, “What Some Concepts Might Not Be,” *Cognition* 13, no. 3 (1983): 263–308, https://doi.org/10.1016/0010-0277(83)90012-4.
+18. Daniel N. Osherson and Edward E. Smith, “On the Adequacy of Prototype Theory as a Theory of Concepts,” *Cognition* 9, no. 1 (1981): 35–58, https://doi.org/10.1016/0010-0277(81)90013-5.
 
 <a id="note-19"></a>
 
-19. Douglas L. Medin and Marguerite M. Schaffer, “Context Theory of Classification Learning,” *Psychological Review* 85, no. 3 (1978): 207–38, https://doi.org/10.1037/0033-295X.85.3.207.
+19. Sharon Lee Armstrong, Lila R. Gleitman, and Henry Gleitman, “What Some Concepts Might Not Be,” *Cognition* 13, no. 3 (1983): 263–308, https://doi.org/10.1016/0010-0277(83)90012-4.
 
 <a id="note-20"></a>
 
-20. Gregory L. Murphy and Douglas L. Medin, “The Role of Theories in Conceptual Coherence,” *Psychological Review* 92, no. 3 (1985): 289–316, https://doi.org/10.1037/0033-295X.92.3.289.
+20. Georges Rey, “Concepts and Stereotypes,” *Cognition* 15, nos. 1–3 (1983): 237–62, https://doi.org/10.1016/0010-0277(83)90044-6.
 
 <a id="note-21"></a>
 
-21. Douglas L. Medin, “Concepts and Conceptual Structure,” *American Psychologist* 44, no. 12 (1989): 1469–81, https://doi.org/10.1037/0003-066X.44.12.1469, presenting the psychological-essentialism proposal developed with Andrew Ortony.
+21. James A. Hampton, “Testing the Prototype Theory of Concepts,” *Journal of Memory and Language* 34, no. 5 (1995): 686–708, https://doi.org/10.1006/jmla.1995.1031.
 
 <a id="note-22"></a>
 
-22. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
+22. Gregory L. Murphy and Douglas L. Medin, “The Role of Theories in Conceptual Coherence,” *Psychological Review* 92, no. 3 (1985): 289–316, https://doi.org/10.1037/0033-295X.92.3.289.
 
 <a id="note-23"></a>
 
-23. Edouard Machery, “Concepts Are Not a Natural Kind,” *Philosophy of Science* 72, no. 3 (2005): 444–67, https://doi.org/10.1086/498473.
+23. Douglas L. Medin and Marguerite M. Schaffer, “Context Theory of Classification Learning,” *Psychological Review* 85, no. 3 (1978): 207–38, https://doi.org/10.1037/0033-295X.85.3.207.
 
 <a id="note-24"></a>
 
-24. Richard S. Lazarus, “Progress on a Cognitive-Motivational-Relational Theory of Emotion,” *American Psychologist* 46, no. 8 (1991): 819–34, https://doi.org/10.1037/0003-066X.46.8.819; Robert Solomon, “Beyond Ontology: Ideation, Phenomenology and the Cross Cultural Study of Emotion,” *Journal for the Theory of Social Behaviour* 27, nos. 2–3 (1997): 289–303, https://doi.org/10.1111/1468-5914.00039.
+24. Douglas L. Medin, “Concepts and Conceptual Structure,” *American Psychologist* 44, no. 12 (1989): 1469–81, https://doi.org/10.1037/0003-066X.44.12.1469, presenting the psychological-essentialism proposal developed with Andrew Ortony.
 
 <a id="note-25"></a>
 
-25. Fabrice Teroni, “Emotions and Formal Objects,” *Dialectica* 61, no. 3 (2007): 395–415, https://doi.org/10.1111/j.1746-8361.2007.01108.x; Julien A. Deonna and Fabrice Teroni, “Emotions as Attitudes,” *Dialectica* 69, no. 3 (2015): 293–311, https://doi.org/10.1111/1746-8361.12116.
+25. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
 
 <a id="note-26"></a>
 
-26. Paul A. Boghossian, “The Rule-Following Considerations,” *Mind* 98, no. 392 (1989): 507–49, https://doi.org/10.1093/mind/XCVIII.392.507.
+26. Edouard Machery, “Concepts Are Not a Natural Kind,” *Philosophy of Science* 72, no. 3 (2005): 444–67, https://doi.org/10.1086/498473.
 
 <a id="note-27"></a>
 
-27. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
+27. Richard S. Lazarus, “Progress on a Cognitive-Motivational-Relational Theory of Emotion,” *American Psychologist* 46, no. 8 (1991): 819–34, https://doi.org/10.1037/0003-066X.46.8.819; Robert Solomon, “Beyond Ontology: Ideation, Phenomenology and the Cross Cultural Study of Emotion,” *Journal for the Theory of Social Behaviour* 27, nos. 2–3 (1997): 289–303, https://doi.org/10.1111/1468-5914.00039.
 
 <a id="note-28"></a>
 
-28. MDN Web Docs, “Inheritance and the Prototype Chain.”
+28. Fabrice Teroni, “Emotions and Formal Objects,” *Dialectica* 61, no. 3 (2007): 395–415, https://doi.org/10.1111/j.1746-8361.2007.01108.x; Julien A. Deonna and Fabrice Teroni, “Emotions as Attitudes,” *Dialectica* 69, no. 3 (2015): 293–311, https://doi.org/10.1111/1746-8361.12116.
 
 <a id="note-29"></a>
 
-29. MDN Web Docs, “Inheritance and the Prototype Chain.”
+29. Paul A. Boghossian, “The Rule-Following Considerations,” *Mind* 98, no. 392 (1989): 507–49, https://doi.org/10.1093/mind/XCVIII.392.507.
 
 <a id="note-30"></a>
 
-30. Yann LeCun, Yoshua Bengio, and Geoffrey Hinton, “Deep Learning,” *Nature* 521, no. 7553 (2015): 436–44, https://doi.org/10.1038/nature14539.
+30. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
 
 <a id="note-31"></a>
 
-31. Thomas Elsken, Jan Hendrik Metzen, and Frank Hutter, “Neural Architecture Search: A Survey,” *Journal of Machine Learning Research* 20, no. 55 (2019): 1–21, http://jmlr.org/papers/v20/18-598.html; Timothy M. Hospedales et al., “Meta-Learning in Neural Networks: A Survey,” *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, no. 9 (2022): 5149–69, https://doi.org/10.1109/TPAMI.2021.3079209; Adam Paszke et al., “PyTorch: An Imperative Style, High-Performance Deep Learning Library,” in *Advances in Neural Information Processing Systems 32* (2019), https://papers.nips.cc/paper/2019/hash/bdbca288fee7f92f2bfa9f7012727740-Abstract.html; Jacob Devlin et al., “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” in *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, vol. 1 (Minneapolis: Association for Computational Linguistics, 2019), 4171–86, https://doi.org/10.18653/v1/N19-1423.
+31. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-32"></a>
 
-32. Object Management Group, *Unified Modeling Language*, 126.
+32. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-33"></a>
 
-33. Margolis and Laurence, “Concepts.”
+33. Yann LeCun, Yoshua Bengio, and Geoffrey Hinton, “Deep Learning,” *Nature* 521, no. 7553 (2015): 436–44, https://doi.org/10.1038/nature14539.
 
 <a id="note-34"></a>
 
-34. MDN Web Docs, “Inheritance and the Prototype Chain.”
+34. Thomas Elsken, Jan Hendrik Metzen, and Frank Hutter, “Neural Architecture Search: A Survey,” *Journal of Machine Learning Research* 20, no. 55 (2019): 1–21, http://jmlr.org/papers/v20/18-598.html; Timothy M. Hospedales et al., “Meta-Learning in Neural Networks: A Survey,” *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, no. 9 (2022): 5149–69, https://doi.org/10.1109/TPAMI.2021.3079209; Adam Paszke et al., “PyTorch: An Imperative Style, High-Performance Deep Learning Library,” in *Advances in Neural Information Processing Systems 32* (2019), https://papers.nips.cc/paper/2019/hash/bdbca288fee7f92f2bfa9f7012727740-Abstract.html; Jacob Devlin et al., “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” in *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, vol. 1 (Minneapolis: Association for Computational Linguistics, 2019), 4171–86, https://doi.org/10.18653/v1/N19-1423.
 
 <a id="note-35"></a>
 
-35. MDN Web Docs, “Inheritance and the Prototype Chain.”
+35. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-36"></a>
 
-36. Posner and Keele, “Genesis of Abstract Ideas.”
+36. Margolis and Laurence, “Concepts.”
 
 <a id="note-37"></a>
 
-37. Posner and Keele, “Genesis of Abstract Ideas.”
+37. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-38"></a>
 
-38. Object Management Group, *Unified Modeling Language*, 126.
+38. MDN Web Docs, “Inheritance and the Prototype Chain.”
 
 <a id="note-39"></a>
 
-39. Object Management Group, *Unified Modeling Language*, 126.
+39. Posner and Keele, “Genesis of Abstract Ideas.”
+
+<a id="note-40"></a>
+
+40. Posner and Keele, “Genesis of Abstract Ideas.”
+
+<a id="note-41"></a>
+
+41. Object Management Group, *Unified Modeling Language*, 126.
+
+<a id="note-42"></a>
+
+42. Object Management Group, *Unified Modeling Language*, 126.
