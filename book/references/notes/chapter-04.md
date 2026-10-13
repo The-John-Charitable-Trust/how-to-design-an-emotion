@@ -72,7 +72,7 @@
 
 <a id="note-18"></a>
 
-18. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
+18. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
 
 <a id="note-19"></a>
 
@@ -88,15 +88,15 @@
 
 <a id="note-22"></a>
 
-22. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+22. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
 
 <a id="note-23"></a>
 
-23. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+23. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
 
 <a id="note-24"></a>
 
-24. Barrett, *How Emotions Are Made*, 353, citing Michael I. Posner and Steven W. Keele, “On the Genesis of Abstract Ideas,” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63.
+24. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion,” citing Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-25"></a>
 
@@ -144,11 +144,11 @@
 
 <a id="note-36"></a>
 
-36. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987).
+36. George Lakoff, “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Concepts,” *Journal of Philosophical Logic* 2, no. 4 (1973): 458–508, https://doi.org/10.1007/BF00262952.
 
 <a id="note-37"></a>
 
-37. Lakoff, *Women, Fire, and Dangerous Things*.
+37. Lakoff, “Hedges.”
 
 <a id="note-38"></a>
 
@@ -168,7 +168,7 @@
 
 <a id="note-42"></a>
 
-42. David E. Rumelhart, James L. McClelland, and the PDP Research Group, *Parallel Distributed Processing: Explorations in the Microstructure of Cognition*, vol. 1, *Foundations* (Cambridge, MA: MIT Press, 1986).
+42. James L. McClelland and David E. Rumelhart, “Distributed Memory and the Representation of General and Specific Information,” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88, https://doi.org/10.1037/0096-3445.114.2.159.
 
 <a id="note-43"></a>
 
@@ -184,7 +184,7 @@
 
 <a id="note-46"></a>
 
-46. Lakoff, *Women, Fire, and Dangerous Things*.
+46. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987).
 
 <a id="note-47"></a>
 
@@ -208,7 +208,7 @@
 
 <a id="note-52"></a>
 
-52. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+52. Katie Hoemann, Fei Xu, and Lisa Feldman Barrett, “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis,” *Developmental Psychology* 55, no. 9 (2019): 1830–49, https://doi.org/10.1037/dev0000686.
 
 <a id="note-53"></a>
 

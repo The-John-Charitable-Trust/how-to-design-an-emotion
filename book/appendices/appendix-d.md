@@ -72,4 +72,4 @@ This appendix strengthens Chapter 4 by showing why partitioning cannot define wh
 
 ## Bibliography
 
-Posner, Michael I., and Stephen W. Keele. “*On the Genesis of Abstract Ideas*.” *Journal of Experimental Psychology* 77, no. 3 (1968): 353-63.
+Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63. https://doi.org/10.1037/h0025953.

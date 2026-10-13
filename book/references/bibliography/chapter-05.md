@@ -18,15 +18,15 @@ Hospedales, Timothy M., Antreas Antoniou, Paul Micaelli, and Amos J. Storkey. �
 
 LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. “Deep Learning.” *Nature* 521, no. 7553 (2015): 436–44. https://doi.org/10.1038/nature14539.
 
-Machery, Edouard. *Doing without Concepts*. Oxford: Oxford University Press, 2009.
+Machery, Edouard. “Concepts Are Not a Natural Kind.” *Philosophy of Science* 72, no. 3 (2005): 444–67. https://doi.org/10.1086/498473.
 
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
 
 MDN Web Docs. “Inheritance and the Prototype Chain.” Mozilla. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
 
-Medin, Douglas L., and Marguerite M. Schaffer. “Context Theory of Classification Learning.” *Psychological Review* 85, no. 3 (1978): 207–38. https://doi.org/10.1037/0033-295X.85.3.207.
+Medin, Douglas L. “Concepts and Conceptual Structure.” *American Psychologist* 44, no. 12 (1989): 1469–81. https://doi.org/10.1037/0003-066X.44.12.1469.
 
-Medin, Douglas, and Andrew Ortony. “Comments on Part I: Psychological Essentialism.” In *Similarity and Analogical Reasoning*, edited by Stella Vosniadou and Andrew Ortony, 179–96. Cambridge: Cambridge University Press, 1989. https://doi.org/10.1017/CBO9780511529863.009.
+Medin, Douglas L., and Marguerite M. Schaffer. “Context Theory of Classification Learning.” *Psychological Review* 85, no. 3 (1978): 207–38. https://doi.org/10.1037/0033-295X.85.3.207.
 
 Murphy, Gregory L., and Douglas L. Medin. “The Role of Theories in Conceptual Coherence.” *Psychological Review* 92, no. 3 (1985): 289–316. https://doi.org/10.1037/0033-295X.92.3.289.
 

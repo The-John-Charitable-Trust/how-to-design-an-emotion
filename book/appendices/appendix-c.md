@@ -329,14 +329,8 @@ Appendix C therefore confirms the thesis of Chapter 3 in executable form. Goal-b
 
 ## Bibliography
 
-Aristotle. *Posterior Analytics*. Translated by Jonathan Barnes. Oxford: Clarendon Press, 1993.
+Barsalou, Lawrence W. “Ad Hoc Categories.” *Memory & Cognition* 11, no. 3 (1983): 211–27. https://doi.org/10.3758/BF03196968.
 
-Barrett, Lisa Feldman. *How Emotions **Are Made**: The Secret Life of the B**rain*. Boston: Houghton Mifflin Harcourt, 2017.
+Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
 
-Barsalou, Lawrence W. "*Ad Hoc Categories*." *Memory & Cognition* 11, no. 3 (1983): 211-27.
-
-Barsalou, Lawrence W. "*Perceptual Symbol Systems*." *Behavioral and Brain Sciences* 22, no. 4 (1999): 577-660.
-
-Barsalou, Lawrence W. "*Situated Conceptualization*." *Cognitive Processing* 4 (2003): 61-84.
-
-Booch, Grady, James Rumbaugh, and Ivar Jacobson. *The Unified Modeling Language User Guide*. 2nd ed. Boston: Addison-Wesley, 2005.
+Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
