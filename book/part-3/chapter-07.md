@@ -38,7 +38,7 @@
 
 *7.	Goals govern meaning.*
 
-*I then subject the architecture I propose to formal architectural and computational validation. Using UML models and executable C# implementations, I demonstrate that it preserves conceptual identity, valid instantiation, contextual constraint, goal-directed interpretation, and the distinction between signal processing and genuine semiosis under formal execution.*
+*I then subject the architecture I propose to formal architectural and computational tests of internal consistency. Using UML models and executable C# implementations, I demonstrate that it preserves conceptual identity, valid instantiation, contextual constraint, goal-directed interpretation, and the distinction between signal processing and genuine semiosis under formal execution.*
 
 *The Foundational Computational Principle of the CSS states that a theory of meaning must preserve its claimed distinctions under executable constraint. From it follow seven tests:*
 
@@ -444,7 +444,7 @@ Computational Principle 6. Agent and Goal Preservation: The architecture must pr
 
 Computational Principle 7. Executability Without Collapse: A theory must not merge what it claims to distinguish under the pressure of execution. If these distinctions vanish in the machine, the theory is explanatorily inadequate.
 
-These principles ensure that the Constructivist Semiotic Sign functions as a purposive instrument of reason. By positioning the Interpreter (Goal) and Referent (Context) as governing constraints on the sign, we satisfy the requirement for Interpretive Governance and Goal Preservation. The structure of the Semiotic Sign ensures Ontological Separability and Symbolic Reference Integrity by isolating the Label from the Context.
+These principles ensure that the Constructivist Semiotic Sign functions as a purposive instrument of reason. By positioning the Interpreter (with governing goal) and Referent (Context) as governing constraints on the sign, we satisfy the requirement for Interpretive Governance and Goal Preservation. The structure of the Semiotic Sign ensures Ontological Separability and Symbolic Reference Integrity by isolating the Label from the Context.
 
 In this chapter, I have answered the governing question: how does a symbol become meaningful without collapsing meaning into intrinsic essence, private feeling, social convention, or statistical correlation? I answered by specifying the Constructivist Semiotic Sign as an architecture. Its necessary constituents are Identifier, Concept, Construct, Referent, and Interpreter. Its governing act is interpretation under a goal.
 

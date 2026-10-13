@@ -11,7 +11,6 @@ In the diagrams and design patterns that follow, I do not claim to model neural 
 <img src="../../assets/figures/appendix-b/figure-01.png" />
 <p align="center">**Figure B-1. UML Class Diagram: Inheritance Hierarchy of Affective States**</p>
 
-—---------------------------------------------------------------------------------------------------------------------------------------------------------  
 Figure B-1. UML Class Diagram: Inheritance Hierarchy of Affective States
 
 Figure B-1 models how affective kinds can differ structurally without presupposing different biological substrates. I model Feeling as the genus that fixes shared affective structure, and Emotion, Mood, and DriveState as species that inherit that structure while adding differentiating constraints. Affective diversity arises from structural specialization, not from distinct biological kinds, essences, or mechanisms. 
@@ -25,7 +24,6 @@ In Aristotelian terms, feeling supplies the genus and the others function as spe
 <img src="../../assets/figures/appendix-b/figure-02.png" />
 <p align="center">**Figure B-2. UML Activity Diagram: Syntagmatic Appraisal Structure**</p>
 
-—---------------------------------------------------------------------------------------------------------------------------------------------------------  
 Figure B-2. UML Activity Diagram: Syntagmatic Appraisal Structure
 
 Figure B-2 addresses a problem that prose can hide. Some emotion theories describe appraisal as if it were merely something that happens inside the mind. That description misses the structure I need to preserve. Appraisal has an agent, an object, a relation, and an end point. Someone appraises something as something. If prose does not make those roles explicit, appraisal can blur into feeling, mechanism, or private impression. The object of appraisal then disappears from the theory. 
@@ -41,7 +39,7 @@ The Gang of Four patterns do not describe mental mechanisms. They formalize stru
 <img src="../../assets/figures/appendix-b/figure-03.png" />
 <p align="center">**Figure B-3. Factory Design Pattern: Emotion Construction**</p>
 
-—---------------------------------------------------------------------------------------------------------------------------------------------------------Figure B-3. Factory Design Pattern: Emotion Construction
+Figure B-3. Factory Design Pattern: Emotion Construction
 
 Figure B-3 models emotion construction using the Factory design pattern, which separates the declaration of a type from the logic responsible for creating its instances. In this architecture, Emotion functions as an abstract class that fixes the shared structural properties of an emotion, such as valence, context, and expression. The class defines identity conditions but does not instantiate any emotional episode.
 
@@ -75,7 +73,7 @@ If the input parameter were joy or anger, the output would change accordingly.
 <img src="../../assets/figures/appendix-b/figure-07.png" />
 <p align="center">**Figure B-4. Prototype Design Pattern: Emotion Construction UML**</p>
 
-—---------------------------------------------------------------------------------------------------------------------------------------------------------Figure B-4. Prototype Design Pattern: Emotion Construction UML
+Figure B-4. Prototype Design Pattern: Emotion Construction UML
 
 Figure B-4 models emotion construction using the Prototype design pattern. The diagram shows how new emotional instances can arise through structured reuse rather than fresh construction.
 

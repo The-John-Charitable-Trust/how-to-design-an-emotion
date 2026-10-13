@@ -42,7 +42,7 @@ After I specified the architecture and its threshold clearly in Chapter 10, I ca
 
 Table 11-1 presents the Emotional Meaning Architecture in its complete form. Each level specifies what must exist structurally for a felt state to qualify as emotional meaning in the strict semiotic sense.
 
-The decisive transition occurs at Level 5, where the system stabilizes affect under a reusable identifier. Full emotional meaning requires the additional capacity I specify at Level 7. Levels 8 and 9 do not complete emotional meaning; they extend it into normative evaluation and recursive self-regulation.
+The decisive transition occurs at Level 5, where the system stabilizes affect under a reusable identifier. Full emotional meaning requires the additional capacity I specify at Level 7. Levels 8 and 9 do not complete emotional meaning; they extend it into normative evaluation and recursive self-regulation. The ladder in Chapter 10 maps onto these levels as follows. Detachment and endorsement mark Level 5. Grammar and propositional form organize content within Levels 5 and 6, where the construct is set relative to stake and alternatives. Metarepresentation is Level 7.
 
 The table compares each structural level across non-linguistic animals and a neurotypical adolescent, the case I develop below. Table 11-2 traces infant development separately. Table 11-1 separates capacities widely evidenced in non-linguistic animals, Levels 1 through 4, from capacities that emerge through human developmental ascent, especially detachable symbolic stabilization at Level 5 and reflective revision at Level 7. The decisive threshold for emotional meaning lies between Level 4 and Level 5 of the Emotional Meaning Architecture.
 
@@ -150,6 +150,18 @@ Infants, by contrast, cross the threshold developmentally. They begin at Levels 
 On the table, that occurs at Level 5, typically around 2 to 3 years, when emotion words and other detachable identifiers begin to stabilize self-attributed constructs. Full emotional meaning emerges later when metarepresentational capacities develop and the child can reflectively revise an attribution, such as recognizing that an earlier “fear” was actually excitement. On the table, that corresponds to Level 7, typically around 4 to 5 years.<sup><a href="../references/notes/chapter-11.md#note-10">10</a></sup>
 
 Animals and infants can feel. Both can display complex behavior. Emotional meaning, however, requires a specific semiotic achievement. On current evidence, nonhuman animals do not yet appear to reach that threshold species-typically, but I do not treat that conclusion as settled by definition. Cognitive science continues to debate the scope of animal symbolic cognition, shared intentionality, mindreading, and representational flexibility. Michael Tomasello emphasizes the distinctive role of shared intentionality in human cognition, while Daniel Dennett argues that intentional interpretation can reveal complex forms of animal agency without requiring human-style linguistic self-report. Humans do reach the symbolic threshold, and infants do so by developmental ascent, first crossing Level 5 and later achieving full emotional meaning at Level 7.
+
+**Predictions.**
+
+The threshold model makes claims that evidence could overturn. I name three markers and what would count against me.
+
+First, self-correction without reward. A symbol-trained animal that revises its own earlier symbol for an inner state, unprompted and unrewarded, and then applies the revised symbol in new contexts, would show endorsement and revision. If such corrections appear reliably, Level 5, and perhaps Level 7, is reached, and my claim about animals fails.
+
+Second, displaced self-report. An animal that uses a learned symbol for an internal state that is no longer present, and whose use predicts its own later choices better than current cues do, would show a detachable identifier for its own state. Reliable evidence of this would also count against me.
+
+Third, developmental order. The model predicts that cross-situational self-attribution (Level 5) comes before reflective revision of an attribution (Level 7). If children reliably revise emotion attributions before they apply emotion terms to themselves across contexts, the ordering of the levels is wrong.
+
+Evidence of feeling, learning, or social signaling does not count against the model. I already grant all three.
 
 If emotional meaning requires detachable symbolic stabilization and metarepresentational endorsement, then emotion cannot be identical to physiology, arousal, expression, or even phenomenological feeling. Those phenomena can occur in the absence of symbolic architecture. Emotional meaning therefore cannot be located at the level of affective circuitry or bodily change alone.
 
