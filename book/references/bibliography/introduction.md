@@ -24,6 +24,8 @@ Frege, Gottlob. “On Sense and Reference.” Translated by Max Black. In *Trans
 
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
 
+Hart, H. L. A. *The Concept of Law*. 3rd ed. Oxford: Oxford University Press, 2012.
+
 Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
 
 *The Holy Bible: New Revised Standard Version Updated Edition*. Psalm 118:22. https://www.biblegateway.com/passage/?search=Psalm%20118%3A22&version=NRSVUE.

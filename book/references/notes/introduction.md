@@ -36,7 +36,7 @@
 
 <a id="note-9"></a>
 
-9. Korsgaard, *Sources of Normativity*, 7–48; Darwall, “Normativity.”
+9. H. L. A. Hart, *The Concept of Law*, 3rd ed. (Oxford: Oxford University Press, 2012), 79–99.
 
 <a id="note-10"></a>
 
