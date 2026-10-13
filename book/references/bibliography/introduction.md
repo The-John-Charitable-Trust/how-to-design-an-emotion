@@ -20,6 +20,8 @@ Darwall, Stephen. “Normativity.” In *Routledge Encyclopedia of Philosophy*. 
 
 Edelman, Shimon. “Marr, David.” In *Encyclopedia of Cognitive Science*. Chichester, UK: Wiley, 2006. https://doi.org/10.1002/0470018860.s00143.
 
+Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
+
 Frege, Gottlob. “On Sense and Reference.” Translated by Max Black. In *Translations from the Philosophical Writings of Gottlob Frege*, edited by Peter Geach and Max Black, 56–78. Oxford: Blackwell, 1952.
 
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.

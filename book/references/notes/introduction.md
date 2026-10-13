@@ -44,52 +44,56 @@
 
 <a id="note-11"></a>
 
-11. Rosalind W. Picard, *Affective Computing* (Cambridge, MA: MIT Press, 1997), 55–89; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
+11. Paul Ekman, “An Argument for Basic Emotions,” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200, https://doi.org/10.1080/02699939208411068.
 
 <a id="note-12"></a>
 
-12. Lisa Feldman Barrett, “Are Emotions Natural Kinds?,” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58, https://doi.org/10.1111/j.1745-6916.2006.00003.x; James A. Russell, “Core Affect and the Psychological Construction of Emotion,” *Psychological Review* 110, no. 1 (2003): 145–72, https://doi.org/10.1037/0033-295X.110.1.145; Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
+12. Rosalind W. Picard, *Affective Computing* (Cambridge, MA: MIT Press, 1997), 55–89; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
 
 <a id="note-13"></a>
 
-13. Jaak Panksepp, “Affective Consciousness: Core Emotional Feelings in Animals and Humans,” *Consciousness and Cognition* 14, no. 1 (2005): 30–80, https://doi.org/10.1016/j.concog.2004.10.004.
+13. Lisa Feldman Barrett, “Are Emotions Natural Kinds?,” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58, https://doi.org/10.1111/j.1745-6916.2006.00003.x; James A. Russell, “Core Affect and the Psychological Construction of Emotion,” *Psychological Review* 110, no. 1 (2003): 145–72, https://doi.org/10.1037/0033-295X.110.1.145; Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-14"></a>
 
-14. Immanuel Kant, *Critique of Pure Reason*, trans. Paul Guyer and Allen W. Wood (Cambridge: Cambridge University Press, 1998), A19/B33–A22/B36; Michael Rohlf, “Immanuel Kant,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/kant/.
+14. Jaak Panksepp, “Affective Consciousness: Core Emotional Feelings in Animals and Humans,” *Consciousness and Cognition* 14, no. 1 (2005): 30–80, https://doi.org/10.1016/j.concog.2004.10.004.
 
 <a id="note-15"></a>
 
-15. Gottlob Frege, “On Sense and Reference,” trans. Max Black, in *Translations from the Philosophical Writings of Gottlob Frege*, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56–78; see also Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/.
+15. Immanuel Kant, *Critique of Pure Reason*, trans. Paul Guyer and Allen W. Wood (Cambridge: Cambridge University Press, 1998), A19/B33–A22/B36; Michael Rohlf, “Immanuel Kant,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/kant/.
 
 <a id="note-16"></a>
 
-16. A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, https://doi.org/10.1038/nrn894.
+16. Gottlob Frege, “On Sense and Reference,” trans. Max Black, in *Translations from the Philosophical Writings of Gottlob Frege*, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56–78; see also Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/.
 
 <a id="note-17"></a>
 
-17. Barrett, “Theory of Constructed Emotion.”
+17. A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, https://doi.org/10.1038/nrn894.
 
 <a id="note-18"></a>
 
-18. Winfried Nöth, *Handbook of Semiotics* (Bloomington: Indiana University Press, 1990).
+18. Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-19"></a>
 
-19. Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
+19. Winfried Nöth, *Handbook of Semiotics* (Bloomington: Indiana University Press, 1990).
 
 <a id="note-20"></a>
 
-20. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 24–27; see also Shimon Edelman, “Marr, David,” in *Encyclopedia of Cognitive Science* (Chichester, UK: Wiley, 2006), https://doi.org/10.1002/0470018860.s00143.
+20. Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
 
 <a id="note-21"></a>
 
-21. Scarantino and de Sousa, “Emotion.”
+21. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 24–27; see also Shimon Edelman, “Marr, David,” in *Encyclopedia of Cognitive Science* (Chichester, UK: Wiley, 2006), https://doi.org/10.1002/0470018860.s00143.
 
 <a id="note-22"></a>
 
-22. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements,” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68, https://doi.org/10.1177/1529100619832930.
+22. Scarantino and de Sousa, “Emotion.”
 
 <a id="note-23"></a>
 
-23. Jaroslav Peregrin, “Inferentialism,” in *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/.
+23. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements,” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68, https://doi.org/10.1177/1529100619832930.
+
+<a id="note-24"></a>
+
+24. Jaroslav Peregrin, “Inferentialism,” in *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/.
