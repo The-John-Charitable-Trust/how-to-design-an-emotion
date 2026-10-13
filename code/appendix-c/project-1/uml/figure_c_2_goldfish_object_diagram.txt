@@ -1,0 +1,10 @@
+\
+    Figure C-2. Goldfish UML Object Diagram
+
+    +----------------------------------+
+    | goldfish : Fish                  |
+    +----------------------------------+
+    | Species = "Goldfish"             |
+    | IsAquatic = true                 |
+    | IsOrganism = true                |
+    +----------------------------------+

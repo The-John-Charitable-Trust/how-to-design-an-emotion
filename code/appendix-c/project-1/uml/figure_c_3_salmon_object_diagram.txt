@@ -1,0 +1,10 @@
+\
+    Figure C-3. Salmon UML Object Diagram
+
+    +----------------------------------+
+    | salmon : Fish                    |
+    +----------------------------------+
+    | Species = "Salmon"               |
+    | IsAquatic = true                 |
+    | IsOrganism = true                |
+    +----------------------------------+

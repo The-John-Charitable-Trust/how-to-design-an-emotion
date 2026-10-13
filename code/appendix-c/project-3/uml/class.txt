@@ -1,0 +1,11 @@
+Class Diagram
+
+Fish
+ - Species
+ - Type
+
+IGoal
+ + Select(Fish)
+
+PetGoal : IGoal
+DinnerGoal : IGoal

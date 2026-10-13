@@ -1,0 +1,9 @@
+Object Diagram
+
+Fish Instances:
+Goldfish (PET)
+Salmon (FOOD)
+
+Goal:
+PetGoal selects Goldfish
+DinnerGoal selects Salmon

@@ -1,0 +1,11 @@
+\
+    Figure C-4. Rock Candidate UML Object Diagram
+
+    +----------------------------------+
+    | rock : Fish?                     |
+    +----------------------------------+
+    | Species = "Rock"                 |
+    | IsAquatic = false                |
+    | IsOrganism = false               |
+    +----------------------------------+
+    Rejected at construction

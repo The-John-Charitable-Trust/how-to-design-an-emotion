@@ -300,7 +300,7 @@ There is no universal objective significance. If emotional significance were int
 
 Emotional significance therefore does not reside in the sign itself. It arises from the agent’s affective and motivational relation to the constructed meaning.
 
-The corresponding C# executable for the tests below is available in the Chapter 12 project folder. The folder includes a README with instructions for building, running, and reproducing the sample outputs.
+The corresponding C# executable for the tests below is available in the [Chapter 12 project folder](../../code/chapter-12/SemioticConstraintEngine_v2/). The folder includes a README with instructions for building, running, and reproducing the sample outputs.
 
 This C# project does not duplicate the UML diagrams. It operationalizes them. The diagrams show the static architecture of the Constructivist Semiotic Sign, but the executable project shows what that architecture permits and what it forbids. By running the demonstrations, the reader can see that no intrinsic feature of the sign determines the identifier, that a single identifier can underdetermine multiple sign configurations, that no invariant essence governs all admissible instances, that no universal objective identity follows necessarily from the same admissibility conditions, and that no universal objective significance resides in the sign itself. The project therefore functions as an executable supplement to the chapter’s formal argument. It does not prove the thesis by illustration alone. It tests the thesis by execution.
 

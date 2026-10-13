@@ -1,0 +1,11 @@
+Object Diagram
+
+Fish Instances:
+Goldfish (PET)
+Salmon (FOOD)
+
+Runtime Specification (pet):
+Constraint: Type == PET
+
+Runtime Specification (dinner):
+Constraint: Type == FOOD

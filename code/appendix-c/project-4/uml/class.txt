@@ -1,0 +1,11 @@
+Class Diagram
+
+Fish
+ - Species
+ - Type
+
+ConceptSpecification
+ - Constraint (Func<Fish, bool>)
+
+RuntimeConceptBuilder
+ + Build(goal) -> ConceptSpecification
