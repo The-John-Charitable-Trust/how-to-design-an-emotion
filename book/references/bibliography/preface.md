@@ -18,7 +18,7 @@ James, William. “What Is an Emotion?” *Mind* 9, no. 34 (1884): 188–205. ht
 
 Maroney, Terry A. “Law and Emotion: A Proposed Taxonomy of an Emerging Field.” *Law and Human Behavior* 30, no. 2 (2006): 119–42. https://doi.org/10.1007/s10979-006-9029-9.
 
-Picard, Rosalind W. *Affective Computing*. Cambridge, MA: MIT Press, 1997.
+Picard, Rosalind W. “Affective Computing: Challenges.” *International Journal of Human-Computer Studies* 59, nos. 1–2 (2003): 55–64. https://doi.org/10.1016/S1071-5819(03)00052-1.
 
 Rosch, Eleanor, and Carolyn B. Mervis. “Family Resemblances: Studies in the Internal Structure of Categories.” *Cognitive Psychology* 7, no. 4 (1975): 573–605. https://doi.org/10.1016/0010-0285(75)90024-9.
 
