@@ -24,40 +24,44 @@
 
 <a id="note-6"></a>
 
-6. Rosalind W. Picard, *Affective Computing* (Cambridge, MA: MIT Press, 1997), 55–89; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
+6. Terry A. Maroney, “Law and Emotion: A Proposed Taxonomy of an Emerging Field,” *Law and Human Behavior* 30, no. 2 (2006): 119–42, https://doi.org/10.1007/s10979-006-9029-9.
 
 <a id="note-7"></a>
 
-7. Grand View Research, *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2026–2033*, accessed October 13, 2026, https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
+7. Rosalind W. Picard, *Affective Computing* (Cambridge, MA: MIT Press, 1997), 55–89; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
 
 <a id="note-8"></a>
 
-8. Debra J. Brody and Jeffery P. Hughes, *Depression Prevalence in Adolescents and Adults: United States, August 2021–August 2023*, NCHS Data Brief no. 527 (Hyattsville, MD: National Center for Health Statistics, April 2025), 1–11, https://doi.org/10.15620/cdc/174579.
+8. Grand View Research, *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2026–2033*, accessed October 13, 2026, https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
 
 <a id="note-9"></a>
 
-9. Dan Witters, “U.S. Depression Rates Reach New Highs,” Gallup, May 17, 2023, https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx; Dan Witters, Diana Liu, and Sangeeta Agrawal, “Depression Costs U.S. Workplaces $23 Billion in Absenteeism,” Gallup, July 24, 2013, https://news.gallup.com/poll/163619/depression-costs-workplaces-billion-absenteeism.aspx.
+9. Debra J. Brody and Jeffery P. Hughes, *Depression Prevalence in Adolescents and Adults: United States, August 2021–August 2023*, NCHS Data Brief no. 527 (Hyattsville, MD: National Center for Health Statistics, April 2025), 1–11, https://doi.org/10.15620/cdc/174579.
 
 <a id="note-10"></a>
 
-10. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements,” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68, https://doi.org/10.1177/1529100619832930.
+10. Dan Witters, “U.S. Depression Rates Reach New Highs,” Gallup, May 17, 2023, https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx; Dan Witters, Diana Liu, and Sangeeta Agrawal, “Depression Costs U.S. Workplaces $23 Billion in Absenteeism,” Gallup, July 24, 2013, https://news.gallup.com/poll/163619/depression-costs-workplaces-billion-absenteeism.aspx.
 
 <a id="note-11"></a>
 
-11. Scherer, “What Are Emotions?,” 695–729.
+11. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements,” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68, https://doi.org/10.1177/1529100619832930.
 
 <a id="note-12"></a>
 
-12. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
+12. Scherer, “What Are Emotions?,” 695–729.
 
 <a id="note-13"></a>
 
-13. Gupta, “Definitions.”
+13. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
 
 <a id="note-14"></a>
 
-14. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
+14. Gupta, “Definitions.”
 
 <a id="note-15"></a>
 
-15. Scarantino and de Sousa, “Emotion”; Scherer, “What Are Emotions?”
+15. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
+
+<a id="note-16"></a>
+
+16. Scarantino and de Sousa, “Emotion”; Scherer, “What Are Emotions?”
