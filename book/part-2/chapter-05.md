@@ -1,4 +1,4 @@
-# Chapter 5: Rules vs. Prototypes
+# Chapter 5: Classical vs Prototype Theories of Concepts: A Faux Dichotomy
 
 *Why the Great Debate Over Concepts Is a Faux Dichotomy*
 

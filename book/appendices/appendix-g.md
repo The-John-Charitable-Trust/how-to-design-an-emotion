@@ -1,4 +1,4 @@
-# Appendix G: The Metric of Emotion
+# Appendix G: Weighting Rationale and Methodological Justification for the Comparative Trade Studies
 
 ## Weighting and Justifying the Comparative Framework
 

@@ -1,4 +1,4 @@
-# Chapter 4: The Misappropriation of the Concept
+# Chapter 4: The Misappropriation of the Concept: The Orphaning of Identity Conditions
 
 *The Orphaning of Identity Conditions*
 

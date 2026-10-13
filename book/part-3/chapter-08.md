@@ -1,6 +1,6 @@
 [Contents](../README.md) · [Notes](../../references/notes/chapter-08.md) · [Bibliography](../../references/bibliography/chapter-08.md)
 
-# Chapter 8 — The War of Signs
+# Chapter 8 — A Tale of Two Theories: Saussure, Peirce and the Reconstruction of Meaning
 
 *Saussure, Peirce, and the Reconstruction of Meaning*
 

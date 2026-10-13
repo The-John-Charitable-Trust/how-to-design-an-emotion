@@ -1,4 +1,4 @@
-# Chapter 3: Chasing Ghosts in the Brain
+# Chapter 3: Beyond Naïve Essentialism: Reconstructing Identity Conditions
 
 *Why We Need a New Architecture for Identity*
 

@@ -1,4 +1,4 @@
-# Chapter 1 — What the Bleep Is an Emotion?
+# Chapter 1 — Why We Don’t Agree on the Definition of Emotion: What It Takes to Get it Right
 
 *Why Centuries of Science and Philosophy Still Can’t Define How We Feel*
 

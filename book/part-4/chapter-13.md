@@ -1,6 +1,6 @@
 [Contents](README.md) · [Notes](../references/notes/chapter-13.md) · [Bibliography](../references/bibliography/chapter-13.md)
 
-# Chapter 13 — The Sound of Feelings
+# Chapter 13 — The Sound of Feelings: Music as a Model for Affective Mechanisms, Felt Timbre, and Emotion Genres
 
 *Using Music to Model How We Make and Experience Emotion*
 
