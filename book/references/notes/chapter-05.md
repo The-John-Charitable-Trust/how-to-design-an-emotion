@@ -76,11 +76,11 @@
 
 <a id="note-19"></a>
 
-19. MDN Web Docs, "Inheritance and the Prototype Chain," Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain. Access basis: Official documentation.
+19. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
 
 <a id="note-20"></a>
 
-20. MDN Web Docs, "Inheritance and the Prototype Chain," Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain. Access basis: Official documentation.
+20. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
 
 <a id="note-21"></a>
 
@@ -108,15 +108,15 @@
 
 <a id="note-27"></a>
 
-27. Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.
+27. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
 
 <a id="note-28"></a>
 
-28. MDN Web Docs, "Inheritance and the Prototype Chain," Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain. Access basis: Official documentation.
+28. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
 
 <a id="note-29"></a>
 
-29. MDN Web Docs, "Inheritance and the Prototype Chain," Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain. Access basis: Official documentation.
+29. MDN Web Docs, “Inheritance and the Prototype Chain,” Mozilla, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain.
 
 <a id="note-30"></a>
 

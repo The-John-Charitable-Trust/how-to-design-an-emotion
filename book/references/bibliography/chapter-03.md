@@ -2,18 +2,18 @@
 
 [Back to Chapter 3](../../part-2/chapter-03.md) · [Notes](../notes/chapter-03.md)
 
-Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
+Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
 
-Jaak Panksepp, "Affective Consciousness: Core Emotional Feelings in Animals and Humans," Consciousness and Cognition 14, no. 1 (2005): 30-80, https://doi.org/10.1016/j.concog.2004.10.004.
+Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
-James J. Gross, "The Emerging Field of Emotion Regulation: An Integrative Review," Review of General Psychology 2, no. 3 (1998): 271-299, https://doi.org/10.1037/1089-2680.2.3.271.
+Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38. https://doi.org/10.1038/nrn2787.
 
-Jaroslav Peregrin, "Inferentialism," in The Stanford Encyclopedia of Philosophy, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/.
+Gross, James J. “The Emerging Field of Emotion Regulation: An Integrative Review.” *Review of General Psychology* 2, no. 3 (1998): 271–99. https://doi.org/10.1037/1089-2680.2.3.271.
 
-Karl Friston, "The Free-Energy Principle: A Unified Brain Theory?" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787.
+Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
 
-Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154.
+Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
 
-Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017).
+Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals and Humans.” *Consciousness and Cognition* 14, no. 1 (2005): 30–80. https://doi.org/10.1016/j.concog.2004.10.004.
 
-Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+Peregrin, Jaroslav. “Inferentialism.” In *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/inferentialism/.

@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, abstract and fig. 1, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central (PMC5390700), section verified.
+2. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, abstract and fig. 1, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-3"></a>
 
@@ -20,11 +20,11 @@
 
 <a id="note-5"></a>
 
-5. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
+5. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-6"></a>
 
-6. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
+6. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-7"></a>
 
@@ -36,7 +36,7 @@
 
 <a id="note-9"></a>
 
-9. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Theory of Constructed Emotion." Access basis: PubMed Central (PMC5390700), section verified.
+9. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Theory of Constructed Emotion,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-10"></a>
 
@@ -48,11 +48,11 @@
 
 <a id="note-12"></a>
 
-12. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
+12. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
 
 <a id="note-13"></a>
 
-13. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, abstract and fig. 1, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central (PMC5390700), section verified.
+13. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, abstract and fig. 1, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-14"></a>
 
@@ -84,35 +84,35 @@
 
 <a id="note-21"></a>
 
-21. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
+21. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-22"></a>
 
-22. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
+22. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-23"></a>
 
-23. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
+23. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
 
 <a id="note-24"></a>
 
-24. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified.
+24. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
 
 <a id="note-25"></a>
 
-25. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified. [CITATION NEEDED: verify — "imposes similarities" verified in chap. 5; the quoted phrase "collections of instances" was not found (chap. 5 and SCAN 2017 use "population(s) of instances/representations"); confirm wording and page]
+25. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Theory of Constructed Emotion,” https://doi.org/10.1093/scan/nsw154; Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
 
 <a id="note-26"></a>
 
-26. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
+26. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-27"></a>
 
-27. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "An Internal Model Is Predictive, Not Reactive." Access basis: PubMed Central (PMC5390700), section verified.
+27. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “An Internal Model Is Predictive, Not Reactive,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-28"></a>
 
-28. Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, "Concepts, Goals, and Words." Access basis: chapter content verified via published excerpts; page not verified. [CITATION NEEDED: verify — the phrase "constructed on the fly" was not verified; chap. 5 describes concepts as constructed "in the moment"; confirm exact wording and page]
+28. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
 
 <a id="note-29"></a>
 
@@ -120,7 +120,7 @@
 
 <a id="note-30"></a>
 
-30. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central. [CITATION NEEDED: verify — "concepts stabilize because they work" is not a verified Barrett claim in SCAN 2017; supply a passage or rephrase as interpretation]
+30. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, figs. 4 and 5 captions, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-31"></a>
 
@@ -156,15 +156,15 @@
 
 <a id="note-39"></a>
 
-39. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "An Internal Model Is Predictive, Not Reactive." Access basis: PubMed Central (PMC5390700), section verified.
+39. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “An Internal Model Is Predictive, Not Reactive,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-40"></a>
 
-40. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators." Access basis: PubMed Central (PMC5390700), section verified.
+40. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-41"></a>
 
-41. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central. [CITATION NEEDED: verify — same as note 30: "concepts stabilize because they work" not verified in SCAN 2017]
+41. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, figs. 4 and 5 captions, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-42"></a>
 
@@ -176,7 +176,7 @@
 
 <a id="note-44"></a>
 
-44. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central. [CITATION NEEDED: verify — SCAN 2017, sec. "The Theory of Constructed Emotion," states that emotion categories "are as real as any other conceptual categories"; the attributed assumption that emotions "lack stable identities" needs a supporting passage or should be framed as the author's inference]
+44. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Theory of Constructed Emotion,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-45"></a>
 
@@ -184,7 +184,7 @@
 
 <a id="note-46"></a>
 
-46. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Theory of Constructed Emotion." Access basis: PubMed Central (PMC5390700), section verified.
+46. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Theory of Constructed Emotion,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-47"></a>
 
@@ -204,7 +204,7 @@
 
 <a id="note-51"></a>
 
-51. Lisa Feldman Barrett, "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization," Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154, sec. "The Theory of Constructed Emotion." Access basis: PubMed Central (PMC5390700), section verified.
+51. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, in the section “The Theory of Constructed Emotion,” https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-52"></a>
 
