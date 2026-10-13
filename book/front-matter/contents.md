@@ -23,7 +23,7 @@
 
 ## Part IV — The Construction of Emotion
 
-9. Emotions Are Not Triggered They Are Made
+9. Emotions Are Not Triggered; They Are Made
 
 ## Part V — The Constructivist Linguistics of Emotion
 

@@ -395,6 +395,6 @@ The trade study demonstrates that no existing candidate preserves every governin
 
 The comparative trade study now stands complete.<sup><a href="../references/notes/appendix-i.md#note-203">203</a></sup> The Constructivist Semiotic Model of Emotions follows from these results rather than competing with them.<sup><a href="../references/notes/appendix-i.md#note-204">204</a></sup> Throughout the remainder of Chapter 9, I finalize the CSME by integrating the strongest architectural contributions of the qualifying candidates while repairing the structural deficiencies identified by the trade study.<sup><a href="../references/notes/appendix-i.md#note-205">205</a></sup> As noted in Appendix F, I also incorporate selected architectural features of Basic Emotion Theory and the Component Process Model whenever those features strengthen the final architecture without reintroducing the identity, cognitive-semiotic, or computational limitations that prevent those theories from serving as complete architectural foundations for emotional meaning.<sup><a href="../references/notes/appendix-i.md#note-206">206</a></sup>
 
-Chapter 9. Emotions Are Not Triggered They Are Made:
+Chapter 9. Emotions Are Not Triggered; They Are Made:
 
 A Constructivist Semiotic Model of Emotions
