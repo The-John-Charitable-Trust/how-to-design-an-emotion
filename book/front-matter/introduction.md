@@ -2,7 +2,9 @@
 
 [Notes](../references/notes/introduction.md) · [Bibliography](../references/bibliography/introduction.md)
 
-*Rights. Morality. Emotions.*
+*The Problem of Emotional Meaning*
+
+> *Rights. Morality. Emotions.*
 
 WE LIVE BY IDEAS we have not yet learned to define. We invoke rights as though their meaning were self-evident; we appeal to morality as though its authority were unquestionable; we speak of emotions as though everyone already understands what they are. Yet beneath this confidence lies a deeper failure: many of our most vital mind-dependent concepts rest upon inherited definitions, unstable intuitions, and unexamined assumptions.
 
