@@ -76,7 +76,7 @@ This repository treats the book as a living, version-controlled body of knowledg
 - `book/front-matter/` — front matter as independently versioned documents
 - `book/methodology-of-an-ontology/` — the methodology that develops across the work
 - `book/part-1/` and `book/part-2/` — currently supplied manuscript chapters
-- `book/part-3/` through `book/part-5/` — reserved for subsequent parts
+- `book/part-3/` through `book/part-5/` — Parts III–V (Part V holds Chapters 10–14)
 - `assets/` — covers, figures, NFT material, and publication media
 - `source/original-docx/` — archival source documents used for the initial Markdown conversion
 - `docs/` — public project-site material

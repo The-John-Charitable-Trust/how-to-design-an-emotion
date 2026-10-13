@@ -1,6 +1,6 @@
 # Chapter 12 — Bibliography
 
-[Return to Chapter 12](../../part-4/chapter-12.md)
+[Return to Chapter 12](../../part-5/chapter-12.md)
 
 Barrett, Lisa Feldman. How Emotions Are Made: The Secret Life of the Brain. Boston: Houghton Mifflin Harcourt, 2017.
 

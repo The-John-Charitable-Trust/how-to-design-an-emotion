@@ -1,6 +1,6 @@
 # Chapter 10 — Bibliography
 
-[Return to Chapter 10](../../part-4/chapter-10.md)
+[Return to Chapter 10](../../part-5/chapter-10.md)
 
 Austin, J. L. How to Do Things with Words. 2nd ed. Cambridge, MA: Harvard University Press, 1975.
 

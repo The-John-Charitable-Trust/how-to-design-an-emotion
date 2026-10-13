@@ -1,6 +1,6 @@
 # Chapter 13 — Notes
 
-[Return to Chapter 13](../../part-4/chapter-13.md)
+[Return to Chapter 13](../../part-5/chapter-13.md)
 
 <a id="note-1"></a>
 **1.** Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 42–49; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, trans. F. Kersten (Dordrecht: Kluwer, 1983), 66–74.

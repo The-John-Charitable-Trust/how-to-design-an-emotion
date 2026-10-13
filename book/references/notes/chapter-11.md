@@ -1,6 +1,6 @@
 # Chapter 11 — Notes
 
-[Return to Chapter 11](../../part-4/chapter-11.md)
+[Return to Chapter 11](../../part-5/chapter-11.md)
 
 <a id="note-1"></a>
 **1.** Charles Sanders Peirce, “Logic as Semiotic: The Theory of Signs,” in Philosophical Writings of Peirce, ed. Justus Buchler (New York: Dover, 1955), 98-119; Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 48-96; Robert Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 159-200; Josef Perner, Understanding the Representational Mind (Cambridge, MA: MIT Press, 1991), 7-35.

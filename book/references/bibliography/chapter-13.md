@@ -1,6 +1,6 @@
 # Chapter 13 — Bibliography
 
-[Return to Chapter 13](../../part-4/chapter-13.md)
+[Return to Chapter 13](../../part-5/chapter-13.md)
 
 Barrett, Lisa Feldman. How Emotions Are Made: The Secret Life of the Brain. Boston: Houghton Mifflin Harcourt, 2017.
 
