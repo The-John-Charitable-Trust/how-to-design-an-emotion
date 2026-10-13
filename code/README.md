@@ -15,4 +15,6 @@ C# companion projects for *How to Design an Emotion*. Each folder matches the ch
 
 Requirements: the .NET SDK. From a project folder (the one containing the `.csproj`), run `dotnet run`, adding any arguments documented in that project's README.
 
+A ZIP of this folder is available as [how-to-design-an-emotion-code.zip](how-to-design-an-emotion-code.zip). See also [How to Run the Code Examples in This Book](../book/front-matter/how-to-run-the-code-examples.md).
+
 Build output (`bin/`, `obj/`, `.vs/`, `*.user`) is not included.
