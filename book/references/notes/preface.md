@@ -36,7 +36,7 @@
 
 <a id="note-9"></a>
 
-9. Debra J. Brody and Jeffery P. Hughes, *Depression Prevalence in Adolescents and Adults: United States, August 2021–August 2023*, NCHS Data Brief no. 527 (Hyattsville, MD: National Center for Health Statistics, April 2025), 1–11, https://dx.doi.org/10.15620/cdc/174579.
+9. Debra J. Brody and Jeffery P. Hughes, *Depression Prevalence in Adolescents and Adults: United States, August 2021–August 2023*, NCHS Data Brief no. 527 (Hyattsville, MD: National Center for Health Statistics, April 2025), 1–11, https://doi.org/10.15620/cdc/174579.
 
 <a id="note-10"></a>
 

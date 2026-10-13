@@ -6,7 +6,7 @@ Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference
 
 Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements.” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68. https://doi.org/10.1177/1529100619832930.
 
-Brody, Debra J., and Jeffery P. Hughes. *Depression Prevalence in Adolescents and Adults: United States, August 2021–August 2023*. NCHS Data Brief no. 527. Hyattsville, MD: National Center for Health Statistics, April 2025. https://dx.doi.org/10.15620/cdc/174579.
+Brody, Debra J., and Jeffery P. Hughes. *Depression Prevalence in Adolescents and Adults: United States, August 2021–August 2023*. NCHS Data Brief no. 527. Hyattsville, MD: National Center for Health Statistics, April 2025. https://doi.org/10.15620/cdc/174579.
 
 Calvo, Rafael A., and Sidney D’Mello. “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications.” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37. https://doi.org/10.1109/T-AFFC.2010.1.
 
