@@ -1,6 +1,6 @@
 [Contents](README.md) · [Notes](../references/notes/chapter-10.md) · [Bibliography](../references/bibliography/chapter-10.md)
 
-# Chapter 10 — All I Know Is What I Have Symbols For
+# Chapter 10: All I Know Is What I Have Symbols For
 
 *The Linguistic Limits of Emotional Meaning*
 

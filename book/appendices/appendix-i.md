@@ -52,7 +52,7 @@ Definitional Domain
 | D6. Ontological Coherence | 10% | 0.675 | 0.0675 |
 | Weighted Macro Score | 100% |  | 0.7500 |
 
-<p align="center">**Table I-1: Definitional Micro-Level Scoring for Appraisal Theories**</p>
+<p align="center">**Table I-1. Definitional Micro-Level Scoring for Appraisal Theories**</p>
 
 Scoring Rationale
 
@@ -75,7 +75,7 @@ Analytic Domain
 | A7. Non-Circular Justification | 10% | 0.70 | 0.0700 |
 | Weighted Macro Score | 100% |  | 0.6500 |
 
-<p align="center">**Table I-2: Analytic Micro-Level Scoring for Appraisal Theories**</p>
+<p align="center">**Table I-2. Analytic Micro-Level Scoring for Appraisal Theories**</p>
 
 Scoring Rationale
 
@@ -96,7 +96,7 @@ Cognitive-Semiotic Domain
 | CS7. Goals Govern Meaning | 10% | 0.80 | 0.0800 |
 | Weighted Macro Score | 100% |  | 0.7175 |
 
-<p align="center">**Table I-3: Cognitive-Semiotic Micro-Level Scoring for Appraisal Theories**</p>
+<p align="center">**Table I-3. Cognitive-Semiotic Micro-Level Scoring for Appraisal Theories**</p>
 
 Scoring Rationale
 
@@ -117,7 +117,7 @@ Computational Domain
 | C6. Agent and Goal Preservation | 10% | 0.525 | 0.0525 |
 | Weighted Macro Score | 100% |  | 0.5500 |
 
-<p align="center">**Table I-4: Computational Micro-Level Scoring for Appraisal Theories**</p>
+<p align="center">**Table I-4. Computational Micro-Level Scoring for Appraisal Theories**</p>
 
 Scoring Rationale
 
@@ -139,7 +139,7 @@ Definitional Domain
 | D6. Ontological Coherence | 10% | 0.725 | 0.0725 |
 | Weighted Macro Score | 100% |  | 0.8000 |
 
-<p align="center">**Table I-5: Definitional Micro-Level Scoring for the Component Process Model (CPM)**</p>
+<p align="center">**Table I-5. Definitional Micro-Level Scoring for the Component Process Model (CPM)**</p>
 
 Scoring Rationale
 
@@ -160,7 +160,7 @@ Analytic Domain
 | A7. Non-Circular Justification | 10% | 0.625 | 0.0625 |
 | Weighted Macro Score | 100% |  | 0.7000 |
 
-<p align="center">**Table I-6: Analytic Micro-Level Scoring for the Component Process Model (CPM)**</p>
+<p align="center">**Table I-6. Analytic Micro-Level Scoring for the Component Process Model (CPM)**</p>
 
 Scoring Rationale
 
@@ -181,7 +181,7 @@ Cognitive-Semiotic Domain
 | CS7. Goals Govern Meaning | 10% | 0.65 | 0.0650 |
 | Weighted Macro Score | 100% |  | 0.6500 |
 
-<p align="center">**Table I-7: Cognitive-Semiotic Micro-Level Scoring for the Component Process Model (CPM)**</p>
+<p align="center">**Table I-7. Cognitive-Semiotic Micro-Level Scoring for the Component Process Model (CPM)**</p>
 
 Scoring Rationale
 
@@ -202,7 +202,7 @@ Computational Domain
 | C6. Agent and Goal Preservation | 10% | 0.55 | 0.0550 |
 | Weighted Macro Score | 100% |  | 0.6000 |
 
-<p align="center">**Table I-8: Computational Micro-Level Scoring for the Component Process Model (CPM)**</p>
+<p align="center">**Table I-8. Computational Micro-Level Scoring for the Component Process Model (CPM)**</p>
 
 Scoring Rationale
 
@@ -224,7 +224,7 @@ Definitional Domain
 | D6. Ontological Coherence | 10% | 0.49 | 0.0490 |
 | Weighted Macro Score | 100% |  | 0.5500 |
 
-<p align="center">**Table I-9: Definitional Micro-Level Scoring for the Conceptual Act Theory / Theory of Constructed Emotion**</p>
+<p align="center">**Table I-9. Definitional Micro-Level Scoring for the Conceptual Act Theory / Theory of Constructed Emotion**</p>
 
 Scoring Rationale
 
@@ -245,7 +245,7 @@ Analytic Domain
 | A7. Non-Circular Justification | 10% | 0.525 | 0.0525 |
 | Weighted Macro Score | 100% |  | 0.5000 |
 
-<p align="center">**Table I-10: Analytic Micro-Level Scoring for the Conceptual Act Theory / Theory of Constructed Emotion**</p>
+<p align="center">**Table I-10. Analytic Micro-Level Scoring for the Conceptual Act Theory / Theory of Constructed Emotion**</p>
 
 Scoring Rationale
 
@@ -266,7 +266,7 @@ Cognitive-Semiotic Domain
 | CS7. Goals Govern Meaning | 10% | 0.30 | 0.0300 |
 | Weighted Macro Score | 100% |  | 0.4500 |
 
-<p align="center">**Table I-11: Cognitive-Semiotic Micro-Level Scoring for the Conceptual Act Theory / Theory of Constructed Emotion**</p>
+<p align="center">**Table I-11. Cognitive-Semiotic Micro-Level Scoring for the Conceptual Act Theory / Theory of Constructed Emotion**</p>
 
 Scoring Rationale
 
@@ -287,7 +287,7 @@ Computational Domain
 | C6. Agent and Goal Preservation | 10% | 0.60 | 0.0600 |
 | Weighted Macro Score | 100% |  | 0.6500 |
 
-<p align="center">**Table I-12: Computational Micro-Level Scoring for the Conceptual Act Theory / Theory of Constructed Emotion**</p>
+<p align="center">**Table I-12. Computational Micro-Level Scoring for the Conceptual Act Theory / Theory of Constructed Emotion**</p>
 
 Scoring Rationale
 
@@ -311,7 +311,7 @@ Definitional Domain
 | D6. Ontological Coherence | 10% | 0.75 | 0.0750 |
 | Weighted Macro Score | 100% |  | 0.9000 |
 
-<p align="center">**Table I-13: Definitional Micro-Level Scoring for Affective Neuroscience**</p>
+<p align="center">**Table I-13. Definitional Micro-Level Scoring for Affective Neuroscience**</p>
 
 Scoring Rationale
 
@@ -332,7 +332,7 @@ Analytic Domain
 | A7. Non-Circular Justification | 10% | 0.575 | 0.0575 |
 | Weighted Macro Score | 100% |  | 0.7500 |
 
-<p align="center">**Table I-14: Analytic Micro-Level Scoring for Affective Neuroscience (Affective Layer Only)**</p>
+<p align="center">**Table I-14. Analytic Micro-Level Scoring for Affective Neuroscience (Affective Layer Only)**</p>
 
 Scoring Rationale
 
@@ -353,7 +353,7 @@ Cognitive-Semiotic Domain
 | CS7. Goals Govern Meaning | 10% | 0.475 | 0.0475 |
 | Weighted Macro Score | 100% |  | 0.4000 |
 
-<p align="center">**Table I-15: Cognitive-Semiotic Micro-Level Scoring for Affective Neuroscience (Affective Layer Only)**</p>
+<p align="center">**Table I-15. Cognitive-Semiotic Micro-Level Scoring for Affective Neuroscience (Affective Layer Only)**</p>
 
 Scoring Rationale
 
@@ -374,7 +374,7 @@ Computational Domain
 | C6. Agent and Goal Preservation | 10% | 0.825 | 0.0825 |
 | Weighted Macro Score | 100% |  | 0.8000 |
 
-<p align="center">**Table I-16: Computational Micro-Level Scoring for Affective Neuroscience (Affective Layer Only)**</p>
+<p align="center">**Table I-16. Computational Micro-Level Scoring for Affective Neuroscience (Affective Layer Only)**</p>
 
 Scoring Rationale
 
@@ -389,9 +389,9 @@ The score remains below perfection because computational implementation preserve
 | Affective Neuroscience (Panksepp) (Feeling only) | 0.90 × 30 = 27.0 | 0.75 × 20 = 15.0 | 0.40 × 25 = 10.0 | 0.80 × 25 = 20.0 | 72.00 |
 | Conceptual Act Theory / Theory of Constructed Emotion (TCE) | 0.55 × 30 = 16.5 | 0.50 × 20 = 10.0 | 0.45 × 25 = 11.25 | 0.65 × 25 = 16.25 | 54.00 |
 
-<p align="center">**Table I-17: Consolidated Weighted Scoring Matrix**</p>
+<p align="center">**Table I-17. Consolidated Weighted Scoring Matrix**</p>
 
-**Table I-17 summarizes the outcome of the comparative trade study.<sup><a href="../references/notes/appendix-i.md#note-192">192</a></sup> Affective Neuroscience achieves the highest overall score because it provides the strongest ontological and computational account of physiological affect.<sup><a href="../references/notes/appendix-i.md#note-193">193</a></sup> The Component Process Model follows by preserving the clearest architectural differentiation among the constituent processes of emotional episodes.<sup><a href="../references/notes/appendix-i.md#note-194">194</a></sup> Appraisal Theory preserves evaluative significance and contextual relevance while leaving the identity conditions of emotion incompletely specified.<sup><a href="../references/notes/appendix-i.md#note-195">195</a></sup> The Theory of Constructed Emotion contributes the indispensable insight that the mind constructs emotions rather than discovers them as biologically discrete kinds, yet it does not stabilize the identity conditions required for a disciplined cognitive-semiotic architecture.<sup><a href="../references/notes/appendix-i.md#note-196">196</a></sup>**
+Table I-17 summarizes the outcome of the comparative trade study.<sup><a href="../references/notes/appendix-i.md#note-192">192</a></sup> Affective Neuroscience achieves the highest overall score because it provides the strongest ontological and computational account of physiological affect.<sup><a href="../references/notes/appendix-i.md#note-193">193</a></sup> The Component Process Model follows by preserving the clearest architectural differentiation among the constituent processes of emotional episodes.<sup><a href="../references/notes/appendix-i.md#note-194">194</a></sup> Appraisal Theory preserves evaluative significance and contextual relevance while leaving the identity conditions of emotion incompletely specified.<sup><a href="../references/notes/appendix-i.md#note-195">195</a></sup> The Theory of Constructed Emotion contributes the indispensable insight that the mind constructs emotions rather than discovers them as biologically discrete kinds, yet it does not stabilize the identity conditions required for a disciplined cognitive-semiotic architecture.<sup><a href="../references/notes/appendix-i.md#note-196">196</a></sup>
 
 The trade study demonstrates that no existing candidate preserves every governing domain simultaneously.<sup><a href="../references/notes/appendix-i.md#note-197">197</a></sup> Affective Neuroscience grounds physiological affect but does not explain emotional meaning.<sup><a href="../references/notes/appendix-i.md#note-198">198</a></sup> The Component Process Model preserves architectural differentiation but distributes emotion across a temporal sequence.<sup><a href="../references/notes/appendix-i.md#note-199">199</a></sup> Appraisal Theory preserves evaluative significance without fully fixing emotional identity.<sup><a href="../references/notes/appendix-i.md#note-200">200</a></sup> The Theory of Constructed Emotion correctly recognizes construction while assigning the principal explanatory work to subpersonal prediction and categorization rather than to agent-directed interpretation.<sup><a href="../references/notes/appendix-i.md#note-201">201</a></sup> Each candidate therefore contributes an indispensable architectural insight while leaving a corresponding structural deficiency.<sup><a href="../references/notes/appendix-i.md#note-202">202</a></sup>
 

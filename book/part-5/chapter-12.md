@@ -1,6 +1,6 @@
 [Contents](README.md) · [Notes](../references/notes/chapter-12.md) · [Bibliography](../references/bibliography/chapter-12.md)
 
-# Chapter 12 — Our Feelings Are Real, But Are Our Emotions?
+# Chapter 12: Our Feelings Are Real, But Are Our Emotions?
 
 *How the Mind Misidentifies Sensation*
 
@@ -167,16 +167,16 @@ Test 1. The Arbitrariness of the Constructivist Semiotic Sign: Does any intrinsi
 This test examines whether anything intrinsic to a sign determines its identifier. If the relation is objective, then identical sign configurations must yield the same identifier.
 
 <img src="../../assets/figures/chapter-12/figure-01.png" />
-<p align="center">**Figure 12.1. FamilyClanSign UML Class Diagram**</p>
+<p align="center">**Figure 12-1. FamilyClanSign UML Class Diagram**</p>
 
 <img src="../../assets/figures/chapter-12/figure-02.png" />
-<p align="center">**Figure 12.2. English Family Clan UML Object Diagram**</p>
+<p align="center">**Figure 12-2. English Family Clan UML Object Diagram**</p>
 
 <img src="../../assets/figures/chapter-12/figure-03.png" />
-<p align="center">**Figure 12.3. Spanish Family Clan UML Object Diagram**</p>
+<p align="center">**Figure 12-3. Spanish Family Clan UML Object Diagram**</p>
 
 <img src="../../assets/figures/chapter-12/figure-04.png" />
-<p align="center">**Figure 12.4. Swahili Family Clan UML Object Diagram**</p>
+<p align="center">**Figure 12-4. Swahili Family Clan UML Object Diagram**</p>
 
 Each instance preserves the same admissible sign configuration relative to its context. The identity conditions remain constant. The members remain constant. The structural constraints remain constant. The context varies across linguistic systems, and the identifier varies accordingly.
 
@@ -195,16 +195,16 @@ Test 2. Underdetermination: Does one identifier uniquely fix one sign configurat
 This test examines whether an identifier uniquely determines a sign. If the relation is objective, then a single identifier must fix a single set of identity conditions and corresponding instance.
 
 <img src="../../assets/figures/chapter-12/figure-05.png" />
-<p align="center">**Figure 12.5. FamilyClanSign UML Class Diagram**</p>
+<p align="center">**Figure 12-5. FamilyClanSign UML Class Diagram**</p>
 
 <img src="../../assets/figures/chapter-12/figure-06.png" />
-<p align="center">**Figure 12.6. English Family Clan UML Object Diagram (Biological)**</p>
+<p align="center">**Figure 12-6. English Family Clan UML Object Diagram (Biological)**</p>
 
 <img src="../../assets/figures/chapter-12/figure-07.png" />
-<p align="center">**Figure 12.7. English Family Clan UML Object Diagram (Chosen)**</p>
+<p align="center">**Figure 12-7. English Family Clan UML Object Diagram (Chosen)**</p>
 
 <img src="../../assets/figures/chapter-12/figure-08.png" />
-<p align="center">**Figure 12.8. English Family Clan UML Object Diagram (Legal Household)**</p>
+<p align="center">**Figure 12-8. English Family Clan UML Object Diagram (Legal Household)**</p>
 
 Each instance uses the same identifier. The context remains constant. The members remain constant. The structure remains constant. The identity conditions differ. In the UML diagrams, those admissibility conditions appear in the IdentityConditions property.
 
@@ -221,16 +221,16 @@ Test 3. Universal Objective Essence: Does a single invariant set of identity con
 This test examines whether a sign possesses a universal and objective essence. If such an essence exists, then a single set of identity conditions must hold invariantly across all admissible instances of the sign.
 
 <img src="../../assets/figures/chapter-12/figure-09.png" />
-<p align="center">**Figure 12.9. FamilyClanSign UML Class Diagram**</p>
+<p align="center">**Figure 12-9. FamilyClanSign UML Class Diagram**</p>
 
 <img src="../../assets/figures/chapter-12/figure-10.png" />
-<p align="center">**Figure 12.10. English Family Clan UML Object Diagram (Biological Essence)**</p>
+<p align="center">**Figure 12-10. English Family Clan UML Object Diagram (Biological Essence)**</p>
 
 <img src="../../assets/figures/chapter-12/figure-11.png" />
-<p align="center">**Figure 12.11. English Family Clan UML Object Diagram (Chosen Essence)**</p>
+<p align="center">**Figure 12-11. English Family Clan UML Object Diagram (Chosen Essence)**</p>
 
 <img src="../../assets/figures/chapter-12/figure-12.png" />
-<p align="center">**Figure 12.12. English Family Clan UML Object Diagram (Institutional Essence)**</p>
+<p align="center">**Figure 12-12. English Family Clan UML Object Diagram (Institutional Essence)**</p>
 
 Each instance uses the same identifier. The context remains constant. The structure remains constant. The identity conditions differ, and the admissible membership changes with them.
 
@@ -247,16 +247,16 @@ Test 4. Universal Objective Identity: Do identical identity conditions applied t
 This test examines whether a sign possesses a universal and objective identity. If identity is intrinsic, then identical identity conditions applied to the same referent must yield a single, invariant identity.
 
 <img src="../../assets/figures/chapter-12/figure-13.png" />
-<p align="center">**Figure 12.13. FamilyClanSign UML Class Diagram**</p>
+<p align="center">**Figure 12-13. FamilyClanSign UML Class Diagram**</p>
 
 <img src="../../assets/figures/chapter-12/figure-14.png" />
-<p align="center">**Figure 12.14. English Family Clan UML Object Diagram (Kinship Identity)**</p>
+<p align="center">**Figure 12-14. English Family Clan UML Object Diagram (Kinship Identity)**</p>
 
 <img src="../../assets/figures/chapter-12/figure-15.png" />
-<p align="center">**Figure 12.15. Spanish Family Clan UML Object Diagram (Lineage Identity)**</p>
+<p align="center">**Figure 12-15. Spanish Family Clan UML Object Diagram (Lineage Identity)**</p>
 
 <img src="../../assets/figures/chapter-12/figure-16.png" />
-<p align="center">**Figure 12.16. Swahili Family Clan UML Object Diagram (Clan Identity)**</p>
+<p align="center">**Figure 12-16. Swahili Family Clan UML Object Diagram (Clan Identity)**</p>
 
 Each instance applies the same identity conditions. The members remain constant. The structure remains constant. The underlying group remains constant. Only the context changes, and the resulting identity changes with it. In this test, the changing identifier marks the context-specific symbolic label, while the changing identity names the role the same group occupies within that context.
 
@@ -273,22 +273,22 @@ Test 5. Universal Objective Significance: Does the same sign carry the same moti
 This test examines whether a sign possesses a universal and objective significance. If significance is intrinsic to the sign, then the same sign must carry the same motivational force for every interpreter. If significance varies while the sign remains constant, then significance does not reside in the sign itself.
 
 <img src="../../assets/figures/chapter-12/figure-17.png" />
-<p align="center">**Figure 12.17. EventSign UML Class Diagram**</p>
+<p align="center">**Figure 12-17. EventSign UML Class Diagram**</p>
 
 <img src="../../assets/figures/chapter-12/figure-18.png" />
-<p align="center">**Figure 12.18. Job Interview UML Object Diagram**</p>
+<p align="center">**Figure 12-18. Job Interview UML Object Diagram**</p>
 
 <img src="../../assets/figures/chapter-12/figure-19.png" />
-<p align="center">**Figure 12.19. Interpreter UML Class Diagram**</p>
+<p align="center">**Figure 12-19. Interpreter UML Class Diagram**</p>
 
 <img src="../../assets/figures/chapter-12/figure-20.png" />
-<p align="center">**Figure 12.20. Interpreter UML Object Diagram (Low Significance)**</p>
+<p align="center">**Figure 12-20. Interpreter UML Object Diagram (Low Significance)**</p>
 
 <img src="../../assets/figures/chapter-12/figure-21.png" />
-<p align="center">**Figure 12.21. Interpreter UML Object Diagram (Moderate Significance)**</p>
+<p align="center">**Figure 12-21. Interpreter UML Object Diagram (Moderate Significance)**</p>
 
 <img src="../../assets/figures/chapter-12/figure-22.png" />
-<p align="center">**Figure 12.22. Interpreter UML Object Diagram (High Significance)**</p>
+<p align="center">**Figure 12-22. Interpreter UML Object Diagram (High Significance)**</p>
 
 The sign remains constant. Its identifier remains constant. Its identity conditions remain constant. The event remains the same. Only the interpreters differ in their motivational intensity toward the same sign. The variation arises because each interpreter relates the same sign to different goals, stakes, and consequences.
 

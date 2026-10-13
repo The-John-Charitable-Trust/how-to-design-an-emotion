@@ -2,7 +2,7 @@
 
 ## Demonstration of Layered Ontology
 
-# Purpose of This Demonstration
+## Purpose of This Demonstration
 
 This appendix makes the central argument of Chapter 5 visible in a running JavaScript runtime. I do not use the JavaScript prototype chain as a metaphor. I use it as an inspectable structure.
 
@@ -13,9 +13,9 @@ By inspecting a JavaScript object and expanding its prototype chain in DevTools,
 | No installation, server, package, build tool, or editor is required. This demonstration runs entirely inside Chrome's Console. |
 | --- |
 
-# Setting Up the Demo
+## Setting Up the Demo
 
-## Step 1: Open Chrome DevTools
+### Step 1: Open Chrome DevTools
 
 Open Google Chrome and navigate to any webpage, including about:blank.
 
@@ -25,7 +25,7 @@ Select the Console tab.
 
 Click inside the Console input area at the bottom, where Chrome displays the > prompt.
 
-## Step 2: Enter the Base Demonstration Code
+### Step 2: Enter the Base Demonstration Code
 
 Paste the following code into the Console, then press Enter. This creates the three-layer architecture in memory.
 
@@ -44,11 +44,11 @@ Layer 2: The Instance Objects
 
 After the code runs, the Console prints true twice. Each instance passes the valid() check inherited from Concept.
 
-# Visual Inspection in DevTools
+## Visual Inspection in DevTools
 
 Now inspect the object structure directly. This is where the ontology becomes visible.
 
-## Inspect the Instance: Layer 2
+### Inspect the Instance: Layer 2
 
 Type equilateral in the Console and press Enter.
 
@@ -64,7 +64,7 @@ These are the instance's own properties: its particular descriptors and contextu
 | Notice the collapsed [[Prototype]] entry. This is the gateway to the concept layer. Do not expand it yet. |
 | --- |
 
-## Expand [[Prototype]]: Layer 1
+### Expand [[Prototype]]: Layer 1
 
 Click the expand arrow next to [[Prototype]], sometimes shown as __proto__.
 
@@ -86,7 +86,7 @@ These constraints do not come from the instances below them. The instances inher
 | This is the key observation: identity is upstream. The concept is not a summary of its instances. It is the constraint that makes those instances intelligible as instances of anything at all. |
 | --- |
 
-## Expand Further: Layer 0
+### Expand Further: Layer 0
 
 Expand the second [[Prototype]] entry inside the first.
 
@@ -102,11 +102,11 @@ This layer makes constraint inheritance possible, but it does not encode concept
 | Layer 0 is what classical essentialism can misidentify as the concept itself: identity conditions treated as infrastructural necessities. DevTools shows they are not. Layer 1 is revisable. Layer 0 is not. |
 | --- |
 
-# Demonstrating Layer-Specific Change
+## Demonstrating Layer-Specific Change
 
 Each operation below targets a different ontological layer and produces a different kind of change. Run them in sequence to see what changes, what remains stable, and why the distinction matters.
 
-## A. Misinstantiation: Layer 2 Change
+### A. Misinstantiation: Layer 2 Change
 
 Assign an invalid value to the instance's own property.
 
@@ -131,7 +131,7 @@ Prototype theory can describe variation among instances, but this operation show
 <img src="../../assets/figures/appendix-e/figure-07.png" />
 <p align="center">**Source figure 7**</p>
 
-## B. Parametric Revision: Layer 1 Change
+### B. Parametric Revision: Layer 1 Change
 
 Revise the governing admissibility condition on the prototype itself.
 
@@ -147,7 +147,7 @@ All instances now evaluate against the revised admissibility condition inherited
 
 The extension of the concept shifts, but the architecture remains intact. Classical essentialism struggles with this distinction: identity conditions can change without structural collapse. Layer 1 is revisable. Revisability is not instability.
 
-## C. Structural Revision: Layer 1A Change
+### C. Structural Revision: Layer 1A Change
 
 Remove the evaluative rule from the prototype.
 
@@ -167,7 +167,7 @@ The distinction between parametric revision and structural revision matters. One
 | DevTools preserves this distinction in memory. A theory of concepts should preserve it in thought. |
 | --- |
 
-# The Three-Layer Ontology: Summary
+## The Three-Layer Ontology: Summary
 
 The prototype chain visible in DevTools renders the layered ontology argued in Chapter 5. The three layers are not interpretive. Chrome displays them as runtime structure.
 
@@ -180,19 +180,19 @@ The prototype chain visible in DevTools renders the layered ontology argued in C
 ------------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Table E-1. Three-Layer Ontology: Runtime Infrastructure, Concept-Level Constraint, and Instance-Level Realization**
 
-# Philosophical Implications
+## Philosophical Implications
 
-## Why Prototype Theory Fails at Layer 1
+### Why Prototype Theory Fails at Layer 1
 
 Prototype theory collapses Layer 1 into Layer 2. It treats the concept as a summary of its instances: a central tendency, similarity gradient, or distributional pattern. DevTools contradicts this directly. The prototype object does not derive from the instances. The instances inherit from it.
 
 Typicality effects, graded membership, and similarity-based categorization are real phenomena, but they belong to Layer 2. They presuppose the stability of Layer 1. A system cannot exhibit graded membership unless something fixes what counts as membership in the first place.
 
-## Why Classical Essentialism Overreaches at Layer 0
+### Why Classical Essentialism Overreaches at Layer 0
 
 Classical theory sometimes collapses Layer 1 into Layer 0. It treats identity conditions as if they possessed the rigid, infrastructural necessity of the prototype chain's terminus. DevTools shows why this is wrong. Layer 0, Object.prototype -> null, is not revisable. Layer 1 is revisable.
 
-## The Faux Dichotomy Loses Its Force
+### The Faux Dichotomy Loses Its Force
 
 Once we distinguish the three layers, we no longer need the classical-prototype opposition. It becomes a division of labor.
 

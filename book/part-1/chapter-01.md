@@ -1,4 +1,4 @@
-# Chapter 1 — What the Bleep Is an Emotion?
+# Chapter 1: What the Bleep Is an Emotion?
 
 *Why Centuries of Science and Philosophy Still Can’t Define How We Feel*
 

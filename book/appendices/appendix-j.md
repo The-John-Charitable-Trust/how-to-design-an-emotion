@@ -118,13 +118,13 @@ At this stage, the system has fully prepared the field of possible interpretatio
 <p align="center">**Project 1 — Execution Result**</p>
 
 ----------------------------------------------------------------------------------------------------------------------------
-Figure AJ-5: UML Object Diagram for Fear Instance
+Figure AJ-5. UML Object Diagram for Fear Instance
 
 <img src="../../assets/figures/appendix-j/figure-08.png" />
 <p align="center">**Project 1 — Final Output**</p>
 
 ----------------------------------------------------------------------------------------------------------------------------
-Figure AJ-6: UML Object Diagram for Interest Instance
+Figure AJ-6. UML Object Diagram for Interest Instance
 
 Project 2 demonstrates the interpretive layer of the model, where the agent constructs emotional meaning. It makes explicit the decisive operation that Project 1 deliberately withheld: commitment to a concept under a governing goal. Project 1 showed that simulation, prediction, bodily regulation, referent formation, and schema retrieval can all occur without producing emotion. Project 2 now shows that emotion emerges only when the agent selects a concept, binds it to the referent, and assigns an identifier under a goal.
 
