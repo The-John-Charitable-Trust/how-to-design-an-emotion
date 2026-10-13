@@ -24,7 +24,7 @@
 
 <a id="note-6"></a>
 
-6. Richard S. Lazarus, *Emotion and Adaptation* (New York: Oxford University Press, 1991), 122, table 3.4 [UNVERIFIED: page confirmed only via secondary citations]; Nico H. Frijda, *The Emotions* (Cambridge: Cambridge University Press, 1986); see also Craig A. Smith and Richard S. Lazarus, “Appraisal Components, Core Relational Themes, and the Emotions,” *Cognition and Emotion* 7, nos. 3–4 (1993): 233–69, https://doi.org/10.1080/02699939308409189.
+6. Craig A. Smith and Richard S. Lazarus, “Appraisal Components, Core Relational Themes, and the Emotions,” *Cognition and Emotion* 7, nos. 3–4 (1993): 233–69, https://doi.org/10.1080/02699939308409189; Nico H. Frijda, *The Emotions* (Cambridge: Cambridge University Press, 1986).
 
 <a id="note-7"></a>
 
