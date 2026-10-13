@@ -3,6 +3,7 @@
 - Preface: Why I Had to Rethink Emotion
 - Acknowledgments
 - Introduction: The Problem of Emotional Meaning
+- Methodology of an Ontology: From Provisional Description to Constrained Identity
 
 ## Part I — The Problem of Feeling and Emotion
 
