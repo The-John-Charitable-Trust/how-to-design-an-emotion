@@ -2,86 +2,54 @@
 
 [Back to Chapter 1](../../part-1/chapter-01.md) · [Notes](../notes/chapter-01.md)
 
-Aristotle. Rhetoric. Translated by W. Rhys Roberts. In The Complete Works of Aristotle, edited by Jonathan Barnes. 2 vols. Princeton, NJ: Princeton University Press, 1984.
+Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
-Barrett, Lisa Feldman. How Emotions Are Made: The Secret Life of the Brain. Boston: Houghton Mifflin Harcourt, 2017.
+Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements.” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68. https://doi.org/10.1177/1529100619832930.
 
-Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. "Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements." Psychological Science in the Public Interest 20, no. 1 (2019): 1–68.
+Berridge, Kent C. “Measuring Hedonic Impact in Animals and Infants: Microstructure of Affective Taste Reactivity Patterns.” *Neuroscience and Biobehavioral Reviews* 24, no. 2 (2000): 173–98. https://doi.org/10.1016/S0149-7634(99)00072-X.
 
-Berridge, Kent C. "Incentive Salience in Behavioral Neuroscience." Current Directions in Psychological Science 18, no. 2 (2009): 71–75.
+Berridge, Kent C., and Morten L. Kringelbach. “Pleasure Systems in the Brain.” *Neuron* 86, no. 3 (2015): 646–64. https://doi.org/10.1016/j.neuron.2015.02.018.
 
-Berridge, Kent C., and Morten L. Kringelbach. "Pleasure Systems in the Brain." Neuron 86, no. 3 (2015): 646–664.
+Borsboom, Denny, Gideon J. Mellenbergh, and Jaap van Heerden. “The Concept of Validity.” *Psychological Review* 111, no. 4 (2004): 1061–71. https://doi.org/10.1037/0033-295X.111.4.1061.
 
-Bramble, Ben. "The Distinctive Feeling Theory of Pleasure." Philosophical Studies 162, no. 2 (2013): 201–217.
+Bramble, Ben. “The Distinctive Feeling Theory of Pleasure.” *Philosophical Studies* 162, no. 2 (2013): 201–17. https://doi.org/10.1007/s11098-011-9755-9.
 
-Crisp, Roger. "Hedonism." In The Stanford Encyclopedia of Philosophy. Winter 2021 ed. Edited by Edward N. Zalta and Uri Nodelman.
+Damasio, Antonio, and Gil B. Carvalho. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52. https://doi.org/10.1038/nrn3403.
 
-Damasio, Antonio. The Feeling of What Happens: Body and Emotion in the Making of Consciousness. New York: Harcourt Brace & Company, 1999.
+Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
 
-Descartes, René. The Passions of the Soul. Translated by Stephen H. Voss. Indianapolis: Hackett Publishing, 1989.
+Fehr, Beverley, and James A. Russell. “Concept of Emotion Viewed from a Prototype Perspective.” *Journal of Experimental Psychology: General* 113, no. 3 (1984): 464–86. https://doi.org/10.1037/0096-3445.113.3.464.
 
-Dixon, Thomas. From Passions to Emotions: The Creation of a Secular Psychological Category. Cambridge: Cambridge University Press, 2003.
+Frijda, Nico H. “Emotion, Cognitive Structure, and Action Tendency.” *Cognition and Emotion* 1, no. 2 (1987): 115–43. https://doi.org/10.1080/02699938708408043.
 
-Eco, Umberto. A Theory of Semiotics. Bloomington: Indiana University Press, 1976.
+Gross, James J., and Lisa Feldman Barrett. “Emotion Generation and Emotion Regulation: One or Two Depends on Your Point of View.” *Emotion Review* 3, no. 1 (2011): 8–16. https://doi.org/10.1177/1754073910380974.
 
-Ekman, Paul, and Wallace V. Friesen. "Constants across Cultures in the Face and Emotion." Journal of Personality and Social Psychology 17, no. 2 (1971): 124–129.
+Guarino, Nicola, and Christopher Welty. “Evaluating Ontological Decisions with OntoClean.” *Communications of the ACM* 45, no. 2 (2002): 61–65. https://doi.org/10.1145/503124.503150.
 
-Feldman, Fred. Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism. Oxford: Clarendon Press, 2004.
+Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
 
-Fodor, Jerry A. Concepts: Where Cognitive Science Went Wrong. Oxford: Clarendon Press, 1998.
+Heathwood, Chris. “The Reduction of Sensory Pleasure to Desire.” *Philosophical Studies* 133, no. 1 (2007): 23–44. https://doi.org/10.1007/s11098-006-9004-9.
 
-Harré, Rom, ed. The Social Construction of Emotions. Oxford: Basil Blackwell, 1986.
+Herman, Barbara. “On the Value of Acting from the Motive of Duty.” *Philosophical Review* 90, no. 3 (1981): 359–82. https://doi.org/10.2307/2184978.
 
-Heathwood, Chris. "The Reduction of Sensory Pleasure to Desire." Philosophical Studies 133, no. 1 (2007): 23–44.
+James, William. “What Is an Emotion?” *Mind* 9, no. 34 (1884): 188–205. https://doi.org/10.1093/mind/os-IX.34.188.
 
-Hempel, Carl G. Aspects of Scientific Explanation and Other Essays in the Philosophy of Science. New York: Free Press, 1965.
+Leighton, Stephen R. “Aristotle and the Emotions.” *Phronesis* 27 (1982): 144–74. https://doi.org/10.1163/156852882X00104.
 
-Hochschild, Arlie Russell. The Managed Heart: Commercialization of Human Feeling. 3rd ed. Berkeley: University of California Press, 2012.
+Lindquist, Kristen A., Ajay B. Satpute, and Maria Gendron. “Does Language Do More Than Communicate Emotion?” *Current Directions in Psychological Science* 24, no. 2 (2015): 99–108. https://doi.org/10.1177/0963721414553440.
 
-Hume, David. A Treatise of Human Nature. Edited by David Fate Norton and Mary J. Norton. Oxford: Oxford University Press, 2000.
+Mesquita, Batja, Michael Boiger, and Jozefien De Leersnyder. “The Cultural Construction of Emotions.” *Current Opinion in Psychology* 8 (2016): 31–36. https://doi.org/10.1016/j.copsyc.2015.09.015.
 
-James, William. "What Is an Emotion?" Mind 9, no. 34 (1884): 188–205.
+Mesquita, Batja, and Nico H. Frijda. “Cultural Variations in Emotions: A Review.” *Psychological Bulletin* 112, no. 2 (1992): 179–204. https://doi.org/10.1037/0033-2909.112.2.179.
 
-Kant, Immanuel. Groundwork of the Metaphysics of Morals. Translated by Mary Gregor and Jens Timmermann. Cambridge: Cambridge University Press, 2012.
+Moline, Jon. “Plato on the Complexity of the Psyche.” *Archiv für Geschichte der Philosophie* 60, no. 1 (1978): 1–26. https://doi.org/10.1515/agph.1978.60.1.1.
 
-Katz, Leonard D. "Pleasure." In The Stanford Encyclopedia of Philosophy. Summer 2023 ed. Edited by Edward N. Zalta and Uri Nodelman.
+Nagel, Thomas. “What Is It Like to Be a Bat?” *Philosophical Review* 83, no. 4 (1974): 435–50. https://doi.org/10.2307/2183914.
 
-LeDoux, Joseph E. The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains. New York: Viking, 2019.
+Quine, W. V. O. “Two Dogmas of Empiricism.” *Philosophical Review* 60, no. 1 (1951): 20–43. https://doi.org/10.2307/2181906.
 
-Lutz, Catherine A. Unnatural Emotions: Everyday Sentiments on a Micronesian Atoll and Their Challenge to Western Theory. Chicago: University of Chicago Press, 1988.
+Sayre-McCord, Geoffrey. “Hume and Smith on Sympathy, Approbation, and Moral Judgment.” *Social Philosophy and Policy* 30, nos. 1–2 (2013): 208–36. https://doi.org/10.1017/S0265052513000101.
 
-Nagel, Thomas. "What Is It Like to Be a Bat?" Philosophical Review 83, no. 4 (1974): 435–450.
+Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
 
-Nussbaum, Martha C. Upheavals of Thought: The Intelligence of Emotions. Cambridge: Cambridge University Press, 2001.
-
-Panksepp, Jaak, and Lucy Biven. The Archaeology of Mind: Neuroevolutionary Origins of Human Emotions. New York: W. W. Norton, 2012.
-
-Peirce, Charles S. Collected Papers of Charles Sanders Peirce. Vols. 1–8. Edited by Charles Hartshorne, Paul Weiss, and Arthur W. Burks. Cambridge, MA: Harvard University Press, 1931–1958.
-
-Picard, Rosalind W. Affective Computing. Cambridge, MA: MIT Press, 1997.
-
-Plato. Republic. Translated by G. M. A. Grube. Revised by C. D. C. Reeve. In Plato: Complete Works, edited by John M. Cooper. Indianapolis: Hackett Publishing, 1997.
-
-Prinz, Jesse J. Gut Reactions: A Perceptual Theory of Emotion. Oxford: Oxford University Press, 2004.
-
-Quine, W. V. O. "On What There Is." Review of Metaphysics 2, no. 5 (1948): 21–38.
-
-———. "Two Dogmas of Empiricism." Philosophical Review 60, no. 1 (1951): 20–43.
-
-Robinson, Richard. Definition. Oxford: Clarendon Press, 1950.
-
-Russell, James A. "Is There Universal Recognition of Emotion from Facial Expression? A Review of the Cross-Cultural Studies." Psychological Bulletin 115, no. 1 (1994): 102–141.
-
-Saussure, Ferdinand de. Course in General Linguistics. Translated by Wade Baskin. New York: Philosophical Library, 1959.
-
-Scarantino, Andrea, and Ronald de Sousa. "Emotion." In The Stanford Encyclopedia of Philosophy. Spring 2024 ed. Edited by Edward N. Zalta and Uri Nodelman.
-
-Searle, John R. The Construction of Social Reality. New York: Free Press, 1995.
-
-Smith, Tiffany Watt. The Book of Human Emotions: From Ambiguphobia to Umpty, 154 Words from around the World for How We Feel. New York: Little, Brown and Company, 2016.
-
-Solomon, Robert C. The Passions: Emotions and the Meaning of Life. Indianapolis: Hackett Publishing, 1993.
-
-Wierzbicka, Anna. Emotions across Languages and Cultures: Diversity and Universals. Cambridge: Cambridge University Press, 1999.
-
-Wittgenstein, Ludwig. Philosophical Investigations. 4th ed. Translated by G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte. Oxford: Wiley-Blackwell, 2009.
+Shapiro, Lisa. “Descartes’s *Passions of the Soul* and the Union of Mind and Body.” *Archiv für Geschichte der Philosophie* 85, no. 3 (2003). https://doi.org/10.1515/agph.2003.012.
