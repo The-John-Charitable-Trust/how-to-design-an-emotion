@@ -24,15 +24,15 @@
 
 <a id="note-6"></a>
 
-6. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), 89.
+6. Katie Hoemann, Fei Xu, and Lisa Feldman Barrett, “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis,” *Developmental Psychology* 55, no. 9 (2019): 1830–49, https://doi.org/10.1037/dev0000686.
 
 <a id="note-7"></a>
 
-7. Barrett, *How Emotions Are Made*, 92.
+7. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-8"></a>
 
-8. Barrett, *How Emotions Are Made*, 128–36, esp. 133–34.
+8. Lisa Feldman Barrett, “Emotions Are Real,” *Emotion* 12, no. 3 (2012): 413–29, https://doi.org/10.1037/a0027555; Hoemann, Xu, and Barrett, “Emotion Words.”
 
 <a id="note-9"></a>
 
@@ -64,7 +64,7 @@
 
 <a id="note-16"></a>
 
-16. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+16. Hoemann, Xu, and Barrett, “Emotion Words.”
 
 <a id="note-17"></a>
 
@@ -100,15 +100,15 @@
 
 <a id="note-25"></a>
 
-25. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+25. Hoemann, Xu, and Barrett, “Emotion Words.”
 
 <a id="note-26"></a>
 
-26. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+26. Hoemann, Xu, and Barrett, “Emotion Words.”
 
 <a id="note-27"></a>
 
-27. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion”; Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+27. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion”; Hoemann, Xu, and Barrett, “Emotion Words.”
 
 <a id="note-28"></a>
 
@@ -120,7 +120,7 @@
 
 <a id="note-30"></a>
 
-30. Barrett, *How Emotions Are Made*, 117.
+30. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-31"></a>
 

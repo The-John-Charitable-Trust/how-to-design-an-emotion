@@ -53,7 +53,7 @@
 
 <a id="note-13"></a>
 
-13. David J. Chalmers, *The Conscious Mind: In Search of a Fundamental Theory* (Oxford: Oxford University Press, 1996).
+13. David J. Chalmers, “Facing Up to the Problem of Consciousness,” *Journal of Consciousness Studies* 2, no. 3 (1995): 200–219.
 
 <a id="note-14"></a>
 
@@ -149,7 +149,7 @@
 
 <a id="note-37"></a>
 
-37. Ludwig Wittgenstein, *Philosophical Investigations*, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), §§65–71.
+37. Renford Bambrough, “Universals and Family Resemblances,” *Proceedings of the Aristotelian Society* 61 (1960–61): 207–22, https://doi.org/10.1093/aristotelian/61.1.207.
 
 <a id="note-38"></a>
 
@@ -205,7 +205,7 @@
 
 <a id="note-51"></a>
 
-51. Frege, “On Sense and Reference,” 56–78; Zalta, “Gottlob Frege.”
+51. Gottlob Frege, “Sense and Reference,” trans. Max Black, *Philosophical Review* 57, no. 3 (1948): 209–30, https://doi.org/10.2307/2181485; Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/.
 
 <a id="note-52"></a>
 
@@ -249,8 +249,8 @@
 
 <a id="note-62"></a>
 
-62. Jerry A. Fodor, *Concepts: Where Cognitive Science Went Wrong* (Oxford: Oxford University Press, 1998), 9–16.
+62. Jerry A. Fodor, “Concepts: A Potboiler,” *Cognition* 50, nos. 1–3 (1994): 95–113, https://doi.org/10.1016/0010-0277(94)90023-X.
 
 <a id="note-63"></a>
 
-63. Wittgenstein, *Philosophical Investigations*, §§65–71.
+63. Bambrough, “Universals and Family Resemblances.”

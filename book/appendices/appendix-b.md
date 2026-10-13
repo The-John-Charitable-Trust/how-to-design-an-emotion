@@ -143,11 +143,11 @@ The appendix therefore defends a narrow but crucial proposition. A constructioni
 
 19. Klaus R. Scherer, "What Are Emotions? And How Can They Be Measured?" Social Science Information 44, no. 4 (2005): 695-729, https://doi.org/10.1177/0539018405058216. Access basis: Publisher page and repository abstract verified.
 
-20. Gottlob Frege, "On Sense and Reference," trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, "Gottlob Frege," in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification.
+20. Gottlob Frege, "Sense and Reference," trans. Max Black, Philosophical Review 57, no. 3 (1948): 209-230, https://doi.org/10.2307/2181485; see also Edward N. Zalta, "Gottlob Frege," in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: DOI and Crossref metadata verified; open scholarly reference for verification.
 
-21. Gottlob Frege, "On Sense and Reference," trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, "Gottlob Frege," in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification.
+21. Gottlob Frege, "Sense and Reference," trans. Max Black, Philosophical Review 57, no. 3 (1948): 209-230, https://doi.org/10.2307/2181485; see also Edward N. Zalta, "Gottlob Frege," in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: DOI and Crossref metadata verified; open scholarly reference for verification.
 
-22. Gottlob Frege, "On Sense and Reference," trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, "Gottlob Frege," in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification.
+22. Gottlob Frege, "Sense and Reference," trans. Max Black, Philosophical Review 57, no. 3 (1948): 209-230, https://doi.org/10.2307/2181485; see also Edward N. Zalta, "Gottlob Frege," in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: DOI and Crossref metadata verified; open scholarly reference for verification.
 
 23. Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.
 
@@ -201,48 +201,26 @@ The appendix therefore defends a narrow but crucial proposition. A constructioni
 
 ## Bibliography
 
-Aristotle. *Metaphysics*. Translated by W. D. Ross. Princeton: Princeton University Press, 1984.
+Aristotle. *Metaphysics*. Translated by W. D. Ross. Internet Classics Archive. http://classics.mit.edu/Aristotle/metaphysics.html.
 
-Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
+Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements.” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68. https://doi.org/10.1177/1529100619832930.
 
-Booch, Grady. *Object-Oriented Analysis and Design with Applications*. 3rd ed. Boston: Addison-Wesley, 2007.
+Frege, Gottlob. “Sense and Reference.” Translated by Max Black. *Philosophical Review* 57, no. 3 (1948): 209–30. https://doi.org/10.2307/2181485.
 
-Booch, Grady, James Rumbaugh, and Ivar Jacobson. *The Unified Modeling Language User Guide*. 2nd ed. Boston: Addison-Wesley, 2005.
+Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
 
-Carnap, Rudolf. *Logical Foundations of Probability*. Chicago: University of Chicago Press, 1950.
+Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
 
-Chandler, Daniel. *Semiotics: The Basics*. 3rd ed. London: Routledge, 2017.
+Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
 
-Dennett, Daniel C. *The Intentional Stance*. Cambridge, MA: MIT Press, 1987.
+Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63. https://doi.org/10.1037/h0025953.
 
-Fowler, Martin. *Patterns of Enterprise Application Architecture*. Boston: Addison-Wesley, 2003.
+Quine, W. V. O. “Two Dogmas of Empiricism.” *Philosophical Review* 60, no. 1 (1951): 20–43. https://doi.org/10.2307/2181906.
 
-Frijda, Nico H. *The Emotions*. Cambridge: Cambridge University Press, 1986.
+Russell, James A. “Core Affect and the Psychological Construction of Emotion.” *Psychological Review* 110, no. 1 (2003): 145–72. https://doi.org/10.1037/0033-295X.110.1.145.
 
-Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software*. Reading, MA: Addison-Wesley, 1994.
+Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
 
-Hempel, Carl G. *Aspects of Scientific Explanation*. New York: Free Press, 1965.
+Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.
 
-Husserl, Edmund. *Logical Investigations*. Vol. 1. Translated by J. N. Findlay. London: Routledge, 2001.
-
-Object Management Group. Unified Modeling Language (UML) Specification, Version 2.5.1. Needham, MA: OMG, 2017.
-
-Panksepp, Jaak. *Affective Neuroscience: The Foundations of Human and Animal Emotions*. New York: Oxford University Press, 1998.
-
-Quine, W. V. O. *From a Logical Point of View*. 2nd ed. Cambridge, MA: Harvard University Press, 1980.
-
-Quine, W. V. O. *Word and Object*. Cambridge, MA: MIT Press, 1960.
-
-Rand, Ayn. *Introduction to Objectivist Epistemology*. Expanded 2nd ed. Edited by Harry Binswanger and Leonard Peikoff. New York: Meridian, 1990.
-
-Russell, James A. "Core Affect and the Psychological Construction of Emotion." *Psychological Review* 110, no. 1 (2003): 145-72.
-
-Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally and Albert Sechehaye. Translated by Wade Baskin. New York: McGraw-Hill, 1959.
-
-Scherer, Klaus R. *Appraisal Processes in Emotion: Theory, Methods, Research*. Oxford: Oxford University Press, 2001.
-
-Scherer, Klaus R. "What Are Emotions? And How Can They Be Measured?" *Social Science Information* 44, no. 4 (2005): 695-729.
-
-Sowa, John F. *Knowledge Representation: Logical, Philosophical, and Computational Foundations*. Pacific Grove, CA: Brooks/Cole, 2000.
-
-Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G. E. M. Anscombe. Oxford: Blackwell, 1953.
+Zalta, Edward N. “Gottlob Frege.” In *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/frege/.

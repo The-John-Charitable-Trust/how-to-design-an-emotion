@@ -4,9 +4,11 @@
 
 Barrett, Lisa Feldman. “Are Emotions Natural Kinds?” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58. https://doi.org/10.1111/j.1745-6916.2006.00003.x.
 
-Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
+Barrett, Lisa Feldman. “Emotions Are Real.” *Emotion* 12, no. 3 (2012): 413–29. https://doi.org/10.1037/a0027555.
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
+
+Barsalou, Lawrence W. “Ad Hoc Categories.” *Memory & Cognition* 11, no. 3 (1983): 211–27. https://doi.org/10.3758/BF03196968.
 
 Clark-Polner, Elizabeth, Timothy D. Johnson, and Lisa Feldman Barrett. “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions.” *Cerebral Cortex* 27, no. 3 (2017): 1944–48. https://doi.org/10.1093/cercor/bhw028.
 
@@ -15,6 +17,8 @@ Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature 
 Gross, James J. “The Emerging Field of Emotion Regulation: An Integrative Review.” *Review of General Psychology* 2, no. 3 (1998): 271–99. https://doi.org/10.1037/1089-2680.2.3.271.
 
 Haxby, James V., M. Ida Gobbini, Maura L. Furey, Alumit Ishai, Jennifer L. Schouten, and Pietro Pietrini. “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex.” *Science* 293, no. 5539 (2001): 2425–30. https://doi.org/10.1126/science.1063736.
+
+Hoemann, Katie, Fei Xu, and Lisa Feldman Barrett. “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis.” *Developmental Psychology* 55, no. 9 (2019): 1830–49. https://doi.org/10.1037/dev0000686.
 
 Kragel, Philip A., and Kevin S. LaBar. “Decoding the Nature of Emotion in the Brain.” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55. https://doi.org/10.1016/j.tics.2016.03.011.
 

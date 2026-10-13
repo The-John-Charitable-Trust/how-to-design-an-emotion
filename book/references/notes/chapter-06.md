@@ -24,7 +24,7 @@
 
 <a id="note-6"></a>
 
-6. Craig A. Smith and Richard S. Lazarus, “Appraisal Components, Core Relational Themes, and the Emotions,” *Cognition and Emotion* 7, nos. 3–4 (1993): 233–69, https://doi.org/10.1080/02699939308409189; Nico H. Frijda, *The Emotions* (Cambridge: Cambridge University Press, 1986).
+6. Craig A. Smith and Richard S. Lazarus, “Appraisal Components, Core Relational Themes, and the Emotions,” *Cognition and Emotion* 7, nos. 3–4 (1993): 233–69, https://doi.org/10.1080/02699939308409189; Nico H. Frijda, Peter Kuipers, and Elisabeth ter Schure, “Relations among Emotion, Appraisal, and Emotional Action Readiness,” *Journal of Personality and Social Psychology* 57, no. 2 (1989): 212–28, https://doi.org/10.1037/0022-3514.57.2.212.
 
 <a id="note-7"></a>
 
@@ -48,8 +48,8 @@
 
 <a id="note-12"></a>
 
-12. Charles S. Peirce, “Logic as Semiotic: The Theory of Signs,” in *Philosophical Writings of Peirce*, ed. Justus Buchler (New York: Dover, 1955), 98–119; see also James Liszka, “Charles Sanders Peirce,” *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/peirce/.
+12. Charles S. Peirce, “On a New List of Categories,” *Proceedings of the American Academy of Arts and Sciences* 7 (1868): 287–98, https://doi.org/10.2307/20179567; see also James Liszka, “Charles Sanders Peirce,” *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/peirce/.
 
 <a id="note-13"></a>
 
-13. Peirce, “Logic as Semiotic,” 98–119; Liszka, “Charles Sanders Peirce.”
+13. Peirce, “New List of Categories”; Liszka, “Charles Sanders Peirce.”

@@ -84,7 +84,7 @@
 
 <a id="note-21"></a>
 
-21. Douglas Medin and Andrew Ortony, “Comments on Part I: Psychological Essentialism,” in *Similarity and Analogical Reasoning*, ed. Stella Vosniadou and Andrew Ortony (Cambridge: Cambridge University Press, 1989), 179–96, https://doi.org/10.1017/CBO9780511529863.009.
+21. Douglas L. Medin, “Concepts and Conceptual Structure,” *American Psychologist* 44, no. 12 (1989): 1469–81, https://doi.org/10.1037/0003-066X.44.12.1469, presenting the psychological-essentialism proposal developed with Andrew Ortony.
 
 <a id="note-22"></a>
 
@@ -92,7 +92,7 @@
 
 <a id="note-23"></a>
 
-23. Edouard Machery, *Doing without Concepts* (Oxford: Oxford University Press, 2009).
+23. Edouard Machery, “Concepts Are Not a Natural Kind,” *Philosophy of Science* 72, no. 3 (2005): 444–67, https://doi.org/10.1086/498473.
 
 <a id="note-24"></a>
 
