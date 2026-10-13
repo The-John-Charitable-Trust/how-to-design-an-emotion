@@ -1,125 +1,55 @@
 # Chapter 9 — Bibliography
 
-[Return to Chapter 9](../../part-4/chapter-09.md)
+[Return to Chapter 9](../../part-4/chapter-09.md) · [Notes](../notes/chapter-09.md)
 
-Barrett, Lisa Feldman. How Emotions Are Made: The Secret Life of the Brain. Boston: Houghton Mifflin Harcourt, 2017.
+Barrett, Lisa Feldman. “Are Emotions Natural Kinds?” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58. https://doi.org/10.1111/j.1745-6916.2006.00003.x.
 
-Barrett, Lisa Feldman. “The Conceptual Act Theory: A Roadmap.” Emotion Review 6, no. 4 (2014): 292–297.
+Barrett, Lisa Feldman. “The Conceptual Act Theory: A Précis.” *Emotion Review* 6, no. 4 (2014): 292–97. https://doi.org/10.1177/1754073914534479.
 
-Barsalou, Lawrence W. “Perceptual Symbol Systems.” Behavioral and Brain Sciences 22, no. 4 (1999): 577-660.
+Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
-Barsalou, Lawrence W. “Perceptual Symbol Systems.” Behavioral and Brain Sciences 22, no. 4 (1999): 577–660.
+Brandom, Robert. “Inferentialism and Some of Its Challenges.” *Philosophy and Phenomenological Research* 74, no. 3 (2007): 651–76. https://doi.org/10.1111/j.1933-1592.2007.00044.x.
 
-Berkeley, George. A Treatise Concerning the Principles of Human Knowledge. Dublin: Aaron Rhames, 1710.
+Clark, Andy. “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science.” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204. https://doi.org/10.1017/S0140525X12000477.
 
-Booch, Grady, James Rumbaugh, and Ivar Jacobson. The Unified Modeling Language User Guide. 2nd ed. Boston: Addison-Wesley, 2005.
+Craig, A. D. “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body.” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66. https://doi.org/10.1038/nrn894.
 
-Brandom, Robert B. Articulating Reasons: An Introduction to Inferentialism. Cambridge, MA: Harvard University Press, 2000.
+Crane, Tim. “Intentionality as the Mark of the Mental.” *Royal Institute of Philosophy Supplement* 43 (1998): 229–51. https://doi.org/10.1017/S1358246100004380.
 
-Brandom, Robert B. Making It Explicit: Reasoning, Representing, and Discursive Commitment. Cambridge, MA: Harvard University Press, 1994.
+Damasio, Antonio, and Gil B. Carvalho. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52. https://doi.org/10.1038/nrn3403.
 
-Brentano, Franz. Psychology from an Empirical Standpoint. Translated by Antos C. Rancurello, D. B. Terrell, and Linda L. McAlister. London: Routledge, 1995.
+Dreyfus, Hubert L. “Intelligence without Representation: Merleau-Ponty’s Critique of Mental Representation.” *Phenomenology and the Cognitive Sciences* 1, no. 4 (2002): 367–83. https://doi.org/10.1023/A:1021351606209.
 
-Carnap, Rudolf. Meaning and Necessity: A Study in Semantics and Modal Logic. 2nd ed. Chicago: University of Chicago Press, 1956.
+Føllesdal, Dagfinn. “Husserl’s Notion of Noema.” *Journal of Philosophy* 66, no. 20 (1969): 680–87. https://doi.org/10.2307/2024451.
 
-Cassirer, Ernst. An Essay on Man: An Introduction to a Philosophy of Human Culture. New Haven, CT: Yale University Press, 1944.
+Frege, Gottlob. “Sense and Reference.” Translated by Max Black. *Philosophical Review* 57, no. 3 (1948): 209–30. https://doi.org/10.2307/2181485.
 
-Clark, Andy. Surfing Uncertainty: Prediction, Action, and the Embodied Mind. Oxford: Oxford University Press, 2016.
+Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38. https://doi.org/10.1038/nrn2787.
 
-Craig, A. D. “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body.” Nature Reviews Neuroscience 3 (2002): 655–666.
+Goldie, Peter. “Emotions, Feelings and Intentionality.” *Phenomenology and the Cognitive Sciences* 1, no. 3 (2002): 235–54. https://doi.org/10.1023/A:1021306500055.
 
-Damasio, Antonio R. Descartes’ Error: Emotion, Reason, and the Human Brain. New York: Putnam, 1994.
+Gross, James J. “The Emerging Field of Emotion Regulation: An Integrative Review.” *Review of General Psychology* 2, no. 3 (1998): 271–99. https://doi.org/10.1037/1089-2680.2.3.271.
 
-Damasio, Antonio R. The Feeling of What Happens: Body and Emotion in the Making of Consciousness. New York: Harcourt, 1999.
+Lazarus, Richard S. “Progress on a Cognitive-Motivational-Relational Theory of Emotion.” *American Psychologist* 46, no. 8 (1991): 819–34. https://doi.org/10.1037/0003-066X.46.8.819.
 
-Damasio, Antonio. The Feeling of What Happens: Body and Emotion in the Making of Consciousness. New York: Harcourt, 1999.
+Moors, Agnes, Phoebe C. Ellsworth, Klaus R. Scherer, and Nico H. Frijda. “Appraisal Theories of Emotion: State of the Art and Future Development.” *Emotion Review* 5, no. 2 (2013): 119–24. https://doi.org/10.1177/1754073912468165.
 
-Davidson, Donald. Essays on Actions and Events. 2nd ed. Oxford: Oxford University Press, 2001.
+Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals and Humans.” *Consciousness and Cognition* 14, no. 1 (2005): 30–80. https://doi.org/10.1016/j.concog.2004.10.004.
 
-Davidson, Donald. “Actions, Reasons, and Causes.” Journal of Philosophy 60, no. 23 (1963): 685–700.
+Panksepp, Jaak. “Cross-Species Affective Neuroscience Decoding of the Primal Affective Experiences of Humans and Related Animals.” *PLoS ONE* 6, no. 9 (2011): e21236. https://doi.org/10.1371/journal.pone.0021236.
 
-Eco, Umberto. A Theory of Semiotics. Bloomington: Indiana University Press, 1976.
+Peirce, C. S. “On a New List of Categories.” *Proceedings of the American Academy of Arts and Sciences* 7 (1868): 287–98. https://doi.org/10.2307/20179567.
 
-Edelman, Gerald M. Bright Air, Brilliant Fire: On the Matter of the Mind. New York: Basic Books, 1992.
+Roseman, Ira J. “Appraisal Determinants of Emotions: Constructing a More Accurate and Comprehensive Theory.” *Cognition and Emotion* 10, no. 3 (1996): 241–78. https://doi.org/10.1080/026999396380240.
 
-Fowler, Martin. UML Distilled: A Brief Guide to the Standard Object Modeling Language. 3rd ed. Boston: Addison-Wesley, 2004.
+Russell, James A. “Core Affect and the Psychological Construction of Emotion.” *Psychological Review* 110, no. 1 (2003): 145–72. https://doi.org/10.1037/0033-295X.110.1.145.
 
-Frankfurt, Harry G. The Importance of What We Care About: Philosophical Essays. Cambridge: Cambridge University Press, 1988.
+Sartre, Jean-Paul. *The Emotions: Outline of a Theory*. Translated by Bernard Frechtman. New York: Philosophical Library, 1948.
 
-Frege, Gottlob. “On Sense and Reference.” In Translations from the Philosophical Writings of Gottlob Frege, edited by Peter Geach and Max Black, 56–78. 3rd ed. Oxford: Blackwell, 1980.
+Scherer, Klaus R. “The Dynamic Architecture of Emotion: Evidence for the Component Process Model.” *Cognition and Emotion* 23, no. 7 (2009): 1307–51. https://doi.org/10.1080/02699930902928969.
 
-Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” Nature Reviews Neuroscience 11 (2010): 127–138.
+Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.
 
-Gross, James J. “The Emerging Field of Emotion Regulation: An Integrative Review.” Review of General Psychology 2, no. 3 (1998): 271–299.
+Sterling, Peter. “Allostasis: A Model of Predictive Regulation.” *Physiology and Behavior* 106, no. 1 (2012): 5–15. https://doi.org/10.1016/j.physbeh.2011.06.004.
 
-Haack, Susan. Evidence and Inquiry: Towards Reconstruction in Epistemology. Oxford: Blackwell, 1993.
-
-Helmholtz, Hermann von. On the Sensations of Tone as a Physiological Basis for the Theory of Music. Translated by Alexander J. Ellis. London: Longmans, Green, 1875.
-
-Husserl, Edmund. Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy. First Book. Translated by F. Kersten. The Hague: Martinus Nijhoff, 1983.
-
-Ioannidis, John P. A. “Why Most Published Research Findings Are False.” PLoS Medicine 2, no. 8 (2005): 696–701.
-
-John, Cecil Cezjah. “Metamorphosis of an Ontology.” Unpublished manuscript.
-
-Kant, Immanuel. Critique of Pure Reason. Translated by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press, 1998.
-
-Lakatos, Imre. The Methodology of Scientific Research Programmes. Edited by John Worrall and Gregory Currie. Cambridge: Cambridge University Press, 1978.
-
-Lazarus, Richard S. Emotion and Adaptation. New York: Oxford University Press, 1991.
-
-Machery, Edouard. Doing without Concepts. Oxford: Oxford University Press, 2009.
-
-Marr, David. Vision: A Computational Investigation into the Human Representation and Processing of Visual Information. Cambridge, MA: MIT Press, 1982.
-
-Merleau-Ponty, Maurice. Phenomenology of Perception. Translated by Colin Smith. London: Routledge, 1962.
-
-Newell, Allen. Unified Theories of Cognition. Cambridge, MA: Harvard University Press, 1990.
-
-Nickerson, Raymond S. “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises.” Review of General Psychology 2, no. 2 (1998): 175–220.
-
-Panksepp, Jaak, and Lucy Biven. The Archaeology of Mind: Neuroevolutionary Origins of Human Emotion. New York: W. W. Norton, 2012.
-
-Panksepp, Jaak. Affective Neuroscience: The Foundations of Human and Animal Emotions. New York: Oxford University Press, 1998.
-
-Peirce, Charles Sanders. Collected Papers of Charles Sanders Peirce. Vol. 5, Pragmatism and Pragmaticism. Edited by Charles Hartshorne and Paul Weiss. Cambridge, MA: Harvard University Press, 1934.
-
-Peirce, Charles Sanders. The Essential Peirce: Selected Philosophical Writings. Vol. 1. Edited by Nathan Houser and Christian Kloesel. Bloomington: Indiana University Press, 1992.
-
-Peirce, Charles Sanders. The Essential Peirce: Selected Philosophical Writings. Vol. 2. Edited by Peirce Edition Project. Bloomington: Indiana University Press, 1998.
-
-Peirce, Charles Sanders. The Essential Peirce: Selected Philosophical Writings. Vol. 2. Edited by the Peirce Edition Project. Bloomington: Indiana University Press, 1998.
-
-Popper, Karl R. The Logic of Scientific Discovery. London: Routledge, 2002.
-
-Popper, Karl. The Logic of Scientific Discovery. London: Routledge, 2002.
-
-Rosch, Eleanor. “Principles of Categorization.” In Cognition and Categorization, edited by Eleanor Rosch and Barbara B. Lloyd, 27–48. Hillsdale, NJ: Lawrence Erlbaum, 1978.
-
-Roseman, Ira J. “A Model of Appraisal in the Emotion System.” In Appraisal Processes in Emotion: Theory, Methods, Research, edited by Klaus R. Scherer, Angela Schorr, and Tom Johnstone, 68–91. New York: Oxford University Press, 2001.
-
-Russell, James A. “Core Affect and the Psychological Construction of Emotion.” Psychological Review 110, no. 1 (2003): 145–172.
-
-Ryle, Gilbert. The Concept of Mind. London: Routledge, 2009.
-
-Sartre, Jean-Paul. The Emotions: Outline of a Theory. Translated by Bernard Frechtman. New York: Philosophical Library, 1948.
-
-Schachter, Stanley, and Jerome E. Singer. “Cognitive, Social, and Physiological Determinants of Emotional State.” Psychological Review 69, no. 5 (1962): 379–399.
-
-Scherer, Klaus R. “Appraisal Considered as a Process of Multilevel Sequential Checking.” In Appraisal Processes in Emotion: Theory, Methods, Research, edited by Klaus R. Scherer, Angela Schorr, and Tom Johnstone, 92–120. Oxford: Oxford University Press, 2001.
-
-Scherer, Klaus R. “Appraisal Theory.” In Handbook of Cognition and Emotion, edited by Tim Dalgleish and Mick Power, 637–663. Chichester: Wiley, 1999.
-
-Scherer, Klaus R. “The Dynamic Architecture of Emotion: Evidence for the Component Process Model.” Cognition and Emotion 23, no. 7 (2009): 1307–1351.
-
-Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” Social Science Information 44, no. 4 (2005): 695–729.
-
-Searle, John R. Intentionality: An Essay in the Philosophy of Mind. Cambridge: Cambridge University Press, 1983.
-
-Sellars, Wilfrid. Empiricism and the Philosophy of Mind. Cambridge, MA: Harvard University Press, 1997.
-
-Sterling, Peter. “Allostasis: A Model of Predictive Regulation.” Physiology & Behavior 106, no. 1 (2012): 5–15.
-
-Wittgenstein, Ludwig. Philosophical Investigations. Translated by G. E. M. Anscombe. Oxford: Blackwell, 1953.
-
-Wittgenstein, Ludwig. Tractatus Logico-Philosophicus. Translated by C. K. Ogden. London: Routledge & Kegan Paul, 1922.
+Zahavi, Dan. “First-Person Thoughts and Embodied Self-Awareness: Some Reflections on the Relation between Recent Analytical Philosophy and Phenomenology.” *Phenomenology and the Cognitive Sciences* 1, no. 1 (2002): 7–26. https://doi.org/10.1023/A:1015568518276.
