@@ -6,11 +6,11 @@
 
 *In Chapter 8, I established that meaning is not intrinsic but is achieved through an agent interpreting signs under constraint. Saussure showed that signs gain stability through relations, and Peirce showed that interpretation is indispensable, but neither framework secured the full architecture of the Constructivist Semiotic Sign. In this chapter, I instantiate that architecture as the Constructivist Semiotic Model of Emotions (CSME). If emotional meaning is a semiotic achievement rather than an intrinsic property of bodily states, then emotion cannot be identified with physiological affect or bodily activity. I must therefore explain what it means for an agent to feel, how feeling becomes semiotically available for interpretation, and how an agent constructs emotional meaning as an interpretive act.*
 
-*This chapter also marks a decisive stage in the metamorphosis of the ontology. In Part III, The Architecture of Meaning, I provisionally defined phenomenological experience as the conscious affective experience that enters the architecture of meaning through semiotic availability. I now determine that feeling replaces phenomenological experience as the proper ontological construct: the conscious metaperceptual awareness of a semiotically available affective experience with a distinctive affective character. Likewise, in Part III, I provisionally defined evaluative orientation as the cognitive disposition through which an agent subjects phenomenological experience to semiotic interpretation. I now determine that emotion replaces evaluative orientation as the proper ontological construct: the semiotic interpretive act by which an agent assigns meaning and significance to feeling. Finally, I introduce physiological affect as the bodily and regulatory substrate that causally prepares feeling without itself becoming feeling or emotion. The ontology now distinguishes three non-substitutable levels. Physiological affect is the causal bodily substrate. Feeling is the conscious metaperceptual awareness of a semiotically available affective experience. Emotion is the semiotic interpretive act by which an agent constructs emotional meaning.*
+*This chapter also completes the metamorphosis of the ontology. Feeling replaces the provisional construct of phenomenological experience. Emotion replaces evaluative orientation. Physiological affect enters as the bodily substrate that prepares feeling without becoming feeling or emotion.*
 
-*Before I develop the Constructivist Semiotic Model of Emotions (CSME), I conduct a weighted score matrix (WSM) trade study to evaluate the principal theories, frameworks, and models of emotion against a common architectural standard. I evaluate each candidate using the dependency-ordered definitional and analytic criteria I established in Part II, The Nature of Concepts, together with the cognitive-semiotic and computational criteria I established in Part III, The Architecture of Meaning. I apply non-negotiable showstopper criteria at each stage of the evaluation so that failure of a prerequisite criterion eliminates a candidate from further consideration. The weighted score matrix then compares the surviving candidates to determine which theoretical contributions satisfy the architectural requirements of the model.*
+*I first conduct a weighted score matrix (WSM) trade study. It evaluates the principal theories of emotion against the definitional and analytic criteria of Part II and the cognitive-semiotic and computational criteria of Part III, with showstopper criteria that eliminate a candidate on failure.*
 
-*The purpose of the trade study is not to select theory of emotion I prefer, but to determine which theoretical contributions I preserve as architectural inputs to a new framework. I preserve those contributions that satisfy the governing criteria, including bodily causation, conscious feeling, appraisal, construction, regulation, and contextual sensitivity, while rejecting every ontological collapse that conflates physiological affect, feeling, appraisal, and emotion. The trade study therefore provides the logical foundation for four complementary deliverables.*
+*The study does not pick a favorite theory. It decides which contributions I preserve as inputs to four deliverables.*
 
 *The first deliverable is the Constructivist Semiotic Model of Emotions (CSME), a formal cognitive-semiotic architecture that specifies the identity conditions and semiotic structure through which an agent constructs emotional meaning.*
 
@@ -34,43 +34,35 @@
 
 *Together, these projects show why computation matters: executable form forces the architecture to preserve distinctions that prose can too easily blur.*
 
-*By the end of this chapter, I have delivered four complementary contributions: the Constructivist Semiotic Model of Emotions (CSME), the Constructivist Computational Model of Emotions (CCME), the Constructivist Interpretation Theory of Emotion (CITE), and the broader philosophical position of Emotional Constructivism. Together, these establish emotion as a cognitive-semiotic achievement that an agent constructs through interpretation rather than discovers as an intrinsic property of bodily states. In the next chapter, I move upstream from emotional meaning to the symbolic conditions that make signs, concepts, and understanding possible.*
+*Together, these deliverables establish emotion as a cognitive-semiotic achievement that an agent constructs through interpretation. In the next chapter, I move upstream to the symbolic conditions that make signs, concepts, and understanding possible.*
 
-In [Chapters 7](../part-3/chapter-07.md) and [8](../part-3/chapter-08.md), I established Constructivist Semiotics as the cognitive-semiotic architecture that specifies the structural requirements for constructing meaning. Although agents may construct meaning automatically, passively, or intentionally, a rational agent ought to intentionally govern that construction in pursuit of rational self-interest. Constructivist Semiotics specifies the structural conditions that make such governance possible, but it does not itself explain what it means for an agent to feel or how an agent constructs emotional meaning by interpreting feeling.
+In [Chapters 7](../part-3/chapter-07.md) and [8](../part-3/chapter-08.md), I established Constructivist Semiotics as the cognitive-semiotic architecture that specifies the structural requirements for constructing meaning. It does not explain what it means for an agent to feel or how an agent constructs emotional meaning by interpreting feeling.
 
-A central limitation in many existing theories of emotion is architectural rather than empirical. They fail to establish stable identity conditions for affect, feeling, and emotion, instead collapsing them into successive stages of a single continuum rather than distinguishing them as functionally distinct constructs with separate explanatory roles. This ontological collapse leaves the architecture unable to explain why physiological affect can exist without emotional meaning or how the same feeling can support different emotional interpretations. Without stable identity conditions, explanation becomes ambiguous and emotional meaning becomes computationally indeterminate.
+A central limitation in many theories of emotion is architectural rather than empirical. They collapse affect, feeling, and emotion into stages of one continuum. They then cannot explain why physiological affect can exist without emotional meaning, or how the same feeling can support different emotions.
 
 Many theories of emotion lack a principled account of the transition from physiological affect, to phenomenological feeling, to cognitive-semiotic emotion. Panksepp treats affective systems as evolutionarily grounded causal substrates but does not distinguish physiological affect from emotional meaning.<sup><a href="../references/notes/chapter-09.md#note-1">1</a></sup> Damasio distinguishes bodily states from conscious feeling, yet feeling remains closely tied to the body's causal processes rather than to an autonomous interpretive act.<sup><a href="../references/notes/chapter-09.md#note-2">2</a></sup> Barrett correctly rejects intrinsic emotional essences and emphasizes construction, but, as I read it, her framework deliberately integrates feeling, conceptual categorization, and emotional meaning within a unified predictive process; for my purposes, that integration leaves their distinct roles unspecified.<sup><a href="../references/notes/chapter-09.md#note-3">3</a></sup> Appraisal theories, including those of Lazarus and Scherer, explain how situations acquire relevance through evaluation, yet they identify appraisal itself with emotional meaning rather than distinguishing appraisal from interpretation.<sup><a href="../references/notes/chapter-09.md#note-4">4</a></sup> Together, these approaches collapse physiological affect, phenomenological feeling, and cognitive-semiotic emotion into different stages of a single process. The result is the same: they fail to distinguish semiotic availability from semantic achievement and therefore cannot explain emotion as an agent's interpretive construction of meaning.
 
-The most significant consequence of this missing bridge is the loss of interpretive governance. By treating emotional meaning as the output of appraisal processes, predictive processing, or biological causation, these theories leave no principled jurisdiction for determining whether an emotion is correct or mistaken, valid or invalid, or successful or unsuccessful. Emotion still possesses correctness conditions, but the theories assign emotional meaning to causal processes instead of an agent's interpretive judgment. As a result, they can describe how emotional states arise, but they cannot explain how agents justify, revise, or take responsibility for the emotional meanings they construct.
+The gravest consequence of this missing bridge is the loss of interpretive governance. If emotional meaning is the output of appraisal, prediction, or biology, no principled jurisdiction remains for judging an emotion correct or mistaken. These theories describe how emotional states arise. They cannot explain how agents justify, revise, or take responsibility for the meanings they construct.
 
 Sensation is not feeling. Feeling is not meaning. Semiotic availability is not semantic achievement. Appraisal is not interpretation. Each statement marks a necessary identity condition for a categorically distinct cognitive or semiotic state. Failure to preserve those identity conditions renders emotion formally indeterminate.
 
-My first objective is to resolve the ontological collapse of physiological affect, feeling, and emotion by establishing the identity conditions that distinguish each as a non-substitutable component of emotional meaning. Until I secure those distinctions, the architecture cannot assign each construct a unique explanatory role.
+I pursue three objectives. First, I resolve the ontological collapse by establishing the identity conditions that distinguish physiological affect, feeling, and emotion.
 
-Having established clear identity conditions, I next address the bridge condition between semiotic availability and semantic achievement. My task is twofold: first, to explain how physiological affect becomes phenomenologically available as feeling without thereby constituting emotional meaning; second, to explain how an agent constructs emotional meaning by interpreting that feeling.
+Second, I specify the bridge between semiotic availability and semantic achievement: how affect becomes available as feeling without constituting meaning, and how an agent constructs meaning by interpreting that feeling.
 
-The following illustration highlights the problems these objectives address.
+Third, I restore interpretive governance by locating emotional meaning in an act an agent performs, so that it admits correctness, error, justification, revision, and responsibility. I treat agency as an architectural requirement. The following illustration shows the problems these objectives address.
 
 When I walk alone at night and hear footsteps accelerating behind me, I first perceive an external situation. My body registers heightened physiological affect as arousal rises and attention narrows. I then feel tension and urgency. At this point, several questions arise. Does what I feel already constitute emotional meaning, or does it merely make my feeling available for interpretation? If I initially construct fear, but then recognize the approaching person as a friend and construct relief, how do I explain those different emotional meanings if I continue to register substantially the same physiological affect and feel substantially the same tension and urgency? What role does interpretation play in constructing those different emotional meanings?
 
-These questions define the remaining objectives of this chapter. I will establish the identity conditions that distinguish physiological affect, feeling, and emotion. I will establish the bridge between semiotic availability and semantic achievement. Finally, I will restore interpretive governance by explaining how an agent constructs emotional meaning through the interpretation of feeling.
+In this chapter, I integrate ontological identity conditions, cognitive-semiotic interpretation, and formal specification into one architecture of emotional meaning. I select the contributions it preserves through a weighted score matrix trade study, specify its ontology through UML, and check its internal consistency through executable specifications. I subject every proposition to definitional, analytic, cognitive-semiotic, and computational constraints. Existing frameworks do not integrate these requirements into a single, formally specified account.
 
-My final objective is to restore interpretive governance by locating emotional meaning within an interpretive act performed by an agent. If emotional meaning depends upon interpretation, then it must admit correctness, error, validity, invalidity, justification, revision, and responsibility. I therefore treat agency as a formal architectural requirement, ensuring that emotion remains an accountable cognitive-semiotic achievement rather than the output of bodily or predictive processes.
+The trade study does not survey the literature or select a preferred theory. It evaluates each candidate against a common architectural standard. To qualify, a candidate must satisfy the governing criteria, including computational survivability without ontological collapse. Failure of any prerequisite criterion eliminates it.
 
-In this chapter, I do more than argue that emotions are constructions. I integrate ontological identity conditions, cognitive-semiotic interpretation, computational execution, and formal specification into a single architecture of emotional meaning. I distinguish physiological affect, feeling, and emotion as non-substitutable ontological constructs. I establish the bridge between semiotic availability and semantic achievement. I define emotion as the interpretive act through which an agent constructs emotional meaning under correctness conditions. I select the contributions it preserves through a weighted score matrix trade study, specify its ontology through UML, and check its internal consistency through executable specifications. I subject every proposition to definitional, analytic, cognitive-semiotic, and computational constraints, requiring the architecture to survive each without ontological collapse. Existing frameworks do not integrate these architectural, semiotic, and computational requirements into a single, formally specified account of emotional meaning.
+The study does not determine whether a theory of emotion is correct. It determines which contributions satisfy the governing criteria, which I preserve and extend, and which limitations I mitigate.
 
-I therefore offer more than another theory of emotion. I specify an accountable architecture that enables an agent to construct emotional meaning.
+I do not evaluate phenomenological approaches to affect and emotion, including those of Edmund Husserl (1859–1938), Jean-Paul Sartre (1905–1980), and Maurice Merleau-Ponty (1908–1961), as candidate theories in the comparative trade study because they do not propose computational or cognitive architectures of emotion.<sup><a href="../references/notes/chapter-09.md#note-5">5</a></sup> Nevertheless, phenomenology informs several distinctions that the Constructivist Semiotic Model of Emotions preserves, particularly first-person givenness,<sup><a href="../references/notes/chapter-09.md#note-6">6</a></sup> the structure of felt experience,<sup><a href="../references/notes/chapter-09.md#note-7">7</a></sup> and the distinction between pre-interpretive awareness and constituted meaning.<sup><a href="../references/notes/chapter-09.md#note-8">8</a></sup> Husserl’s analyses of intentional consciousness, Sartre’s account of emotion as lived experience, and Merleau-Ponty’s phenomenology of embodiment each illuminate aspects of emotional life that the CSME incorporates within its broader cognitive-semiotic architecture.<sup><a href="../references/notes/chapter-09.md#note-9">9</a></sup> I exclude them for methodological rather than substantive reasons: the matrix evaluates formal architectural models, not descriptions of lived experience.
 
-Before I develop the Constructivist Semiotic Model of Emotions (CSME), I conduct a weighted score matrix (WSM) trade study to determine which existing theories, frameworks, and models of emotion satisfy the architectural requirements for constructing emotional meaning. Rather than surveying the literature or selecting a preferred theory, I evaluate each candidate against a common architectural standard using the dependency-ordered definitional and analytic criteria I established in Part II, *The Nature of Concepts*, together with the cognitive-semiotic and computational criteria I established in Part III, *The Architecture of Meaning*. To qualify for further evaluation, each candidate must satisfy the governing architectural criteria, including computational survivability and executability without ontological collapse. I apply non-negotiable showstopper criteria throughout the evaluation so that failure of any prerequisite criterion eliminates a candidate from further consideration. The weighted score matrix then compares the surviving candidates to determine which theoretical contributions warrant preservation within the CSME.
-
-The trade study does not determine whether a theory of emotion is correct. It determines which theoretical contributions satisfy the governing architectural criteria. I therefore preserve those contributions that survive the evaluation while rejecting every ontological collapse that conflates physiological affect, feeling, appraisal, and emotion. The trade study therefore determines which features I preserve and extend and which limitations I mitigate as architectural inputs to the Constructivist Semiotic Model of Emotions (CSME). The CSME then provides the foundation for the Constructivist Computational Model of Emotions (CCME), the Constructivist Interpretation Theory of Emotion (CITE), and the broader philosophical position of Emotional Constructivism.
-
-I do not evaluate phenomenological approaches to affect and emotion, including those of Edmund Husserl (1859–1938), Jean-Paul Sartre (1905–1980), and Maurice Merleau-Ponty (1908–1961), as candidate theories in the comparative trade study because they do not propose computational or cognitive architectures of emotion.<sup><a href="../references/notes/chapter-09.md#note-5">5</a></sup> Nevertheless, phenomenology informs several distinctions that the Constructivist Semiotic Model of Emotions preserves, particularly first-person givenness,<sup><a href="../references/notes/chapter-09.md#note-6">6</a></sup> the structure of felt experience,<sup><a href="../references/notes/chapter-09.md#note-7">7</a></sup> and the distinction between pre-interpretive awareness and constituted meaning.<sup><a href="../references/notes/chapter-09.md#note-8">8</a></sup> Husserl’s analyses of intentional consciousness, Sartre’s account of emotion as lived experience, and Merleau-Ponty’s phenomenology of embodiment each illuminate aspects of emotional life that the CSME incorporates within its broader cognitive-semiotic architecture.<sup><a href="../references/notes/chapter-09.md#note-9">9</a></sup>
-
-I exclude phenomenology from the trade study for methodological rather than substantive reasons because the weighted score matrix evaluates formal architectural models rather than phenomenological descriptions of lived experience. 
-
-To preserve the flow of the argument, I report only the final results of the weighted score matrix in the main text, including the surviving candidates and their weighted viability scores. I document the complete methodology in the appendices, including candidate selection, macro- and micro-weighting rationales, elimination criteria, detailed scoring justifications, sensitivity analyses, and the complete weighted score matrix. Appendix F documents candidate selection. Appendix G presents the macro-category weightings. Appendix H justifies the micro-level principle weightings. Appendix I reports the detailed scoring rationales together with the complete weighted score matrix. Table 9-1 summarizes the architectural viability of the surviving candidates.
+I report only the final results here. Appendix F documents candidate selection. Appendix G presents the macro-category weightings. Appendix H justifies the micro-level weightings. Appendix I reports the scoring rationales and the complete matrix. Table 9-1 summarizes the architectural viability of the surviving candidates.
 
 | Candidate Theory / Model                               | Definitional (30%) | Analytic (20%)   | Cognitive–Semiotic (25%) | Computational (25%) | Total Weighted Score |
 |--------------------------------------------------------|--------------------|------------------|--------------------------|---------------------|----------------------|
@@ -105,59 +97,52 @@ Within those limits, I tested whether the ranking depends on the weights. Table 
 <p align="center">**Table 9-2. Sensitivity of the Weighted Score Matrix to Domain Weights**</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------  
-I now construct the Constructivist Semiotic Model of Emotions (CSME) by integrating the indispensable architectural contributions identified through the comparative trade study. I organize those contributions within a unified cognitive-semiotic architecture that preserves their explanatory strengths while maintaining stable ontological distinctions and computational coherence.
 
 I begin with Conceptual Act Theory (CAT), or the Theory of Constructed Emotion (TCE), because it contributes one of the most important architectural insights to the Constructivist Semiotic Model of Emotions (CSME) despite receiving the lowest architectural viability score among the qualifying candidates. Barrett rejects the view that emotions exist as intrinsic natural kinds waiting for discovery.<sup><a href="../references/notes/chapter-09.md#note-10">10</a></sup> Instead, she explains how agents construct emotional meaning through the interaction of physiological affect,<sup><a href="../references/notes/chapter-09.md#note-11">11</a></sup> conceptual knowledge,<sup><a href="../references/notes/chapter-09.md#note-12">12</a></sup> prediction,<sup><a href="../references/notes/chapter-09.md#note-13">13</a></sup> prior experience,<sup><a href="../references/notes/chapter-09.md#note-14">14</a></sup> and context.<sup><a href="../references/notes/chapter-09.md#note-15">15</a></sup>
 
-I embrace Barrett’s central insight because agents construct emotional meaning rather than merely identify pre-existing emotional kinds.<sup><a href="../references/notes/chapter-09.md#note-16">16</a></sup> Without construction, emotional meaning collapses into either intrinsic biological categories or arbitrary subjective invention. I also embrace her emphasis on conceptual knowledge, contextual variability, and prior experience because each provides an indispensable architectural condition for explaining how different agents can construct different emotional meanings from similar physiological states.<sup><a href="../references/notes/chapter-09.md#note-17">17</a></sup>
+I embrace Barrett’s central insight because agents construct emotional meaning rather than merely identify pre-existing emotional kinds.<sup><a href="../references/notes/chapter-09.md#note-16">16</a></sup> Her emphasis on conceptual knowledge, context, and prior experience explains how different agents construct different meanings from similar physiological states.<sup><a href="../references/notes/chapter-09.md#note-17">17</a></sup>
 
 TCE assigns physiological affect, phenomenological feeling, conceptual categorization, prediction, and emotional meaning to a single constructive process.<sup><a href="../references/notes/chapter-09.md#note-18">18</a></sup> As these explanatory roles converge, the theory no longer preserves stable ontological distinctions among affect, feeling, interpretation, and emotion. Consequently, the architecture cannot determine whether prediction, categorization, interpretation, or their interaction constructs emotional meaning.
 
-The CSME embraces Barrett’s constructivist insight while extending it through explicit ontological separation. The CSME preserves physiological affect as the biological substrate, phenomenological feeling as the conscious awareness of that substrate, conceptual knowledge as an interpretive resource, and context as a governing constraint on interpretation. It then locates emotional construction within the agent’s interpretive act after affect and feeling acquire stable ontological status. The CSME therefore preserves construction as the constitutive process of emotional meaning while mitigating the ontological collapse that prevents TCE from serving as a complete cognitive-semiotic architecture of emotion.
+The CSME extends that insight through explicit ontological separation. It locates emotional construction in the agent’s interpretive act after affect and feeling acquire stable status.
 
 I next consider Appraisal Theory because it contributes another indispensable architectural insight to the Constructivist Semiotic Model of Emotions (CSME).<sup><a href="../references/notes/chapter-09.md#note-19">19</a></sup> Richard S. Lazarus (1922–2002) and Ira J. Roseman explain emotion through the evaluation of personal significance,<sup><a href="../references/notes/chapter-09.md#note-20">20</a></sup> situational relevance,<sup><a href="../references/notes/chapter-09.md#note-21">21</a></sup> action possibilities,<sup><a href="../references/notes/chapter-09.md#note-22">22</a></sup> coping potential,<sup><a href="../references/notes/chapter-09.md#note-23">23</a></sup> and goal relations<sup><a href="../references/notes/chapter-09.md#note-24">24</a></sup> rather than through physiological affect alone.<sup><a href="../references/notes/chapter-09.md#note-25">25</a></sup>
 
-I embrace this contribution because emotional meaning depends upon the evaluation of contextual significance. Without evaluation, physiological affect remains biologically real but emotionally indeterminate. I also embrace the central roles of goals, contextual relevance, coping potential, and reinterpretation because each constrains how agents construct emotional meaning in particular situations.
+I embrace this contribution because emotional meaning depends upon the evaluation of contextual significance. Without evaluation, physiological affect remains biologically real but emotionally indeterminate.
 
 Appraisal Theory treats appraisal itself as the explanatory process that produces emotional meaning.<sup><a href="../references/notes/chapter-09.md#note-26">26</a></sup> Although appraisal evaluates contextual significance,<sup><a href="../references/notes/chapter-09.md#note-27">27</a></sup> it does not identify the interpreting agent, distinguish appraisal from interpretation, or specify how interpretation transforms evaluative significance into emotional meaning. Consequently, appraisal theory explains why situations matter without fully explaining how agents construct emotional meaning from those evaluations.
 
-The CSME embraces appraisal as the evaluation of contextual significance while extending it through explicit interpretive architecture. The CSME preserves goals, contextual relevance, coping potential, and reinterpretation as indispensable inputs to emotional construction. It then distinguishes appraisal from interpretation by locating appraisal within contextual evaluation and locating emotional meaning within the agent’s interpretive act. Appendix K develops the Constructivist Interpretation Theory of Emotion (CITE), formally distinguishing appraisal from interpretation and identifying the point at which appraisal ends and interpretive construction begins. The CSME therefore preserves appraisal as an indispensable evaluative process while mitigating the architectural limitation that prevents appraisal theory from identifying interpretation as the constitutive act of emotional meaning.
+The CSME keeps appraisal as the evaluation of contextual significance and locates emotional meaning in the agent’s interpretive act. Appendix K develops the Constructivist Interpretation Theory of Emotion (CITE), which marks where appraisal ends and interpretation begins.
 
 I next consider the Component Process Model (CPM) because it contributes another indispensable architectural insight. Klaus R. Scherer (1943– ) distinguishes appraisal,<sup><a href="../references/notes/chapter-09.md#note-28">28</a></sup> physiological change,<sup><a href="../references/notes/chapter-09.md#note-29">29</a></sup> expression,<sup><a href="../references/notes/chapter-09.md#note-30">30</a></sup> action readiness,<sup><a href="../references/notes/chapter-09.md#note-31">31</a></sup> and feeling<sup><a href="../references/notes/chapter-09.md#note-32">32</a></sup> as architecturally distinct constituents of an emotional episode rather than collapsing them into a single explanatory process.<sup><a href="../references/notes/chapter-09.md#note-33">33</a></sup>
 
-I embrace this contribution because emotional meaning requires phase separation. Without distinct explanatory phases, physiological affect, phenomenological feeling, interpretation, and emotion collapse into a single undifferentiated process. I also embrace Scherer’s explicit sequencing because it preserves the temporal organization of emotional life while allowing each constituent to perform a distinct explanatory role.<sup><a href="../references/notes/chapter-09.md#note-34">34</a></sup>
+I embrace this contribution because emotional meaning requires phase separation. Scherer’s explicit sequencing preserves the temporal organization of emotional life while letting each constituent perform a distinct role.<sup><a href="../references/notes/chapter-09.md#note-34">34</a></sup>
 
 CPM distributes emotion across the sequence rather than fixing emotion as a distinct conceptual object.<sup><a href="../references/notes/chapter-09.md#note-35">35</a></sup> Although the model clearly differentiates its constituent operations, it does not determine whether emotion consists in the sequence itself, the integration of its components, or the outcome that emerges from their interaction. Consequently, the architecture explains how emotional processes unfold without fully explaining how an agent constructs emotional meaning.
 
-I extend Scherer’s architectural differentiation through explicit ontological separation. I preserve phase separation, physiological affect, phenomenological feeling, appraisal, and interpretation as distinct architectural constituents. I then locate emotional meaning within the agent’s interpretive act rather than within the temporal sequence itself. In doing so, I preserve ordered emotional processing while mitigating the architectural limitation that prevents CPM from establishing stable identity conditions for emotional meaning.
+I extend Scherer’s differentiation by locating emotional meaning in the agent’s interpretive act rather than in the temporal sequence itself.
 
 I finally consider Jaak Panksepp’s Affective Neuroscience because it contributes the strongest biological foundation for the Constructivist Semiotic Model of Emotions (CSME). Panksepp distinguishes biologically organized affective systems from higher cognitive processes<sup><a href="../references/notes/chapter-09.md#note-36">36</a></sup> and explains how physiological affect precedes conscious awareness and subsequent cognitive activity.<sup><a href="../references/notes/chapter-09.md#note-37">37</a></sup> He therefore provides the clearest account of the physiological substrate upon which emotional meaning ultimately depends.<sup><a href="../references/notes/chapter-09.md#note-38">38</a></sup>
 
-I embrace this contribution because emotional meaning requires a physiological substrate. Without physiological affect, an agent has no bodily condition to perceive, evaluate, or interpret. I also embrace Panksepp’s distinction between biologically organized affective systems and higher cognitive processes because that distinction establishes the biological foundation upon which the remaining architecture develops.<sup><a href="../references/notes/chapter-09.md#note-39">39</a></sup>
+I embrace this contribution because emotional meaning requires a physiological substrate. Without affect, an agent has no bodily condition to perceive, evaluate, or interpret.<sup><a href="../references/notes/chapter-09.md#note-39">39</a></sup>
 
 Affective Neuroscience explains physiological affect more successfully than emotional meaning. Although the theory clearly distinguishes affective systems from higher cognitive processes, it does not fully distinguish physiological affect from phenomenological feeling or cognitive-semiotic emotion. Consequently, the architecture grounds affective experience without explaining how an agent transforms physiological affect into emotional meaning.
 
-I extend Panksepp’s architecture by preserving physiological affect as the biological substrate of emotional meaning while distinguishing it explicitly from phenomenological feeling and cognitive-semiotic emotion. I preserve the affective systems as the physiological foundation of emotional experience, preserve feeling as the conscious awareness of physiological affect, and locate emotional meaning within the agent’s interpretive act. In doing so, I preserve Panksepp’s biological contribution while mitigating the architectural limitation that identifies physiological affect more clearly than emotional meaning itself.
+I extend Panksepp’s architecture by distinguishing physiological affect explicitly from feeling and from emotion, which I locate in the agent’s interpretive act.
 
-The preceding analysis completes the architectural synthesis. I now specify the Constructivist Semiotic Model of Emotions (CSME) by integrating the indispensable contributions of the qualifying candidates within a single cognitive-semiotic architecture. In doing so, I fulfill the three objectives of this chapter:
+The preceding analysis completes the architectural synthesis. I now take up the three objectives in turn.
 
-1.  I establish the identity conditions that distinguish physiological affect, phenomenological feeling, and cognitive-semiotic emotion as non-substitutable ontological constructs.
-
-2.  I specify the bridge between semiotic availability and semantic achievement by explaining how physiological affect becomes phenomenologically available as feeling and how an agent subsequently constructs emotional meaning by interpreting that feeling.
-
-3.  I restore interpretive governance by locating emotional meaning within the interpretive act of an agent operating under standards of correctness, justification, revision, and responsibility.
-
-I now complete the metamorphosis of the ontology that I have developed throughout this work. Earlier chapters introduced phenomenological experience and evaluative orientation as provisional explanatory constructs and progressively refined them through conceptual, semiotic, and computational analysis. I now fix their identity conditions by establishing affect, feeling, and emotion as the three ontological constructs that form the foundation of the Constructivist Semiotic Model of Emotions (CSME). From this point forward, these definitions govern the remaining architecture of the CSME. 
+I now complete the metamorphosis of the ontology. Earlier chapters introduced phenomenological experience and evaluative orientation as provisional constructs. I now fix the identity conditions of affect, feeling, and emotion. From this point forward, these definitions govern the CSME.
 
 I now declare that affect is the physiological and regulatory substrate that generates the conditions of feeling without itself constituting feeling or emotion. Affect comprises objective physiological processes, including valence, arousal, and motivational intensity, that prepare the organism for adaptive action before conscious awareness arises.<sup><a href="../references/notes/chapter-09.md#note-40">40</a></sup>
 
-I embrace Panksepp’s account of biologically organized affective systems because it provides the strongest biological foundation for emotional life.<sup><a href="../references/notes/chapter-09.md#note-41">41</a></sup> I extend that contribution by distinguishing affect from feeling and emotion, thereby establishing affect as the physiological substrate upon which conscious awareness and emotional meaning depend. In doing so, I preserve the distinct explanatory roles of affect, feeling, and emotion while mitigating the longstanding ontological conflation of physiological affect with phenomenological feeling and cognitive-semiotic emotion. 
+I embrace Panksepp’s account of biologically organized affective systems because it provides the strongest biological foundation for emotional life.<sup><a href="../references/notes/chapter-09.md#note-41">41</a></sup> I extend it by distinguishing affect from feeling and emotion.
 
 In Part I, *The Problem of Feeling and Emotion*, I introduced *phenomenological experience* as a provisional explanatory construct. Throughout Parts II and III, I progressively refined that construct by placing it under conceptual identity conditions and locating it within semiotic availability. I now complete that progression by declaring that the phenomenological experience hitherto developed throughout this work is feeling.
 
 In doing so, I embrace the phenomenological insight that conscious experience possesses an irreducible first-person character.<sup><a href="../references/notes/chapter-09.md#note-42">42</a></sup> I also embrace Panksepp’s distinction between physiological affect and higher cognitive processes because feeling presupposes an objective physiological substrate.<sup><a href="../references/notes/chapter-09.md#note-43">43</a></sup> I extend both contributions by defining feeling as the conscious metaperceptual awareness of a semiotically available affective experience with a distinctive affective character. Feeling therefore neither generates affect nor assigns emotional meaning. Instead, it makes affect consciously available to the agent as first-person experience.
 
-I mitigate three architectural limitations. I mitigate the tendency within affective neuroscience to conflate physiological affect with conscious feeling. I mitigate the tendency within phenomenology to describe first-person experience without distinguishing it formally from emotional meaning. Finally, I mitigate the tendency within the Theory of Constructed Emotion to incorporate feeling into a broader constructive process by assigning feeling its own non-substitutable ontological status within the architecture of the CSME.<sup><a href="../references/notes/chapter-09.md#note-44">44</a></sup>
+This mitigates three limitations: affective neuroscience’s conflation of affect with conscious feeling, phenomenology’s failure to distinguish first-person experience formally from emotional meaning, and the Theory of Constructed Emotion’s absorption of feeling into a broader constructive process.<sup><a href="../references/notes/chapter-09.md#note-44">44</a></sup>
 
 In Part I, *The Problem of Feeling and Emotion*, I introduced *evaluative orientation* as a provisional explanatory construct. Throughout Parts II and III, I progressively refined that construct by making it goal-governed, context-sensitive, and semiotically interpretable. I now continue that progression by declaring that the evaluative orientation hitherto developed throughout this work is emotion.
 
@@ -165,7 +150,7 @@ Within the Constructivist Semiotic Model of Emotions (CSME), I define emotion as
 
 In doing so, I embrace Barrett’s central insight that agents construct emotional meaning rather than merely identify intrinsic emotional kinds.<sup><a href="../references/notes/chapter-09.md#note-45">45</a></sup> I also embrace Appraisal Theory’s recognition that emotional meaning depends upon contextual significance, goals, and evaluative orientation.<sup><a href="../references/notes/chapter-09.md#note-46">46</a></sup> I extend both contributions by locating emotional construction within the interpretive act of an agent rather than within appraisal, prediction, or categorization alone.
 
-I mitigate three architectural limitations. I mitigate the tendency within the Theory of Constructed Emotion to integrate affect, feeling, categorization, and emotional meaning into a single constructive process.<sup><a href="../references/notes/chapter-09.md#note-47">47</a></sup> I mitigate the tendency within Appraisal Theory to identify appraisal rather than interpretation as the constitutive act of emotional meaning.<sup><a href="../references/notes/chapter-09.md#note-48">48</a></sup> Finally, I mitigate the tendency within the Component Process Model to distribute emotional meaning across a temporal sequence by locating emotional meaning within the agent’s interpretive act while preserving the architectural sequencing that precedes it.<sup><a href="../references/notes/chapter-09.md#note-49">49</a></sup>
+This mitigates three limitations: the Theory of Constructed Emotion’s integration of affect, feeling, categorization, and meaning into one process;<sup><a href="../references/notes/chapter-09.md#note-47">47</a></sup> Appraisal Theory’s identification of appraisal, rather than interpretation, as the constitutive act;<sup><a href="../references/notes/chapter-09.md#note-48">48</a></sup> and the Component Process Model’s distribution of emotional meaning across a temporal sequence.<sup><a href="../references/notes/chapter-09.md#note-49">49</a></sup>
 
 **How this differs.**
 
@@ -181,7 +166,7 @@ That third claim has a practical edge. Gross and Barrett argued that generation 
 
 What is shared: emotions are made, not triggered. What is mine: layer separation, correctness conditions, and agentic redesign as the defining commitment.
 
-The preceding declarations establish three non-substitutable ontological constructs. Each performs a distinct explanatory function within the Constructivist Semiotic Model of Emotions (CSME). None substitutes for another, and no explanatory account of emotional meaning remains complete if any one of them collapses into another.
+These declarations establish three non-substitutable constructs. None substitutes for another, and no account of emotional meaning is complete if one collapses into another.
 
 |               |                                            |                                                                                                                               |                         |
 |---------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------|
@@ -192,9 +177,7 @@ The preceding declarations establish three non-substitutable ontological constru
 
 <p align="center">**Table 9-3. Tripartite Ontology of Affect, Feeling, and Emotion**</p>
 
-The tripartite ontology resolves the longstanding conflation of physiology, consciousness, and interpretation by assigning each construct a unique ontological identity and explanatory role.
-
-I now specify how these constructs interact within the Constructivist Semiotic Model of Emotions (CSME). The layered architecture preserves the physiological foundation of affect, the phenomenological awareness of feeling, and the cognitive-semiotic construction of emotion while assigning each construct a distinct explanatory role within a single computational sequence.
+Table 9-4 shows how these constructs interact in a single sequence.
 
 |                        |                        |                                              |                                          |
 |------------------------|------------------------|----------------------------------------------|------------------------------------------|
@@ -209,7 +192,7 @@ I now specify how these constructs interact within the Constructivist Semiotic M
 
 <p align="center">**Table 9-4. Layered Architecture of Emotional Construction**</p>
 
-The layered architecture preserves the architectural differentiation introduced by the Component Process Model while extending it through explicit ontological separation. It also preserves the constructivist insight that emotional meaning emerges through interpretation while mitigating the longstanding conflation of objective physiology, subjective awareness, and emotional meaning.
+The layering keeps the Component Process Model’s differentiation and the constructivist insight while separating objective physiology, subjective awareness, and emotional meaning.
 
 The familiar experience of touching a hot stove illustrates why that distinction matters.
 
@@ -232,7 +215,7 @@ This sequence resolves a longstanding ontological ambiguity. The CSME distinguis
 
 ***“If a tree falls in a forest and no one is around to hear it, does it make a sound?”***
 
-The same layered architecture resolves another longstanding philosophical ambiguity. The familiar thought experiment asks whether a tree that falls in an unoccupied forest makes a sound. The ambiguity arises because the thought experiment conflates sensation with perception. A falling tree produces acoustic pressure waves regardless of whether anyone is present. Hearing, however, requires an observer to perceive those waves as sound. Had the question asked whether anyone hears the tree fall, no ambiguity would arise. The ambiguity exists only because the word *sound* refers both to the objective physical phenomenon and to the subjective conscious experience.
+The same layered architecture resolves another old puzzle. The thought experiment conflates sensation with perception. A falling tree produces acoustic pressure waves whether or not anyone is present. Hearing requires an observer. The ambiguity exists only because *sound* names both the physical phenomenon and the conscious experience.
 
 |                   |                                       |                                                |
 |-------------------|---------------------------------------|------------------------------------------------|
@@ -247,31 +230,19 @@ The same layered architecture resolves another longstanding philosophical ambigu
 
 <p align="center">**Table 9-6. From Physical Sound to Auditory Experience**</p>
 
-**Table 9-6 resolves this ambiguity by separating the physical event from its conscious perception.** Acoustic pressure waves belong to the physical world. Auditory encoding belongs to the nervous system. Hearing belongs to conscious awareness. The table therefore distinguishes sensation, encoding, and perception as separate explanatory layers rather than treating them as a single phenomenon.
+Table 9-6 separates the physical event from its conscious perception. Pressure waves belong to the physical world, encoding to the nervous system, and hearing to conscious awareness.
 
 The same architectural distinction applies to affect, feeling, and emotion. Physiological affect belongs to the body. Feeling belongs to conscious awareness. Emotion belongs to interpretation. The CSME therefore resolves both thought experiments by distinguishing objective processes, conscious perception, and cognitive-semiotic interpretation without collapsing one into another.
 
-The CSME therefore resolves both thought experiments through the same layered ontology by distinguishing objective processes, conscious awareness, and cognitive-semiotic interpretation without collapsing them into a single explanatory level.
+I now turn to the second objective: the bridge between semiotic availability and semantic achievement.
 
-Objective 1 establishes the ontological foundation of the Constructivist Semiotic Model of Emotions by fixing the identity conditions of affect, feeling, and emotion.
-
-I now turn to the second objective by specifying the bridge between semiotic availability and semantic achievement through which an agent constructs emotional meaning.
-
-Having established the identity conditions of affect, feeling, and emotion, I now specify the bridge between semiotic availability and semantic achievement. Objective 2 resolves that architectural problem.
-
-I preserve the phenomenological insight that feeling presents itself directly in first-person experience.<sup><a href="../references/notes/chapter-09.md#note-54">54</a></sup> I preserve Appraisal Theory’s recognition that contextual significance shapes emotional understanding.<sup><a href="../references/notes/chapter-09.md#note-55">55</a></sup> I also preserve Barrett’s insight that agents construct emotional meaning rather than merely identify intrinsic emotional kinds.<sup><a href="../references/notes/chapter-09.md#note-56">56</a></sup> I extend these contributions by specifying the bridge through which feeling enters semiotic availability before an agent assigns meaning to it through interpretation. In doing so, I mitigate the longstanding conflation of conscious awareness with emotional meaning.
+I preserve the phenomenological insight that feeling presents itself directly in first-person experience,<sup><a href="../references/notes/chapter-09.md#note-54">54</a></sup> Panksepp’s account of affect as the substrate from which conscious feeling arises,<sup><a href="../references/notes/chapter-09.md#note-55">55</a></sup> Appraisal Theory’s recognition that contextual significance shapes emotional understanding,<sup><a href="../references/notes/chapter-09.md#note-56">56</a></sup> and Barrett’s insight that agents construct emotional meaning.<sup><a href="../references/notes/chapter-09.md#note-57">57</a></sup> I extend these by identifying feeling as the point at which affect enters semiotic availability without yet acquiring semantic content.
 
 Feeling makes affect consciously available, but conscious availability alone does not constitute emotional meaning. An agent may consciously experience identical or highly similar feelings while assigning different meanings to those experiences under different goals, contexts, and interpretive constraints. Conscious awareness therefore establishes the conditions under which interpretation becomes possible, but it does not itself determine what the feeling means.
 
-I preserve the phenomenological insight that feeling presents itself directly in first-person experience.<sup><a href="../references/notes/chapter-09.md#note-57">57</a></sup> I also preserve Panksepp’s account of physiological affect as the biological substrate from which conscious feeling arises.<sup><a href="../references/notes/chapter-09.md#note-58">58</a></sup> I extend both contributions by identifying feeling as the point at which affect enters semiotic availability without yet acquiring semantic content. 
+Feeling is therefore the threshold between physiology and interpretation. It supplies the object of interpretation without determining its meaning.
 
-Feeling therefore functions as the architectural threshold between physiology and interpretation. It makes affect available to consciousness while leaving emotional meaning undetermined until an agent interprets and authorizes one meaning under goal-relative constraints.
-
-Semiotic availability and semantic achievement perform different architectural functions. Semiotic availability makes feeling consciously available to an agent. Semantic achievement begins only when the agent interprets that feeling by assigning meaning and significance under goal-relative constraints. Feeling therefore supplies the object of interpretation without determining its meaning.
-
-I preserve Barrett’s insight that agents construct emotional meaning rather than merely identify it.<sup><a href="../references/notes/chapter-09.md#note-59">59</a></sup> I preserve Appraisal Theory’s recognition that contextual significance constrains emotional understanding.<sup><a href="../references/notes/chapter-09.md#note-60">60</a></sup> I preserve phenomenology’s account of first-person awareness by locating feeling prior to interpretation.<sup><a href="../references/notes/chapter-09.md#note-61">61</a></sup> I extend these contributions by identifying interpretation as the bridge that transforms conscious feeling into emotional meaning.
-
-This bridge also resolves one of the principal ambiguities that motivated the present inquiry. Identical or substantially similar feelings can legitimately support different emotional meanings because feeling supplies only semiotic availability. Interpretation constructs semantic achievement by organizing feeling under contextual information, goals, prior knowledge, and symbolic constraints. Emotional meaning therefore emerges neither from physiology nor from feeling alone, but from the agent’s interpretive act.
+This bridge resolves a principal ambiguity of the inquiry. Similar feelings can support different emotional meanings because feeling supplies only availability. Interpretation achieves meaning by organizing feeling under context, goals, prior knowledge, and symbolic constraints.
 
 |                         |                        |                                                   |                       |
 |-------------------------|------------------------|---------------------------------------------------|-----------------------|
@@ -287,47 +258,37 @@ This bridge also resolves one of the principal ambiguities that motivated the pr
 
 Table 9-7 shows that emotion emerges only after an agent completes the transition from semiotic availability to semantic achievement.
 
-The bridge between semiotic availability and semantic achievement resolves the ambiguity introduced at the beginning of this chapter. Consider again the experience of walking alone at night and hearing footsteps accelerating behind you. Physiological affect elevates arousal, narrows attention, and prepares the organism for action. Interoceptive systems encode those physiological changes, and feeling makes them consciously available as tension and urgency. At this point, however, emotional meaning remains undetermined.
+Return to the footsteps at night. Affect raises arousal and narrows attention. Feeling makes those changes available as tension and urgency. Emotional meaning remains undetermined.
 
-One agent may interpret the feeling as fear because an unknown person appears to present a threat. Another may recognize the approaching individual as a trusted friend and instead interpret substantially the same feeling as relief or anticipation. Although physiological affect and phenomenological feeling remain largely unchanged, the emotional meaning differs because the agent assigns different meanings to the same semiotically available feeling.
+One agent interprets the feeling as fear because an unknown person seems to threaten. Another recognizes a trusted friend and interprets substantially the same feeling as relief. Affect and feeling barely change. The meaning differs.
 
-The bridge therefore explains why identical or substantially similar feelings can legitimately support different emotions without requiring different physiological states. Feeling supplies semiotic availability. Interpretation proposes emotional meaning. Commitment authorizes one interpretation as emotionally binding. Emotional meaning therefore emerges through semantic achievement rather than through physiology or conscious feeling alone. 
+Feeling supplies availability. Interpretation proposes meaning. Commitment authorizes one interpretation as binding.
 
-I now fulfill the final objective of this chapter by restoring interpretive governance. The preceding objectives established the identity conditions of affect, feeling, and emotion and specified the bridge between semiotic availability and semantic achievement. They do not, however, explain why one interpretation rather than another becomes normatively authoritative. I resolve that problem by distinguishing intentionality, interpretation, and commitment as complementary dimensions of emotional governance. Intentionality explains what an emotion is about. Interpretation explains how an agent assigns meaning to feeling. Commitment explains why the agent authorizes one interpretation as emotionally binding under standards of correctness, justification, revision, and responsibility. 
+I now restore interpretive governance. The bridge does not explain why one interpretation rather than another becomes authoritative. I resolve that by distinguishing intentionality, interpretation, and commitment.
 
-I preserve Barrett’s insight that agents construct emotional meaning.<sup><a href="../references/notes/chapter-09.md#note-62">62</a></sup> I preserve Appraisal Theory’s recognition that contextual significance constrains interpretation.<sup><a href="../references/notes/chapter-09.md#note-63">63</a></sup> I preserve phenomenology’s account of intentional consciousness by recognizing that emotions are necessarily about something.<sup><a href="../references/notes/chapter-09.md#note-64">64</a></sup> I extend these contributions by distinguishing intentionality, interpretation, and commitment as complementary dimensions of emotional governance. Intentionality explains the object of emotion. Interpretation explains how an agent assigns meaning to feeling. Commitment explains why the agent authorizes one interpretation as emotionally binding under standards of correctness, justification, revision, and responsibility. In doing so, I mitigate the tendency to attribute emotional meaning to physiology, feeling, appraisal, prediction, categorization, or interpretation alone.
+I preserve Barrett’s insight that agents construct emotional meaning,<sup><a href="../references/notes/chapter-09.md#note-58">58</a></sup> Appraisal Theory’s recognition that contextual significance constrains interpretation,<sup><a href="../references/notes/chapter-09.md#note-59">59</a></sup> and phenomenology’s recognition that emotions are about something.<sup><a href="../references/notes/chapter-09.md#note-60">60</a></sup> I mitigate the tendency to attribute emotional meaning to physiology, feeling, appraisal, prediction, categorization, or interpretation alone.
 
-Contemporary philosophy commonly characterizes emotions as intentional states because they are directed toward objects, situations, or states of affairs.<sup><a href="../references/notes/chapter-09.md#note-65">65</a></sup> Intentionality therefore explains what an emotion is about, but it does not explain why one interpretation becomes emotionally authoritative.
+Contemporary philosophy commonly characterizes emotions as intentional states because they are directed toward objects, situations, or states of affairs.<sup><a href="../references/notes/chapter-09.md#note-61">61</a></sup> Intentionality therefore explains what an emotion is about, but it does not explain why one interpretation becomes emotionally authoritative.
 
-Peirce correctly locates meaning within interpretation.<sup><a href="../references/notes/chapter-09.md#note-66">66</a></sup> Interpretation therefore explains how an agent assigns meaning to feeling. Interpretation alone, however, leaves open multiple candidate meanings compatible with the same feeling.
+Peirce correctly locates meaning within interpretation.<sup><a href="../references/notes/chapter-09.md#note-62">62</a></sup> Interpretation therefore explains how an agent assigns meaning to feeling. Interpretation alone, however, leaves open multiple candidate meanings compatible with the same feeling.
 
-Brandom explains how commitment establishes normative authority within discursive practice.<sup><a href="../references/notes/chapter-09.md#note-67">67</a></sup> I extend this insight into the affective domain. Emotional commitment precedes public assertion. An agent first authorizes one interpretation of feeling as emotionally binding before that interpretation becomes available for subsequent reasoning, communication, revision, or action.
+Brandom explains how commitment establishes normative authority within discursive practice.<sup><a href="../references/notes/chapter-09.md#note-63">63</a></sup> I extend this insight into the affective domain. Emotional commitment precedes public assertion. An agent first authorizes one interpretation of feeling as emotionally binding before that interpretation becomes available for subsequent reasoning, communication, revision, or action.
 
 Intentionality explains the object of emotion. Interpretation explains the construction of emotion. Commitment explains the authority of emotion.
 
-Before I formally specify the Constructivist Semiotic Model of Emotions (CSME), I briefly acknowledge the additional philosophical distinctions it preserves. I preserve phenomenology’s account of first-person givenness by recognizing that affect and feeling become immediately available to consciousness without thereby constituting emotional meaning.<sup><a href="../references/notes/chapter-09.md#note-68">68</a></sup>
+Several further distinctions carry into the model. Affect and feeling become available to consciousness without constituting meaning.<sup><a href="../references/notes/chapter-09.md#note-64">64</a></sup> Feeling is the metaperceptual awareness of affect, not affect itself.<sup><a href="../references/notes/chapter-09.md#note-65">65</a></sup>
 
-I preserve Panksepp’s distinction between physiological affect and lived experience by identifying feeling as the conscious metaperceptual awareness of affect rather than affect itself.<sup><a href="../references/notes/chapter-09.md#note-69">69</a></sup> I preserve the phenomenological insight that conscious awareness precedes interpretation by locating feeling within a distinct pre-interpretive phase of the architecture.
+Feeling is grounded in the organism’s embodied situation, while meaning belongs to interpretation.<sup><a href="../references/notes/chapter-09.md#note-66">66</a></sup> Intentional aboutness becomes emotional meaning through agent-governed interpretation.<sup><a href="../references/notes/chapter-09.md#note-67">67</a></sup>
 
-I preserve Merleau-Ponty’s account of embodied situatedness by grounding feeling in the organism’s physiological condition while locating emotional meaning within interpretation rather than bodily state alone.<sup><a href="../references/notes/chapter-09.md#note-70">70</a></sup>
+The formal specification introduces no new claims. It states the architecture in a form open to formal analysis and implementation. The Constructivist Computational Model of Emotions (CCME), in Appendix J, implements it as an executable specification.
 
-Finally, I preserve Husserl’s account of intentional consciousness by recognizing that emotions are necessarily about something, while extending that insight by explaining how intentional aboutness becomes emotional meaning through agent-governed interpretation.<sup><a href="../references/notes/chapter-09.md#note-71">71</a></sup> These preserved distinctions now converge within a single cognitive-semiotic architecture. I therefore turn to the formal specification of the Constructivist Semiotic Model of Emotions.
-
-The architectural specification now stands complete. I have established the identity conditions of affect, feeling, and emotion; specified the bridge between semiotic availability and semantic achievement; and restored interpretive governance through agent-authorized interpretation. I now formalize those architectural commitments by specifying the Constructivist Semiotic Model of Emotions (CSME).
-
-The formal specification does not introduce new theoretical claims. Instead, it instantiates the architecture I developed throughout this chapter within a precise semiotic structure whose constituents, relationships, and governing constraints admit formal analysis and computational implementation. The Constructivist Computational Model of Emotions (CCME), presented in Appendix J, demonstrates that architecture under executable constraint while preserving the ontological distinctions I established here.
-
-The Constructivist Semiotic Model of Emotions (CSME) is a formal cognitive-semiotic architecture that specifies the ontological constituents, structural relationships, and governing constraints through which an agent constructs emotional meaning. It distinguishes physiological affect, feeling, interpretation, commitment, and emotion as non-substitutable architectural constituents whose identities, relationships, and explanatory functions remain stable under conceptual, semiotic, and computational analysis.
+The Constructivist Semiotic Model of Emotions (CSME) is a formal cognitive-semiotic architecture that specifies the constituents, relationships, and constraints through which an agent constructs emotional meaning. It treats physiological affect, feeling, interpretation, commitment, and emotion as non-substitutable constituents.
 
 The CSME applies the Constructivist Semiotic Sign to emotion. I placed that sign among its neighbors in [Chapter 7](../part-3/chapter-07.md), and my view of emotion among construction theories earlier in this chapter. The CSME inherits both: five constituents from the first, and layer separation with correctness conditions from the second.
 
-The function of the CSME is to explain how an agent constructs emotional meaning without collapsing physiology into consciousness, consciousness into interpretation, or interpretation into emotion. The model preserves stable identity conditions, specifies the bridge between semiotic availability and semantic achievement, and restores interpretive governance by locating emotional meaning within a commitment-governed interpretive act that admits correctness, error, justification, revision, and responsibility.
+The CSME specifies the abstract architecture. A Constructivist Semiotic Sign (CSS) instantiates it in a particular emotional episode. The constituents stay invariant. Their values change: affect, context, goals, identifiers, interpretations, and resulting meaning. The class diagram specifies the admissible architecture; the object diagram shows one realization.
 
-The CSME specifies the abstract architecture. A Constructivist Semiotic Sign (CSS) instantiates that architecture within a particular emotional episode. The architectural constituents remain invariant across every implementation. What changes from one instantiation to another are the values assigned to those constituents, including the physiological affect, contextual conditions, goals, symbolic identifiers, interpretations, and resulting emotional meaning. The UML Class Diagram therefore specifies the admissible architecture of every Constructivist Semiotic Sign, whereas the UML Object Diagram demonstrates one concrete realization of that architecture under particular contextual conditions.
-
-The sections that follow formally specify the architectural constituents of the CSME and then demonstrate their realization within a Constructivist Semiotic Sign. The accompanying UML Class Diagram specifies the abstract architecture, while the UML Object Diagram instantiates that architecture as an executable semiotic structure capable of constructing emotional meaning under explicit ontological, semiotic, and computational constraints.
-
-The ontology of the Constructivist Semiotic Model of Emotions consists of three non-substitutable constructs: affect, feeling, and emotion. Each construct possesses distinct identity conditions and performs a distinct explanatory role. The architecture therefore prohibits any one construct from performing the function of another.
+The ontology consists of three non-substitutable constructs.
 
 Affect is the physiological and regulatory mechanism that generates the conditions of feeling without itself constituting feeling or emotion. It includes bodily processes such as valence, arousal, motivational intensity, autonomic activation, and regulatory readiness. Affect belongs to the organism as an objective causal substrate.
 
@@ -335,9 +296,7 @@ Feeling is the conscious metaperceptual awareness of a semiotically available af
 
 Emotion is a goal-governed, context-sensitive semiotic interpretive act by which an agent assigns meaning and significance to feeling. Emotion neither generates affect nor constitutes feeling. It occupies the cognitive-semiotic layer in which an agent interprets a consciously available affective experience under conceptual, contextual, and goal-relative constraints.
 
-The tripartite ontology specifies what affect, feeling, and emotion are. It does not yet specify the semiotic constituents through which an agent represents an emotional sign or the semantic operations through which interpretation, meaning, significance, and commitment produce emotional meaning. The next specification therefore turns from the ontology of emotional phenomena to the five constituents of the Constructivist Semiotic Sign.
-
-Whereas the tripartite ontology establishes the identity conditions of affect, feeling, and emotion, the Constructivist Semiotic Sign (CSS) specifies the semiotic constituents through which an agent represents and constructs emotional meaning. Every admissible emotional sign instantiates the same five constituents. Together, these constituents define the structural architecture of the sign rather than the semantic operations through which emotional meaning is constructed.
+The Constructivist Semiotic Sign (CSS) specifies the semiotic constituents through which an agent represents emotional meaning. Every admissible emotional sign instantiates the same five.
 
 1. **Interpreter.** The interpreter is the conscious, goal-directed agent that constructs emotional meaning. The interpreter supplies agency, establishes the governing goal, executes interpretation, authorizes commitment, and assumes responsibility for the resulting emotional meaning. Without an interpreter, physiological affect and feeling remain available for interpretation but cannot become emotion.
 
@@ -349,9 +308,7 @@ Whereas the tripartite ontology establishes the identity conditions of affect, f
 
 5. **Referent.** The referent is the situated object of interpretation. It consists of the physiological affect and phenomenological feeling experienced by the interpreter within a particular contextual situation. The referent therefore supplies the experiential object toward which interpretation is directed without itself constituting emotional meaning.
 
-These five constituents specify the structural architecture of every Constructivist Semiotic Sign. They do not yet explain how emotional meaning arises. I therefore now turn to the semantic architecture through which interpretation, meaning, significance, and commitment transform the Constructivist Semiotic Sign into emotional meaning.
-
-The Constructivist Semiotic Sign specifies the structural constituents required to represent emotional meaning. Those constituents alone, however, do not produce emotion. Emotional meaning emerges only through the semantic operations that the interpreter performs upon the sign. I therefore distinguish four non-substitutable semantic operations: interpretation, meaning, significance, and commitment. Together, these operations explain how a Constructivist Semiotic Sign becomes emotionally meaningful.
+These constituents alone do not produce emotion. Meaning emerges through four semantic operations the interpreter performs on the sign.
 
 1.  **Interpretation.** Interpretation is the cognitive-semiotic act through which the interpreter evaluates the referent under conceptual, contextual, and goal-relative constraints. Interpretation proposes one or more candidate meanings without yet determining which interpretation becomes emotionally authoritative.
 
@@ -360,8 +317,6 @@ The Constructivist Semiotic Sign specifies the structural constituents required 
 3.  **Significance.** Significance is the goal-relative importance that the interpreter assigns to meaning. Whereas meaning answers what the feeling means, significance answers why that meaning matters to the interpreter in the present context.
 
 4.  **Commitment.** Commitment is the normative act through which the interpreter authorizes one interpretation as emotionally binding. Commitment transforms candidate meaning into emotionally authoritative meaning by admitting correctness, error, justification, revision, and responsibility. Emotional meaning therefore becomes complete only when the interpreter commits to one interpretation of feeling.
-
-Together, these semantic operations explain how emotional meaning emerges from the structural constituents of the Constructivist Semiotic Sign without collapsing physiology into consciousness, consciousness into interpretation, or interpretation into emotion.
 
 <img src="../../assets/figures/chapter-09/figure-01.png" />
 
@@ -375,11 +330,9 @@ Figure 9-1 presents the Constructivist Semiotic Model of Emotions (CSME) as a UM
 
 Figure 9-2 presents a Constructivist Semiotic Sign (CSS) as a UML object diagram. Whereas the class diagram specifies the architecture abstractly, the object diagram instantiates that architecture within a particular emotional episode. The interpreter constructs emotional meaning by interpreting a referent consisting of physiological affect, feeling, and context under a governing goal. The identifier stabilizes the resulting construct for cognition and communication, while the concept supplies the identity conditions that distinguish the construct from every other emotion type.
 
-Together, these diagrams distinguish the architecture from its instantiation. The UML class diagram specifies what every admissible emotional construct must contain. The UML object diagram demonstrates how an interpreter realizes that architecture within a particular emotional episode. This distinction preserves the central claim of the CSME: emotional meaning does not reside in physiology, feeling, or symbolic labels alone. An agent constructs emotional meaning by instantiating a Constructivist Semiotic Sign under explicit ontological, semiotic, and computational constraints.
+Together, the diagrams separate the architecture from its instantiation. Emotional meaning does not reside in physiology, feeling, or labels alone. An agent constructs it by instantiating a Constructivist Semiotic Sign.
 
-The diagrams that follow no longer argue for the architecture. They demonstrate that the architecture survives formal specification and computational execution without collapsing the distinctions among affect, feeling, interpretation, commitment, and emotion.
-
-I can clarify the model by applying it to a familiar case: love. In this simplified illustration, I treat Love as the governing concept and show Romance, Lust, and Attachment as different instantiated interpretations of that concept. The example does not replace the full Constructivist Semiotic Sign. Rather, it condenses the sign structure so the reader can see how different identifiers arise from different relations among felt state, context, biochemical profile, and the interpreting agent's goal.
+I can clarify the model with a familiar case: love. In this simplified illustration, Love is the governing concept, and Romance, Lust, and Attachment are different instantiated interpretations of it.
 
 The point is not that Romance, Lust, and Attachment name three unrelated emotions. The point is that the same general concept, Love, can generate different constructs when the agent interprets a felt state under different contextual and purposive constraints. A candlelight dinner, a sexually charged setting, and a caregiving scene do not merely decorate the emotion. They help specify what kind of love the agent constructs.
 
@@ -442,7 +395,7 @@ Parents with child and dog</td>
 
 <p align="center">**Table 9-8. Interpretive Variations of Love under the Constructivist Semiotic Model of Emotions**</p>
 
-Table 9-8 shows why CSME treats emotion as interpretive construction rather than simple biological activation. Biochemistry contributes real constraint, but it does not determine the emotion by itself. Context contributes real constraint, but it does not determine the emotion by itself. The agent constructs the emotion sign by binding felt state, context, concept, identifier, and goal into a coherent interpretation. In this sense, Romance, Lust, and Attachment function as distinct interpretations of Love rather than as isolated emotional substances.
+Table 9-8 shows that biochemistry and context each constrain the emotion without determining it. The agent constructs the sign by binding felt state, context, concept, identifier, and goal into a coherent interpretation.
 
 Emotional meaning exists only when an agent interprets a sign relative to a goal and a context. I therefore require identifiable constituents, an act of interpretation, and constraints that allow success or failure. Without these, I can describe a biological event or a behavioral reflex, but I cannot claim emotional meaning.
 
@@ -452,7 +405,7 @@ The corresponding C# executables for the projects below are available in the mat
 
 Project 1 formalizes the claim that an emotion concept functions as a constraint structure. For demonstration, the program stipulates a simplified Fear concept with two admissibility conditions: the context must equal danger, and the arousal level must meet or exceed 6. The number does not claim to identify a psychological threshold for fear. It gives the executable a clear constraint so the program can test whether a runtime instance satisfies the concept.
 
-The implementation defines an emotion concept with explicit constraint properties: required context and minimum arousal. Validation consists of testing whether the instance satisfies the concept’s constraints. The agent does not model validity as an object; the agent produces validity as a judgment.
+The implementation defines a concept with two constraint properties: required context and minimum arousal. The agent does not model validity as an object; the agent produces validity as a judgment.
 
 Two parameters are accepted at runtime: context and arousal level.
 
@@ -468,13 +421,13 @@ Input
 Output  
 <img src="../../assets/figures/chapter-09/figure-10.png" />
 
-The run danger 7 passes because the instance satisfies both conditions: its context matches danger, and its arousal level exceeds the stipulated minimum of 6. The run safe 3 fails because the context does not match danger and the arousal level falls below 6. This demonstration does not claim that fear has a fixed psychological arousal threshold. It uses a stipulated threshold to show how a concept can govern admissible instances. Project 1 therefore demonstrates that identity depends on constraint satisfaction rather than resemblance or categorization. The structure accepts or rejects an instance according to whether the instance satisfies the concept’s admissibility conditions.
+The run danger 7 passes because the context matches and arousal exceeds 6. The run safe 3 fails both conditions. Identity depends on constraint satisfaction, not resemblance or categorization.
 
 <img src="../../assets/figures/chapter-09/figure-11.png" />
 
 **Figure 9-4. Emotion Concept–Emotion Instance Validation UML Class Diagram**
 
-Project 1 uses this validation structure to show how a concept governs an instance. The EmotionConcept supplies admissibility conditions, while IsValid(instance) tests whether a concrete EmotionInstance satisfies them. The example stipulates MinimumArousal = 6 only to make the validation executable; it does not claim that fear has a universal arousal threshold.
+In Figure 9-4, EmotionConcept supplies the admissibility conditions, and IsValid(instance) tests whether an EmotionInstance satisfies them. Figure 9-5 shows the valid case; Figure 9-6 shows the invalid one.
 
 <img src="../../assets/figures/chapter-09/figure-12.png" />
 
@@ -484,13 +437,11 @@ Project 1 uses this validation structure to show how a concept governs an instan
 
 **Figure 9-6. Fear Instance (Invalid) UML Object Diagram**
 
-Project 1 demonstrates that the Fear concept accepts an instance only when the instance satisfies its stipulated admissibility conditions. Figure 9-5 shows the valid case: danger 7 satisfies the required context and minimum arousal condition. Figure 9-6 shows the invalid case: safe 3 fails because it satisfies neither condition. Thus, identity depends on constraint satisfaction rather than resemblance or categorization.
+Project 2 defends the bridge condition: a feeling may be real, identifiable, and context-bound without yet carrying emotional meaning. Figure 9-7 shows that a FeelingState may support EmotionalMeaning but does not automatically become it.
 
-Project 2 defends the bridge condition established in the chapter: a feeling may be real, identifiable, and context-bound without yet carrying emotional meaning. Figure 9-7 shows this bridge structure: a FeelingState may support EmotionalMeaning, but it does not automatically become emotional meaning. The project therefore separates eligibility for meaning from meaning itself. This distinction matters because a theory of emotion can collapse feeling into emotion if it treats every conscious occurrence as an interpretation.
+The implementation defines a feeling state through context and arousal. As Figure 9-8 shows, these properties establish semiotic availability. Emotional meaning appears only when the program invokes interpretation.
 
-The implementation defines a feeling state through context and arousal. As Figure 9-8 shows, these properties establish semiotic availability: the state exists, the program can track it, and an interpreter can take it up as material for meaning. Emotional meaning appears only when the program invokes interpretation. This preserves the distinction between sign material and significance. The same feeling can therefore appear in two conditions: first, as available but not yet meaningful; second, as interpreted and semantically achieved.
-
-The program accepts three runtime inputs: context, arousal level, and mode. Figure 9-8 shows the contrast between the two conditions. The mode controls whether the program stops at semiotic availability or proceeds to semantic achievement. In this way, Project 2 shows that feelings do not become meaningful by default. Meaning appears only when a separate interpretive step occurs.
+The program accepts three runtime inputs: context, arousal level, and mode. The mode controls whether the program stops at semiotic availability or proceeds to semantic achievement.
 
 Input  
 <img src="../../assets/figures/chapter-09/figure-14.png" />
@@ -504,7 +455,7 @@ Input
 Output  
 <img src="../../assets/figures/chapter-09/figure-17.png" />
 
-The contrast between these two outputs is the whole argument in executable form. Nothing in the underlying feeling changes. The contextualized arousal remains constant. The only change is whether interpretation has occurred. This demonstrates that feeling can function as sign-material without yet counting as an emotion.
+Nothing in the underlying feeling changes between the two outputs. Only interpretation differs. Feeling can function as sign-material without yet counting as an emotion.
 
 <img src="../../assets/figures/chapter-09/figure-18.png" />
 
@@ -530,13 +481,13 @@ The contrast between these two outputs is the whole argument in executable form.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------  
 
-Project 3 defends one of the chapter’s strongest claims: the same feeling-in-context can yield different emotions under different goals. This directly supports my argument that emotional meaning does not equal bodily state. If bodily state alone determined emotion, then a constant feeling would also produce a constant emotion. Project 3 shows the opposite: the feeling remains constant while the emotion changes when the governing goal changes.
+Project 3 shows that the same feeling-in-context can yield different emotions under different goals. If bodily state alone determined emotion, a constant feeling would produce a constant emotion.
 
 Figures 9-11 through 9-14 present the class structure for this demonstration. Figure 9-11 defines the FeelingState through context and arousal. Figure 9-12 defines the Goal as the governing constraint. Figure 9-13 defines EmotionInterpretation as the resulting emotional meaning. Figure 9-14 defines the Interpreter, which uses the feeling state and goal together to produce the interpretation.
 
 Figures 9-15 through 9-18 show the concrete object executions. Figure 9-15 holds the feeling constant: the context remains backstage, and arousal remains 8. Figure 9-16 introduces the goal perform_well, which supports the interpretation shown in Figure 9-17: Excitement. Figure 9-18 then changes the goal to avoid_failure, and Figure 9-19 shows the resulting interpretation: Anxiety.
 
-The program accepts three runtime inputs: context, arousal level, and goal. In both executions, the feeling remains unchanged. Only the goal changes. That change produces a different emotional meaning. Project 3 therefore demonstrates that the body does not carry emotional meaning within itself. Meaning arises when an interpreter takes up a felt state under a governing aim.
+The program accepts three runtime inputs: context, arousal level, and goal.
 
 Input  
 <img src="../../assets/figures/chapter-09/figure-22.png" />
@@ -550,7 +501,7 @@ Input
 Output  
 <img src="../../assets/figures/chapter-09/figure-25.png" />
 
-The contrast between these outputs demonstrates the core argument in executable form. Nothing in the feeling changes. The context remains backstage. The arousal remains high. Only the goal changes. Yet the meaning shifts from excitement to anxiety. This shows that emotional meaning is not found in the feeling alone but is constructed through goal-governed interpretation.
+Only the goal changes between the runs. Yet the meaning shifts from excitement to anxiety. Meaning arises when an interpreter takes up a felt state under a governing aim.
 
 <img src="../../assets/figures/chapter-09/figure-26.png" />
 
@@ -592,8 +543,6 @@ Project 4 illustrates the chapter’s claim that emotional meaning arises throug
 
 Figures 9-25 through 9-28 show the corresponding object-level execution. Figure 9-25 presents the external situation, footsteps_behind. Figure 9-26 shows the resulting feeling state: context dark_street, arousal level 7. Figure 9-27 introduces the goal stay_safe, and Figure 9-28 shows the resulting meaning, Fear. Figure 9-29 then shows the alternative meaning, Relief, when the interpretive context changes.
 
-Project 4 therefore demonstrates phase separation. The external situation does not contain emotional meaning by itself. The situation first gives rise to feeling. The agent then interprets that feeling under a goal. Emotion appears only after that interpretive act.
-
 Input  
 <img src="../../assets/figures/chapter-09/figure-35.png" />
 
@@ -606,7 +555,7 @@ Input
 Output  
 <img src="../../assets/figures/chapter-09/figure-38.png" />
 
-The contrast between these outputs demonstrates the architectural point. The external event does not contain emotional meaning within itself. It first produces a feeling state. That feeling then becomes emotionally meaningful only when interpreted under a governing goal. This preserves the chapter’s distinction between causal sequence and semantic achievement.
+The external event does not contain emotional meaning. It first produces a feeling state, which becomes meaningful only under a governing goal. Causal sequence stays distinct from semantic achievement.
 
 <img src="../../assets/figures/chapter-09/figure-39.png" />
 
@@ -652,8 +601,6 @@ Project 5 isolates the chapter’s final executable claim: an agent can revise e
 
 Figures 9-34 through 9-36 show the object-level execution. Figure 9-34 holds the feeling constant: context dark_street, arousal level 7. Figure 9-35 holds the goal constant: stay_safe. Figure 9-36 shows the initial interpretation, Fear, when the agent treats the other person as unknown. Figure 9-37 shows the revised interpretation, Relief, when the agent recognizes the other person as a friend.
 
-Project 5 therefore demonstrates revisability. The feeling does not change, and the governing goal does not change. Updated contextual knowledge changes the interpretation. Emotional meaning therefore does not reside inside the bodily state; an agent constructs it through interpretation and can revise it when context warrants correction.
-
 Input  
 <img src="../../assets/figures/chapter-09/figure-47.png" />
 
@@ -666,7 +613,7 @@ Input
 Output  
 <img src="../../assets/figures/chapter-09/figure-50.png" />
 
-The contrast between these outputs demonstrates the argument in executable form. The feeling remains constant. The governing goal remains constant. Only contextual knowledge changes. Yet the meaning shifts from fear to relief. This shows that emotional meaning is not contained in the bodily state itself but arises through interpretation and can therefore be revised when interpretation is corrected.
+The feeling and the goal stay constant. Only contextual knowledge changes, and the meaning shifts from fear to relief. Because an agent constructs meaning, the agent can revise it when context warrants correction.
 
 <img src="../../assets/figures/chapter-09/figure-26.png" />
 
@@ -700,57 +647,55 @@ The contrast between these outputs demonstrates the argument in executable form.
 
 **Figure 9-37. Emotion Meaning (Revised Relief) UML Object Diagram**
 
-The five projects have now performed a single task under different constraints. They have not introduced new claims. They have enforced the claims already made.
+The five projects introduce no new claims. They enforce the claims already made.
 
-Each project isolates a failure point in contemporary emotion theory and replaces it with an executable constraint. The first project fixes identity conditions by demonstrating that a concept governs its instances through admissibility rather than emerging from classification. The second project secures the bridge condition by showing that a feeling may be available for interpretation without already possessing meaning. The third project restores interpretive governance by proving that the same feeling-in-context yields different emotions under different goals. The fourth project preserves phase separation by enforcing the ordered transition from situation to feeling to interpretation without collapse. The fifth project establishes revisability by showing that meaning can change while the underlying feeling remains constant.
+Each isolates a failure point in contemporary emotion theory: identity, availability, governance, phase separation, and revisability.
 
 Taken together, these projects do not merely illustrate the theory. They constrain it. Each executable forces a distinction that the architecture requires. If any distinction is removed, the code can no longer state the claim that depends on it. Identity dissolves into grouping. Availability collapses into meaning. The body is mistaken for the interpreter. Sequence collapses into simultaneity. Revision becomes impossible. The projects therefore work as executable specifications. They show what the model asserts and what breaks when its constraints are violated. They do not test the model against data; the programs encode its distinctions by design, so they establish internal consistency, not truth.
 
-The result is a system in which emotional meaning survives computational pressure without sacrificing philosophical precision. The architecture holds. Affect remains causal. Feeling remains experiential. Emotion remains interpretive. The agent remains responsible.
+Affect remains causal. Feeling remains experiential. Emotion remains interpretive. The agent remains responsible.
 
-What remains is to present the system as a unified execution. The projects demonstrated the parts. The next step shows the whole.
-
-Figure 9-38 now integrates these constraints into a single, phase-ordered architecture.
+Figure 9-38 integrates these constraints into a single, phase-ordered architecture.
 
 <img src="../../assets/figures/chapter-09/figure-9-37.svg" alt="Figure 9-38. Metamorphosis of an Emotion" />
 
 **Figure 9-38. Metamorphosis of an Emotion**
 
-Figure 9-38 illustrates the complete architecture through which emotional meaning is constructed within the Constructivist Semiotic Model of Emotions (CSME). The diagram separates simulation, bodily regulation, feeling, and interpretation into distinct stages so that the reader can see precisely where emotional meaning arises in the process. Each numbered step corresponds to a labeled component in the diagram and shows how environmental input, predictive cognition, physiological readiness, and conceptual interpretation interact without collapsing into one another. The sequence demonstrates that biological and predictive processes shape the field of possible interpretations but do not constitute emotional meaning themselves. Emotional meaning emerges only when the agent performs an interpretive act that stabilizes a semiotic sign binding affect, concept, and governing goal.<sup><a href="../references/notes/chapter-09.md#note-72">72</a></sup>
+Figure 9-38 separates simulation, bodily regulation, feeling, and interpretation so the reader can see where emotional meaning arises. Biological and predictive processes shape the field of possible interpretations but do not constitute meaning. Meaning emerges only when the agent performs an interpretive act that binds affect, concept, and governing goal.<sup><a href="../references/notes/chapter-09.md#note-68">68</a></sup>
 
-Throughout the diagram, bodily regulation, prediction, and perception are treated as operations of the cognitive system. Interpretation, however, belongs to the agent. The system prepares and constrains the field of possible meanings, but only the agent performs the interpretive act that constitutes emotional meaning.
+The cognitive system performs regulation, prediction, and perception. Interpretation belongs to the agent.
 
 **(1) External Situation (Exteroceptive Input).  
 ** The process begins with an external situation that impinges on the sensory systems. At this stage the stimulus is a physical configuration of the environment. It may trigger perceptual and physiological responses, but it possesses no intrinsic emotional meaning. The stimulus is therefore causally efficacious but semantically inert.
 
 **(2) Predictive Simulation (Concept-Guided Anticipation).  
-** The stimulus activates predictive simulation. The cognitive system anticipates possible outcomes by projecting concept-guided expectations about relevance, affordances, and potential consequences. This simulation narrows the range of plausible interpretations but remains pre-interpretive. It constrains the field within which an agent may later interpret the feeling, but it does not determine emotional meaning.<sup><a href="../references/notes/chapter-09.md#note-73">73</a></sup>
+** The stimulus activates predictive simulation. The cognitive system anticipates possible outcomes by projecting concept-guided expectations about relevance, affordances, and potential consequences. This simulation narrows the range of plausible interpretations but remains pre-interpretive. It constrains the field within which an agent may later interpret the feeling, but it does not determine emotional meaning.<sup><a href="../references/notes/chapter-09.md#note-69">69</a></sup>
 
 **(3) Cached Sign Structures (Memory Retrieval).  
 ** Predictive simulation draws upon cached sign structures stored in memory. Previously learned conceptual associations, cultural scripts, and past experiences supply the conceptual resources through which the situation may later be interpreted. They prepare the architecture of possible meanings but do not themselves produce emotional meaning.
 
 **(4) Exteroceptive Perception (Sensory Confirmation).  
-** Simultaneously, the organism organizes incoming sensory information through exteroceptive perception. Environmental features become structured into a coherent situational representation shaped by predictive expectations. Perception therefore delivers organized sensory input rather than evaluative meaning.<sup><a href="../references/notes/chapter-09.md#note-74">74</a></sup>
+** Simultaneously, the organism organizes incoming sensory information through exteroceptive perception. Environmental features become structured into a coherent situational representation shaped by predictive expectations. Perception therefore delivers organized sensory input rather than evaluative meaning.<sup><a href="../references/notes/chapter-09.md#note-70">70</a></sup>
 
 **(5) Interoceptive Signaling (Bodily State Registration).  
 ** At the same time the body generates interoceptive signals reflecting physiological changes within the organism. These signals communicate information about bodily condition such as heart rate, muscle tension, and metabolic readiness. Interoception supplies causal input to the system but does not yet constitute emotion.
 
 **(6) Allostatic Activation (Non-Conscious Bodily Readiness).  
-** The organism adjusts bodily resources through allostatic regulation in anticipation of potential demand. Energy allocation, arousal levels, and attentional readiness shift automatically as the system prepares for action. These changes influence the interpretive field by making certain responses more viable than others, yet they do not, in themselves, provide evaluative meaning.<sup><a href="../references/notes/chapter-09.md#note-75">75</a></sup>
+** The organism adjusts bodily resources through allostatic regulation in anticipation of potential demand. Energy allocation, arousal levels, and attentional readiness shift automatically as the system prepares for action. These changes influence the interpretive field by making certain responses more viable than others, yet they do not, in themselves, provide evaluative meaning.<sup><a href="../references/notes/chapter-09.md#note-71">71</a></sup>
 
 **(7) Feeling (Metaperceived Awareness of Bodily State).  
-** Interoceptive activity becomes consciously accessible through metaperception. Feeling arises as the conscious awareness of bodily condition within context, making the affective state available to the agent as potential sign-material for interpretation. Although this experience is real and experientially salient, no emotion yet exists at this stage. Feeling constitutes the experiential referent that later becomes available for interpretation.<sup><a href="../references/notes/chapter-09.md#note-76">76</a></sup>
+** Interoceptive activity becomes consciously accessible through metaperception. Feeling arises as the conscious awareness of bodily condition within context, making the affective state available to the agent as potential sign-material for interpretation. Although this experience is real and experientially salient, no emotion yet exists at this stage. Feeling constitutes the experiential referent that later becomes available for interpretation.<sup><a href="../references/notes/chapter-09.md#note-72">72</a></sup>
 
-At this point the diagram introduces two consecutive stages labeled Emotion (8) and Interpretive Evaluation (9), but stages 8 and 9 represent a single interpretive act analytically decomposed for conceptual clarity, not a temporal sequence. Stage 8 identifies the act as a whole; Stage 9 isolates its evaluative structure. The diagram's sequential notation is a representational convenience, not an ontological claim about temporal order. Stage 8 represents the unified interpretive act through which an agent constitutes emotional meaning by assigning significance to a felt state under goal-relative constraints. Stage 9 provides an internal analytical decomposition of that same act. It isolates the evaluative judgment that determines how the felt state should be understood relative to the agent’s goals and contextual conditions. The diagram therefore separates the act and its evaluative structure for purposes of conceptual clarity. In the actual operation of the architecture, these components occur as a single interpretive commitment rather than as sequential processes.
+Stages 8 and 9 represent a single interpretive act decomposed for clarity, not a temporal sequence. Stage 8 names the act; Stage 9 isolates its evaluative structure.
 
 **(8) Emotion (Goal-Governed Interpretive Act).  
 ** Emotion arises when the agent performs a goal-governed interpretive act that assigns meaning to the felt state. At this point the agent binds the felt experience to an emotion concept under governing goals and contextual constraints. The cognitive system provides the enabling architecture that makes this act possible.
 
 **(9) Interpretive Evaluation (Agent-Governed Judgment).  
-** The interpretive act includes an evaluative judgment in which the agent determines how the felt state should be understood relative to contextual goals and conceptual constraints. Stage 9 isolates this evaluative dimension analytically, but it does not introduce a separate step in time. It specifies the internal structure of the interpretive act already represented in Stage 8. The cognitive system constrains the interpretive field, but the judgment itself belongs to the agent.
+** The interpretive act includes an evaluative judgment in which the agent determines how the felt state should be understood relative to goals and conceptual constraints. The judgment belongs to the agent.
 
 **(10) Interpretive Delay (Cognitive Intervention Point).  
-** The architecture permits interpretive delay. The agent may pause before finalizing interpretation, allowing reflective consideration of alternative conceptual bindings. This stage explains how agents can intervene in emotional interpretation rather than remaining locked into automatic responses.<sup><a href="../references/notes/chapter-09.md#note-77">77</a></sup>
+** The architecture permits interpretive delay. The agent may pause before finalizing interpretation, allowing reflective consideration of alternative conceptual bindings. This stage explains how agents can intervene in emotional interpretation rather than remaining locked into automatic responses.<sup><a href="../references/notes/chapter-09.md#note-73">73</a></sup>
 
 **(11) Psychological Reappraisal (Intentional Reinterpretation).  
 ** Through deliberate reflection the agent may reinterpret the situation by revising contextual assumptions, conceptual framing, or governing goals. Reappraisal does not eliminate the underlying feeling but alters the meaning assigned to it.
@@ -759,11 +704,11 @@ At this point the diagram introduces two consecutive stages labeled Emotion (8) 
 ** When reinterpretation occurs, the same bodily state may stabilize under a different emotional concept. In the diagram the initial interpretation of fear may be reconstructed as relief once new contextual information becomes available. Emotional meaning therefore proves revisable rather than fixed.
 
 **(13) Updated External Situation (Revised Exteroceptive Context).  
-**Finally, step 13 returns the process to the external situation, completing the loop. Changes in the external environment do not retroactively alter earlier interpretations; rather, they update the predictive and allostatic parameters that shape future interpretive possibilities. This is the learning and refinement mechanism of the architecture. Over time this feedback contributes to learning and refinement of the interpretive system.
+**Finally, step 13 returns the process to the external situation. Changes in the environment do not retroactively alter earlier interpretations; they update the predictive and allostatic parameters that shape future ones. This is the architecture’s learning mechanism.
 
 Taken together, the sequence demonstrates that emotions are neither reflexive bodily outputs nor automatic products of predictive categorization. Bodily signals and predictive simulations prepare the interpretive field, but emotional meaning arises only when the cognitive system stabilizes a semiotic sign that binds affect, concept, and goal. Emotion is therefore not detected but constructed through interpretive commitment within a goal-governed architecture of cognition.
 
-I did not merely claim in this chapter that emotions are constructed. I demonstrated what an emotion must be to qualify as meaning. I enforced that requirement through a disciplined, inspectable architecture. The Constructivist Semiotic Model of Emotions (CSME) does not describe emotional life through metaphor. It specifies the conditions that make emotional meaning possible, executable, and accountable.
+I did not merely claim that emotions are constructed. I specified what an emotion must be to qualify as meaning, in an inspectable architecture.
 
 I resolved the three structural failures that undermine most emotion theories.
 
@@ -777,14 +722,12 @@ I demonstrated that these distinctions survive formal pressure. The CSME applies
 
 The division of labor remains precise. Computation constrains and prepares. Interpretation constitutes meaning. Prediction biases salience. Allostasis shapes readiness. Simulation retrieves prior structures. None of these operations decides what a feeling signifies. They constrain the interpretive field, but only the agent determines the emotional meaning of the feeling through an act of interpretation. Meaning enters the architecture only when an agent interprets a semiotically available feeling relative to a governing goal.
 
-This model respecifies identity conditions, bridges experience and meaning, and locates governance in the agent. This model secures emotional meaning as accountable rather than automatic.
-
 The architecture now stands complete. An agent does not discover emotion. An agent constructs it under the law.
 
 I have fixed emotional meaning as a constructed achievement rather than a discovered state. Now I face an unavoidable task. If emotions are signs, I must explain what makes signs possible in the first place. Emotional Constructivism rests on a macro-semiotic architecture, yet that architecture presupposes a deeper layer it has not yet justified. Interpretation requires symbolic material before it can produce meaning.
 
-The next chapter moves downward as well as forward. I shift from the macro-semiotic sign to its micro-semiotic constituents. I ask how symbols make concepts possible, how concepts become available for interpretation, and why meaning collapses whenever this symbolic substrate is absent. The focus is no longer emotion alone. I target the general machinery of understanding that emotions depend on.
+The next chapter moves downward. I shift from the macro-semiotic sign to its micro-semiotic constituents: how symbols make concepts possible, and why meaning collapses when that substrate is absent.
 
-What follows is a formal account of how symbols enable concepts, how concepts participate in signs, and how signs yield intensional meaning.<sup><a href="../references/notes/chapter-09.md#note-78">78</a></sup> I show why perception can occur without symbols, but understanding cannot. I show why signals can exist without meaning, but signs cannot. Emotional meaning is only one instance of a more general semiotic achievement.
+What follows is a formal account of how symbols enable concepts, how concepts participate in signs, and how signs yield intensional meaning.<sup><a href="../references/notes/chapter-09.md#note-74">74</a></sup> I show why perception can occur without symbols, but understanding cannot. I show why signals can exist without meaning, but signs cannot. Emotional meaning is only one instance of a more general semiotic achievement.
 
 That is the task of [Chapter 10](../part-5/chapter-10.md), “All I Know Is What I Have Symbols For: The Linguistic Limits of Emotional Meaning.”

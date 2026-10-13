@@ -220,96 +220,80 @@
 
 <a id="note-55"></a>
 
-55. Lazarus, “Cognitive-Motivational-Relational Theory.”
+55. Panksepp, “Affective Consciousness.”
 
 <a id="note-56"></a>
 
-56. Barrett, “Theory of Constructed Emotion.”
+56. Lazarus, “Cognitive-Motivational-Relational Theory.”
 
 <a id="note-57"></a>
 
-57. Zahavi, “First-Person Thoughts.”
+57. Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-58"></a>
 
-58. Panksepp, “Affective Consciousness.”
+58. Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-59"></a>
 
-59. Barrett, “Theory of Constructed Emotion.”
+59. Lazarus, “Cognitive-Motivational-Relational Theory.”
 
 <a id="note-60"></a>
 
-60. Lazarus, “Cognitive-Motivational-Relational Theory.”
+60. Føllesdal, “Husserl’s Notion of Noema.”
 
 <a id="note-61"></a>
 
-61. Zahavi, “First-Person Thoughts.”
+61. Tim Crane, “Intentionality as the Mark of the Mental,” *Royal Institute of Philosophy Supplement* 43 (1998): 229–51, https://doi.org/10.1017/S1358246100004380; Goldie, “Emotions, Feelings and Intentionality.”
 
 <a id="note-62"></a>
 
-62. Barrett, “Theory of Constructed Emotion.”
+62. C. S. Peirce, “On a New List of Categories,” *Proceedings of the American Academy of Arts and Sciences* 7 (1868): 287–98, https://doi.org/10.2307/20179567.
 
 <a id="note-63"></a>
 
-63. Lazarus, “Cognitive-Motivational-Relational Theory.”
+63. Robert Brandom, “Inferentialism and Some of Its Challenges,” *Philosophy and Phenomenological Research* 74, no. 3 (2007): 651–76, https://doi.org/10.1111/j.1933-1592.2007.00044.x.
 
 <a id="note-64"></a>
 
-64. Føllesdal, “Husserl’s Notion of Noema.”
+64. Zahavi, “First-Person Thoughts.”
 
 <a id="note-65"></a>
 
-65. Tim Crane, “Intentionality as the Mark of the Mental,” *Royal Institute of Philosophy Supplement* 43 (1998): 229–51, https://doi.org/10.1017/S1358246100004380; Goldie, “Emotions, Feelings and Intentionality.”
+65. Panksepp, “Affective Consciousness.”
 
 <a id="note-66"></a>
 
-66. C. S. Peirce, “On a New List of Categories,” *Proceedings of the American Academy of Arts and Sciences* 7 (1868): 287–98, https://doi.org/10.2307/20179567.
+66. Dreyfus, “Intelligence without Representation.”
 
 <a id="note-67"></a>
 
-67. Robert Brandom, “Inferentialism and Some of Its Challenges,” *Philosophy and Phenomenological Research* 74, no. 3 (2007): 651–76, https://doi.org/10.1111/j.1933-1592.2007.00044.x.
+67. Føllesdal, “Husserl’s Notion of Noema.”
 
 <a id="note-68"></a>
 
-68. Zahavi, “First-Person Thoughts.”
+68. Barrett, “Theory of Constructed Emotion”; Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, https://doi.org/10.1017/S0140525X12000477.
 
 <a id="note-69"></a>
 
-69. Panksepp, “Affective Consciousness.”
+69. Friston, “Free-Energy Principle”; Clark, “Whatever Next?”; Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-70"></a>
 
-70. Dreyfus, “Intelligence without Representation.”
+70. Clark, “Whatever Next?”
 
 <a id="note-71"></a>
 
-71. Føllesdal, “Husserl’s Notion of Noema.”
+71. Peter Sterling, “Allostasis: A Model of Predictive Regulation,” *Physiology and Behavior* 106, no. 1 (2012): 5–15, https://doi.org/10.1016/j.physbeh.2011.06.004; A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, https://doi.org/10.1038/nrn894; Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-72"></a>
 
-72. Barrett, “Theory of Constructed Emotion”; Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, https://doi.org/10.1017/S0140525X12000477.
+72. Craig, “How Do You Feel?”; Damasio and Carvalho, “Nature of Feelings.”
 
 <a id="note-73"></a>
 
-73. Friston, “Free-Energy Principle”; Clark, “Whatever Next?”; Barrett, “Theory of Constructed Emotion.”
+73. James J. Gross, “The Emerging Field of Emotion Regulation: An Integrative Review,” *Review of General Psychology* 2, no. 3 (1998): 271–99, https://doi.org/10.1037/1089-2680.2.3.271.
 
 <a id="note-74"></a>
 
-74. Clark, “Whatever Next?”
-
-<a id="note-75"></a>
-
-75. Peter Sterling, “Allostasis: A Model of Predictive Regulation,” *Physiology and Behavior* 106, no. 1 (2012): 5–15, https://doi.org/10.1016/j.physbeh.2011.06.004; A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, https://doi.org/10.1038/nrn894; Barrett, “Theory of Constructed Emotion.”
-
-<a id="note-76"></a>
-
-76. Craig, “How Do You Feel?”; Damasio and Carvalho, “Nature of Feelings.”
-
-<a id="note-77"></a>
-
-77. James J. Gross, “The Emerging Field of Emotion Regulation: An Integrative Review,” *Review of General Psychology* 2, no. 3 (1998): 271–99, https://doi.org/10.1037/1089-2680.2.3.271.
-
-<a id="note-78"></a>
-
-78. Gottlob Frege, “Sense and Reference,” trans. Max Black, *Philosophical Review* 57, no. 3 (1948): 209–30, https://doi.org/10.2307/2181485.
+74. Gottlob Frege, “Sense and Reference,” trans. Max Black, *Philosophical Review* 57, no. 3 (1948): 209–30, https://doi.org/10.2307/2181485.
