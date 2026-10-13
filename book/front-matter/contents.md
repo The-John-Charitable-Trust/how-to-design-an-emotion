@@ -53,6 +53,6 @@
 - Appendix M — Formal CSS Walkthrough: The Color Red, The Sound of a Tree, and Gamelan
 - Appendix N — Mathematical Realism and Emotional Grammar: Formalizing the Rules of Interpretation
 
-- Glossary
+- [Glossary](../references/glossary.md)
 - Notes
 - Bibliography
