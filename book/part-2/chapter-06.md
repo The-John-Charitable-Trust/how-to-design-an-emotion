@@ -128,13 +128,11 @@ Learning refines how agents apply conceptual constraints. Agents adjust paramete
 
 Optimization likewise operates within a fixed constraint structure. Systems may update parameters, recalibrate thresholds, or refine execution strategies, but those adjustments presuppose a stable conceptual architecture. Engineers define loss functions to represent goal criteria formally. Minimizing those functions improves performance relative to specified goals without determining what the system is about. The identity of the task, the admissible mappings, and the representational role of the output must already be specified.,
 
-No computational process generates identity conditions. Learning, optimization, evaluation, and correction all presuppose the constraint structure within which they operate. When agents respond to prediction errors by revising parameters, thresholds, or execution strategies, conceptual identity remains intact while performance improves. Only when agents revise the identity conditions themselves do they revise the concept. That distinction separates improved execution from conceptual revision.,<sup><a href="../references/notes/chapter-06.md#note-9">9</a></sup>
+No computational process generates identity conditions. Learning, optimization, evaluation, and correction all presuppose the constraint structure within which they operate. When agents respond to prediction errors by revising parameters, thresholds, or execution strategies, conceptual identity remains intact while performance improves. Only when agents revise the identity conditions themselves do they revise the concept. That distinction separates improved execution from conceptual revision.<sup><a href="../references/notes/chapter-06.md#note-9">9</a></sup>
 
 This distinction also makes the Goal-Governed Model compatible with computational implementation without reducing conceptual identity to statistical convergence. Learning refines execution. Optimization improves performance relative to governing goals. Neither generates the identity conditions that make those processes intelligible.
 
-The architecture therefore rests on four structural invariants.
-
-[FLAG: The chapter opening states that "the model therefore rests on five computational invariants"; this section lists four structural invariants. Reconcile the count.]
+Those five computational invariants are realized in four structural layers.
 
 Identity. Conceptual identity resides at the constraint layer as an intensional structure that fixes admissibility conditions. Every downstream process presupposes those identity conditions rather than generating them.
 
@@ -146,7 +144,7 @@ Computational Processes. Evaluation, correction, learning, and optimization refi
 
 In this chapter, I have stated the Goal-Governed Model of Conceptual Identity. I have shown that conceptual identity depends on an upstream constraint structure rather than on downstream similarity, categorization, performance, or learning. I distinguished four architectural functions—conceptual identity, instantiation, categorization, and goal-directed evaluation—and separated them from the computational processes that execute them. By assigning each function its proper explanatory role, I resolved the apparent conflict between stability and variability within a single computational architecture.
 
-From these invariants follows a final restriction: no downstream success condition alone constitutes a concept. Statistical convergence, predictive accuracy, cultural uptake, and practical utility evaluate execution under constraint. Each presupposes the identity conditions it evaluates.
+From these invariants and layers follows a final restriction: no downstream success condition alone constitutes a concept. Statistical convergence, predictive accuracy, cultural uptake, and practical utility evaluate execution under constraint. Each presupposes the identity conditions it evaluates.
 
 The Goal-Governed Model therefore defines the minimal computational architecture required for stability across variation, intelligible error, corrigible application, and computational implementation. Identity conditions specify admissibility. Instantiation realizes those conditions. Categorization organizes admissible instances. Goal-directed evaluation regulates them. Learning and optimization refine execution without redefining conceptual identity.,
 

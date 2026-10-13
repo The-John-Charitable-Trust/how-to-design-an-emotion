@@ -1,6 +1,6 @@
 # Chapter 10 — Notes
 
-[Return to Chapter 10](../../part-4/chapter-10.md)
+[Return to Chapter 10](../../part-5/chapter-10.md)
 
 <a id="note-1"></a>
 **1.** Ludwig Wittgenstein, Tractatus Logico-Philosophicus, trans. C. K. Ogden (London: Routledge and Kegan Paul, 1922), 5.6.

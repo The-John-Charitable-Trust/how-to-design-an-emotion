@@ -3,6 +3,7 @@
 - Preface: Why I Had to Rethink Emotion
 - Acknowledgments
 - Introduction: The Problem of Emotional Meaning
+- Methodology of an Ontology: From Provisional Description to Constrained Identity
 
 ## Part I — The Problem of Feeling and Emotion
 
@@ -23,14 +24,14 @@
 
 ## Part IV — The Construction of Emotion
 
-9. Emotions Are Not Triggered They Are Made
+9. Emotions Are Not Triggered; They Are Made
+
+## Part V — The Constructivist Linguistics of Emotion
+
 10. All I Know Is What I Have Symbols For
 11. Do Animals and Infants Have Emotions?
 12. Our Feelings Are Real, But Are Our Emotions?
 13. The Sound of Feelings
-
-## Part V — The Constructivist Linguistics of Emotion
-
 14. So, What Is an Emotion?
 
 
@@ -48,7 +49,7 @@
 - Appendix J — Constructivist Computational Model of Emotions: A Hypothetical Architecture
 - Appendix K — The Constructivist Interpretation Theory of Emotion: Why Interpretation, Not Appraisal, Constructs Emotional Meaning
 - Appendix L — Emotional Constructivism: A Formal Architecture of Emotion as Interpretive Sign
-- Appendix M — Formal CSS Walkthrough: The Color Red, The Sound of a Tree and Gamelan
+- Appendix M — Formal CSS Walkthrough: The Color Red, The Sound of a Tree, and Gamelan
 - Appendix N — Mathematical Realism and Emotional Grammar: Formalizing the Rules of Interpretation
 
 - Glossary

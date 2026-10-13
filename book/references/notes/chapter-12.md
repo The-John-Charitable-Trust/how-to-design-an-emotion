@@ -1,6 +1,6 @@
 # Chapter 12 — Notes
 
-[Return to Chapter 12](../../part-4/chapter-12.md)
+[Return to Chapter 12](../../part-5/chapter-12.md)
 
 <a id="note-1"></a>
 **1.** Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 16–20; Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 17–31.
