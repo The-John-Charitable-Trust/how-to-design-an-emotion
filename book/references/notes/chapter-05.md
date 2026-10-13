@@ -68,7 +68,7 @@
 
 <a id="note-17"></a>
 
-17. On *Aufhebung* as at once cancelling, preserving, and raising, see Gordon Rixon, “Locating Hegel’s *Aufhebung* and Tracing Lonergan’s ‘Sublation,’” *Heythrop Journal* 57, no. 3 (2016): 492–510, https://doi.org/10.1111/heyj.12323.
+17. On *Aufhebung* as a concept “denied at one level but preserved at another,” see Andrew Norris, “Hegel and Cavell on Meaning and Sublation,” *Conversations: The Journal of Cavellian Studies*, no. 9 (2022): 73, https://doi.org/10.18192/cjcs.vi9.6247. The phrase is Stanley Cavell’s, quoted by Norris.
 
 <a id="note-18"></a>
 

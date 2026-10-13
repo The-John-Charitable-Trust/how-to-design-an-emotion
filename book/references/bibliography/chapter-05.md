@@ -38,6 +38,8 @@ Medin, Douglas L., and Marguerite M. Schaffer. “Context Theory of Classificati
 
 Murphy, Gregory L., and Douglas L. Medin. “The Role of Theories in Conceptual Coherence.” *Psychological Review* 92, no. 3 (1985): 289–316. https://doi.org/10.1037/0033-295X.92.3.289.
 
+Norris, Andrew. “Hegel and Cavell on Meaning and Sublation.” *Conversations: The Journal of Cavellian Studies*, no. 9 (2022): 72–84. https://doi.org/10.18192/cjcs.vi9.6247.
+
 Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
 
 Osherson, Daniel N., and Edward E. Smith. “On the Adequacy of Prototype Theory as a Theory of Concepts.” *Cognition* 9, no. 1 (1981): 35–58. https://doi.org/10.1016/0010-0277(81)90013-5.
@@ -47,8 +49,6 @@ Paszke, Adam, Sam Gross, Francisco Massa, Adam Lerer, James Bradbury, Gregory Ch
 Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63. https://doi.org/10.1037/h0025953.
 
 Rey, Georges. “Concepts and Stereotypes.” *Cognition* 15, nos. 1–3 (1983): 237–62. https://doi.org/10.1016/0010-0277(83)90044-6.
-
-Rixon, Gordon. “Locating Hegel’s *Aufhebung* and Tracing Lonergan’s ‘Sublation.’” *Heythrop Journal* 57, no. 3 (2016): 492–510. https://doi.org/10.1111/heyj.12323.
 
 Smith, Edward E., Edward J. Shoben, and Lance J. Rips. “Structure and Process in Semantic Memory: A Featural Model for Semantic Decisions.” *Psychological Review* 81, no. 3 (1974): 214–41. https://doi.org/10.1037/h0036351.
 
