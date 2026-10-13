@@ -1,75 +1,27 @@
 # Chapter 10 — Bibliography
 
-[Return to Chapter 10](../../part-5/chapter-10.md)
+[Return to Chapter 10](../../part-5/chapter-10.md) · [Notes](../notes/chapter-10.md)
 
-Austin, J. L. How to Do Things with Words. 2nd ed. Cambridge, MA: Harvard University Press, 1975.
+Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
 
-Barrett, Lisa Feldman. How Emotions Are Made: The Secret Life of the Brain. Boston: Houghton Mifflin Harcourt, 2017.
+Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
-Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Emotion.” Psychological Inquiry 28, no. 1 (2017): 1–26.
+Fodor, Jerry A., and Zenon W. Pylyshyn. “Connectionism and Cognitive Architecture: A Critical Analysis.” *Cognition* 28, no. 1–2 (1988): 3–71. https://doi.org/10.1016/0010-0277(88)90031-5.
 
-Brandom, Robert. Making It Explicit: Reasoning, Representing, and Discursive Commitment. Cambridge, MA: Harvard University Press, 1994.
+Izard, Carroll E., Christina A. Fantauzzo, Janine M. Castle, O. Maurice Haynes, Maria F. Rayias, and Priscilla H. Putnam. “The Ontogeny and Significance of Infants’ Facial Expressions in the First 9 Months of Life.” *Developmental Psychology* 31, no. 6 (1995): 997–1013. https://doi.org/10.1037/0012-1649.31.6.997.
 
-Chomsky, Noam. Aspects of the Theory of Syntax. Cambridge, MA: MIT Press, 1965.
+Jackendoff, Ray. “Précis of *Foundations of Language: Brain, Meaning, Grammar, Evolution*.” *Behavioral and Brain Sciences* 26, no. 6 (2003): 651–65. https://doi.org/10.1017/S0140525X03000153.
 
-Dennett, Daniel C. The Intentional Stance. Cambridge, MA: MIT Press, 1987.
+Moors, Agnes, Phoebe C. Ellsworth, Klaus R. Scherer, and Nico H. Frijda. “Appraisal Theories of Emotion: State of the Art and Future Development.” *Emotion Review* 5, no. 2 (2013): 119–24. https://doi.org/10.1177/1754073912468165.
 
-Dretske, Fred. Explaining Behavior: Reasons in a World of Causes. Cambridge, MA: MIT Press, 1988.
+Nagel, Thomas. “What Is It Like to Be a Bat?.” *Philosophical Review* 83, no. 4 (1974): 435–50. https://doi.org/10.2307/2183914.
 
-Dretske, Fred. Knowledge and the Flow of Information. Cambridge, MA: MIT Press, 1981.
+Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals and Humans.” *Consciousness and Cognition* 14, no. 1 (2005): 30–80. https://doi.org/10.1016/j.concog.2004.10.004.
 
-Fodor, Jerry A. The Language of Thought. New York: Thomas Y. Crowell, 1975.
+Peirce, C. S. “On a New List of Categories.” *Proceedings of the American Academy of Arts and Sciences* 7 (1868): 287–98. https://doi.org/10.2307/20179567.
 
-Frege, Gottlob. “On Sense and Reference.” In Translations from the Philosophical Writings of Gottlob Frege, edited by Peter Geach and Max Black, 56–78. Oxford: Blackwell, 1952.
+Rand, Ayn. *Introduction to Objectivist Epistemology*. 2nd ed. New York: Meridian, 1990.
 
-Hofstadter, Douglas R. Gödel, Escher, Bach: An Eternal Golden Braid. New York: Basic Books, 1979.
+Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally and Albert Sechehaye. Translated by Wade Baskin. New York: Philosophical Library, 1959.
 
-Jackendoff, Ray. Foundations of Language: Brain, Meaning, Grammar, Evolution. Oxford: Oxford University Press, 2002.
-
-Jackendoff, Ray. Semantics and Cognition. Cambridge, MA: MIT Press, 1983.
-
-Kriegel, Uriah. The Sources of Intentionality. Oxford: Oxford University Press, 2011.
-
-Kripke, Saul A. Naming and Necessity. Cambridge, MA: Harvard University Press, 1980.
-
-LeDoux, Joseph. The Emotional Brain. New York: Simon & Schuster, 1996.
-
-Lewis, Michael. The Rise of Consciousness and the Development of Emotional Life. New York: Guilford Press, 1993.
-
-Millikan, Ruth. Language, Thought, and Other Biological Categories. Cambridge, MA: MIT Press, 1984.
-
-Nagel, Thomas. “What Is It Like to Be a Bat?” Philosophical Review 83, no. 4 (1974): 435–50.
-
-Panksepp, Jaak. Affective Neuroscience: The Foundations of Human and Animal Emotions. New York: Oxford University Press, 1998.
-
-Peirce, Charles Sanders. “Logic as Semiotic: The Theory of Signs.” In Philosophical Writings of Peirce, edited by Justus Buchler, 98–119. New York: Dover, 1955.
-
-Perner, Josef. Understanding the Representational Mind. Cambridge, MA: MIT Press, 1991.
-
-Rand, Ayn. Introduction to Objectivist Epistemology. 2nd ed. New York: Meridian, 1990.
-
-Rosch, Eleanor. “Principles of Categorization.” In Cognition and Categorization, edited by Eleanor Rosch and Barbara B. Lloyd, 27–48. Hillsdale, NJ: Lawrence Erlbaum, 1978.
-
-Saussure, Ferdinand de. Course in General Linguistics. Translated by Wade Baskin. New York: McGraw-Hill, 1966.
-
-Scherer, Klaus R. “Appraisal Theory.” In Handbook of Cognition and Emotion, edited by Tim Dalgleish and Mick Power, 637–63. Chichester: Wiley, 1999.
-
-Searle, John R. Intentionality: An Essay in the Philosophy of Mind. Cambridge: Cambridge University Press, 1983.
-
-Sellars, Wilfrid. “Empiricism and the Philosophy of Mind.” In Science, Perception and Reality, 127–96. London: Routledge and Kegan Paul, 1963.
-
-Sperber, Dan. Rethinking Symbolism. Cambridge: Cambridge University Press, 1975.
-
-Sperber, Dan, and Deirdre Wilson. Relevance: Communication and Cognition. 2nd ed. Oxford: Blackwell, 1995.
-
-Strawson, Peter F. Introduction to Logical Theory. London: Methuen, 1952.
-
-Tomasello, Michael. Origins of Human Communication. Cambridge, MA: MIT Press, 2008.
-
-Tomasello, Michael. Becoming Human: A Theory of Ontogeny. Cambridge, MA: Belknap Press of Harvard University Press, 2019.
-
-Wittgenstein, Ludwig. Philosophical Investigations. Translated by G. E. M. Anscombe. Oxford: Blackwell, 1953.
-
-Wittgenstein, Ludwig. Tractatus Logico-Philosophicus. Translated by C. K. Ogden. London: Routledge and Kegan Paul, 1922.
-
-Zahavi, Dan. Self-Awareness and Alterity. Evanston, IL: Northwestern University Press, 1999.
+Wittgenstein, Ludwig. *Tractatus Logico-Philosophicus*. Translated by C. K. Ogden. London: Routledge and Kegan Paul, 1922.
