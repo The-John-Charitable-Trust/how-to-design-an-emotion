@@ -40,6 +40,8 @@ Juslin, Patrik N., and Daniel Västfjäll. “Emotional Responses to Music: The 
 
 Kant, Immanuel. *Critique of Pure Reason*. Translated by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press, 1998.
 
+Kleinginna, Paul R., Jr., and Anne M. Kleinginna. “A Categorized List of Emotion Definitions, with Suggestions for a Consensual Definition.” *Motivation and Emotion* 5, no. 4 (1981): 345–79. https://doi.org/10.1007/BF00992553.
+
 Korsgaard, Christine M. *The Sources of Normativity*. Cambridge: Cambridge University Press, 1996.
 
 LeDoux, Joseph E., and Richard Brown. “A Higher-Order Theory of Emotional Consciousness.” *Proceedings of the National Academy of Sciences* 114, no. 10 (2017): E2016–25. https://doi.org/10.1073/pnas.1619316114.
