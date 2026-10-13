@@ -92,7 +92,7 @@
 
 <a id="note-23"></a>
 
-23. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements,” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68, https://doi.org/10.1177/1529100619832930.
+23. Barrett et al., “Emotional Expressions Reconsidered.”
 
 <a id="note-24"></a>
 
