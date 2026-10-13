@@ -4,11 +4,11 @@
 
 *Why I Had to Rethink Emotion*
 
-Emotion stands among the most familiar facts of human life.<sup><a href="../references/notes/preface.md#note-1">1</a></sup> We feel before we explain; we name before we define; we build moral theories and public institutions around our affective states. Yet the moment we ask what an emotion is, certainty fractures.<sup><a href="../references/notes/preface.md#note-2">2</a></sup>
+Emotion stands among the most familiar facts of human life.<sup><a href="../references/notes/preface.md#note-1">1</a></sup> We feel long before we can say what feeling is; we build moral theories and public institutions around our affective states. Yet the moment we ask what an emotion is, certainty fractures.<sup><a href="../references/notes/preface.md#note-2">2</a></sup>
 
 This paradox forms my starting point. I do not doubt that human beings feel, nor do I doubt that states like anger, fear, and joy shape human action. The difficulty lies elsewhere. I do not merely seek to observe that people feel; I must establish what kind of thing an emotion is, and what distinguishes it from bodily arousal, instinctive reaction, or cognitive appraisal.<sup><a href="../references/notes/preface.md#note-3">3</a></sup>
 
-We far too often mistake familiarity for understanding. We speak as though emotion were self-evident simply because experience feels immediate. Yet immediacy does not equal understanding. We can experience a feeling vividly while failing to identify its nature; we can undergo a reaction intensely while failing to grasp its origin; we can use a word with confidence while failing to establish its identity.<sup><a href="../references/notes/preface.md#note-4">4</a></sup>
+Too often, familiarity passes for understanding. We speak as though emotion were self-evident simply because experience feels immediate. Yet immediacy does not equal understanding. We can experience a feeling vividly while failing to identify its nature; we can undergo a reaction intensely while failing to grasp its origin; we can use a word with confidence while failing to establish its identity.<sup><a href="../references/notes/preface.md#note-4">4</a></sup>
 
 This book begins where that naive confidence ends. I ask why a central reality of human life remains so profoundly misunderstood. I ask what theorists lose when they mistake the mere presence of feeling for the definition of emotion.
 
@@ -38,4 +38,4 @@ Throughout this process, I ask the reader to suspend premature judgment. As I ex
 
 Ultimately, this book concerns far more than emotion; it concerns intellectual responsibility. Human beings live by ideas long before they understand them. We build institutions upon them, govern societies through them, and encode them into the intelligent systems that direct human decisions. Before we trust any idea, we must understand what it is, how it acquires meaning, and under what conditions its application remains valid. That responsibility applies not to emotion alone, but to every concept by which we choose to live.
 
-I therefore invite the reader to fulfill what philosophy demands at its best: define the ideas that govern human life, test them rigorously, and embody only those that withstand examination.
+I therefore invite the reader to fulfill what philosophy demands at its best: examine the ideas we live by, test them rigorously, and keep only those that withstand the test.
