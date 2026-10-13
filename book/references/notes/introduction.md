@@ -56,7 +56,7 @@
 
 <a id="note-14"></a>
 
-14. Jaak Panksepp, “Affective Consciousness: Core Emotional Feelings in Animals and Humans,” *Consciousness and Cognition* 14, no. 1 (2005): 30–80, https://doi.org/10.1016/j.concog.2004.10.004.
+14. For the view that animals have core emotional feelings, see Jaak Panksepp, “Affective Consciousness: Core Emotional Feelings in Animals and Humans,” *Consciousness and Cognition* 14, no. 1 (2005): 30–80, https://doi.org/10.1016/j.concog.2004.10.004; for the view that conscious emotion requires higher-order representation, see Joseph E. LeDoux and Richard Brown, “A Higher-Order Theory of Emotional Consciousness,” *Proceedings of the National Academy of Sciences* 114, no. 10 (2017): E2016–25, https://doi.org/10.1073/pnas.1619316114.
 
 <a id="note-15"></a>
 

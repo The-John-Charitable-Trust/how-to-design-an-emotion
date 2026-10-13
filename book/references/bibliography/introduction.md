@@ -36,6 +36,8 @@ Kant, Immanuel. *Critique of Pure Reason*. Translated by Paul Guyer and Allen W.
 
 Korsgaard, Christine M. *The Sources of Normativity*. Cambridge: Cambridge University Press, 1996.
 
+LeDoux, Joseph E., and Richard Brown. “A Higher-Order Theory of Emotional Consciousness.” *Proceedings of the National Academy of Sciences* 114, no. 10 (2017): E2016–25. https://doi.org/10.1073/pnas.1619316114.
+
 Locke, John. *Two Treatises of Government*. Edited by Peter Laslett. Cambridge: Cambridge University Press, 1988.
 
 Marr, David. *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*. San Francisco: W. H. Freeman, 1982.
