@@ -24,7 +24,7 @@
 
 <a id="note-6"></a>
 
-6. Ps. 118:22 (New Revised Standard Version Updated Edition), https://www.biblegateway.com/passage/?search=Psalm%20118%3A22&version=NRSVUE.
+6. Ps. 118:22 (New Revised Standard Version Updated Edition).
 
 <a id="note-7"></a>
 

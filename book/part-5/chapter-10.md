@@ -117,7 +117,7 @@ The second constituent is the Construct. The construct is the instantiated confi
 
 The third constituent is the Concept. The concept provides the constraint structure that governs admissibility. It specifies what counts as a legitimate instantiation. Concepts are not fixed essences but rule-governed constraint structures that regulate the formation of constructs.<sup><a href="../references/notes/chapter-10.md#note-7">7</a></sup>
 
-The fourth constituent is the Referent. The referent is what the construct is about. It may be external, internal, abstract, imagined, or absent. Importantly, referential presence is not required for proto-meaning. A construct may be internally organized without successfully referring to an external state.
+The fourth constituent is the Referent. As Chapter 7 defines it, the referent is the object, domain, or situation the construct is about. It may be external, internal, abstract, imagined, or absent. Importantly, referential presence is not required for proto-meaning. A construct may be internally organized without successfully referring to an external state.
 
 The fifth constituent is the Interpreter. The interpreter is the agent-relative system for whom the configuration matters. Without an interpreter, there is no stake, and therefore no meaning in the full semiotic sense.
 
@@ -197,7 +197,7 @@ I am not the first to say “emotionese.” Developmental researchers use it for
 
 My claim about animals also needs placing. Panksepp argued that core emotional systems are shared across mammals.<sup><a href="../references/notes/chapter-10.md#note-22">22</a></sup> De Waal argues that animal emotions are real and continuous with ours.<sup><a href="../references/notes/chapter-10.md#note-23">23</a></sup> I do not deny either claim about affect and feeling. My threshold sits higher. LeDoux has argued that “emotion” should be reserved for conscious feelings, and that circuits for survival should be named as such.<sup><a href="../references/notes/chapter-10.md#note-24">24</a></sup> Anderson and Adolphs propose to study emotion states across species by their functional properties.<sup><a href="../references/notes/chapter-10.md#note-25">25</a></sup> Both draw lines. Mine is different. I place the line not at consciousness and not at function, but at symbolic stabilization: a felt state held under a reusable identifier that the agent can endorse or revise.
 
-So the disagreement is partly about words. Where Panksepp says “emotion,” I say “affect” or “feeling.” The substantive claim is narrower: on current evidence, animals do not organize feeling under detachable symbols. That claim can be tested, and it could fail.
+So the disagreement is partly about words. Where Panksepp says “emotion,” I say “affect” or “feeling.” The substantive claim is narrower: on current evidence, animals do not organize feeling under detachable symbols. That claim can be tested, and it could fail; [Chapter 11](chapter-11.md) states how.
 
 With the structure of Emotionese now clear, I can specify the decisive threshold condition that separates signaling from semiotic emotional meaning.
 

@@ -20,9 +20,9 @@ Throughout this chapter, 'physiology' refers to both bodily and neural processes
 
 This chapter takes up that distinction directly. I argue that our feelings are real in the phenomenological sense, while our emotions arise only when an agent interprets a felt state under symbolic and contextual constraints. The problem is not whether we feel. The problem is that we systematically mistake physiology and feeling for emotion itself.
 
-We experience emotions as if they are real features of the world, yet we lack a clear account of how they are real. This produces a set of persistent confusions. We assume that we can observe, detect, or measure emotions through scientific instruments or through physiological expressions, signals, and behaviors.
+Agents experience emotions as if they are real features of the world, yet they lack a clear account of how they are real. This produces a set of persistent confusions. Agents assume that they can observe, detect, or measure emotions through scientific instruments or through physiological expressions, signals, and behaviors.
 
-We systematically misattribute affect and feeling in our attempts to derive emotional meaning. We treat emotional categories as if they possess objective essence, identity, and intrinsic meaning, rather than recognizing that agents interpret and construct them. These errors propagate across domains. They lead to interpersonal misunderstanding, clinical misdiagnosis, and the false assumption that artificial systems can detect emotion. We produce a stable illusion: that we detect emotion rather than construct it.
+Agents systematically misattribute affect and feeling in their attempts to derive emotional meaning. They treat emotional categories as if they possess objective essence, identity, and intrinsic meaning, rather than recognizing that agents interpret and construct them. These errors propagate across domains. They lead to interpersonal misunderstanding, clinical misdiagnosis, and the false assumption that artificial systems can detect emotion. They produce a stable illusion: that they detect emotion rather than construct it.
 
 In this chapter, I address a persistent confusion: agents often conflate different kinds of reality and collapse them into objectivity. Physiological affect is real as bodily process. Felt experience is real as conscious awareness. Emotion is real differently. At the first-person level, an agent produces emotion as a subjective prototype by organizing a felt state under a detachable symbolic identifier and authorizing that construct under symbolic and contextual constraints. At the social level, agents stabilize emotion as a non-pejorative stereotype through communication, correction, and consensus. Emotion therefore does not reside in the body, expression, or neural activity as an objective property waiting for detection. What appears as recognition is inference: agents do not find emotion as an object; they construct emotional meaning from real affective and experiential conditions.
 
@@ -86,11 +86,11 @@ This point must remain clear. Organisms undergo measurable changes in arousal, a
 
 The error arises when observers move from observation to attribution. Consider a researcher who records a heart rate of 120 beats per minute, a rise in skin conductance, and stronger neural activation during a task. The data is empirically verifiable. But when the researcher concludes that the participant feels fear, the observer does not detect emotion. The observer infers it.
 
-The misattribution begins when agents treat inference as detection. We collapse physiology, feeling, and interpretation into a single, undifferentiated layer. We mistake the signal for the meaning.
+The misattribution begins when agents treat inference as detection. Agents collapse physiology, feeling, and interpretation into a single, undifferentiated layer. They mistake the signal for the meaning.
 
 What feels most real in experience is feeling itself, but feeling does not begin the process. Prediction and physiological regulation prepare the state that later appears in awareness. At the same time, observers can most readily access behavior and physiology, but those signals do not contain the meaning the agent constructs. These layers operate together but they do not coincide. When I collapse them, I mistake cause for experience, experience for meaning, and observation for access.
 
-This mismatch produces systematic misattribution. We treat feelings as if they report facts about the world. We treat bodily expressions as if they reveal emotion. We treat neuroanatomical and physiological signals as if they contain emotional meaning. In each case, the observer collapses one kind of reality into another.
+This mismatch produces systematic misattribution. Agents treat feelings as if they report facts about the world. They treat bodily expressions as if they reveal emotion. They treat neuroanatomical and physiological signals as if they contain emotional meaning. In each case, the observer collapses one kind of reality into another.
 
 Now that I have shown misattribution across levels of reality, I will formally test whether emotion can reside in any of these levels.
 
@@ -239,6 +239,8 @@ No single set of identity conditions governs all admissible instances. Each conf
 This establishes the result. No universal and objective essence determines the sign.
 
 There are no universal objective essences. If emotional categories possessed universal objective essences, then a single invariant set of identity conditions would define what counts as fear, anger, or joy across all admissible instances. It does not. Different configurations of affect, context, and interpretation satisfy the category under different constraints, and those different constraints yield different corresponding instances.
+
+I use “objective” in three senses, and this paragraph denies only one. Correctness against an instituted standard is objective: an application is right or wrong whatever anyone believes, as I argued in [Chapter 6](../part-2/chapter-06.md). Third-person access to emotion is not available: observers infer it. A mind-independent essence shared by every instance is what I deny here. The “objective standards” of the Introduction are of the first kind.
 
 Emotional categories therefore do not possess universal objective essences. Agents construct them under variable identity conditions, not under a single invariant essence.
 
@@ -416,7 +418,7 @@ I can now proceed to further argue the distinction between entities that possess
 
 | Entity | Primary Process | Structural Capacity |
 | --- | --- | --- |
-| Infants (before symbolic stabilization) | Reactivity & Association | Affective arousal + sensory integration; symbolic capacity acquired developmentally |
+| Infants (before symbolic stabilization) | Reactivity, association & representational feeling | Affective arousal + sensory integration; symbolic capacity acquired developmentally |
 | Nonhuman Animals | Reactivity & Association | Affective arousal + sensory integration; authorization and consensus not established species-typically |
 | Interpretive Agents | Authorization & Consensus | Symbolic detachability + rule-governed identity |
 
@@ -451,8 +453,6 @@ The framework now applies across domains.
 Once agents construct emotion as a system of meaning, its functional role changes. If emotions are constructions rather than sources of truth, what role should they play in guiding action? Having established what emotion is, I now turn to its normative role: how relevant are our emotions? The question matters because agents often treat emotion as if it delivered objective moral authority. Yet we often know what would serve us well and still fail to feel inclined toward it; we may also feel strongly toward what does not serve us well. The problem is not a lack of knowledge. It is a lack of alignment between evaluation and motivation. When agents treat emotional force as normative truth, they mistake an interpretive state for a moral judgment.
 
 This tension reveals the next problem: what is the proper place of emotion in a life where knowledge and motivation often come apart?
-
-Once agents construct emotion as a system of meaning, its functional role changes. If emotions are constructions rather than sources of truth, what role should they play in guiding action? Having established what emotion is, I now turn to its normative role: how relevant are our emotions? The question matters because agents often treat emotion as if it delivered objective moral authority. Yet we often know what would serve us well and still fail to feel inclined toward it; we may also feel strongly toward what does not serve us well. The problem is not a lack of knowledge. It is a lack of alignment between evaluation and motivation. When agents treat emotional force as normative truth, they mistake an interpretive state for a moral judgment.
 
 The proper place of emotion is to interpret feeling so that it can influence moral action and reward the agent for acting well. Emotion should support moral judgment, not masquerade as moral truth.
 

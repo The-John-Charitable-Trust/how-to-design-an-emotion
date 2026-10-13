@@ -48,6 +48,8 @@ Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.”
 
 Rey, Georges. “Concepts and Stereotypes.” *Cognition* 15, nos. 1–3 (1983): 237–62. https://doi.org/10.1016/0010-0277(83)90044-6.
 
+Rixon, Gordon. “Locating Hegel’s *Aufhebung* and Tracing Lonergan’s ‘Sublation.’” *Heythrop Journal* 57, no. 3 (2016): 492–510. https://doi.org/10.1111/heyj.12323.
+
 Smith, Edward E., Edward J. Shoben, and Lance J. Rips. “Structure and Process in Semantic Memory: A Featural Model for Semantic Decisions.” *Psychological Review* 81, no. 3 (1974): 214–41. https://doi.org/10.1037/h0036351.
 
 Solomon, Robert. “Beyond Ontology: Ideation, Phenomenology and the Cross Cultural Study of Emotion.” *Journal for the Theory of Social Behaviour* 27, nos. 2–3 (1997): 289–303. https://doi.org/10.1111/1468-5914.00039.

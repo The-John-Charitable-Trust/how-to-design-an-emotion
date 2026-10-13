@@ -49,7 +49,7 @@
 - Appendix I — Detailed Scoring Rationales and Consolidated Weighted Scoring Matrix
 - Appendix J — Constructivist Computational Model of Emotions: A Hypothetical Architecture
 - Appendix K — The Constructivist Interpretation Theory of Emotion: Why Interpretation, Not Appraisal, Constructs Emotional Meaning
-- Appendix L — Emotional Constructivism: A Formal Architecture of Emotion as Interpretive Sign
+- Appendix L — Emotional Constructivism: The Intentional Redesign of Emotional Meaning
 - Appendix M — Formal CSS Walkthrough: The Color Red, The Sound of a Tree, and Gamelan
 - Appendix N — Mathematical Realism and Emotional Grammar: Formalizing the Rules of Interpretation
 

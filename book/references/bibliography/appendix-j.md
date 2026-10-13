@@ -2,6 +2,8 @@
 
 [Return to Appendix J](../../appendices/appendix-j.md) · [Notes](../notes/appendix-j.md)
 
+Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
+
 Clore, Gerald L., and Andrew Ortony. “Psychological Construction in the OCC Model of Emotion.” *Emotion Review* 5, no. 4 (2013): 335–43. https://doi.org/10.1177/1754073913489751.
 
 Damasio, Antonio, and Gil B. Carvalho. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52. https://doi.org/10.1038/nrn3403.
