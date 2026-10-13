@@ -40,7 +40,7 @@
 
 <a id="note-10"></a>
 
-10. Dan Witters, Diana Liu, and Sangeeta Agrawal, “Depression Costs U.S. Workplaces $23 Billion in Absenteeism,” Gallup, July 24, 2013, https://news.gallup.com/poll/163619/depression-costs-workplaces-billion-absenteeism.aspx.
+10. Dan Witters, “U.S. Depression Rates Reach New Highs,” Gallup, May 17, 2023, https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx; Dan Witters, Diana Liu, and Sangeeta Agrawal, “Depression Costs U.S. Workplaces $23 Billion in Absenteeism,” Gallup, July 24, 2013, https://news.gallup.com/poll/163619/depression-costs-workplaces-billion-absenteeism.aspx.
 
 <a id="note-11"></a>
 

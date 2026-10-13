@@ -40,6 +40,8 @@ Simon, Herbert A. *The Sciences of the Artificial*. 3rd ed. Cambridge, MA: MIT P
 
 Wakefield, Jerome C. “The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values.” *American Psychologist* 47, no. 3 (1992): 373–88. https://doi.org/10.1037/0003-066X.47.3.373.
 
+Witters, Dan. “U.S. Depression Rates Reach New Highs.” Gallup, May 17, 2023. https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx.
+
 Witters, Dan, Diana Liu, and Sangeeta Agrawal. “Depression Costs U.S. Workplaces $23 Billion in Absenteeism.” Gallup, July 24, 2013. https://news.gallup.com/poll/163619/depression-costs-workplaces-billion-absenteeism.aspx.
 
 Wittgenstein, Ludwig. *Philosophical Investigations*. 4th ed. Translated by G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte. Malden, MA: Wiley-Blackwell, 2009.
