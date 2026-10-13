@@ -94,6 +94,6 @@ Building on Barrett and colleagues’ review of facial-expression research,<sup>
 
 A rigorous theory of emotion must restore the rational agent to the center of the problem. It must explain how an agent constructs, evaluates, and revises emotional meaning; distinguish automatic affective signals from conceptually organized judgments; and clarify how an agent corrects interpretive errors. Without these mechanisms, affective science risks continuing to mistake raw signals for interpreted meaning.
 
-I do not confine this inquiry to academic discourse. I use my novel, *God Father*, as a narrative vehicle to dramatize philosophical, psychological, and ethical conflict in a form readers can inhabit. The novel does not replace my theoretical framework; it provides a human stage for its principles.
+I do not confine this inquiry to academic discourse. I use my novel, *God Father: Why Would I Get Married?* (Universal Moral Constructs, Book 1), as a narrative vehicle to dramatize philosophical, psychological, and ethical conflict in a form readers can inhabit. The novel does not replace my theoretical framework; it provides a human stage for its principles.
 
 Alongside the treatise and the novel, I bring this architecture into public discourse through multimedia content, interactive AI avatars, and public dialogues. I want readers to engage this architecture not as an abstraction, but as a living framework for understanding rights, morality, and emotion in daily life.

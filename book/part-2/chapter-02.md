@@ -23,7 +23,7 @@ Computation matters here because it forces explicitness. A class cannot pretend 
 
 By the end of this chapter, I have built a disciplined architecture for defining ideas as structured systems. But this victory creates the next problem. If identity conditions matter, what secures them after naïve essentialism collapses? Chapter 3 takes up that question. It asks whether identity must die with essence, or whether a more powerful alternative remains: identity conditions without naïve essentialism.
 
-Before I define an idea, I return to the problem Chapter 1 hands to this inquiry. I cannot define emotion until I know what kind of thing an idea is, how a definition fixes its identity, and how a concept survives variation without dissolving into rhetoric. I begin with Citizen Kain’s warning in God Father: Why Would I Get Married? by Cecil John:
+Before I define an idea, I return to the problem Chapter 1 hands to this inquiry. I cannot define emotion until I know what kind of thing an idea is, how a definition fixes its identity, and how a concept survives variation without dissolving into rhetoric. I begin with Citizen Kain’s warning in *God Father: Why Would I Get Married?* by Cecil John:
 
 “Rights. Morality. Emotions.
 

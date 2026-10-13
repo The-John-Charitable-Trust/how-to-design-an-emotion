@@ -60,6 +60,16 @@ I now examine Saussure's dyadic sign to determine whether it can support a cogni
 
 Table 8-1. Saussure's Framework Evaluated Against the Cognitive-Semiotic Principles of Constructivist Semiotics
 
+| Cognitive-Semiotic Principle | Saussure Result | Core Reason |
+| --- | --- | --- |
+| Principle 1. Meaning Is Not Intrinsic | Conforms | Saussure rejects intrinsic meaning and explains value through differences within langue. |
+| Principle 2. Meaning Is Not Arbitrary | Conforms | Saussure treats the sign relation as arbitrary in origin, but langue constrains meaning once the system exists. |
+| Principle 3. Interpretation Is Necessary | Does Not Conform | Saussure does not model interpretation as an explicit, goal-governed cognitive act. |
+| Principle 4. Meaning Is Normative | Does Not Conform | Saussure does not explain how meaning answers to standards of correctness under context and goal. |
+| Principle 5. Meaning Can Succeed or Fail | Does Not Conform | Saussure lacks criteria for interpretive success or failure in application. |
+| Principle 6. Meaning Requires Perspective | Does Not Conform | Saussure locates meaning in the collective linguistic system rather than in an agent's situated perspective. |
+| Principle 7. Goals Govern Meaning | Does Not Conform | Saussure does not define meaning relative to purpose, goal, or practical end. |
+
 Saussure conforms to the first cognitive-semiotic principle because he rejects intrinsic meaning. The sound pattern “tree” does not contain tree-ness. English gives the word its value through its difference from “free,” “three,” and “bush.” This example shows why Saussure’s model helps defeat the idea that symbols carry meaning inside themselves.
 
 Saussure also conforms to the second principle because he treats langue as a system that constrains meaning once speakers inherit it. Although the bond between signifier and signified begins arbitrarily, individual speakers cannot assign meanings at will. A speaker cannot simply decide that “dog” means “cat” within English. The system defines “dog” through its difference from “cat,” “wolf,” and “fox,” and that structure constrains meaning.<sup><a href="../references/notes/chapter-08.md#note-15">15</a></sup>
@@ -75,6 +85,16 @@ Saussure does not conform to the sixth principle because his model shifts meanin
 Saussure does not conform to the seventh principle because he does not define meaning relative to a goal. A speaker may use “tree” to classify a plant, teach a child, give directions, or interpret a diagram. Each use requires a different purpose. Saussure’s model explains stable linguistic value, but it does not explain how goals govern meaning in use.
 
 Table 8-2. Saussure's Framework Evaluated Against the Computational Principles of Constructivist Semiotics
+
+| Computational Principle | Saussure Result | Core Reason |
+| --- | --- | --- |
+| Principle 1. Ontological Separability | Does Not Conform | Saussure’s signified collapses conceptual identity and mental representation. |
+| Principle 2. Instantiation Integrity | Does Not Conform | Saussure does not distinguish definition from instance in executable terms. |
+| Principle 3. Symbolic Reference Integrity | Does Not Conform | Saussure does not model the identifier as a stable symbolic pointer. |
+| Principle 4. Context Anchoring | Does Not Conform | Saussure excludes situational context from the architecture of meaning. |
+| Principle 5. Interpretive Governance | Does Not Conform | Saussure provides no executable procedure for interpretation. |
+| Principle 6. Agent and Goal Preservation | Does Not Conform | Saussure removes agent-level goals from the architecture of meaning. |
+| Principle 7. Executability Without Collapse | Does Not Conform | Saussure’s categories merge under formal modeling. |
 
 I now audit Saussure’s dyadic sign against the computational principles of Constructivist Semiotics, using the UML class and object diagrams as the testing surface. The question is no longer whether Saussure describes meaning coherently, but whether his categories can survive formal modeling without collapsing the distinctions between concept, construct, symbol, context, and interpretation.
 
@@ -160,6 +180,16 @@ Unlike Saussure, Peirce did not aim to isolate a closed system of signs. He aime
 
 Table 8-3. Peirce's Framework Evaluated Against the Cognitive-Semiotic Principles of Constructivist Semiotics
 
+| Cognitive-Semiotic Principle | Peirce Result | Core Reason |
+| --- | --- | --- |
+| Principle 1. Meaning Is Not Intrinsic | Conforms | Peirce rejects meaning as intrinsic to the sign vehicle and grounds meaning in semiosis. |
+| Principle 2. Meaning Is Not Arbitrary | Conforms | Peirce treats interpretation as law-like, inferential, and constrained by habits of reasoning. |
+| Principle 3. Interpretation Is Necessary | Conforms | Peirce places interpretation at the center of semiosis through the interpretant. |
+| Principle 4. Meaning Is Normative | Does Not Conform | Peirce does not provide a determinate standard of correctness under a goal. |
+| Principle 5. Meaning Can Succeed or Fail | Does Not Conform | Peirce does not supply explicit success and failure conditions for context-bound interpretation. |
+| Principle 6. Meaning Requires Perspective | Does Not Conform | Peirce's interpretant is not the interpreter, so his model does not preserve the agent's situated perspective. |
+| Principle 7. Goals Govern Meaning | Does Not Conform | Peirce’s open-ended semiosis does not terminate interpretation through a governing purpose. |
+
 I now evaluate Peirce’s framework against the cognitive-semiotic principles of Constructivist Semiotics. This audit determines whether Peirce’s process-oriented model can preserve conceptual structure, contextual constraint, interpretive governance, and agent-level evaluation under formal execution, or whether its openness dissolves into architectural instability under constraint.
 
 Conformity in this evaluation depends on whether a framework models interpretation as an agentive, context-sensitive, and constrained achievement of meaning.
@@ -179,6 +209,16 @@ Peirce does not conform to the sixth principle because the interpretant is not t
 Peirce does not conform to the seventh principle because open-ended semiosis does not terminate interpretation through a governing purpose. A sign can generate another sign indefinitely. That openness helps explain inquiry, but action requires closure. If a driver sees a stop sign, interpretation must end in a practical judgment: stop now. Peirce explains the expansion of meaning, but he does not explain how a goal closes the chain.
 
 Table 8-4. Peirce's Framework Evaluated Against the Computational Principles of Constructivist Semiotics
+
+| Computational Principle | Peirce Result | Core Reason |
+| --- | --- | --- |
+| Principle 1. Ontological Separability | Partially Conforms | Peirce distinguishes representamen, object, and interpretant, but his object category blurs universals, percepts, and concrete existents. |
+| Principle 2. Instantiation Integrity | Does Not Conform | Peirce does not preserve the distinction between Concept and Construct in executable terms. |
+| Principle 3. Symbolic Reference Integrity | Does Not Conform | Peirce allows reference to become recursive rather than stable. |
+| Principle 4. Context Anchoring | Does Not Conform | Peirce does not anchor interpretation to a determinate contextual Referent. |
+| Principle 5. Interpretive Governance | Does Not Conform | Peirce does not provide a rule-constrained interpretive process that permits success or failure. |
+| Principle 6. Agent and Goal Preservation | Does Not Conform | Peirce treats the interpretant as a logical consequence rather than as an output evaluated by a goal-directed agent. |
+| Principle 7. Executability Without Collapse | Does Not Conform | Peirce’s model collapses into infinite recursion under formal execution. |
 
 I now apply the computational audit to Peirce’s triadic model. While Peirce introduces a third element, the interpretant, to bridge the gap between sign and object, I must determine if this triadic relation provides the structural stability required for formal execution.
 
