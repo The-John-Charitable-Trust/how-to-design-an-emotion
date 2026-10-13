@@ -80,7 +80,7 @@
 
 <a id="note-20"></a>
 
-20. Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
+20. On music and emotional meaning, see Leonard B. Meyer, *Emotion and Meaning in Music* (Chicago: University of Chicago Press, 1956); and Patrik N. Juslin and John A. Sloboda, eds., *Handbook of Music and Emotion: Theory, Research, Applications* (Oxford: Oxford University Press, 2010). On variation within emotion categories, see Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
 
 <a id="note-21"></a>
 

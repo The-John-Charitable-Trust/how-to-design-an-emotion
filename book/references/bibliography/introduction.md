@@ -32,6 +32,8 @@ Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Jud
 
 *The Holy Bible: New Revised Standard Version Updated Edition*. Psalm 118:22. https://www.biblegateway.com/passage/?search=Psalm%20118%3A22&version=NRSVUE.
 
+Juslin, Patrik N., and John A. Sloboda, eds. *Handbook of Music and Emotion: Theory, Research, Applications*. Oxford: Oxford University Press, 2010.
+
 Kant, Immanuel. *Critique of Pure Reason*. Translated by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press, 1998.
 
 Korsgaard, Christine M. *The Sources of Normativity*. Cambridge: Cambridge University Press, 1996.
@@ -41,6 +43,8 @@ LeDoux, Joseph E., and Richard Brown. “A Higher-Order Theory of Emotional Cons
 Locke, John. *Two Treatises of Government*. Edited by Peter Laslett. Cambridge: Cambridge University Press, 1988.
 
 Marr, David. *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*. San Francisco: W. H. Freeman, 1982.
+
+Meyer, Leonard B. *Emotion and Meaning in Music*. Chicago: University of Chicago Press, 1956.
 
 Murphy, Mark C. “The Natural Law Tradition in Ethics.” In *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/natural-law-ethics/.
 
