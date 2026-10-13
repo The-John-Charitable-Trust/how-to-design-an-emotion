@@ -6,8 +6,6 @@ Frijda, Nico H. *The Emotions*. Cambridge: Cambridge University Press, 1986.
 
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
 
-Lazarus, Richard S. *Emotion and Adaptation*. New York: Oxford University Press, 1991.
-
 Liszka, James. “Charles Sanders Peirce.” *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/peirce/.
 
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.

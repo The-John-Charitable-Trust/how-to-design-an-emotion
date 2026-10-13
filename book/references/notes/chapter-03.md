@@ -24,15 +24,15 @@
 
 <a id="note-6"></a>
 
-6. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.” [UNVERIFIED: page number]
+6. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), 89.
 
 <a id="note-7"></a>
 
-7. Barrett, *How Emotions Are Made*, chap. 5. [UNVERIFIED: page number]
+7. Barrett, *How Emotions Are Made*, 92.
 
 <a id="note-8"></a>
 
-8. Barrett, *How Emotions Are Made*, chap. 7, “Emotions as Social Reality.” [UNVERIFIED: exact pages for word anchoring and collective agreement]
+8. Barrett, *How Emotions Are Made*, 128–36, esp. 133–34.
 
 <a id="note-9"></a>
 
@@ -120,7 +120,7 @@
 
 <a id="note-30"></a>
 
-30. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+30. Barrett, *How Emotions Are Made*, 117.
 
 <a id="note-31"></a>
 
