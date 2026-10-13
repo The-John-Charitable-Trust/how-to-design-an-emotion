@@ -64,16 +64,32 @@
 
 <a id="note-16"></a>
 
-16. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF, on class diagrams.
+16. Ernst von Glasersfeld, “The Radical Constructivist View of Science,” *Foundations of Science* 6, nos. 1–3 (2001): 31–43, https://doi.org/10.1023/A:1011345023932.
 
 <a id="note-17"></a>
 
-17. Object Management Group, *Unified Modeling Language*, on object diagrams.
+17. Søren Brier, “From Second-Order Cybernetics to Cybersemiotics: A Semiotic Re-entry into the Second-Order Cybernetics of Heinz von Foerster,” *Systems Research* 13, no. 3 (1996): 229–44, https://doi.org/10.1002/(SICI)1099-1735(199609)13:3<229::AID-SRES96>3.0.CO;2-B.
 
 <a id="note-18"></a>
 
-18. Object Management Group, *Unified Modeling Language*, on activity diagrams.
+18. Jordan Zlatev, “Cognitive Semiotics: An Emerging Field for the Transdisciplinary Study of Meaning,” *Public Journal of Semiotics* 4, no. 1 (2012): 2–24, https://doi.org/10.37693/pjos.2012.4.8837.
 
 <a id="note-19"></a>
 
-19. The lane labels borrow Saussure’s terms, *signified* and *signifier*, but assign them to Concept and Construct. For Saussure the signifier is a sound-image, not an instance; see Saussure, *Course*, pt. 1, chap. 1. Chapter 8 explains the difference.
+19. Stephen P. Witte, “Context, Text, Intertext: Toward a Constructivist Semiotic of Writing,” *Written Communication* 9, no. 2 (1992): 237–308, https://doi.org/10.1177/0741088392009002003; see also Susan Parks and Mary H. Maguire, “Coping with On-the-Job Writing in ESL: A Constructivist-Semiotic Perspective,” *Language Learning* 49, no. 1 (1999): 143–75, https://doi.org/10.1111/1467-9922.00073.
+
+<a id="note-20"></a>
+
+20. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF, on class diagrams.
+
+<a id="note-21"></a>
+
+21. Object Management Group, *Unified Modeling Language*, on object diagrams.
+
+<a id="note-22"></a>
+
+22. Object Management Group, *Unified Modeling Language*, on activity diagrams.
+
+<a id="note-23"></a>
+
+23. The lane labels borrow Saussure’s terms, *signified* and *signifier*, but assign them to Concept and Construct. For Saussure the signifier is a sound-image, not an instance; see Saussure, *Course*, pt. 1, chap. 1. Chapter 8 explains the difference.

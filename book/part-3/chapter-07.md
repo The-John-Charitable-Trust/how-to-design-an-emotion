@@ -195,13 +195,27 @@ Principle 7. Goals Govern Meaning. Action requires a purpose. Interpretation occ
 
 These principles ensure that Constructivist Semiotics functions as a cognitive tool. They are not additions to the architecture; they are consequences of it.
 
+**How this differs.**
+
+The words “constructivist” and “semiotic” have met before. I owe the reader a clear account of what I share with earlier uses and what I do not.
+
+Radical constructivism, from von Glasersfeld onward, holds that knowledge is built by the knower and judged by fit, not by match with reality.<sup><a href="../references/notes/chapter-07.md#note-16">16</a></sup> I share the first half. Meaning is built. I reject the second half as a full account. On my view, meaning answers to standards of correctness, not only to viability.
+
+Biosemiotics and cybersemiotics, notably Brier’s, join Peirce to second-order cybernetics and extend sign processes to all living systems.<sup><a href="../references/notes/chapter-07.md#note-17">17</a></sup> I keep Peirce’s interpretant. But I reserve meaning for a goal-directed interpreter who can be wrong. Signal processing in a cell is not yet meaning in my sense.
+
+Cognitive semiotics, as Zlatev frames it, studies meaning across phenomenology, linguistics, and experiment.<sup><a href="../references/notes/chapter-07.md#note-18">18</a></sup> It is my nearest neighbor. I differ in method. I state the sign as five separable constituents and require that they survive formal execution.
+
+The phrase “constructivist semiotic” also appears in writing research, where it describes how writers build texts from context and intertext.<sup><a href="../references/notes/chapter-07.md#note-19">19</a></sup> That use is descriptive and pedagogical. Mine is architectural.
+
+So what is new is not the claim that meaning is constructed. Others made it first. What is new is the combination: five separable constituents, correctness conditions, a governing goal, and a computational test that the distinctions must pass.
+
 I now formalize the Constructivist Semiotic Sign using UML to test whether its architectural distinctions survive formal execution. I do not use UML to explain how the brain implements meaning. I use it to determine whether the theory preserves the distinct identity and function of each constituent under formal analysis. If formalization forces any constituent to merge with another, the theory never established a genuine architectural distinction.
 
 I use three complementary UML representations to conduct this analysis:
 
-•	UML Class Diagrams test whether the architecture preserves conceptual identity.<sup><a href="../references/notes/chapter-07.md#note-16">16</a></sup>
+•	UML Class Diagrams test whether the architecture preserves conceptual identity.<sup><a href="../references/notes/chapter-07.md#note-20">20</a></sup>
 
-•	UML Object Diagrams test whether the architecture preserves the distinction between concept and instance.<sup><a href="../references/notes/chapter-07.md#note-17">17</a></sup>
+•	UML Object Diagrams test whether the architecture preserves the distinction between concept and instance.<sup><a href="../references/notes/chapter-07.md#note-21">21</a></sup>
 
 •	UML Activity Diagrams test whether the Interpreter preserves accountable interpretation as a governed cognitive function under execution.
 
@@ -394,9 +408,9 @@ This output is the evidence of the system. It is the dependent achievement of a 
 
 *Figure 7-5. Integer Constructivist Semiotic Sign UML Activity Diagram*
 
-Figure 7-5 illustrates the architectural execution of the sign through a UML activity diagram. Having shown architecture (class) and instance (object), I now show process (activity) so the order of interpretive constraints becomes explicit. This diagram maps the transition from raw symbolic inputs to a concrete, goal-directed interpretation.<sup><a href="../references/notes/chapter-07.md#note-18">18</a></sup>
+Figure 7-5 illustrates the architectural execution of the sign through a UML activity diagram. Having shown architecture (class) and instance (object), I now show process (activity) so the order of interpretive constraints becomes explicit. This diagram maps the transition from raw symbolic inputs to a concrete, goal-directed interpretation.<sup><a href="../references/notes/chapter-07.md#note-22">22</a></sup>
 
-The diagram organizes the interpretive process into five distinct functional columns: Interpretation, Signified (Concept), Signifier (Construct), Identifier (Symbol), and Referent (Context).<sup><a href="../references/notes/chapter-07.md#note-19">19</a></sup>
+The diagram organizes the interpretive process into five distinct functional columns: Interpretation, Signified (Concept), Signifier (Construct), Identifier (Symbol), and Referent (Context).<sup><a href="../references/notes/chapter-07.md#note-23">23</a></sup>
 
 •	Perception of Inputs: The process begins in the Interpretation lane, where the system receives the raw constituents, including the identifier symbol “7,” the concept type “int,” and a specific goal phrase.
 

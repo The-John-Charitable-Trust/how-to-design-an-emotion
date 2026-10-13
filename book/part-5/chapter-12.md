@@ -14,7 +14,7 @@
 
 *By the end of the chapter, I can say more precisely why our feelings are real while our emotions require construction. Emotion should not masquerade as objective moral truth. Its proper role is to interpret feeling so that it can influence moral action and reward the agent for acting well. This prepares Chapter 13, where I move from misattribution to grammar: affective mechanisms become like instruments, feeling acquires timbre, and emotions appear as genres of interpreted experience.*
 
-Chapter 11 established a decisive threshold. Animals and infants, up to a certain stage of development, possess affect and feeling but are incapable of constructing emotional meaning. Emotional meaning arises only when a felt state is stabilized under symbolic constraint; at higher levels, it requires reflective endorsement and revision. Feeling therefore precedes emotion both developmentally and architecturally.
+Chapter 11 established a decisive threshold. Animals and infants, up to a certain stage of development, possess affect and feeling. Infants below that stage cannot yet construct emotional meaning, and in nonhuman animals that capacity is not established species-typically. Emotional meaning arises only when a felt state is stabilized under symbolic constraint; at higher levels, it requires reflective endorsement and revision. Feeling therefore precedes emotion both developmentally and architecturally.
 
 Throughout this chapter, 'physiology' refers to both bodily and neural processes that generate and regulate affective states. That definition forces a deeper question. If affect exists as a physiological and regulatory process, and feeling as its conscious metaperceptual awareness, then emotion cannot be identical with physiology or felt experience. Yet affect and feeling are undeniably real. Organisms undergo measurable shifts in arousal, tension, attraction, aversion, depletion, and activation. These states become available in experience as feeling. What these processes and experiences lack is not reality, but meaning.
 
@@ -28,7 +28,7 @@ In this chapter, I address a persistent confusion: agents often conflate differe
 
 I treat this not as a problem of definition, but as a problem of misattribution. We take what is real in experience, affect and feeling, and treat it as if it already carries emotional meaning. Existing accounts attempt to locate emotion in physiology, behavior, or subjective experience and then debate which layer defines it. They shift the locus, but they do not explain why this confusion arises or what it means for emotion to count as meaningful at all.
 
-n this chapter, I distinguish four kinds of reality that agents often collapse into objectivity. First, physiological and predictive reality concerns bodily regulation, anticipation, and affective readiness. Second, phenomenological reality concerns what the agent consciously feels. Third, emotional reality concerns the first-person construct the agent authorizes by organizing feeling under a detachable symbolic identifier and identity conditions. Fourth, social reality concerns the shared stabilization of that construct through communication, correction, and consensus. The central error this chapter addresses is not that agents mistake unreality for reality, but that they treat every kind of reality as if it were objective in the same way.
+In this chapter, I distinguish four kinds of reality that agents often collapse into objectivity. First, physiological and predictive reality concerns bodily regulation, anticipation, and affective readiness; observers meet it from the outside as empirical reality. Second, phenomenological reality concerns what the agent consciously feels. Third, emotional reality concerns the first-person construct the agent authorizes by organizing feeling under a detachable symbolic identifier and identity conditions. Fourth, social reality concerns the shared stabilization of that construct through communication, correction, and consensus. The central error this chapter addresses is not that agents mistake unreality for reality, but that they treat every kind of reality as if it were objective in the same way.
 
 Four Levels of Reality in Emotional Life
 
@@ -72,7 +72,7 @@ We believe what we agree.
 
 Social reality arises when agents coordinate the use and interpretation of symbolic constructs across contexts. Emotional meanings move beyond first-person authorization when agents communicate, contest, and stabilize them through shared use. They stabilize when multiple agents communicate, interpret, and apply the same identifiers under shared rules. Through repeated use, correction, and alignment, agents converge on what counts as anger, fear, embarrassment, or pride in given situations. This convergence does not reveal intrinsic meanings in the underlying affect; it establishes norms of admissibility and use.
 
-These norms function through agreement rather than discovery. Agents learn when a label applies, when it misapplies, and how to revise it under social feedback. In this way, agents stabilize emotional categories through shared practice. Such categories persist because agents recognize and reinforce them in interaction; they do not exist independently of that coordination.
+These norms function through agreement rather than discovery. Agents learn when a label applies, when it misapplies, and how to revise it under social feedback. In this way, agents stabilize emotional categories through shared practice. Such categories persist because agents recognize and reinforce them in interaction; they do not exist independently of that coordination. Agreement institutes these norms. It does not make each application correct. Once a community has fixed what counts as anger, whether a given state meets that standard is no longer a matter of agreement. I drew this distinction between instituting a constraint and applying it in [Chapter 6](../part-2/chapter-06.md), under “Where constraints come from.”
 
 Consider a child learning to label a feeling as “anger.” Caregivers correct, reinforce, and model usage. Over time, the child aligns their interpretations with those of others. What begins as a first-person authorization becomes a shared convention.
 
@@ -80,7 +80,7 @@ Yet even within this shared system, observers do not access emotion directly.
 
 We believe what we see.
 
-Empirical reality refers to what observers can measure, record, and verify from a third-person perspective. In the domain of affect, this includes physiological processes such as heart rate, hormonal changes, and neural activation. It also includes observable behavior such as facial expression, posture, and vocal tone. These phenomena are real, empirical, and accessible to observation. They admit measurement, replication, and analysis. In this sense, physiology and behavior belong fully to empirical reality.
+Empirical reality is physiological and predictive reality seen from the third person. It refers to what observers can measure, record, and verify from a third-person perspective. In the domain of affect, this includes physiological processes such as heart rate, hormonal changes, and neural activation. It also includes observable behavior such as facial expression, posture, and vocal tone. These phenomena are real, empirical, and accessible to observation. They admit measurement, replication, and analysis. In this sense, physiology and behavior belong fully to empirical reality.
 
 This point must remain clear. Organisms undergo measurable changes in arousal, activation, and regulation. Observers reliably detect and classify these changes. Scientific methods identify patterns, correlate them with stimuli, and model their dynamics. Nothing in this argument denies the reality of what the observer sees.
 
@@ -356,18 +356,6 @@ Third-person access therefore yields correlates without meaning. Science can map
 
 These constraints lead to a general conclusion about access.
 
-The gap between the observer and the agent is not a temporary hurdle for technology to clear. It is a structural feature of reality.
-
-Because the observer only has direct access to the Objective level, any statement they make about the Emotional level is an inference. I can measure the heat of the engine, but I cannot see the driver’s authorization of the destination.
-
-Emotion remains inaccessible from the outside perspective. It does not appear as an observable property in signals, physiology, or behavior, because meaning exists only where an agent authorizes a construct under symbolic constraint. Others interpret expression and infer emotional attribution. Science measures correlates and models regularities.
-
-This does not render emotion unreal. It locates it precisely. Emotion exists where an agent constructs and endorses a felt state as something under identity conditions. Outside that act, observers encounter only signals, patterns, and data.
-
-Emotion therefore admits no direct access from the outside. It exists only where the agent authorizes it.
-
-If emotion exists only through authorized interpretation, I must now identify the minimum capacities required to construct and stabilize such meaning.
-
 The barrier between the observer and the agent is not a technological hurdle. It is a structural feature of reality.
 
 | Reality Level | Access Type | Primary Content |
@@ -433,19 +421,19 @@ I can now proceed to further argue the distinction between entities that possess
 
 <p align="center">**Table 12-3. Emotion Construction: Structural Capacities by Entity**</p>
 
-The two-level architecture clarifies why animals and infants differ in their capacity to construct emotional meaning. Animals exhibit affect, signaling, and coordinated behavior. They regulate states, respond to cues, and interact within social structures. These capacities, however, do not suffice for meaning. Animals do not demonstrate authorization. They do not stabilize the states they feel under detachable symbolic identifiers that identity conditions govern, nor do they endorse such constructs as binding. Their responses track stimuli and patterns, but they do not organize meaning under rules for construction.
+The two-level architecture clarifies why animals and infants differ in their capacity to construct emotional meaning. Animals exhibit affect, signaling, and coordinated behavior. They regulate states, respond to cues, and interact within social structures. These capacities, however, do not suffice for meaning. Current evidence does not show that animals authorize. It does not show them stabilizing the states they feel under detachable symbolic identifiers that identity conditions govern, or endorsing such constructs as binding. On current evidence, their responses track stimuli and patterns rather than organizing meaning under rules for construction.
 
-Animals also do not demonstrate consensus in the relevant sense. They coordinate behavior, but they do not agree on rules that determine when symbolic constructs count as admissible. Animal coordination does not stabilize meaning across agents.
+Nor does current evidence show consensus in the relevant sense. Consensus here does not mean that agreement makes an application correct. It means that agents institute a shared standard, which each then applies and can misapply. Animals coordinate behavior, but no evidence yet shows them instituting rules that determine when symbolic constructs count as admissible.
 
 In this model, an infant may experience the high arousal and displeasure of "distress," but they do not yet have the symbolic hardware to authorize that state as "Grief" or "Anger." The transition to emotional agency is the transition into a semiotic system. Early development shows affect and feeling without authorization or consensus. Over time, infants acquire symbolic identifiers, apply them across contexts, and begin to authorize emotional constructs. Later, through social interaction, they align these constructs with shared rules and participate in consensus.
 
-The distinction is architectural and developmental. Animals lack the architecture. Infants acquire it.
+The distinction is architectural and developmental. On current evidence, animals do not show the architecture species-typically. Infants acquire it. I do not treat the animal case as settled by definition; [Chapter 11](chapter-11.md) states what evidence would change it.
 
 Even partial capacities do not suffice to construct emotional meaning.
 
 Consider a system that possesses some, but not all, of the required capacities. A system may discriminate stimuli, categorize inputs, and coordinate behavior across contexts. It may even use symbols in limited ways or signal internal states to others. These capacities do not suffice for meaning.
 
-Without authorization, the system does not treat a construct as binding under identity conditions. For example, an animal may respond to a threatening posture, but it does not authorize the construct fear as the correct classification of its own state. It may track cues and learn associations between signals, outcomes, and responses, but it does not commit to a classification as correct or incorrect. Without consensus, animals do not stabilize constructs across members of a group under shared rules. They may coordinate behavior, but they do not establish admissibility conditions that govern use.
+Without authorization, the system does not treat a construct as binding under identity conditions. For example, an animal may respond to a threatening posture, but current evidence does not show it authorizing the construct fear as the correct classification of its own state. It may track cues and learn associations between signals, outcomes, and responses, without evidence that it commits to a classification as correct or incorrect. Without consensus, constructs do not stabilize across members of a group under shared rules. Animals may coordinate behavior, but no evidence yet shows them establishing admissibility conditions that govern use.
 
 Even if a system combines signaling, categorization, and limited symbolic use, the absence of either authorization or consensus prevents the emergence of meaning. Each capacity contributes, but no subset replaces the full architecture.
 
