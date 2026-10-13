@@ -26,11 +26,13 @@ Gross, James J., and Lisa Feldman Barrett. “Emotion Generation and Emotion Reg
 
 Guarino, Nicola, and Christopher Welty. “Evaluating Ontological Decisions with OntoClean.” *Communications of the ACM* 45, no. 2 (2002): 61–65. https://doi.org/10.1145/503124.503150.
 
-Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
+Gupta, Anil. “Remarks on Definitions and the Concept of Truth.” *Proceedings of the Aristotelian Society* 89 (1989): 227–46. https://doi.org/10.1093/aristotelian/89.1.227.
 
 Heathwood, Chris. “The Reduction of Sensory Pleasure to Desire.” *Philosophical Studies* 133, no. 1 (2007): 23–44. https://doi.org/10.1007/s11098-006-9004-9.
 
 Herman, Barbara. “On the Value of Acting from the Motive of Duty.” *Philosophical Review* 90, no. 3 (1981): 359–82. https://doi.org/10.2307/2184978.
+
+Hoffman, Paul. “Cartesian Passions and Cartesian Dualism.” *Pacific Philosophical Quarterly* 71, no. 4 (1990): 310–33. https://doi.org/10.1111/j.1468-0114.1990.tb00406.x.
 
 James, William. “What Is an Emotion?” *Mind* 9, no. 34 (1884): 188–205. https://doi.org/10.1093/mind/os-IX.34.188.
 
@@ -50,6 +52,4 @@ Quine, W. V. O. “Two Dogmas of Empiricism.” *Philosophical Review* 60, no. 1
 
 Sayre-McCord, Geoffrey. “Hume and Smith on Sympathy, Approbation, and Moral Judgment.” *Social Philosophy and Policy* 30, nos. 1–2 (2013): 208–36. https://doi.org/10.1017/S0265052513000101.
 
-Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
-
-Shapiro, Lisa. “Descartes’s *Passions of the Soul* and the Union of Mind and Body.” *Archiv für Geschichte der Philosophie* 85, no. 3 (2003). https://doi.org/10.1515/agph.2003.012.
+Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.

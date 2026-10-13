@@ -12,7 +12,7 @@
 
 <a id="note-3"></a>
 
-3. Lisa Shapiro, “Descartes’s *Passions of the Soul* and the Union of Mind and Body,” *Archiv für Geschichte der Philosophie* 85, no. 3 (2003), https://doi.org/10.1515/agph.2003.012.
+3. Paul Hoffman, “Cartesian Passions and Cartesian Dualism,” *Pacific Philosophical Quarterly* 71, no. 4 (1990): 310–33, https://doi.org/10.1111/j.1468-0114.1990.tb00406.x.
 
 <a id="note-4"></a>
 
@@ -112,7 +112,7 @@
 
 <a id="note-28"></a>
 
-28. On circular definition, see Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
+28. On circular definition, see Anil Gupta, “Remarks on Definitions and the Concept of Truth,” *Proceedings of the Aristotelian Society* 89 (1989): 227–46, https://doi.org/10.1093/aristotelian/89.1.227.
 
 <a id="note-29"></a>
 
@@ -120,7 +120,7 @@
 
 <a id="note-30"></a>
 
-30. Andrea Scarantino and Ronald de Sousa, “Emotion,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/emotion/.
+30. For an integrative account in which emotion coordinates bodily, expressive, motivational, appraisal, and feeling components, see Klaus R. Scherer, “What Are Emotions? And How Can They Be Measured?,” *Social Science Information* 44, no. 4 (2005): 695–729, https://doi.org/10.1177/0539018405058216.
 
 <a id="note-31"></a>
 
