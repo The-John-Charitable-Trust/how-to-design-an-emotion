@@ -100,13 +100,13 @@ The ColorInstance assigns determinate values. This is the instance. It either sa
 
 Only after a valid instance exists does classification occur. The category is a downstream grouping of valid instances. It does not define what a color is.
 
-The sequence matters. Figure 4-6 presents the Grub concept as the class-level structure that fixes the admissibility conditions that make an organism a grub. Figure 4-7 presents a concrete grub instance, grub_boston. Whether a grub is edible or a pest is not part of the concept. Those are goal-relative features, and they belong to the goal layer, where food and pest classifications apply. The instance realizes the concept before any downstream category applies. Concept constrains. Instance realizes. Category groups.
+The sequence matters. Figure 4-6 presents the Grub concept as the class-level structure that fixes the admissibility conditions that make an organism a grub. Figure 4-7 presents a concrete grub instance, grub_boston. Whether a grub is edible or a pest is not part of the concept. Those are goal-relative features, and they belong to the goal layer. The figures show them there, as ForagingGoal and PestControlGoal, which evaluate an admitted grub without changing what makes it a grub. The instance realizes the concept before any downstream category applies. Concept constrains. Instance realizes. Category groups.
 
-![Figure 6](../../assets/figures/chapter-04/figure-06.png)
+![Figure 6](../../assets/figures/chapter-04/figure-06.svg)
 
 Figure 4-6. Grub Concept UML Class Diagram
 
-![Figure 7](../../assets/figures/chapter-04/figure-07.png)
+![Figure 7](../../assets/figures/chapter-04/figure-07.svg)
 
 Figure 4-7. Grub Constructs UML Object Diagrams
 
@@ -114,7 +114,7 @@ The distinction sharpens in discrete cases. Figures 4-6 and 4-7 show why the gru
 
 A grub does not become a different kind of organism because one culture eats it and another rejects it. The cultural category changes. The purpose changes. The evaluative context changes. The organism nevertheless retains the admissibility conditions that make it a grub. The concept is a human construct. What satisfies it is fixed by biology, not by culture. Food and pest name downstream classifications relative to human goals. They do not define the biological kind itself.
 
-Project 2 operationalizes this distinction. The program first validates whether the organism satisfies the admissibility conditions of the GrubConcept. Only after the system admits a valid grub instance does it classify that instance according to cultural context. When the context is food, the valid grub instance enters the category Food. When the context is pest, the same valid grub instance enters the category Pest. In both cases, the organism remains an admissible instance of the GrubConcept.
+Project 2 operationalizes this distinction. The program first validates whether the organism satisfies the admissibility conditions of the GrubConcept. Only after the system admits a valid grub instance do the goal classes evaluate it. In a food context, ForagingGoal judges the grub edible, and the instance enters the category Food. In a pest context, PestControlGoal judges it a pest, and the same instance enters the category Pest. In both cases, the organism remains an admissible instance of the GrubConcept.
 
 The architectural point now becomes clear. Category changes do not rewrite identity conditions. They apply different classificatory purposes to an already admissible instance. The concept constrains what the thing is. The instance realizes those constraints. The category organizes that instance relative to a goal.
 

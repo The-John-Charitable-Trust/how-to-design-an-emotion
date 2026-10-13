@@ -24,6 +24,20 @@ class GrubInstance
     }
 }
 
+// Goal layer: edible and pest are not part of the Grub concept.
+// They are goal-relative evaluations of an already admissible instance.
+class ForagingGoal
+{
+    public string Name => "ForagingGoal";
+    public bool Edible(GrubInstance g, string culturalContext) => culturalContext == "food";
+}
+
+class PestControlGoal
+{
+    public string Name => "PestControlGoal";
+    public bool Pest(GrubInstance g, string culturalContext) => culturalContext == "pest";
+}
+
 class Program
 {
     static void Main(string[] args)
@@ -45,17 +59,20 @@ class Program
         }
 
         Console.WriteLine($"CulturalContext: {culturalContext}");
-        Console.WriteLine($"Category: {Classify(culturalContext)}");
+        var foraging = new ForagingGoal();
+        var pestControl = new PestControlGoal();
+        bool edible = foraging.Edible(instance, culturalContext);
+        bool pest = pestControl.Pest(instance, culturalContext);
+        Console.WriteLine($"{foraging.Name}.edible: {edible}");
+        Console.WriteLine($"{pestControl.Name}.pest: {pest}");
+        Console.WriteLine($"Category: {Classify(edible, pest)}");
         Console.WriteLine("ConceptualIdentity: grub");
     }
 
-    static string Classify(string culturalContext)
+    static string Classify(bool edible, bool pest)
     {
-        return culturalContext switch
-        {
-            "food" => "food",
-            "pest" => "pest",
-            _ => "undetermined"
-        };
+        if (edible) return "food";
+        if (pest) return "pest";
+        return "undetermined";
     }
 }
