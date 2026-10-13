@@ -82,7 +82,7 @@ I present the architecture as a C# code walkthrough. I use the code to clarify t
 
 The scope of this demonstration is intentionally limited. It traces how a stimulus becomes an interpreted emotion construct under computational constraint. It does not address later revisions of meaning such as conscious reinterpretation or recognition updates.
 
-The C# executables for the projects below are in the downloaded ZIP file under the matching project folders. Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
+The C# executables for the projects below are in the matching project folders in this repository: [Project 1](../../code/appendix-j/project-1/), [Project 2](../../code/appendix-j/project-2/). Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
 
 <img src="../../assets/figures/appendix-j/figure-03.png" />
 <p align="center">**Project 1 — Architecture Diagram**</p>

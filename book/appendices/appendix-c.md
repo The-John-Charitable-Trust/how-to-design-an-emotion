@@ -10,7 +10,7 @@ This appendix reconstructs Barrett's examples at the level of constraint archite
 
 The purpose of this appendix is therefore narrow but essential. I separate five layers that Barrett’s examples tend to compress: identity conditions, instantiation, goal selection, runtime construction, and multi-concept classification. Each layer performs a distinct function, and the argument fails when one layer substitutes for another.
 
-The corresponding C# executables for the projects below appear in the downloaded ZIP file under the matching project folder. Each folder includes a README with the canonical run commands and expected outputs. The prose that follows explains the conceptual purpose of each project rather than duplicating the execution blocks.
+The corresponding C# executables for the projects below appear in the matching project folders in this repository ([Project 1](../../code/appendix-c/project-1/), [Project 2](../../code/appendix-c/project-2/), [Project 3](../../code/appendix-c/project-3/), [Project 4](../../code/appendix-c/project-4/), [Project 5](../../code/appendix-c/project-5/)). Each folder includes a README with the canonical run commands and expected outputs. The prose that follows explains the conceptual purpose of each project rather than duplicating the execution blocks.
 
 Project 1 implements identity conditions as admissibility constraints that operate before instantiation, selection, or context. The goal is to show that a concept must first specify what can count as an admissible instance at all. I isolate identity conditions from downstream processes so that goal-based selection and contextual variability cannot usurp their role.
 

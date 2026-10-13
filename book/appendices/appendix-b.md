@@ -53,7 +53,7 @@ Architecturally, this structure separates identity from instantiation. The abstr
 
 The pattern illustrates how emotional episodes can be generated as instances of a stable conceptual architecture without treating emotional kinds as discovered entities or biological essences. I do not claim that minds implement software patterns. I use the pattern to make explicit a structural requirement of any coherent theory of emotion: the distinction between the identity of an emotion concept and the generation of its instances.
 
-The corresponding C# project appears in the downloaded code folder for Appendix B, Project 1. The project README provides the canonical build command, run command, supported input values, and expected output. The appendix explains the conceptual purpose of the code; the README governs execution.
+The corresponding C# project appears in this repository’s code folder for Appendix B, [Project 1](../../code/appendix-b/project-1/). The project README provides the canonical build command, run command, supported input values, and expected output. The appendix explains the conceptual purpose of the code; the README governs execution.
 
 After navigating to the folder containing the project:
 
