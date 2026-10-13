@@ -64,36 +64,40 @@
 
 <a id="note-16"></a>
 
-16. Gottlob Frege, “On Sense and Reference,” trans. Max Black, in *Translations from the Philosophical Writings of Gottlob Frege*, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56–78; see also Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/.
+16. Antonio Damasio, *The Feeling of What Happens: Body and Emotion in the Making of Consciousness* (New York: Harcourt, 1999), 35–52; Russell, “Core Affect.”
 
 <a id="note-17"></a>
 
-17. A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, https://doi.org/10.1038/nrn894.
+17. Gottlob Frege, “On Sense and Reference,” trans. Max Black, in *Translations from the Philosophical Writings of Gottlob Frege*, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56–78; see also Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/.
 
 <a id="note-18"></a>
 
-18. Barrett, “Theory of Constructed Emotion.”
+18. A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, https://doi.org/10.1038/nrn894.
 
 <a id="note-19"></a>
 
-19. Winfried Nöth, *Handbook of Semiotics* (Bloomington: Indiana University Press, 1990).
+19. Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-20"></a>
 
-20. On music and emotional meaning, see Leonard B. Meyer, *Emotion and Meaning in Music* (Chicago: University of Chicago Press, 1956); and Patrik N. Juslin and John A. Sloboda, eds., *Handbook of Music and Emotion: Theory, Research, Applications* (Oxford: Oxford University Press, 2010). On variation within emotion categories, see Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
+20. Winfried Nöth, *Handbook of Semiotics* (Bloomington: Indiana University Press, 1990).
 
 <a id="note-21"></a>
 
-21. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 24–27; see also Shimon Edelman, “Marr, David,” in *Encyclopedia of Cognitive Science* (Chichester, UK: Wiley, 2006), https://doi.org/10.1002/0470018860.s00143.
+21. On music and emotional meaning, see Leonard B. Meyer, *Emotion and Meaning in Music* (Chicago: University of Chicago Press, 1956); and Patrik N. Juslin and John A. Sloboda, eds., *Handbook of Music and Emotion: Theory, Research, Applications* (Oxford: Oxford University Press, 2010). On variation within emotion categories, see Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
 
 <a id="note-22"></a>
 
-22. Scarantino and de Sousa, “Emotion.”
+22. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 24–27; see also Shimon Edelman, “Marr, David,” in *Encyclopedia of Cognitive Science* (Chichester, UK: Wiley, 2006), https://doi.org/10.1002/0470018860.s00143.
 
 <a id="note-23"></a>
 
-23. Barrett et al., “Emotional Expressions Reconsidered.”
+23. Scarantino and de Sousa, “Emotion.”
 
 <a id="note-24"></a>
 
-24. Jaroslav Peregrin, “Inferentialism,” in *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/.
+24. Barrett et al., “Emotional Expressions Reconsidered.”
+
+<a id="note-25"></a>
+
+25. Jaroslav Peregrin, “Inferentialism,” in *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/.
