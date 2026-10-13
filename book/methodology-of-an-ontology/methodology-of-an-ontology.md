@@ -104,13 +104,13 @@ Part V does not introduce another ontological layer. It progressively refines th
 
 ### Chapter 10 — Symbolic Meaning
 
-*All I Know Is What I Have Symbols For: The Making of Meaning* establishes how semiotically available experience becomes symbolically organized. Emotional meaning requires more than an internal occurrence. An agent must possess symbolic resources capable of stabilizing interpretation beyond the immediate affective event.
+[*All I Know Is What I Have Symbols For: The Linguistic Limits of Emotional Meaning*](../part-5/chapter-10.md) establishes how semiotically available experience becomes symbolically organized. Emotional meaning requires more than an internal occurrence. An agent must possess symbolic resources capable of stabilizing interpretation beyond the immediate affective event.
 
 This stage clarifies the relation between private experience and detachable meaning.
 
 ### Chapter 11 — Symbolic Threshold
 
-*Do Animals and Infants Have Emotions? Symbolic Thresholds and the Emergence of Emotional Meaning* asks what capacities must exist before affective experience can satisfy the ontology of emotion developed in Part IV.
+[*Do Animals and Infants Have Emotions? The Difference Between Feeling and Meaning*](../part-5/chapter-11.md) asks what capacities must exist before affective experience can satisfy the ontology of emotion developed in Part IV.
 
 Feeling can precede detachable symbolic stabilization. Emotion, as defined here, requires a symbolic threshold through which an agent can organize feeling under a detachable symbolic identifier governed by identity conditions. Metarepresentational interpretation marks the reflective form of this capacity.
 
@@ -118,7 +118,7 @@ The distinction prevents the observable presence of affective behavior or consci
 
 ### Chapter 12 — The Misattribution of Affect
 
-*Our Feelings Are Real, But Are Our Emotions? The Misattribution of Affect* tests the consequences of confusing the levels of the ontology.
+[*Our Feelings Are Real, But Are Our Emotions? How the Mind Misidentifies Sensation*](../part-5/chapter-12.md) tests the consequences of confusing the levels of the ontology.
 
 Feeling remains **the conscious metaperceptual awareness of affective reality**. It may become semiotically available, but it is not itself the symbolic interpretation produced from that experience.
 
@@ -131,7 +131,7 @@ This distinction explains how a private interpretation can become socially commu
 
 ### Chapter 13 — The Grammar of Feeling
 
-*The Sound of Feelings: Music as a Model for Affective Mechanisms, Felt Timbre, and Emotion Genres* supplies the final qualitative refinement.
+[*The Sound of Feelings: Using Music to Model How We Make and Experience Emotion*](../part-5/chapter-13.md) supplies the final qualitative refinement.
 
 Affect is the physiological and regulatory mechanism that generates the conditions of feeling without itself constituting feeling or emotion.
 
@@ -175,7 +175,7 @@ The final ontology therefore preserves three phenomena that theories of emotion 
 **Feeling is what the conscious agent phenomenologically experiences.**  
 **Emotion is how the agent interprets that experience into meaning.**
 
-The progression from Part I through Part V is consequently not a sequence of competing definitions. It is the methodology by which increasingly strong constraints transform provisional descriptions into a mature ontology. Each stage preserves what survives examination, rejects what cannot satisfy the emerging identity conditions, and supplies the conceptual architecture required by the next.
+[Chapter 14](../part-5/chapter-14.md), *So, What Is an Emotion?*, states this ontology in its final form. The progression from Part I through Part V is consequently not a sequence of competing definitions. It is the methodology by which increasingly strong constraints transform provisional descriptions into a mature ontology. Each stage preserves what survives examination, rejects what cannot satisfy the emerging identity conditions, and supplies the conceptual architecture required by the next.
 
 The ontology is therefore not assumed.
 
