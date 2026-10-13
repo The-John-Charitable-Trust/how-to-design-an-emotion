@@ -1,4 +1,4 @@
-# Appendix J: Constructivist Computational Model of  Emotions
+# Appendix J: Constructivist Computational Model of Emotions
 
 ## A Hypothetical Architecture
 

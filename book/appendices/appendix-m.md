@@ -1,6 +1,6 @@
 # Appendix M: Formal CSS Walkthrough
 
-## The Color Red, The Sound of a Tree and Gamelan
+## The Color Red, The Sound of a Tree, and Gamelan
 
 Lisa Feldman Barrett uses the red apple, the falling tree, and unfamiliar gamelan music to illustrate the claim that perception depends upon concepts.¹ Cognitive science and philosophy of perception widely support the view that sensory input alone does not yield determinate experience.² Conceptual constraint organizes sensory input into recognizable categories such as color, sound, or music.³
 
