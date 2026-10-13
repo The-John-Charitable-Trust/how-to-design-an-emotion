@@ -8,6 +8,8 @@ Benveniste, Émile. “Nature du signe linguistique.” *Acta Linguistica* 1, no
 
 Grice, H. P. “Meaning.” *Philosophical Review* 66, no. 3 (1957): 377–88. https://doi.org/10.2307/2182440.
 
+Guidetti, Giacomo. “On Peirce’s Immediate Object.” *Transactions of the Charles S. Peirce Society* 57, no. 3 (2021): 299–318. https://doi.org/10.2979/trancharpeirsoc.57.3.01.
+
 Object Management Group. *Unified Modeling Language*. Version 2.5.1. formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
 
 Peirce, C. S. “On a New List of Categories.” *Proceedings of the American Academy of Arts and Sciences* 7 (1868): 287–98. https://doi.org/10.2307/20179567.
