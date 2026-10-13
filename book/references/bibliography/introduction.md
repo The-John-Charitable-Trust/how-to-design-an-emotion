@@ -50,6 +50,8 @@ Locke, John. *Two Treatises of Government*. Edited by Peter Laslett. Cambridge: 
 
 Marr, David. *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*. San Francisco: W. H. Freeman, 1982.
 
+Mulligan, Robert F. “Epistemology According to Rand and Hayek.” *Journal of Ayn Rand Studies* 23, nos. 1–2 (2023): 123–53. https://doi.org/10.5325/jaynrandstud.23.1-2.0123.
+
 Murphy, Mark C. “The Natural Law Tradition in Ethics.” In *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/natural-law-ethics/.
 
 Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals and Humans.” *Consciousness and Cognition* 14, no. 1 (2005): 30–80. https://doi.org/10.1016/j.concog.2004.10.004.
