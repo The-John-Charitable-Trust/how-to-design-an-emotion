@@ -16,84 +16,80 @@
 
 <a id="note-4"></a>
 
-4. Ludwig Wittgenstein, *Philosophical Investigations*, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Malden, MA: Wiley-Blackwell, 2009), §§43, 66–71, 243–71.
+4. For the opposing view, developed from Wittgenstein’s notion of family resemblance, that categories need no common defining features, see Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
 
 <a id="note-5"></a>
 
-5. Wittgenstein, *Philosophical Investigations*, §§43, 66–71, 243–71.
+5. Jerome C. Wakefield, “The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values,” *American Psychologist* 47, no. 3 (1992): 373–88, https://doi.org/10.1037/0003-066X.47.3.373.
 
 <a id="note-6"></a>
 
-6. Jerome C. Wakefield, “The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values,” *American Psychologist* 47, no. 3 (1992): 373–88, https://doi.org/10.1037/0003-066X.47.3.373.
+6. Rosalind W. Picard, *Affective Computing* (Cambridge, MA: MIT Press, 1997), 55–89; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
 
 <a id="note-7"></a>
 
-7. Rosalind W. Picard, *Affective Computing* (Cambridge, MA: MIT Press, 1997), 55–89; Rafael A. Calvo and Sidney D’Mello, “Affect Detection: An Interdisciplinary Review of Models, Methods, and Their Applications,” *IEEE Transactions on Affective Computing* 1, no. 1 (2010): 18–37, https://doi.org/10.1109/T-AFFC.2010.1.
+7. Grand View Research, *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2026–2033*, accessed October 13, 2026, https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
 
 <a id="note-8"></a>
 
-8. Grand View Research, *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2026–2033*, accessed October 13, 2026, https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
+8. Debra J. Brody and Jeffery P. Hughes, *Depression Prevalence in Adolescents and Adults: United States, August 2021–August 2023*, NCHS Data Brief no. 527 (Hyattsville, MD: National Center for Health Statistics, April 2025), 1–11, https://doi.org/10.15620/cdc/174579.
 
 <a id="note-9"></a>
 
-9. Debra J. Brody and Jeffery P. Hughes, *Depression Prevalence in Adolescents and Adults: United States, August 2021–August 2023*, NCHS Data Brief no. 527 (Hyattsville, MD: National Center for Health Statistics, April 2025), 1–11, https://doi.org/10.15620/cdc/174579.
+9. Dan Witters, “U.S. Depression Rates Reach New Highs,” Gallup, May 17, 2023, https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx; Dan Witters, Diana Liu, and Sangeeta Agrawal, “Depression Costs U.S. Workplaces $23 Billion in Absenteeism,” Gallup, July 24, 2013, https://news.gallup.com/poll/163619/depression-costs-workplaces-billion-absenteeism.aspx.
 
 <a id="note-10"></a>
 
-10. Dan Witters, “U.S. Depression Rates Reach New Highs,” Gallup, May 17, 2023, https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx; Dan Witters, Diana Liu, and Sangeeta Agrawal, “Depression Costs U.S. Workplaces $23 Billion in Absenteeism,” Gallup, July 24, 2013, https://news.gallup.com/poll/163619/depression-costs-workplaces-billion-absenteeism.aspx.
+10. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements,” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68, https://doi.org/10.1177/1529100619832930.
 
 <a id="note-11"></a>
 
-11. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements,” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68, https://doi.org/10.1177/1529100619832930.
+11. Raymond S. Nickerson, “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises,” *Review of General Psychology* 2, no. 2 (1998): 175–220, https://doi.org/10.1037/1089-2680.2.2.175.
 
 <a id="note-12"></a>
 
-12. Raymond S. Nickerson, “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises,” *Review of General Psychology* 2, no. 2 (1998): 175–220, https://doi.org/10.1037/1089-2680.2.2.175.
+12. Scherer, “What Are Emotions?,” 695–729.
 
 <a id="note-13"></a>
 
-13. Scherer, “What Are Emotions?,” 695–729.
+13. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
 
 <a id="note-14"></a>
 
-14. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
+14. Plato, *Apology*, trans. G. M. A. Grube, rev. John M. Cooper, in *Plato: Complete Works*, ed. John M. Cooper (Indianapolis: Hackett, 1997), 17a–42a.
 
 <a id="note-15"></a>
 
-15. Plato, *Apology*, trans. G. M. A. Grube, rev. John M. Cooper, in *Plato: Complete Works*, ed. John M. Cooper (Indianapolis: Hackett, 1997), 17a–42a.
+15. Gupta, “Definitions.”
 
 <a id="note-16"></a>
 
-16. Gupta, “Definitions.”
+16. Jaroslav Peregrin, “Inferentialism,” in *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/.
 
 <a id="note-17"></a>
 
-17. Jaroslav Peregrin, “Inferentialism,” in *The Stanford Encyclopedia of Philosophy*, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/.
+17. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-18"></a>
 
-18. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
+18. Scarantino and de Sousa, “Emotion.”
 
 <a id="note-19"></a>
 
-19. Scarantino and de Sousa, “Emotion.”
+19. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 24–27; see also Shimon Edelman, “Marr, David,” in *Encyclopedia of Cognitive Science* (Chichester, UK: Wiley, 2006), https://doi.org/10.1002/0470018860.s00143.
 
 <a id="note-20"></a>
 
-20. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 24–27; see also Shimon Edelman, “Marr, David,” in *Encyclopedia of Cognitive Science* (Chichester, UK: Wiley, 2006), https://doi.org/10.1002/0470018860.s00143.
+20. Herbert A. Simon, *The Sciences of the Artificial*, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111–38.
 
 <a id="note-21"></a>
 
-21. Herbert A. Simon, *The Sciences of the Artificial*, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111–38.
+21. Simon, *Sciences of the Artificial*, 111–38.
 
 <a id="note-22"></a>
 
-22. Simon, *Sciences of the Artificial*, 111–38.
+22. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
 
 <a id="note-23"></a>
 
-23. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
-
-<a id="note-24"></a>
-
-24. Plato, *Apology*, 17a–42a.
+23. Plato, *Apology*, 17a–42a.

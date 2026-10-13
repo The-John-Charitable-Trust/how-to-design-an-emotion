@@ -32,6 +32,8 @@ Picard, Rosalind W. *Affective Computing*. Cambridge, MA: MIT Press, 1997.
 
 Plato. *Apology*. Translated by G. M. A. Grube, revised by John M. Cooper. In *Plato: Complete Works*, edited by John M. Cooper, 17–36. Indianapolis: Hackett, 1997.
 
+Rosch, Eleanor, and Carolyn B. Mervis. “Family Resemblances: Studies in the Internal Structure of Categories.” *Cognitive Psychology* 7, no. 4 (1975): 573–605. https://doi.org/10.1016/0010-0285(75)90024-9.
+
 Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
 
 Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.
@@ -43,5 +45,3 @@ Wakefield, Jerome C. “The Concept of Mental Disorder: On the Boundary Between 
 Witters, Dan. “U.S. Depression Rates Reach New Highs.” Gallup, May 17, 2023. https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx.
 
 Witters, Dan, Diana Liu, and Sangeeta Agrawal. “Depression Costs U.S. Workplaces $23 Billion in Absenteeism.” Gallup, July 24, 2013. https://news.gallup.com/poll/163619/depression-costs-workplaces-billion-absenteeism.aspx.
-
-Wittgenstein, Ludwig. *Philosophical Investigations*. 4th ed. Translated by G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte. Malden, MA: Wiley-Blackwell, 2009.
