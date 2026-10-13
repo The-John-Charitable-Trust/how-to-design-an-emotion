@@ -14,7 +14,7 @@ Calvo, Rafael A., and Sidney D’Mello. “Affect Detection: An Interdisciplinar
 
 Craig, A. D. “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body.” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66. https://doi.org/10.1038/nrn894.
 
-Darwall, Stephen. “Normativity.” In *The Routledge Encyclopedia of Philosophy*. London: Routledge, 1998. https://doi.org/10.4324/9780415249126-L099-1.
+Darwall, Stephen. “Normativity.” In *Routledge Encyclopedia of Philosophy*. London: Routledge, 2001. https://doi.org/10.4324/9780415249126-L135-1.
 
 “Declaration of Independence: A Transcription.” National Archives. https://www.archives.gov/founding-docs/declaration-transcript.
 

@@ -12,7 +12,7 @@
 
 <a id="note-3"></a>
 
-3. Christine M. Korsgaard, *The Sources of Normativity* (Cambridge: Cambridge University Press, 1996), 7–48; Stephen Darwall, “Normativity,” in *The Routledge Encyclopedia of Philosophy* (London: Routledge, 1998), https://doi.org/10.4324/9780415249126-L099-1.
+3. Christine M. Korsgaard, *The Sources of Normativity* (Cambridge: Cambridge University Press, 1996), 7–48; Stephen Darwall, “Normativity,” in *Routledge Encyclopedia of Philosophy* (London: Routledge, 2001), https://doi.org/10.4324/9780415249126-L135-1.
 
 <a id="note-4"></a>
 
