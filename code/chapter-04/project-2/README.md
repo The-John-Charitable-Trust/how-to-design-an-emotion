@@ -22,6 +22,8 @@ LarvalStage: True
 LivingMatter: True
 IsAdmissible(): True
 CulturalContext: food
+ForagingGoal.edible: True
+PestControlGoal.pest: False
 Category: food
 ConceptualIdentity: grub
 ```
@@ -34,6 +36,8 @@ LarvalStage: True
 LivingMatter: True
 IsAdmissible(): True
 CulturalContext: pest
+ForagingGoal.edible: False
+PestControlGoal.pest: True
 Category: pest
 ConceptualIdentity: grub
 ```

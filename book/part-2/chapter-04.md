@@ -10,21 +10,13 @@ Modern theories rightly reject the classical assumption that concepts derive the
 
 Rejecting fixed essences, however, does not by itself explain what secures identity conditions.
 
-When theorists reject essences without reconstructing identity conditions, they relocate explanatory work to the wrong level. They ask categorization, prediction, similarity, learning, culture, and task success to perform work that belongs to identity conditions. They mistake partitioning for concept formation. They treat the classification of observed instances as if it could explain the conditions that make an instance admissible in the first place.
-
-A color boundary can separate blue from green. It cannot define what color is. A culture can treat a grub as food or as a pest. It cannot change what makes the organism a grub. An agent can classify a bodily state as anger or fear. That classification still presupposes conditions that distinguish anger from fear.
-
 This chapter exposes that architectural error: downstream operations assume upstream authority. They borrow the explanatory work of identity conditions while denying the need for them.
 
 The repair is simple but fundamental: restore each explanatory level to its proper place.
 
 Concept constrains. Instance realizes. Category groups.
 
-A concept specifies admissibility conditions. An instance either satisfies or violates those conditions. A category organizes admissible instances relative to a goal. Prediction, simulation, learning, culture, and embodiment all contribute to conceptual performance, but they operate within a constraint space. They do not create that space.
-
-This distinction allows me to preserve the major achievements of contemporary concept theory without surrendering meaning to conceptual drift. Concepts may adapt without becoming arbitrary. Categories may vary without redefining the concepts they organize. Agents may construct meaning without abandoning conceptual constraint.
-
-Chapter 5 examines the false dichotomy that made this architectural error appear inevitable: the supposed opposition between classical definitions and prototype theories. I argue that this choice is mistaken. The deeper question does not concern whether concepts possess rigid essences or flexible prototypes. It concerns where a theory locates identity conditions. Do they reside upstream in the concept that constrains admissible instances, or downstream in the operations that sort those instances? That question frames the next stage of the argument.
+A concept specifies admissibility conditions. An instance either satisfies or violates those conditions. A category groups admissible instances. Goals then regulate those groupings. Prediction, simulation, learning, culture, and embodiment all contribute to conceptual performance, but they operate within a constraint space. They do not create that space.
 
 In the previous chapter, I established a critical distinction: identity condition does not naively mean essence. Identity conditions function as architectural constraints. They specify the admissibility conditions under which something can count as an instance.<sup><a href="../references/notes/chapter-04.md#note-1">1</a></sup> I agreed with Lisa Feldman Barrett that emotion theory should reject naive essentialism.<sup><a href="../references/notes/chapter-04.md#note-2">2</a></sup> Emotions do not possess invariant neural signatures, universal biological fingerprints, or necessary and sufficient features.<sup><a href="../references/notes/chapter-04.md#note-3">3</a></sup> The empirical evidence no longer supports the classical view.<sup><a href="../references/notes/chapter-04.md#note-4">4</a></sup>
 
@@ -68,7 +60,9 @@ That claim can stand. The error begins only when theorists promote evidence abou
 
 Appendix D isolates this same ordering error in Barrett's goal-based examples and provides a formal reconstruction of the Posner-Keele paradigm, including its vector-space specification and distance metrics. I introduce that reconstruction not to mathematize cognition, but to make explicit the constraint structure the experiment presupposes.
 
-The statistical operations that support prototype abstraction remain intelligible only within a fixed constraint space. The experiment must first determine the admissibility conditions of that space before inference can occur. Subjects may infer a prototype, but the structural constraints of the grid and the dimensionality of the vector space fix the identity conditions of the task. The inference occurs downstream. The constraints stand upstream.
+Here I must be careful. The grid and the dimensions of the dot space constrain which stimuli can appear. They are the experimenter's design, not the subject's concept. A network's architecture does the same work in machine learning. It limits which functions can be learned. It does not fix what any learned category means. So the priority I claim is not the priority of a search space.
+
+It is the priority of a standard. Typicality ranks members. Without admissibility conditions, there are no members to rank. A misclassification is wrong about something. Without admissibility conditions, there is nothing for it to be wrong about. A prediction can fail, but failure is not error unless something fixes what the prediction was supposed to be about. The Posner-Keele subjects did not merely drift toward a centroid. They sorted patterns as belonging or not belonging, and that sorting could be checked against what the experimenter had defined. Remove the definition, and the experiment cannot even be scored. That is what upstream means. It is a claim about what correctness requires, not about the order in which a brain computes.
 
 I therefore begin the diagnostic sequence with the foundational error: treating partitioning as concept formation. Clustering, categorization, and similarity judgment do not constitute concepts. They presuppose a constraint structure already in place.
 
@@ -106,21 +100,21 @@ The ColorInstance assigns determinate values. This is the instance. It either sa
 
 Only after a valid instance exists does classification occur. The category is a downstream grouping of valid instances. It does not define what a color is.
 
-The sequence matters. Figure 4-6 presents the Grub concept as the class-level structure that fixes the relevant admissibility conditions: whether the organism can function as edible and whether it can function as a pest. Figure 4-7 presents a concrete grub instance, grub_boston, with determinate values for those conditions. The instance realizes the concept before any downstream category applies. Concept constrains. Instance realizes. Category groups.
+The sequence matters. Figure 4-6 presents the Grub concept as the class-level structure that fixes the admissibility conditions that make an organism a grub. Figure 4-7 presents a concrete grub instance, grub_boston. Whether a grub is edible or a pest is not part of the concept. Those are goal-relative features, and they belong to the goal layer. The figures show them there, as ForagingGoal and PestControlGoal, which evaluate an admitted grub without changing what makes it a grub. The instance realizes the concept before any downstream category applies. Concept constrains. Instance realizes. Category groups.
 
-![Figure 6](../../assets/figures/chapter-04/figure-06.png)
+![Figure 6](../../assets/figures/chapter-04/figure-06.svg)
 
 Figure 4-6. Grub Concept UML Class Diagram
 
-![Figure 7](../../assets/figures/chapter-04/figure-07.png)
+![Figure 7](../../assets/figures/chapter-04/figure-07.svg)
 
 Figure 4-7. Grub Constructs UML Object Diagrams
 
 The distinction sharpens in discrete cases. Figures 4-6 and 4-7 show why the grub remains the same kind of organism even when later classifications differ. Barrett uses the grub example to show that one culture may classify a grub as food while another may classify it as a pest.<sup><a href="../references/notes/chapter-04.md#note-33">33</a></sup> She presents the example as evidence of cultural construction and variability in categorization. Viewed architecturally, however, the example demonstrates something narrower and more precise: classification varies, but kind does not.
 
-A grub does not become a different kind of organism because one culture eats it and another rejects it. The cultural category changes. The purpose changes. The evaluative context changes. The organism nevertheless retains the admissibility conditions that make it a grub. Food and pest name downstream classifications relative to human goals. They do not define the biological kind itself.
+A grub does not become a different kind of organism because one culture eats it and another rejects it. The cultural category changes. The purpose changes. The evaluative context changes. The organism nevertheless retains the admissibility conditions that make it a grub. The concept is a human construct. What satisfies it is fixed by biology, not by culture. Food and pest name downstream classifications relative to human goals. They do not define the biological kind itself.
 
-Project 2 operationalizes this distinction. The program first validates whether the organism satisfies the admissibility conditions of the GrubConcept. Only after the system admits a valid grub instance does it classify that instance according to cultural context. When the context is food, the valid grub instance enters the category Food. When the context is pest, the same valid grub instance enters the category Pest. In both cases, the organism remains an admissible instance of the GrubConcept.
+Project 2 operationalizes this distinction. The program first validates whether the organism satisfies the admissibility conditions of the GrubConcept. Only after the system admits a valid grub instance do the goal classes evaluate it. In a food context, ForagingGoal judges the grub edible, and the instance enters the category Food. In a pest context, PestControlGoal judges it a pest, and the same instance enters the category Pest. In both cases, the organism remains an admissible instance of the GrubConcept.
 
 The architectural point now becomes clear. Category changes do not rewrite identity conditions. They apply different classificatory purposes to an already admissible instance. The concept constrains what the thing is. The instance realizes those constraints. The category organizes that instance relative to a goal.
 
@@ -166,15 +160,13 @@ Taken together, these insights do not undermine identity conditions. They presup
 
 I resolve the tension by restoring explanatory order. Here I use semiotics to mean the study of how signs carry meaning through the relation between sign, object, and interpretation.<sup><a href="../references/notes/chapter-04.md#note-57">57</a></sup> Within that framework, the type-token distinction must precede interpretive deployment. Without a type-level constraint, tokens cannot function as signs with stable reference.
 
-With that relocation in place, I state the repair succinctly. A concept specifies an upstream constraint structure that fixes identity conditions without fixing particular values. An instance is a determinate realization produced under those constraints in a specific context. A category is a goal-relative grouping formed downstream over instances. Identity conditions reside at the level of constraint structure. Identity belongs to an admissible instantiation under those conditions.
+With that relocation in place, I state the repair succinctly. A concept specifies an upstream constraint structure that fixes identity conditions without fixing particular values. An instance is a determinate realization produced under those constraints in a specific context. A category is a grouping formed downstream over instances, and goals regulate it from the layer above. Identity conditions reside at the level of constraint structure. Identity belongs to an admissible instantiation under those conditions.
 
 This formalism provides an analytic discipline for explanatory clarity. It does not imply that cognition is literally object-oriented software. I articulate the repair through the class-object distinction. A class specifies admissible structure and identity conditions. An object instantiates that structure with determinate values. Many objects may instantiate the same class across contexts without threatening identity.<sup><a href="../references/notes/chapter-04.md#note-58">58</a></sup> As Booch, Rumbaugh, and Jacobson explain, a class describes a set of objects that share attributes, operations, relationships, and semantics, while an object instantiates a class.
 
 This repair sacrifices none of the empirical gains of contemporary theory. Context sensitivity governs selection, not definition. Prediction operates within a constraint space rather than determining it. Learning refines execution policies rather than rewriting identity conditions. Embodiment supplies mechanisms of realization without defining conceptual type.
 
 I have therefore identified the precise form of misappropriation at work in contemporary concept theory. The error does not lie in studying categorization, prediction, simulation, embodiment, culture, or neural dynamics. Those processes matter. The error begins when a theory asks them to perform identity-level work. They can explain how agents sort, anticipate, regulate, or reuse experience, but they cannot by themselves specify what makes an instance admissible under a concept.
-
-The examples developed throughout this chapter illustrate that distinction. The Posner-Keele paradigm shows that agents can infer a central tendency from distorted examples, but the inference occurs inside an already structured stimulus space. The color-boundary example shows that categories can divide a continuum, but the division presupposes a prior domain in which wavelength, luminance, and saturation can count as color-relevant features. The grub example shows that culture can assign different roles to the same organism, but food and pest are goal-relative classifications of a stable admissible object. The executable projects formalize the same architecture: a valid color instance can be categorized under a boundary, and a grub can shift cultural category while retaining its conceptual identity.
 
 The chapter therefore answers its governing question directly. Partitioning does not define. Similarity does not ground identity. Prediction does not create the concept it uses. A concept constrains. An instance realizes. A category groups. Once I restore that order, I can preserve the achievements of prototype, constructionist, embodied, and predictive theories without allowing their downstream operations to replace the identity conditions they presuppose.
 
