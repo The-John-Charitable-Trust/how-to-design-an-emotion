@@ -1,4 +1,4 @@
-# Appendix E: Chrome DevTools Demonstration of Layered Ontology
+# Appendix E: Chrome DevTools
 
 ## Demonstration of Layered Ontology
 

@@ -1,4 +1,4 @@
-# Appendix F: Rationale for Inclusion of Candidate Emotion Theories, Frameworks, and Models
+# Appendix F: Selecting the Candidates
 
 ## Why These Emotion Theories Made the Cut
 

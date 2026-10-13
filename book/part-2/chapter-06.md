@@ -1,4 +1,4 @@
-# Chapter 6: Form vs Substance: A Theory of Constrained Identity
+# Chapter 6: The Blueprint of Mind
 
 *The Theory of Constrained Identity*
 

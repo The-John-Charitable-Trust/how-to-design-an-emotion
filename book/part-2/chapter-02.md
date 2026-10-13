@@ -1,4 +1,4 @@
-# Chapter 2: How to Define an Idea: From Meaning to Computer Code
+# Chapter 2: What Is an Idea, Anyway?
 
 *Why Our Most Cherished Beliefs Rest on Shaky Ground*
 

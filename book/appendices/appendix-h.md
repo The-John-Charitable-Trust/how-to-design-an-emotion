@@ -1,4 +1,4 @@
-# Appendix H: Macro-Level and Micro-Level Weighting Justification Across Governing Domains
+# Appendix H: Macro to Micro
 
 ## Justifying Weights Across Governing Domains
 

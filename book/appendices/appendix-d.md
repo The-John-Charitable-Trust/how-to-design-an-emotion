@@ -1,4 +1,4 @@
-# Appendix D: Formal Reconstruction of the Posner–Keele Paradigm
+# Appendix D: Formal Reconstruction of the Posner-Keele Paradigm
 
 ## Why Statistical Abstraction Does Not Constitute Identity Conditions
 

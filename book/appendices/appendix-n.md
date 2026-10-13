@@ -1,6 +1,6 @@
 # Appendix N: Mathematical Realism and Emotional Grammar
 
-## From Ontology of Structure to Ontology of Interpretation
+## Formalizing the Rules of Interpretation
 
 The debate over the ontology of mathematics is not a minor technical dispute about numbers. It is a dispute about whether formal structure exists independently of interpreting agents. To determine whether emotional grammar reflects discovery or construction, we must first confront the ontology of mathematics.<sup><a href="../references/notes/appendix-n.md#note-1">1</a></sup>
 

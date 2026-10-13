@@ -1,4 +1,4 @@
-# Chapter 7: The Constructivist Semiotics: The Architecture of Meaning
+# Chapter 7: The Constructivist Semiotics
 
 *The Architecture of Meaning*
 

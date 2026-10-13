@@ -1,6 +1,6 @@
 # Appendix K: The Constructivist Interpretation Theory of Emotion
 
-## Where Appraisal Ends and Interpretation Begins
+## Why Interpretation, Not Appraisal, Constructs Emotional Meaning
 
 In this appendix, I solve a specific architectural problem: appraisal theory explains how a subject evaluates significance, but it does not fully explain how the subject constructs that evaluation as a determinate emotion sign.
 
