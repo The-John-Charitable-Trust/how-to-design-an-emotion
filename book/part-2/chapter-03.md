@@ -2,6 +2,30 @@
 
 *Why We Need a New Architecture for Identity*
 
+*In Chapter 2, I established the principles that govern definition. I showed that an idea cannot survive as a slogan, a word, or a familiar example. It must have structure. It must specify the conditions under which something counts as an instance.*
+
+*Chapter 3 begins with a different question. If contemporary theory rejects fixed essences, what now secures the identity conditions of concepts?*
+
+*Rejecting naive essentialism does not eliminate the need for identity conditions. It relocates the problem. If concepts no longer derive their identity from essences, a theory must explain what now constrains their admissible instances. For example, we can see how some constructivist theories, particularly Barrett's Theory of Constructed Emotion, relocate conceptual stability into prediction, categorization, and use rather than reconstructing identity conditions themselves. On this approach, meaning risks becoming performance, correctness risks becoming predictive success, and disagreement risks becoming mere difference.*
+
+*Without identity conditions, construction risks becoming drift.*
+
+*I do not intend to restore essence. My goal is to restore conceptual constraint.*
+
+*The identity condition is dead only if identity condition means essence.*
+
+*Long live the identity condition as constraint.*
+
+*A concept fixes what something is. It specifies the admissibility conditions under which something counts as an instance. An instance realizes those conditions under determinate values. A conceptual system organizes those admissible instances into categories, but it does not alter the admissibility conditions that govern instantiation.*
+
+<p align="center"><strong>CHAPTER IV</strong></p>
+
+<p align="center"><strong>The Misappropriation of the Concept</strong></p>
+
+<p align="center"><em>The Orphaning of Identity Conditions</em></p>
+
+<div style="page-break-after: always;"></div>
+
 [Notes](../references/notes/chapter-03.md) · [Bibliography](../references/bibliography/chapter-03.md)
 
 In Chapter 2, I established the principles that govern definition. I showed that an idea cannot survive as a slogan, a word, or a familiar example. It must have structure. It must specify the conditions under which something counts as an instance.
