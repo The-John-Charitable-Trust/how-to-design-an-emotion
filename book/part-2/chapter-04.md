@@ -2,6 +2,28 @@
 
 *The Orphaning of Identity Conditions*
 
+*Chapter 3 argued that identity conditions ought to survive the rejection of fixed essences. Chapter 4 examines what follows when theories fail to preserve that distinction.*
+
+*Modern theories rightly reject the classical assumption that concepts derive their identity from fixed essences. Emotion does not come stamped with one neural signature, one bodily pattern, or one universal expression. Concepts do not exist as fixed inner essences awaiting application. Lisa Feldman Barrett, Eleanor Rosch, George Lakoff, Lawrence Barsalou, Andy Clark, and Karl Friston all contribute to dismantling that assumption.*
+
+*Rejecting fixed essences, however, does not by itself explain what secures identity conditions.*
+
+*This chapter exposes that architectural error: downstream operations assume upstream authority. They borrow the explanatory work of identity conditions while denying the need for them.*
+
+*The repair is simple but fundamental: restore each explanatory level to its proper place.*
+
+*Concept constrains. Instance realizes. Category groups.*
+
+*A concept specifies admissibility conditions. An instance either satisfies or violates those conditions. A category groups admissible instances. Goals then regulate those groupings. Prediction, simulation, learning, culture, and embodiment all contribute to conceptual performance, but they operate within a constraint space. They do not create that space.*
+
+<p align="center"><strong>CHAPTER V</strong></p>
+
+<p align="center"><strong>Rules vs. Prototypes</strong></p>
+
+<p align="center"><em>Why the Great Debate Over Concepts Is a Faux Dichotomy</em></p>
+
+<div style="page-break-after: always;"></div>
+
 [Notes](../references/notes/chapter-04.md) · [Bibliography](../references/bibliography/chapter-04.md)
 
 Chapter 3 argued that identity conditions ought to survive the rejection of fixed essences. Chapter 4 examines what follows when theories fail to preserve that distinction.
