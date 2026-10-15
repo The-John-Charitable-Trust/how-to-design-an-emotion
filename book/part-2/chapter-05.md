@@ -2,6 +2,22 @@
 
 *Why the Great Debate Over Concepts Is a Faux Dichotomy*
 
+*In the previous chapter, I argued that identity conditions belong upstream as conceptual constraints and that several influential theories relocate them downstream into categorization, prediction, learning, and cultural grouping. In this chapter, I show that a false dichotomy between classical and prototype theories encourages the same architectural inversion.*
+
+*Contemporary concept theory typically frames the debate as a forced choice. Either concepts possess stable identity conditions, or they emerge through flexible patterns of categorization. Either we preserve conceptual structure, or we accommodate context, similarity, and typicality. Either classical theory prevails, or prototype theory does.*
+
+*I reject this binary opposition because it rests on a false architectural premise.*
+
+*In Chapter 6, I move from diagnosis to construction. Building on this architectural repair, I develop the Theory of Constrained Identity, which explains how identity conditions constrain admissible variation without eliminating flexibility.*
+
+<p align="center"><strong>CHAPTER VI</strong></p>
+
+<p align="center"><strong>The Blueprint of Mind</strong></p>
+
+<p align="center"><em>The Theory of Constrained Identity</em></p>
+
+<div style="page-break-after: always;"></div>
+
 [Notes](../references/notes/chapter-05.md) · [Bibliography](../references/bibliography/chapter-05.md)
 
 In the previous chapter, I argued that identity conditions belong upstream as conceptual constraints and that several influential theories relocate them downstream into categorization, prediction, learning, and cultural grouping. In this chapter, I show that a false dichotomy between classical and prototype theories encourages the same architectural inversion.
