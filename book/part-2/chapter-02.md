@@ -2,6 +2,22 @@
 
 *Why Our Most Cherished Beliefs Rest on Shaky Ground*
 
+*Chapter 1 exposed the first problem: I do not believe we disagree about emotion merely because the evidence is incomplete. We disagree because we do not yet know what kind of thing we are trying to define. In this chapter, I directly address that problem. I ask what an idea is before I ask what emotion is, because no theory of feeling, value, morality, or rights can stand on concepts whose identity conditions remain vague.*
+
+*The danger is not abstract. We invoke Rights, Morality, and Emotions as if these ideas possessed obvious meaning. We argue from them, suffer for them, legislate by them, and organize our lives around them. Yet when pressed to say what these ideas are, we often retreat into examples, intuitions, slogans, or inherited words. The result is not merely confusion. Belief then rests on rhetoric rather than structure.*
+
+*I offer a way out. I define an idea as a unit of meaning composed of one or more clauses or truth-apt propositions. I then build a framework that distinguishes the word from the concept, the concept from the construct, and the construct from the category. A word labels. A concept supplies identity conditions as constraints. A construct realizes those constraints under determinate values. A category gathers valid realizations without becoming the meaning of the concept itself.*
+
+*I proceed in stages. Language makes thought distinct. Definition establishes identity conditions. Analytic truth tests what must follow once meaning has determinate structure. Ontology distinguishes concept, construct, and category. Object-oriented grammar gives this distinction executable form. UML makes the structure visible. C# shows that the structure can run. The diagrams and programs show that the architecture is consistent and executable. They do not show that it is true. I argue for its truth in prose.*
+
+<p align="center"><strong>CHAPTER III</strong></p>
+
+<p align="center"><strong>Chasing Ghosts in the Brain</strong></p>
+
+<p align="center"><em>Why We Need a New Architecture for Identity</em></p>
+
+<div style="page-break-after: always;"></div>
+
 ## Why Our Most Cherished Beliefs Rest on Shaky Ground
 
 [Notes](../references/notes/chapter-02.md) · [Bibliography](../references/bibliography/chapter-02.md)
