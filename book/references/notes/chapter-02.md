@@ -177,7 +177,7 @@
 
 <a id="note-44"></a>
 
-44. Gupta, “Definitions.”
+44. This account of realization is my own. On concept-formation by abstraction, see Rand, IOE, 13.
 
 <a id="note-45"></a>
 
