@@ -120,7 +120,7 @@
 
 <a id="note-30"></a>
 
-30. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion”; Hoemann, Xu, and Barrett, “Emotion Words.”
+30. Barrett, “Theory of Constructed Emotion,” in the sections “The Theory of Constructed Emotion” and “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators”; Hoemann, Xu, and Barrett, “Emotion Words.”
 
 <a id="note-31"></a>
 
