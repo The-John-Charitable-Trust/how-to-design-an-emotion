@@ -2,11 +2,11 @@
 
 [Back to Chapter 4](../../part-2/chapter-04.md) · [Notes](../notes/chapter-04.md)
 
+Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
+
 Barrett, Lisa Feldman. “Concepts and Emotion, Part 1 of 3.” YouTube video, 2:24. June 11, 2023. https://www.youtube.com/watch?v=mpjrD1jCEls.
 
 Barrett, Lisa Feldman. “How Emotions are Made (Cinematic Lecture).” Flow. YouTube video, 40:00. April 14, 2020. https://www.youtube.com/watch?v=0rbyC5m557I.
-
-Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
@@ -20,9 +20,11 @@ Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature 
 
 Hoemann, Katie, Fei Xu, and Lisa Feldman Barrett. “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis.” *Developmental Psychology* 55, no. 9 (2019): 1830–49. https://doi.org/10.1037/dev0000686.
 
+Lakoff, George. *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind*. Chicago: University of Chicago Press, 1987.
+
 Lakoff, George. “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Concepts.” *Journal of Philosophical Logic* 2, no. 4 (1973): 458–508. https://doi.org/10.1007/BF00262952.
 
-Lakoff, George. *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind*. Chicago: University of Chicago Press, 1987.
+Lindquist, Kristen A., Tor D. Wager, Hedy Kober, Eliza Bliss-Moreau, and Lisa Feldman Barrett. “The Brain Basis of Emotion: A Meta-Analytic Review.” *Behavioral and Brain Sciences* 35, no. 3 (2012): 121–43. https://doi.org/10.1017/S0140525X11000446.
 
 McClelland, James L., and David E. Rumelhart. “Distributed Memory and the Representation of General and Specific Information.” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88. https://doi.org/10.1037/0096-3445.114.2.159.
 
@@ -33,3 +35,5 @@ Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.”
 Rosch, Eleanor, and Carolyn B. Mervis. “Family Resemblances: Studies in the Internal Structure of Categories.” *Cognitive Psychology* 7, no. 4 (1975): 573–605. https://doi.org/10.1016/0010-0285(75)90024-9.
 
 Rosch, Eleanor. “Cognitive Representations of Semantic Categories.” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233. https://doi.org/10.1037/0096-3445.104.3.192.
+
+Siegel, Erika H., Molly K. Sands, Wim Van den Noortgate, Paul Condon, Yale Chang, Jennifer Dy, Karen S. Quigley, and Lisa Feldman Barrett. “Emotion Fingerprints or Emotion Populations? A Meta-Analytic Investigation of Autonomic Features of Emotion Categories.” *Psychological Bulletin* 144, no. 4 (2018): 343–93. https://doi.org/10.1037/bul0000128.

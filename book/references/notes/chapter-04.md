@@ -36,7 +36,7 @@
 
 <a id="note-9"></a>
 
-9. Object Management Group, *Unified Modeling Language*, 126.
+9. Erika H. Siegel et al., “Emotion Fingerprints or Emotion Populations? A Meta-Analytic Investigation of Autonomic Features of Emotion Categories,” *Psychological Bulletin* 144, no. 4 (2018): 343–93, abstract, https://doi.org/10.1037/bul0000128; Kristen A. Lindquist et al., “The Brain Basis of Emotion: A Meta-Analytic Review,” *Behavioral and Brain Sciences* 35, no. 3 (2012): 121–43, abstract, https://doi.org/10.1017/S0140525X11000446. See also Barrett, “Theory of Constructed Emotion,” table 1.
 
 <a id="note-10"></a>
 
