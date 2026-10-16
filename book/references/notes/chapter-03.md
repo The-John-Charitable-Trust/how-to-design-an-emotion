@@ -96,7 +96,7 @@
 
 <a id="note-24"></a>
 
-24. Barrett, “Theory of Constructed Emotion.”
+24. Barrett, “Theory of Constructed Emotion,” introduction.
 
 <a id="note-25"></a>
 
