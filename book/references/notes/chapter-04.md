@@ -276,7 +276,7 @@
 
 <a id="note-69"></a>
 
-69. Friston, “Free-Energy Principle.”
+69. Karl J. Friston, “A Theory of Cortical Responses,” *Philosophical Transactions of the Royal Society B* 360, no. 1456 (2005): 815–36, at 815, https://doi.org/10.1098/rstb.2005.1622; Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?,” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38, at 128, 130, https://doi.org/10.1038/nrn2787.
 
 <a id="note-70"></a>
 

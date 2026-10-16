@@ -24,6 +24,8 @@ Clark, Andy. “Whatever Next? Predictive Brains, Situated Agents, and the Futur
 
 Cohnitz, Daniel. “Nelson Goodman.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision February 8, 2024. https://plato.stanford.edu/entries/goodman/.
 
+Friston, Karl J. “A Theory of Cortical Responses.” *Philosophical Transactions of the Royal Society B* 360, no. 1456 (2005): 815–36. https://doi.org/10.1098/rstb.2005.1622.
+
 Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38. https://doi.org/10.1038/nrn2787.
 
 Goldinger, Stephen D., Megan H. Papesh, Anthony S. Barnhart, Whitney A. Hansen, and Michael C. Hout. “The Poverty of Embodied Cognition.” *Psychonomic Bulletin & Review* 23, no. 4 (2016): 959–78. https://doi.org/10.3758/s13423-015-0860-1.
