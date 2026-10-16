@@ -204,7 +204,7 @@
 
 <a id="note-51"></a>
 
-51. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:45–00:59.
+51. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:34–01:04.
 
 <a id="note-52"></a>
 
