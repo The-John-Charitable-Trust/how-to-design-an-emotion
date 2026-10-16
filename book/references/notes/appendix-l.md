@@ -16,7 +16,7 @@
 
 <a id="note-4"></a>
 
-4. Steven C. Hayes et al., “Acceptance and Commitment Therapy: Model, Processes and Outcomes,” *Behaviour Research and Therapy* 44, no. 1 (2006): 1–25, https://doi.org/10.1016/j.brat.2005.06.006.
+4. Steven C. Hayes et al., “Acceptance and Commitment Therapy: Model, Processes and Outcomes,” *Behaviour Research and Therapy* 44, no. 1 (2006): 1–25, at 1, https://doi.org/10.1016/j.brat.2005.06.006.
 
 <a id="note-5"></a>
 
