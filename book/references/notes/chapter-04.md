@@ -4,7 +4,7 @@
 
 <a id="note-1"></a>
 
-1. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+1. This distinction is drawn in chapter 3 and developed in chapter 6. For the analogous distinction between a classifier and its instances in software modeling, see Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
 
 <a id="note-2"></a>
 
