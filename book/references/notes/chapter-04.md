@@ -160,7 +160,7 @@
 
 <a id="note-40"></a>
 
-40. Object Management Group, *Unified Modeling Language*, 126.
+40. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-41"></a>
 
