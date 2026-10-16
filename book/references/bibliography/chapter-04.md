@@ -4,8 +4,6 @@
 
 Adolphs, Ralph. “How Should Neuroscience Study Emotions? By Distinguishing Emotion States, Concepts, and Experiences.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 24–31. https://doi.org/10.1093/scan/nsw153.
 
-Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
-
 Barrett, Lisa Feldman. “Concepts and Emotion, Part 1 of 3.” YouTube video, 2:24. June 11, 2023. https://www.youtube.com/watch?v=mpjrD1jCEls.
 
 Barrett, Lisa Feldman. “How Emotions are Made (Cinematic Lecture).” Flow. YouTube video, 40:00. April 14, 2020. https://www.youtube.com/watch?v=0rbyC5m557I.

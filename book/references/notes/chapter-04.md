@@ -200,7 +200,7 @@
 
 <a id="note-50"></a>
 
-50. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
+50. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:09–00:18.
 
 <a id="note-51"></a>
 
