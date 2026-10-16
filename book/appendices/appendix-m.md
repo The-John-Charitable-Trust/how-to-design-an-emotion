@@ -28,7 +28,7 @@ Distorted lighting may prevent the construct from satisfying the governing condi
 
 Sound: If a Tree Falls in a Forest
 
-We turn next to sound. The familiar philosophical question asks whether a falling tree produces sound in the absence of a listener. Philosophers have long debated this problem in connection with distinctions between physical vibration and auditory experience.<sup><a href="../references/notes/appendix-m.md#note-5">5</a></sup>
+We turn next to sound. The familiar philosophical question asks whether a falling tree produces sound in the absence of a listener. The question is popularly associated with George Berkeley (1685–1753), although it does not appear in his writings; it turns on the distinction between physical vibration and auditory experience.<sup><a href="../references/notes/appendix-m.md#note-5">5</a></sup>
 
 Within the CSS framework, the disagreement can be understood as arising from different ways of defining the concept SOUND.
 
