@@ -105,7 +105,7 @@
 
 <a id="note-26"></a>
 
-26. Gupta, “Definitions.”
+26. Gupta, “Definitions,” §2; Georges Rey, “The Analytic/Synthetic Distinction,” in *The Stanford Encyclopedia of Philosophy*, substantive revision June 1, 2026, https://plato.stanford.edu/entries/analytic-synthetic/.
 
 <a id="note-27"></a>
 
@@ -113,7 +113,7 @@
 
 <a id="note-28"></a>
 
-28. Georges Rey, “The Analytic/Synthetic Distinction,” in *The Stanford Encyclopedia of Philosophy*, substantive revision June 1, 2026, https://plato.stanford.edu/entries/analytic-synthetic/.
+28. Rey, “Analytic/Synthetic Distinction.”
 
 <a id="note-29"></a>
 
