@@ -4,11 +4,11 @@
 
 <a id="note-1"></a>
 
-1. Antonio Damasio and Gil B. Carvalho, “The Nature of Feelings: Evolutionary and Neurobiological Origins,” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52, https://doi.org/10.1038/nrn3403.
+1. Antonio Damasio and Gil B. Carvalho, “The Nature of Feelings: Evolutionary and Neurobiological Origins,” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52, at 143, https://doi.org/10.1038/nrn3403.
 
 <a id="note-2"></a>
 
-2. For prediction, allostasis, and categorization as the brain’s construction of emotion, see Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
+2. For prediction, allostasis, and categorization as the brain’s construction of emotion, see Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, at 1, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-3"></a>
 
@@ -16,11 +16,11 @@
 
 <a id="note-4"></a>
 
-4. Rainer Reisenzein et al., “Computational Modeling of Emotion: Toward Improving the Inter- and Intradisciplinary Exchange,” *IEEE Transactions on Affective Computing* 4, no. 3 (2013): 246–66, https://doi.org/10.1109/T-AFFC.2013.14.
+4. Rainer Reisenzein et al., “Computational Modeling of Emotion: Toward Improving the Inter- and Intradisciplinary Exchange,” *IEEE Transactions on Affective Computing* 4, no. 3 (2013): 246–66, at 246, https://doi.org/10.1109/T-AFFC.2013.14.
 
 <a id="note-5"></a>
 
-5. Gerald L. Clore and Andrew Ortony, “Psychological Construction in the OCC Model of Emotion,” *Emotion Review* 5, no. 4 (2013): 335–43, https://doi.org/10.1177/1754073913489751.
+5. Gerald L. Clore and Andrew Ortony, “Psychological Construction in the OCC Model of Emotion,” *Emotion Review* 5, no. 4 (2013): 335–43, at 335, https://doi.org/10.1177/1754073913489751.
 
 <a id="note-6"></a>
 
