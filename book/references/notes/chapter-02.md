@@ -205,7 +205,7 @@
 
 <a id="note-51"></a>
 
-51. Object Management Group, *Unified Modeling Language*.
+51. This method is my own. For the notation that declares structure and constraints, see Object Management Group, *Unified Modeling Language*, 35, 221.
 
 <a id="note-52"></a>
 
