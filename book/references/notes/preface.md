@@ -4,7 +4,7 @@
 
 <a id="note-1"></a>
 
-1. Cf. William James, “What Is an Emotion?,” *Mind* 9, no. 34 (1884): 188–205, https://doi.org/10.1093/mind/os-IX.34.188.
+1. Cf. William James, “What Is an Emotion?,” *Mind* 9, no. 34 (1884): 188–205, at 189–90, https://doi.org/10.1093/mind/os-IX.34.188.
 
 <a id="note-2"></a>
 
