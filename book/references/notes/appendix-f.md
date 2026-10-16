@@ -56,4 +56,4 @@
 
 <a id="note-14"></a>
 
-14. John B. Watson, “Psychology as the Behaviorist Views It,” *Psychological Review* 20, no. 2 (1913): 158–77, https://doi.org/10.1037/h0074428.
+14. John B. Watson, “Psychology as the Behaviorist Views It,” *Psychological Review* 20, no. 2 (1913): 158–77, https://doi.org/10.1037/h0074428; John B. Watson and Rosalie Rayner, “Conditioned Emotional Reactions,” *Journal of Experimental Psychology* 3, no. 1 (1920): 1–14, https://doi.org/10.1037/h0069608.

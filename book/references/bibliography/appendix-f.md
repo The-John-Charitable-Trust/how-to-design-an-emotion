@@ -31,3 +31,5 @@ Scherer, Klaus R. “The Dynamic Architecture of Emotion: Evidence for the Compo
 Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.
 
 Watson, John B. “Psychology as the Behaviorist Views It.” *Psychological Review* 20, no. 2 (1913): 158–77. https://doi.org/10.1037/h0074428.
+
+Watson, John B., and Rosalie Rayner. “Conditioned Emotional Reactions.” *Journal of Experimental Psychology* 3, no. 1 (1920): 1–14. https://doi.org/10.1037/h0069608.
