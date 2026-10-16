@@ -62,7 +62,7 @@ Rohlf, Michael. “Immanuel Kant.” In *The Stanford Encyclopedia of Philosophy
 
 Russell, James A. “Core Affect and the Psychological Construction of Emotion.” *Psychological Review* 110, no. 1 (2003): 145–72. https://doi.org/10.1037/0033-295X.110.1.145.
 
-Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
+Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/spr2024/entries/emotion/.
 
 Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.
 
