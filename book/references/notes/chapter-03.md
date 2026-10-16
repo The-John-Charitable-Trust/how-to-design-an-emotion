@@ -180,7 +180,7 @@
 
 <a id="note-45"></a>
 
-45. James J. Gross, “The Emerging Field of Emotion Regulation: An Integrative Review,” *Review of General Psychology* 2, no. 3 (1998): 271–99, https://doi.org/10.1037/1089-2680.2.3.271.
+45. This reading is my own; see Barrett, “Theory of Constructed Emotion,” in the sections “What Is a Brain?” and “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators”; and James J. Gross and Lisa Feldman Barrett, “Emotion Generation and Emotion Regulation: One or Two Depends on Your Point of View,” *Emotion Review* 3, no. 1 (2011): 8–16, in the section “A Psychological Construction Perspective on Emotion Regulation,” https://doi.org/10.1177/1754073910380974.
 
 <a id="note-46"></a>
 

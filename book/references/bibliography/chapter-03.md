@@ -16,7 +16,7 @@ Clark-Polner, Elizabeth, Timothy D. Johnson, and Lisa Feldman Barrett. “Multiv
 
 Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38. https://doi.org/10.1038/nrn2787.
 
-Gross, James J. “The Emerging Field of Emotion Regulation: An Integrative Review.” *Review of General Psychology* 2, no. 3 (1998): 271–99. https://doi.org/10.1037/1089-2680.2.3.271.
+Gross, James J., and Lisa Feldman Barrett. “Emotion Generation and Emotion Regulation: One or Two Depends on Your Point of View.” *Emotion Review* 3, no. 1 (2011): 8–16. https://doi.org/10.1177/1754073910380974.
 
 Haxby, James V., M. Ida Gobbini, Maura L. Furey, Alumit Ishai, Jennifer L. Schouten, and Pietro Pietrini. “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex.” *Science* 293, no. 5539 (2001): 2425–30. https://doi.org/10.1126/science.1063736.
 
