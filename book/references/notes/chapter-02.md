@@ -213,7 +213,7 @@
 
 <a id="note-53"></a>
 
-53. Object Management Group, *Unified Modeling Language*.
+53. The claim that objective rational principles fix their truth is my own. On analyticity as truth by virtue of meaning, see Rey, “Analytic/Synthetic Distinction.”
 
 <a id="note-54"></a>
 
