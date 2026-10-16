@@ -24,8 +24,8 @@
 
 <a id="note-6"></a>
 
-6. Mantle Hood, *The Ethnomusicologist* (Kent, OH: Kent State University Press, 1971), 101–20.
+6. Mantle Hood, *The Ethnomusicologist* (Kent, OH: Kent State University Press, 1971).
 
 <a id="note-7"></a>
 
-7. Michael Tenzer, *Gamelan Gong Kebyar: The Art of Twentieth-Century Balinese Music* (Chicago: University of Chicago Press, 2000), 17–45.
+7. Michael Tenzer, *Gamelan Gong Kebyar: The Art of Twentieth-Century Balinese Music* (Chicago: University of Chicago Press, 2000).

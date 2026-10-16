@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. Carnap, “Meaning and Synonymy”; Patrick Suppes, *Introduction to Logic* (New York: Dover, 1999), 6–9; Ayn Rand, *Introduction to Objectivist Epistemology*, 2nd ed. (New York: Meridian, 1990), 42–47.
+2. Carnap, “Meaning and Synonymy”; Patrick Suppes, *Introduction to Logic* (New York: Dover, 1999); Ayn Rand, *Introduction to Objectivist Epistemology*, 2nd ed. (New York: Meridian, 1990).
 
 <a id="note-3"></a>
 
@@ -36,11 +36,11 @@
 
 <a id="note-9"></a>
 
-9. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982), 19–27; Luciano Floridi, “Is Semantic Information Meaningful Data?,” *Philosophy and Phenomenological Research* 70, no. 2 (2005): 351–70, https://doi.org/10.1111/j.1933-1592.2005.tb00531.x; Grady Booch, James Rumbaugh, and Ivar Jacobson, *The Unified Modeling Language User Guide*, 2nd ed. (Boston: Addison-Wesley, 2005).
+9. David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* (San Francisco: W. H. Freeman, 1982); Luciano Floridi, “Is Semantic Information Meaningful Data?,” *Philosophy and Phenomenological Research* 70, no. 2 (2005): 351–70, https://doi.org/10.1111/j.1933-1592.2005.tb00531.x; Grady Booch, James Rumbaugh, and Ivar Jacobson, *The Unified Modeling Language User Guide*, 2nd ed. (Boston: Addison-Wesley, 2005).
 
 <a id="note-10"></a>
 
-10. Booch, Rumbaugh, and Jacobson, *UML User Guide*; Martin Fowler, *UML Distilled: A Brief Guide to the Standard Object Modeling Language*, 3rd ed. (Boston: Addison-Wesley, 2004), 11–28; Marr, *Vision*.
+10. Booch, Rumbaugh, and Jacobson, *UML User Guide*; Martin Fowler, *UML Distilled: A Brief Guide to the Standard Object Modeling Language*, 3rd ed. (Boston: Addison-Wesley, 2004); Marr, *Vision*.
 
 <a id="note-11"></a>
 

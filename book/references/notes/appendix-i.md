@@ -3,13 +3,13 @@
 [Return to Appendix I](../../appendices/appendix-i.md) · [Bibliography](../bibliography/appendix-i.md)
 
 <a id="note-1"></a>
-1. National Aeronautics and Space Administration, *NASA Systems Engineering Handbook*, rev. 2, NASA/SP-2016-6105 (Washington, DC: National Aeronautics and Space Administration, 2016), 165–69. The handbook describes formal decision analysis through defined criteria, identified alternatives, weighted trade-off matrices, normalized measurements, and documented scoring results. The four governing domains and their particular weights are the author’s adaptation of this general methodology as established in Appendices G and H.
+1. National Aeronautics and Space Administration, *NASA Systems Engineering Handbook*, rev. 2, NASA/SP-2016-6105 (Washington, DC: National Aeronautics and Space Administration, 2016). The handbook describes formal decision analysis through defined criteria, identified alternatives, weighted trade-off matrices, normalized measurements, and documented scoring results. The four governing domains and their particular weights are the author’s adaptation of this general methodology as established in Appendices G and H.
 
 <a id="note-2"></a>
 2. The conclusion that no surveyed theory supplies the entire architecture specified by the Constructivist Semiotic Model of Emotions is the author’s comparative judgment. For representative surveys demonstrating the divergent explanatory objects and partial architectures of major emotion theories, see Agnes Moors, “Theories of Emotion Causation: A Review,” *Cognition and Emotion* 23, no. 4 (2009): 625–62; and Lisa Feldman Barrett and James A. Russell, “An Introduction to Psychological Construction,” in *The Psychological Construction of Emotion*, ed. Lisa Feldman Barrett and James A. Russell (New York: Guilford Press, 2015), 1–17.
 
 <a id="note-3"></a>
-3. National Aeronautics and Space Administration, *NASA Systems Engineering Handbook*, 167–68. The handbook distinguishes mandatory criteria from enhancing criteria and states that an alternative that does not meet mandatory criteria should be removed from consideration. This supplies the methodological precedent for a showstopper criterion, although the definitional gate itself is established by the author.
+3. National Aeronautics and Space Administration, *NASA Systems Engineering Handbook*. The handbook distinguishes mandatory criteria from enhancing criteria and states that an alternative that does not meet mandatory criteria should be removed from consideration. This supplies the methodological precedent for a showstopper criterion, although the definitional gate itself is established by the author.
 
 <a id="note-4"></a>
 4. Lisa Feldman Barrett, “Variety Is the Spice of Life: A Psychological Construction Approach to Understanding Variability in Emotion,” *Cognition and Emotion* 23, no. 7 (2009): 1284–1306, at 1284. Barrett characterizes psychological construction as a family of approaches that rejects fixed natural-kind essences and explains emotional events through combinations of more basic psychological processes. The conclusion that the resulting architecture leaves emotional identity indeterminate under the present definitional criterion is the author’s evaluation.
@@ -24,7 +24,7 @@
 7. John Tooby and Leda Cosmides, “The Past Explains the Present,” *Ethology and Sociobiology* 11, nos. 4–5 (1990): 375–424, at 375; Randolph M. Nesse and Phoebe C. Ellsworth, “Evolution, Emotions, and Emotional Disorders,” *American Psychologist* 64, no. 2 (2009): 129–39. These accounts explain emotions as evolved mechanisms or coordinated modes of operation shaped to address recurrent adaptive problems. The distinction between adaptive function and the identity conditions of emotional meaning is the author’s evaluation.
 
 <a id="note-8"></a>
-8. James A. Russell, “A Circumplex Model of Affect,” *Journal of Personality and Social Psychology* 39, no. 6 (1980): 1161–78, especially 1163–64. Russell represents affective concepts within a two-dimensional space structured principally by pleasure–displeasure and arousal–sleep. The conclusion that coordinates within this space do not independently establish the identity conditions distinguishing particular emotions is the author’s evaluation.
+8. James A. Russell, “A Circumplex Model of Affect,” *Journal of Personality and Social Psychology* 39, no. 6 (1980): 1161–78. Russell represents affective concepts within a two-dimensional space structured principally by pleasure–displeasure and arousal–sleep. The conclusion that coordinates within this space do not independently establish the identity conditions distinguishing particular emotions is the author’s evaluation.
 
 <a id="note-9"></a>
 9. Paul Ekman, “An Argument for Basic Emotions,” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200, at 169. Ekman argues that basic emotions possess distinctive signals, physiological characteristics, antecedent events, and evolutionary functions. The requirement that affective substrate, phenomenological feeling, and cognitive-semiotic emotion be treated as non-substitutable ontological constructs belongs to the present framework.
@@ -33,10 +33,10 @@
 10. John B. Watson, “Psychology as the Behaviorist Views It,” *Psychological Review* 20, no. 2 (1913): 158–77; John B. Watson and Rosalie Rayner, “Conditioned Emotional Reactions,” *Journal of Experimental Psychology* 3, no. 1 (1920): 1–14. Watson’s behaviorist program makes the prediction and control of observable behavior its central scientific object and excludes introspective consciousness from its essential methods, while Watson and Rayner explain an emotional response through conditioning and stimulus generalization. The conclusion that such accounts exclude the interpretive architecture required by the definitional gate is the author’s evaluation.
 
 <a id="note-11"></a>
-11. National Aeronautics and Space Administration, *NASA Systems Engineering Handbook*, 168–69. The handbook recommends normalization when decision criteria use different measurement bases and emphasizes that the scales and weights used in a decision matrix require repeatable and measurable operational definitions. The 0.00–1.00 scoring scale and the specific micro-level weights are established by the author in Appendix H.
+11. National Aeronautics and Space Administration, *NASA Systems Engineering Handbook*. The handbook recommends normalization when decision criteria use different measurement bases and emphasizes that the scales and weights used in a decision matrix require repeatable and measurable operational definitions. The 0.00–1.00 scoring scale and the specific micro-level weights are established by the author in Appendix H.
 
 <a id="note-12"></a>
-12. Evangelos Triantaphyllou, *Multi-Criteria Decision Making Methods: A Comparative Study*, Applied Optimization 44 (Dordrecht: Kluwer Academic Publishers, 2000), 5–21. The weighted-sum model evaluates an alternative by multiplying its criterion-specific values by the corresponding criterion weights and aggregating the resulting weighted values into an overall score. The resulting candidate scores and their substantive interpretations remain the author’s findings.
+12. Evangelos Triantaphyllou, *Multi-Criteria Decision Making Methods: A Comparative Study*, Applied Optimization 44 (Dordrecht: Kluwer Academic Publishers, 2000). The weighted-sum model evaluates an alternative by multiplying its criterion-specific values by the corresponding criterion weights and aggregating the resulting weighted values into an overall score. The resulting candidate scores and their substantive interpretations remain the author’s findings.
 
 <a id="note-13"></a>
 13. Ira J. Roseman, “Appraisal Determinants of Emotions: Constructing a More Accurate and Comprehensive Theory,” *Cognition and Emotion* 10, no. 3 (1996): 241–78, at 241; Klaus R. Scherer, “What Are Emotions? And How Can They Be Measured?,” *Social Science Information* 44, no. 4 (2005): 695–729. These sources characterize emotions as multicomponent processes elicited by an organism’s evaluation of its relationship to events, rather than as physiology, expression, or behavior alone. The particular numerical scores assigned to the definitional principles are the author’s comparative judgments.
@@ -45,7 +45,7 @@
 14. Agnes Moors, “Flavors of Appraisal Theories of Emotion,” *Emotion Review* 6, no. 4 (2014): 303–7; Klaus R. Scherer, “The Dynamic Architecture of Emotion: Evidence for the Component Process Model,” *Cognition and Emotion* 23, no. 7 (2009): 1307–51. Moors distinguishes versions of appraisal theory according to both their explanatory objects and their proposed mechanisms, while Scherer conceptualizes emotion as an emergent process involving coordinated changes among several components. The conclusion that these variations leave emotion’s identity incompletely fixed under the present criteria is the author’s evaluation.
 
 <a id="note-15"></a>
-15. Magda B. Arnold, *Emotion and Personality*, vol. 1, Psychological Aspects (New York: Columbia University Press, 1960), 171–77. Arnold distinguishes appraisal from emotion and describes appraisal as a direct or intuitive evaluation of an object or situation in relation to the individual.
+15. Magda B. Arnold, *Emotion and Personality*, vol. 1, Psychological Aspects (New York: Columbia University Press, 1960). Arnold distinguishes appraisal from emotion and describes appraisal as a direct or intuitive evaluation of an object or situation in relation to the individual.
 
 <a id="note-16"></a>
 16. Didier Grandjean and Klaus R. Scherer, “Unpacking the Cognitive Architecture of Emotion Processes,” *Emotion* 8, no. 3 (2008): 341–51, at 341.
@@ -78,7 +78,7 @@
 25. Smith and Kirby, “Putting Appraisal in Context,” 1352; Klaus R. Scherer, “Appraisal Considered as a Process of Multilevel Sequential Checking,” in *Appraisal Processes in Emotion: Theory, Methods, Research*, ed. Klaus R. Scherer, Angela Schorr, and Tom Johnstone (New York: Oxford University Press, 2001), 92–120. Both accounts include assessments of available resources, power, control, or coping potential among the variables differentiating emotional responses.
 
 <a id="note-26"></a>
-26. Nico H. Frijda, *The Emotions* (Cambridge: Cambridge University Press, 1986), 206–32. Frijda relates emotion to the perceived significance of events for an individual’s concerns, motives, and action readiness.
+26. Nico H. Frijda, *The Emotions* (Cambridge: Cambridge University Press, 1986). Frijda relates emotion to the perceived significance of events for an individual’s concerns, motives, and action readiness.
 
 <a id="note-27"></a>
 27. Craig A. Smith and Phoebe C. Ellsworth, “Patterns of Cognitive Appraisal in Emotion,” *Journal of Personality and Social Psychology* 48, no. 4 (1985): 813–38. Their results show systematic relations between appraisal dimensions and differentiated emotional experiences.
@@ -96,13 +96,13 @@
 31. Smith and Kirby, “Putting Appraisal in Context,” 1352; Moors, “Flavors of Appraisal Theories,” 303–7. The judgment that appraisal theory does not establish necessary analytic relations that remain invariant under substitution and all counterexamples is the author’s evaluation under the criteria developed in Appendices G and H.
 
 <a id="note-32"></a>
-32. Arnold, *Emotion and Personality*, 1:171–77; Smith and Kirby, “Putting Appraisal in Context,” 1352. Appraisal accounts reject the claim that physiological change alone constitutes emotion by making evaluation of the person-environment relationship necessary to emotional differentiation.
+32. Arnold, *Emotion and Personality*, vol. 1; Smith and Kirby, “Putting Appraisal in Context,” 1352. Appraisal accounts reject the claim that physiological change alone constitutes emotion by making evaluation of the person-environment relationship necessary to emotional differentiation.
 
 <a id="note-33"></a>
 33. Smith and Kirby, “Putting Appraisal in Context,” 1352. Their model explains emotional significance through the relationship between an encounter and the individual’s goals or motivational commitments.
 
 <a id="note-34"></a>
-34. Frijda, *The Emotions*, 206–32. Frijda treats events as emotionally significant insofar as they affect an individual’s concerns and states of action readiness.
+34. Frijda, *The Emotions*. Frijda treats events as emotionally significant insofar as they affect an individual’s concerns and states of action readiness.
 
 <a id="note-35"></a>
 35. Moors, “Flavors of Appraisal Theories,” 303. Moors describes appraisal theories in which emotional differentiation depends upon an individual’s interpretation of circumstances rather than upon the event’s physical properties alone.
@@ -144,10 +144,10 @@
 47. Stacy C. Marsella and Jonathan Gratch, “EMA: A Process Model of Appraisal Dynamics,” *Cognitive Systems Research* 10, no. 1 (2009): 70–90. EMA represents appraisal variables over a common causal interpretation of the person-environment relationship, allowing emotional evaluations to change as perception and inference update the represented situation.
 
 <a id="note-48"></a>
-48. Marsella and Gratch, “EMA,” 70–90. Because appraisal is computed over a representation of a particular person-environment relationship, the formal evaluation remains anchored to features of the represented context. The score assigned to Context Anchoring is the author’s comparative evaluation.
+48. Marsella and Gratch, “EMA.” Because appraisal is computed over a representation of a particular person-environment relationship, the formal evaluation remains anchored to features of the represented context. The score assigned to Context Anchoring is the author’s comparative evaluation.
 
 <a id="note-49"></a>
-49. Gratch and Marsella, “Domain-Independent Framework,” 269–306; Marsella and Gratch, “EMA,” 70–90. These computational models operationalize appraisal by calculating the values of specified appraisal dimensions from an explicit representation of the agent’s beliefs, goals, plans, and circumstances.
+49. Gratch and Marsella, “Domain-Independent Framework,” 269–306; Marsella and Gratch, “EMA.” These computational models operationalize appraisal by calculating the values of specified appraisal dimensions from an explicit representation of the agent’s beliefs, goals, plans, and circumstances.
 
 <a id="note-50"></a>
 50. Grandjean and Scherer, “Unpacking the Cognitive Architecture,” 341. Scherer provides ordered stimulus-evaluation checks and predictions linking combinations of check outcomes to differentiated emotional responses, thereby making the theory amenable to implementation through conditional or decision-rule structures.
@@ -156,31 +156,31 @@
 51. David Sander, Didier Grandjean, and Klaus R. Scherer, “A Systems Approach to Appraisal Mechanisms in Emotion,” *Neural Networks* 18, no. 4 (2005): 317–52. The authors formulate appraisal mechanisms through interacting processing components and neural-network mappings that relate evaluated stimulus features to emotional response organization.
 
 <a id="note-52"></a>
-52. Gratch and Marsella, “Domain-Independent Framework,” 269–306; Marsella and Gratch, “EMA,” 70–90. In these implementations, calculated appraisal values are mapped to emotional types, intensities, coping responses, and behavioral consequences. The characterization of these processes as automatically producing emotional outcomes reflects the present framework’s architectural analysis.
+52. Gratch and Marsella, “Domain-Independent Framework,” 269–306; Marsella and Gratch, “EMA.” In these implementations, calculated appraisal values are mapped to emotional types, intensities, coping responses, and behavioral consequences. The characterization of these processes as automatically producing emotional outcomes reflects the present framework’s architectural analysis.
 
 <a id="note-53"></a>
-53. Marsella and Gratch, “EMA,” 70–90. EMA explicitly characterizes appraisal as a fast, automatic process operating over an evolving causal interpretation. The conclusion that this does not preserve interpretation as a separately instantiated, goal-directed act of an agent is the author’s evaluation under the cognitive-semiotic criteria.
+53. Marsella and Gratch, “EMA.” EMA explicitly characterizes appraisal as a fast, automatic process operating over an evolving causal interpretation. The conclusion that this does not preserve interpretation as a separately instantiated, goal-directed act of an agent is the author’s evaluation under the cognitive-semiotic criteria.
 
 <a id="note-54"></a>
-54. Gratch and Marsella, “Domain-Independent Framework,” 269–306; Marsella and Gratch, “EMA,” 70–90. The models retain agents, goals, beliefs, and environmental representations as computational inputs, but operationalize appraisal through algorithms and mappings. The resulting scores for Ontological Separability, Instantiation Integrity, Symbolic Reference Integrity, Interpretive Governance, and Agent and Goal Preservation are the author’s comparative judgments.
+54. Gratch and Marsella, “Domain-Independent Framework,” 269–306; Marsella and Gratch, “EMA.” The models retain agents, goals, beliefs, and environmental representations as computational inputs, but operationalize appraisal through algorithms and mappings. The resulting scores for Ontological Separability, Instantiation Integrity, Symbolic Reference Integrity, Interpretive Governance, and Agent and Goal Preservation are the author’s comparative judgments.
 
 <a id="note-55"></a>
-55. Gratch and Marsella, “Domain-Independent Framework,” 269–306; Marsella and Gratch, “EMA,” 70–90. These works demonstrate that appraisal theories can be implemented as computational process models. The conclusion that such implementations do not preserve the complete cognitive-semiotic architecture specified in the present study is the author’s evaluative finding.
+55. Gratch and Marsella, “Domain-Independent Framework,” 269–306; Marsella and Gratch, “EMA.” These works demonstrate that appraisal theories can be implemented as computational process models. The conclusion that such implementations do not preserve the complete cognitive-semiotic architecture specified in the present study is the author’s evaluative finding.
 
 <a id="note-56"></a>
-56. Klaus R. Scherer, “What Are Emotions? And How Can They Be Measured?,” *Social Science Information* 44, no. 4 (2005): 695–729, especially 697–700. Scherer identifies cognitive appraisal as one of five differentiated components or subsystems involved in an emotional episode.
+56. Klaus R. Scherer, “What Are Emotions? And How Can They Be Measured?,” *Social Science Information* 44, no. 4 (2005): 695–729. Scherer identifies cognitive appraisal as one of five differentiated components or subsystems involved in an emotional episode.
 
 <a id="note-57"></a>
-57. Scherer, “What Are Emotions?,” 697–700. The neurophysiological component concerns changes in bodily regulation and physiological support associated with the emotional episode.
+57. Scherer, “What Are Emotions?” The neurophysiological component concerns changes in bodily regulation and physiological support associated with the emotional episode.
 
 <a id="note-58"></a>
-58. Scherer, “What Are Emotions?,” 697–700. The motor-expression component includes facial, vocal, and bodily manifestations that communicate reaction and behavioral intention.
+58. Scherer, “What Are Emotions?” The motor-expression component includes facial, vocal, and bodily manifestations that communicate reaction and behavioral intention.
 
 <a id="note-59"></a>
-59. Scherer, “What Are Emotions?,” 697–700. The motivational component consists of action tendencies that prepare, direct, or inhibit behavior in response to the appraised event.
+59. Scherer, “What Are Emotions?” The motivational component consists of action tendencies that prepare, direct, or inhibit behavior in response to the appraised event.
 
 <a id="note-60"></a>
-60. Scherer, “What Are Emotions?,” 697–700. The subjective-feeling component integrates and represents changes occurring across the other components in conscious emotional experience.
+60. Scherer, “What Are Emotions?” The subjective-feeling component integrates and represents changes occurring across the other components in conscious emotional experience.
 
 <a id="note-61"></a>
 61. Klaus R. Scherer, “The Dynamic Architecture of Emotion: Evidence for the Component Process Model,” *Cognition and Emotion* 23, no. 7 (2009): 1307–51. CPM treats appraisal, physiology, motivation, motor expression, and subjective feeling as functionally differentiated but dynamically interacting components. The particular scores assigned to the definitional principles are the author’s evaluations.
@@ -192,7 +192,7 @@
 63. Scherer, “Dynamic Architecture of Emotion,” 1307–51. CPM conceptualizes emotion as an emergent, dynamically unfolding process generated through appraisal-driven synchronization among interacting components.
 
 <a id="note-64"></a>
-64. Scherer, “What Are Emotions?,” 697–700; Scherer, “Dynamic Architecture of Emotion,” 1307–51. These accounts variously characterize emotion through the episode, the synchronization of components, and the emergent process produced through their interaction. The claim that this creates ambiguity among sequence, integration, and outcome is the author’s definitional evaluation.
+64. Scherer, “What Are Emotions?”; Scherer, “Dynamic Architecture of Emotion,” 1307–51. These accounts variously characterize emotion through the episode, the synchronization of components, and the emergent process produced through their interaction. The claim that this creates ambiguity among sequence, integration, and outcome is the author’s definitional evaluation.
 
 <a id="note-65"></a>
 65. Scherer, “Dynamic Architecture of Emotion,” 1307–51. CPM offers a more differentiated process architecture than general appraisal theory by identifying functional components and specifying their dynamic coordination. The conclusion that it nevertheless lacks stable cognitive-semiotic identity conditions is the author’s comparative judgment.
@@ -204,16 +204,16 @@
 67. Scherer, “Appraisal Considered as a Process,” 92–120. Appraisal begins with checks concerning novelty and relevance before proceeding to implication, coping potential, and normative significance.
 
 <a id="note-68"></a>
-68. Scherer, “What Are Emotions?,” 697–700; Scherer, “Dynamic Architecture of Emotion,” 1307–51. Appraisal-driven changes affect neurophysiological support and bodily regulation throughout the unfolding emotional episode.
+68. Scherer, “What Are Emotions?”; Scherer, “Dynamic Architecture of Emotion,” 1307–51. Appraisal-driven changes affect neurophysiological support and bodily regulation throughout the unfolding emotional episode.
 
 <a id="note-69"></a>
-69. Scherer, “What Are Emotions?,” 697–700; Scherer, “Dynamic Architecture of Emotion,” 1307–51. Motor expression constitutes a differentiated response component whose changes are predicted to reflect appraisal outcomes.
+69. Scherer, “What Are Emotions?”; Scherer, “Dynamic Architecture of Emotion,” 1307–51. Motor expression constitutes a differentiated response component whose changes are predicted to reflect appraisal outcomes.
 
 <a id="note-70"></a>
-70. Scherer, “Appraisal Considered as a Process,” 92–120; Scherer, “What Are Emotions?,” 697–700. Appraisals concerning goals, control, and coping potential influence motivational changes and the preparation of action.
+70. Scherer, “Appraisal Considered as a Process,” 92–120; Scherer, “What Are Emotions?” Appraisals concerning goals, control, and coping potential influence motivational changes and the preparation of action.
 
 <a id="note-71"></a>
-71. Scherer, “What Are Emotions?,” 697–700. Subjective feeling is treated as a component that monitors and integrates the synchronized changes occurring across the emotional episode.
+71. Scherer, “What Are Emotions?” Subjective feeling is treated as a component that monitors and integrates the synchronized changes occurring across the emotional episode.
 
 <a id="note-72"></a>
 72. Grandjean and Scherer, “Unpacking the Cognitive Architecture,” 341; Scherer, “Dynamic Architecture of Emotion,” 1307–51. CPM predicts systematic relationships between stimulus-evaluation checks and subsequent physiological, motivational, expressive, and experiential changes.
@@ -228,7 +228,7 @@
 75. Scherer, “Appraisal Considered as a Process,” 92–120. Scherer supports the proposed sequence through functional, developmental, comparative, physiological, and empirical considerations and acknowledges that aspects of the model’s terminology and predictions have evolved.
 
 <a id="note-76"></a>
-76. Scherer, “Appraisal Considered as a Process,” 92–120; Marsella and Gratch, “EMA,” 70–90. Marsella and Gratch expressly dispute the invariance of Scherer’s sequential ordering and propose that the apparent sequence may instead arise from the time course of perceptual and inferential processes. This disagreement supports the author’s lower scores for Necessity Under Substitution, Counterexample Impossibility, Independence from Empirical Revision, Modal Stability, and Non-Circular Justification.
+76. Scherer, “Appraisal Considered as a Process,” 92–120; Marsella and Gratch, “EMA.” Marsella and Gratch expressly dispute the invariance of Scherer’s sequential ordering and propose that the apparent sequence may instead arise from the time course of perceptual and inferential processes. This disagreement supports the author’s lower scores for Necessity Under Substitution, Counterexample Impossibility, Independence from Empirical Revision, Modal Stability, and Non-Circular Justification.
 
 <a id="note-77"></a>
 77. Scherer, “Dynamic Architecture of Emotion,” 1307–51. CPM offers a coherent, empirically articulated account of the organization and temporal development of emotion. The conclusion that it strengthens analytic coherence without establishing analytic necessity is the author’s evaluation under the present criteria.
@@ -237,16 +237,16 @@
 78. Grandjean and Scherer, “Unpacking the Cognitive Architecture,” 341. CPM treats stimulus evaluation as the cognitive component that initiates and continuously differentiates the emotional process.
 
 <a id="note-79"></a>
-79. Scherer, “What Are Emotions?,” 697–700. Neurophysiological changes constitute a differentiated component concerned with bodily regulation and support.
+79. Scherer, “What Are Emotions?” Neurophysiological changes constitute a differentiated component concerned with bodily regulation and support.
 
 <a id="note-80"></a>
-80. Scherer, “What Are Emotions?,” 697–700. Facial, vocal, and bodily expression constitutes the motor-expression component.
+80. Scherer, “What Are Emotions?” Facial, vocal, and bodily expression constitutes the motor-expression component.
 
 <a id="note-81"></a>
-81. Scherer, “What Are Emotions?,” 697–700. Action readiness constitutes the motivational component that prepares and directs adaptive behavior.
+81. Scherer, “What Are Emotions?” Action readiness constitutes the motivational component that prepares and directs adaptive behavior.
 
 <a id="note-82"></a>
-82. Scherer, “What Are Emotions?,” 697–700. Subjective feeling constitutes the experiential component that represents and integrates changes across the emotional episode.
+82. Scherer, “What Are Emotions?” Subjective feeling constitutes the experiential component that represents and integrates changes across the emotional episode.
 
 <a id="note-83"></a>
 83. Scherer, “Dynamic Architecture of Emotion,” 1307–51. Because emotional differentiation depends upon an individual’s appraisal of the significance of an event, emotional meaning is not treated as an intrinsic physical property of the event itself.
@@ -261,7 +261,7 @@
 86. Scherer, “Dynamic Architecture of Emotion,” 1307–51. CPM explains emotional development through dynamic coordination among appraisal, physiology, motivation, expression, and feeling. The judgment that this architecture lacks a separate principle of interpretive governance is the author’s evaluation.
 
 <a id="note-87"></a>
-87. Scherer, “What Are Emotions?,” 697–700; Scherer, “Dynamic Architecture of Emotion,” 1307–51. Emotion is defined through synchronized changes in differentiated organismic subsystems produced in response to appraisal of a significant event.
+87. Scherer, “What Are Emotions?”; Scherer, “Dynamic Architecture of Emotion,” 1307–51. Emotion is defined through synchronized changes in differentiated organismic subsystems produced in response to appraisal of a significant event.
 
 <a id="note-88"></a>
 88. Grandjean and Scherer, “Unpacking the Cognitive Architecture,” 341; Scherer, “Dynamic Architecture of Emotion,” 1307–51. CPM specifies evaluative mechanisms and predicted component changes but does not separately formalize an interpreting agent and standards governing whether an interpretation is semantically correct. This is the author’s cognitive-semiotic assessment rather than a claim made explicitly by Scherer.
@@ -279,16 +279,16 @@
 92. Grandjean and Scherer, “Unpacking the Cognitive Architecture,” 341. Scherer’s Component Process Model organizes appraisal through an ordered sequence of stimulus-evaluation checks.
 
 <a id="note-93"></a>
-93. Scherer, “What Are Emotions?,” 697–700. CPM treats neurophysiological change as a differentiated component of the emotional episode.
+93. Scherer, “What Are Emotions?” CPM treats neurophysiological change as a differentiated component of the emotional episode.
 
 <a id="note-94"></a>
-94. Scherer, “What Are Emotions?,” 697–700. Motor expression, including facial, vocal, and bodily expression, constitutes a separate component within CPM.
+94. Scherer, “What Are Emotions?” Motor expression, including facial, vocal, and bodily expression, constitutes a separate component within CPM.
 
 <a id="note-95"></a>
-95. Scherer, “What Are Emotions?,” 697–700. Action readiness belongs to the motivational component through which appraisal prepares and directs behavior.
+95. Scherer, “What Are Emotions?” Action readiness belongs to the motivational component through which appraisal prepares and directs behavior.
 
 <a id="note-96"></a>
-96. Scherer, “What Are Emotions?,” 697–700. Subjective feeling is treated as the component that monitors and integrates changes across the other components.
+96. Scherer, “What Are Emotions?” Subjective feeling is treated as the component that monitors and integrates changes across the other components.
 
 <a id="note-97"></a>
 97. Klaus R. Scherer, “Emotions Are Emergent Processes: They Require a Dynamic Computational Architecture,” *Philosophical Transactions of the Royal Society B: Biological Sciences* 364, no. 1535 (2009): 3459–74, at 3459. Scherer explicitly presents CPM and appraisal theory as architectures amenable to formal computational modeling.
@@ -321,7 +321,7 @@
 106. Barrett, “Solving the Emotion Paradox,” 20. Emotional experience is described as an act of categorization in which an instance of affective feeling is conceptualized as an emotion.
 
 <a id="note-107"></a>
-107. Barrett, “Theory of Constructed Emotion,” 4–17. TCE treats the brain as a predictive system that constructs simulations from prior experience and uses sensory prediction error to update its internal model.
+107. Barrett, “Theory of Constructed Emotion.” TCE treats the brain as a predictive system that constructs simulations from prior experience and uses sensory prediction error to update its internal model.
 
 <a id="note-108"></a>
 108. Christine D. Wilson-Mendenhall, Lisa Feldman Barrett, W. Kyle Simmons, and Lawrence W. Barsalou, “Grounding Emotion in Situated Conceptualization,” *Neuropsychologia* 49, no. 5 (2011): 1105–27. The authors describe emotional conceptualization as situated and sensitive to the bodily and environmental context in which an emotional instance occurs.
@@ -336,16 +336,16 @@
 111. Barrett, “Solving the Emotion Paradox,” 20–46; Barrett, “Theory of Constructed Emotion,” 1–23. The two formulations characterize emotional instances through affective conceptualization, categorization, prediction, and construction. The conclusion that this creates difficulties for Identity Fixation, Determinacy, and Ontological Coherence is the author’s analysis.
 
 <a id="note-112"></a>
-112. Barrett, “Theory of Constructed Emotion,” 4–18. TCE identifies concepts with distributed predictions, treats prediction as concept construction, and describes categorization as the result of a prediction that explains sensory input. The finding that these operations exchange explanatory roles is the author’s architectural interpretation.
+112. Barrett, “Theory of Constructed Emotion.” TCE identifies concepts with distributed predictions, treats prediction as concept construction, and describes categorization as the result of a prediction that explains sensory input. The finding that these operations exchange explanatory roles is the author’s architectural interpretation.
 
 <a id="note-113"></a>
-113. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion,” 14–18. In the earlier account, embodied conceptual knowledge guides categorization; in the active-inference formulation, concepts are constructed populations of predictions that guide perception and action. The resulting role instability is the author’s evaluation.
+113. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion.” In the earlier account, embodied conceptual knowledge guides categorization; in the active-inference formulation, concepts are constructed populations of predictions that guide perception and action. The resulting role instability is the author’s evaluation.
 
 <a id="note-114"></a>
-114. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion,” 14–18. Categorization is described both as the process through which affect becomes emotional experience and as the resulting classification or perception produced when prediction successfully explains sensory input.
+114. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion.” Categorization is described both as the process through which affect becomes emotional experience and as the resulting classification or perception produced when prediction successfully explains sensory input.
 
 <a id="note-115"></a>
-115. Barrett, “Theory of Constructed Emotion,” 14–18. TCE distinguishes allostasis, interoception, affect, concepts, predictions, and emotion categories, but also describes them as interdependent operations within one constructive process. The conclusion that the theory does not fully stabilize their ontological relationships is the author’s evaluation.
+115. Barrett, “Theory of Constructed Emotion.” TCE distinguishes allostasis, interoception, affect, concepts, predictions, and emotion categories, but also describes them as interdependent operations within one constructive process. The conclusion that the theory does not fully stabilize their ontological relationships is the author’s evaluation.
 
 <a id="note-116"></a>
 116. Barrett, “Are Emotions Natural Kinds?,” 28–58; Barrett, “Theory of Constructed Emotion,” 1–23. These works establish construction and variability as central alternatives to natural-kind theories. The conclusion that TCE does not completely fix the identity conditions of emotion as a distinct cognitive-semiotic construct is the author’s comparative finding.
@@ -357,25 +357,25 @@
 118. Barrett, “Solving the Emotion Paradox,” 20. Emotion concepts provide the embodied conceptual knowledge through which affective experience is categorized.
 
 <a id="note-119"></a>
-119. Barrett, “Theory of Constructed Emotion,” 4–17. Predictions generated from past experience anticipate sensory input, regulate the body, and prepare perception and action.
+119. Barrett, “Theory of Constructed Emotion.” Predictions generated from past experience anticipate sensory input, regulate the body, and prepare perception and action.
 
 <a id="note-120"></a>
-120. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion,” 14–18. Categorization makes affective sensations meaningful as particular emotional instances.
+120. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion.” Categorization makes affective sensations meaningful as particular emotional instances.
 
 <a id="note-121"></a>
 121. Wilson-Mendenhall et al., “Grounding Emotion,” 1105–27. Situated conceptualizations incorporate bodily states, environmental conditions, prior experience, and current situational information.
 
 <a id="note-122"></a>
-122. Barrett, “Theory of Constructed Emotion,” 14–18. If emotional instances are constructed categories rather than fixed biological kinds, the theory coherently entails roles for prediction, concepts, categorization, and contextual information. The Logical Entailment score is the author’s evaluation.
+122. Barrett, “Theory of Constructed Emotion.” If emotional instances are constructed categories rather than fixed biological kinds, the theory coherently entails roles for prediction, concepts, categorization, and contextual information. The Logical Entailment score is the author’s evaluation.
 
 <a id="note-123"></a>
-123. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion,” 14–18. Differences between the theory’s successive formulations demonstrate changes in how conceptualization, categorization, prediction, and construction are related. The conclusion that these changes destabilize the inferential architecture is the author’s analysis.
+123. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion.” Differences between the theory’s successive formulations demonstrate changes in how conceptualization, categorization, prediction, and construction are related. The conclusion that these changes destabilize the inferential architecture is the author’s analysis.
 
 <a id="note-124"></a>
-124. Barrett, “Theory of Constructed Emotion,” 14–18. Concepts are described as predictions, prediction as concept construction, and successful prediction as categorization. These formulations support the author’s conclusion that explanatory mechanisms and explanatory outcomes are not always clearly separated.
+124. Barrett, “Theory of Constructed Emotion.” Concepts are described as predictions, prediction as concept construction, and successful prediction as categorization. These formulations support the author’s conclusion that explanatory mechanisms and explanatory outcomes are not always clearly separated.
 
 <a id="note-125"></a>
-125. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion,” 14–18. The lower scores for Inferential Closure, Necessity Under Substitution, and Non-Circular Justification express the author’s judgment that the explanatory terms cannot always be substituted or independently specified without altering their functions.
+125. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion.” The lower scores for Inferential Closure, Necessity Under Substitution, and Non-Circular Justification express the author’s judgment that the explanatory terms cannot always be substituted or independently specified without altering their functions.
 
 <a id="note-126"></a>
 126. Barrett, “Are Emotions Natural Kinds?,” 28–58; Barrett, “Theory of Constructed Emotion,” 1–23. TCE supplies a coherent constructivist alternative to essentialist emotion theories. The finding that its explanatory architecture does not reach the analytic rigor required by the present methodology is the author’s conclusion.
@@ -396,22 +396,22 @@
 131. Barrett, “Are Emotions Natural Kinds?,” 28–58; Barrett, “Solving the Emotion Paradox,” 20–46. These sources support the proposition that emotional categories do not possess intrinsic, context-independent meanings. The score for Meaning Is Not Intrinsic is the author’s evaluation.
 
 <a id="note-132"></a>
-132. Barrett, “Theory of Constructed Emotion,” 4–17. TCE locates prediction in distributed, largely subpersonal neural processes that generate anticipatory simulations and regulate allostasis.
+132. Barrett, “Theory of Constructed Emotion.” TCE locates prediction in distributed, largely subpersonal neural processes that generate anticipatory simulations and regulate allostasis.
 
 <a id="note-133"></a>
-133. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion,” 14–18. Conceptual categorization is performed through embodied conceptual knowledge and distributed predictive representations.
+133. Barrett, “Solving the Emotion Paradox,” 20; Barrett, “Theory of Constructed Emotion.” Conceptual categorization is performed through embodied conceptual knowledge and distributed predictive representations.
 
 <a id="note-134"></a>
-134. Barrett, “Theory of Constructed Emotion,” 4–18. Emotional instances are produced through the activity of large-scale neural systems that construct predictions, process prediction errors, and categorize sensory events.
+134. Barrett, “Theory of Constructed Emotion.” Emotional instances are produced through the activity of large-scale neural systems that construct predictions, process prediction errors, and categorize sensory events.
 
 <a id="note-135"></a>
-135. Barrett, “Theory of Constructed Emotion,” 14–18. TCE includes goals and allostatic relevance within concept construction, but its principal explanatory mechanisms are predictive neural operations. The conclusion that it does not formalize an interpreting agent governed by standards of correctness is the author’s evaluation.
+135. Barrett, “Theory of Constructed Emotion.” TCE includes goals and allostatic relevance within concept construction, but its principal explanatory mechanisms are predictive neural operations. The conclusion that it does not formalize an interpreting agent governed by standards of correctness is the author’s evaluation.
 
 <a id="note-136"></a>
-136. Barrett, “Theory of Constructed Emotion,” 14–18. Prediction error permits updating of the brain’s internal model, but TCE does not separately define semantic correctness, interpretive failure, revision, or accountability as constitutive conditions of emotional meaning. This distinction belongs to the present framework.
+136. Barrett, “Theory of Constructed Emotion.” Prediction error permits updating of the brain’s internal model, but TCE does not separately define semantic correctness, interpretive failure, revision, or accountability as constitutive conditions of emotional meaning. This distinction belongs to the present framework.
 
 <a id="note-137"></a>
-137. Barrett, “Theory of Constructed Emotion,” 14–18. In TCE, an emotion instance results when an emotion concept categorizes and explains incoming sensory events. The characterization of this as predictive categorization rather than agent-directed interpretation is the author’s cognitive-semiotic assessment.
+137. Barrett, “Theory of Constructed Emotion.” In TCE, an emotion instance results when an emotion concept categorizes and explains incoming sensory events. The characterization of this as predictive categorization rather than agent-directed interpretation is the author’s cognitive-semiotic assessment.
 
 <a id="note-138"></a>
 138. Barrett, “Solving the Emotion Paradox,” 20–46; Barrett, “Theory of Constructed Emotion,” 1–23. TCE establishes that emotional meaning is constructed rather than biologically given. The conclusion that it stops short of a complete cognitive-semiotic architecture is the author’s comparative finding.
@@ -420,31 +420,31 @@
 139. Barrett, “Theory of Constructed Emotion,” 1–23. Barrett explicitly presents TCE as a brain-based computational account, making formal and computational description central to the theory.
 
 <a id="note-140"></a>
-140. Barrett, “Theory of Constructed Emotion,” 4–17. Predictive coding supplies the computational structure through which the internal model generates predictions about sensory input, bodily regulation, perception, and action.
+140. Barrett, “Theory of Constructed Emotion.” Predictive coding supplies the computational structure through which the internal model generates predictions about sensory input, bodily regulation, perception, and action.
 
 <a id="note-141"></a>
-141. Barrett, “Theory of Constructed Emotion,” 14–18. Concepts consist of distributed populations of predictions, and categorization occurs when those predictions explain and organize sensory events.
+141. Barrett, “Theory of Constructed Emotion.” Concepts consist of distributed populations of predictions, and categorization occurs when those predictions explain and organize sensory events.
 
 <a id="note-142"></a>
-142. Barrett, “Theory of Constructed Emotion,” 14–18; Wilson-Mendenhall et al., “Grounding Emotion,” 1105–27. Predictions are selected and adjusted relative to the current bodily, environmental, and goal-related context.
+142. Barrett, “Theory of Constructed Emotion”; Wilson-Mendenhall et al., “Grounding Emotion,” 1105–27. Predictions are selected and adjusted relative to the current bodily, environmental, and goal-related context.
 
 <a id="note-143"></a>
-143. Barrett, “Theory of Constructed Emotion,” 10–18. Prediction errors update the internal model, correct predicted sensory and motor states, and contribute to subsequent concept learning.
+143. Barrett, “Theory of Constructed Emotion.” Prediction errors update the internal model, correct predicted sensory and motor states, and contribute to subsequent concept learning.
 
 <a id="note-144"></a>
-144. Barrett, “Theory of Constructed Emotion,” 4–18. Prediction generation, concept construction, categorization, precision weighting, and prediction-error updating provide identifiable computational operations. The scores for executability, contextual dependence, and symbolic organization are the author’s evaluations.
+144. Barrett, “Theory of Constructed Emotion.” Prediction generation, concept construction, categorization, precision weighting, and prediction-error updating provide identifiable computational operations. The scores for executability, contextual dependence, and symbolic organization are the author’s evaluations.
 
 <a id="note-145"></a>
 145. Barrett, “Theory of Constructed Emotion,” 1–23. TCE supplies an integrated computational architecture in which concepts and predictions are continually adjusted to circumstances. The scores for Executability Without Collapse and Context Anchoring are the author’s comparative judgments.
 
 <a id="note-146"></a>
-146. Barrett, “Theory of Constructed Emotion,” 14–18. The theory states that when the internal model constructs an emotion concept and categorizes sensory events, the categorization results in an instance of emotion. The conclusion that these computational operations are treated as sufficient for emotional meaning is the author’s interpretation.
+146. Barrett, “Theory of Constructed Emotion.” The theory states that when the internal model constructs an emotion concept and categorizes sensory events, the categorization results in an instance of emotion. The conclusion that these computational operations are treated as sufficient for emotional meaning is the author’s interpretation.
 
 <a id="note-147"></a>
-147. Barrett, “Theory of Constructed Emotion,” 4–18. TCE describes predictive and categorical processing but does not separately instantiate interpretation as an operation performed by an agent according to explicit standards of correctness. This is the author’s assessment under the present computational criteria.
+147. Barrett, “Theory of Constructed Emotion.” TCE describes predictive and categorical processing but does not separately instantiate interpretation as an operation performed by an agent according to explicit standards of correctness. This is the author’s assessment under the present computational criteria.
 
 <a id="note-148"></a>
-148. Barrett, “Theory of Constructed Emotion,” 4–18. TCE computationally relates neural predictions, concepts, sensory inputs, allostatic goals, and emotion instances, but does not preserve all distinctions required by Ontological Separability, Instantiation Integrity, Symbolic Reference Integrity, Interpretive Governance, and Agent and Goal Preservation. The scores remain the author’s judgments.
+148. Barrett, “Theory of Constructed Emotion.” TCE computationally relates neural predictions, concepts, sensory inputs, allostatic goals, and emotion instances, but does not preserve all distinctions required by Ontological Separability, Instantiation Integrity, Symbolic Reference Integrity, Interpretive Governance, and Agent and Goal Preservation. The scores remain the author’s judgments.
 
 <a id="note-149"></a>
 149. Barrett, “Theory of Constructed Emotion,” 1–23. TCE demonstrates substantial computational tractability through predictive coding, concept generation, categorization, and error correction. The conclusion that it does not fully preserve the cognitive-semiotic architecture of emotional meaning is the author’s final comparative evaluation.
