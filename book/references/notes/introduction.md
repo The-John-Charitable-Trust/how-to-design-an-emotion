@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
+2. On the view that concepts are normative, their application governed by norms or rules, see Hannah Ginsborg, “Normativity and Concepts,” in *The Oxford Handbook of Reasons and Normativity*, ed. Daniel Star (Oxford: Oxford University Press, 2018), https://doi.org/10.1093/oxfordhb/9780199657889.013.43; cf. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/archives/fall2021/entries/definitions/.
 
 <a id="note-3"></a>
 
