@@ -25,3 +25,7 @@ Kragel, Philip A., and Kevin S. LaBar. “Decoding the Nature of Emotion in the 
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
 
 Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
+
+Piccinini, Gualtiero. “Situated Neural Representations: Solving the Problems of Content.” *Frontiers in Neurorobotics* 16 (2022): 846979. https://doi.org/10.3389/fnbot.2022.846979.
+
+Williams, Daniel. “Predictive Processing and the Representation Wars.” *Minds and Machines* 28, no. 1 (2018): 141–72. https://doi.org/10.1007/s11023-017-9441-6.

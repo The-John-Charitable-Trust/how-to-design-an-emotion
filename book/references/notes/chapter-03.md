@@ -56,7 +56,7 @@
 
 <a id="note-14"></a>
 
-14. Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38, https://doi.org/10.1038/nrn2787.
+14. This argument is my own. On error as prediction error, see Barrett, “Theory of Constructed Emotion,” in the section “An Internal Model Is Predictive, Not Reactive”; and Daniel Williams, “Predictive Processing and the Representation Wars,” *Minds and Machines* 28, no. 1 (2018): 141–72, introduction, https://doi.org/10.1007/s11023-017-9441-6. On why correctness requires a standard beyond causal tracking, see Gualtiero Piccinini, “Situated Neural Representations: Solving the Problems of Content,” *Frontiers in Neurorobotics* 16 (2022): 846979, in the section “The Problems of Content,” https://doi.org/10.3389/fnbot.2022.846979; and Williams, “Representation Wars,” in the section “Representational Content.”
 
 <a id="note-15"></a>
 
@@ -64,7 +64,7 @@
 
 <a id="note-16"></a>
 
-16. Friston, “Free-Energy Principle.”
+16. Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38, https://doi.org/10.1038/nrn2787.
 
 <a id="note-17"></a>
 
