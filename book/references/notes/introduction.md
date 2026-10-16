@@ -56,7 +56,7 @@
 
 <a id="note-14"></a>
 
-14. Lisa Feldman Barrett, “Are Emotions Natural Kinds?,” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58, https://doi.org/10.1111/j.1745-6916.2006.00003.x; James A. Russell, “Core Affect and the Psychological Construction of Emotion,” *Psychological Review* 110, no. 1 (2003): 145–72, https://doi.org/10.1037/0033-295X.110.1.145; Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154.
+14. Lisa Feldman Barrett, “Are Emotions Natural Kinds?,” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58, at 28, https://doi.org/10.1111/j.1745-6916.2006.00003.x; James A. Russell, “Core Affect and the Psychological Construction of Emotion,” *Psychological Review* 110, no. 1 (2003): 145–72, at 145, https://doi.org/10.1037/0033-295X.110.1.145; Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, at 1, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-15"></a>
 
