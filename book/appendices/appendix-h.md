@@ -8,11 +8,28 @@ Macro-Level Weighting of the Dependency-Ordered Governing Domains
 
 I assign macro-level weights to the four governing domains according to their logical dependency within the overall architecture of the trade study. A domain receives greater weight when failure within that domain prevents meaningful evaluation in the domains that follow. Table H-1 summarizes the resulting macro-level weighting structure.
 
+| Governing Domain | Macro Weight | Function |
+| --- | --- | --- |
+| Definitional (Concept-Fixing) | 30% | Primary Gate |
+| Analytic (Truth-Governing) | 20% | Secondary Gate |
+| Cognitive-Semiotic | 25% | Meaning Achievement |
+| Computational | 25% | Formal Survivability |
+
 Table H-1. Macro-Level Weighting of the Dependency-Ordered Governing Domains
 
 H.1 Definitional (Concept-Fixing) Domain — 30%
 
 I assign the definitional domain the highest macro-level weight because it establishes the identity conditions of emotion as the object of evaluation. Unless a theory first distinguishes emotion from affect, feeling, regulation, behavior, categorization, and prediction, I cannot meaningfully evaluate its analytic propositions, its account of emotional meaning, or its computational implementation. The definitional domain therefore functions as the primary gate of the trade study.
+
+| Principle | Micro Weight | Purpose |
+| --- | --- | --- |
+| D1. Identity Fixation | 25% | Establishes the identity conditions of emotion. |
+| D2. Determinacy | 20% | Specifies principled conditions for applying the concept. |
+| D3. Non-Contradiction | 15% | Preserves internal conceptual consistency. |
+| D4. Non-Arbitrariness | 15% | Prevents preference or stipulation from defining the concept. |
+| D5. Scope Invariance | 15% | Preserves conceptual identity across legitimate contexts. |
+| D6. Ontological Coherence | 10% | Prevents category collapse among affect, feeling, emotion, and related constructs. |
+| Total | 100% |  |
 
 Table H-2. Definitional Domain: Micro-Level Weighting of the Governing Principles
 
@@ -28,6 +45,17 @@ H.2 Analytic (Truth-Governing) Domain — 20%
 
 I assign the analytic domain the second-highest macro-level priority because it evaluates whether propositions concerning emotion follow necessarily and coherently from the theory's definitions. Unlike the definitional domain, analytic evaluation presupposes that the theory has already established a stable concept of emotion. It therefore receives a lower macro-level weight while remaining indispensable to the logical integrity of the architecture.
 
+| Principle | Micro Weight | Purpose |
+| --- | --- | --- |
+| A1. Logical Entailment | 25% | Determines whether propositions follow necessarily from the definitions. |
+| A2. Inferential Closure | 15% | Preserves consistency among derived propositions. |
+| A3. Necessity Under Substitution | 15% | Preserves analytic truth under equivalent formulations. |
+| A4. Counterexample Impossibility | 15% | Tests whether propositions remain necessarily true. |
+| A5. Independence from Empirical Revision | 10% | Distinguishes analytic from empirical claims. |
+| A6. Modal Stability | 10% | Preserves necessity across admissible contexts. |
+| A7. Non-Circular Justification | 10% | Prevents propositions from assuming what they must prove. |
+| Total | 100% |  |
+
 Table H-3. Analytic Domain: Micro-Level Weighting of the Governing Principles
 
 The micro-level weightings in Table H-3 derive from the logical dependency among the analytic principles. Logical Entailment receives the highest weighting because it determines whether propositions follow necessarily from the fixed definitions established in the preceding domain. Without necessary entailment, no subsequent analytic principle can evaluate the coherence, necessity, or validity of the theory's propositions (informed by Alfred Tarski [1901–1983], Carnap, and Suppes on logical entailment).<sup><a href="../references/notes/appendix-h.md#note-4">4</a></sup>
@@ -40,6 +68,17 @@ H.3 Cognitive-Semiotic Domain — 25%
 
 I assign the cognitive-semiotic domain a higher macro-level weight than the analytic domain because the present inquiry concerns emotional meaning rather than conceptual analysis alone, requiring every theory to explain not only what emotion is and whether propositions about emotion hold, but also how an agent achieves emotional meaning through interpretation under goal-relative constraints.
 
+| Principle | Micro Weight | Purpose |
+| --- | --- | --- |
+| CS1. Meaning Is Not Intrinsic | 15% | Rejects intrinsic meaning. |
+| CS2. Meaning Is Not Arbitrary | 15% | Preserves interpretive constraint. |
+| CS3. Interpretation Is Necessary | 15% | Requires interpretation for meaning. |
+| CS4. Meaning Is Normative | 15% | Subjects interpretation to correctness conditions. |
+| CS5. Meaning Can Succeed or Fail | 15% | Requires accountable interpretation. |
+| CS6. Meaning Requires Perspective | 15% | Preserves the interpreter's standpoint. |
+| CS7. Goals Govern Meaning | 10% | Fixes relevance and standards of interpretive success. |
+| Total | 100% |  |
+
 Table H-4. Cognitive-Semiotic Domain: Micro-Level Weighting of the Governing Principles
 
 The micro-level weightings in Table H-4 derive from the logical dependency among the cognitive-semiotic principles. The first six principles receive equal weight because each follows directly from the Foundational Cognitive-Semiotic Principle established in Chapter 7. Together, they define the minimum architectural conditions required for meaning as an interpretive achievement. No single principle can perform the work of another. A theory that fails any one of these principles cannot adequately explain meaning as a governed act of interpretation (a judgment informed by C. S. Peirce [1839–1914], Umberto Eco [1932–2016], and Robert Brandom [b. 1950] on governed interpretation).<sup><a href="../references/notes/appendix-h.md#note-7">7</a></sup>
@@ -51,6 +90,17 @@ Goals Govern Meaning receives a slightly lower weighting because it governs the 
 H.4 Computational Domain — 25%
 
 I assign the computational domain the same macro-level weight as the cognitive-semiotic domain because both domains test whether the architecture survives execution. The cognitive-semiotic domain evaluates meaning conceptually. The computational domain evaluates whether those same distinctions remain intact when a subject formally executes the theory. A theory that cannot preserve its own distinctions during execution has not supplied an architecture capable of implementation. Computational adequacy therefore carries equal importance within the present trade study.
+
+| Principle | Micro Weight | Purpose |
+| --- | --- | --- |
+| C7. Executability Without Collapse | 20% | Tests whether the architecture preserves all claimed distinctions under formal execution. |
+| C1. Ontological Separability | 15% | Preserves distinct architectural constituents. |
+| C2. Instantiation Integrity | 15% | Preserves the distinction between concept and construct. |
+| C3. Symbolic Reference Integrity | 15% | Preserves the distinction between identifier and referent. |
+| C4. Context Anchoring | 15% | Preserves contextual constraints during execution. |
+| C5. Interpretive Governance | 10% | Preserves interpretation as a governed procedure. |
+| C6. Agent and Goal Preservation | 10% | Preserves the goal-directed interpreting agent. |
+| Total | 100% |  |
 
 Table H-5. Computational Domain: Micro-Level Weighting of the Governing Principles
 
