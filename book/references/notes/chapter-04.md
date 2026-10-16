@@ -156,7 +156,7 @@
 
 <a id="note-39"></a>
 
-39. Posner and Keele, “Genesis of Abstract Ideas.”
+39. Posner and Keele, “Genesis of Abstract Ideas”; Goldinger et al., “Poverty of Embodied Cognition,” in the section “2) Concepts and Prototypes.”
 
 <a id="note-40"></a>
 
