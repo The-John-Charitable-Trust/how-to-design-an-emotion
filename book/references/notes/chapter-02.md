@@ -137,7 +137,7 @@
 
 <a id="note-34"></a>
 
-34. Gupta, “Definitions.”
+34. Aristotle, *De Interpretatione* 7, 17a38–b1; on definition as giving the essence, see Gupta, “Definitions.”
 
 <a id="note-35"></a>
 

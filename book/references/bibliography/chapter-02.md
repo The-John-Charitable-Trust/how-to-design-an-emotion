@@ -4,6 +4,8 @@
 
 Bambrough, Renford. “Universals and Family Resemblances.” *Proceedings of the Aristotelian Society* 61 (1960–61): 207–22. https://doi.org/10.1093/aristotelian/61.1.207.
 
+Aristotle. *Categories and De Interpretatione*. Translated by J. L. Ackrill. Oxford: Clarendon Press, 1963.
+
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
 Carnap, Rudolf. “Meaning and Synonymy in Natural Languages.” *Philosophical Studies* 6, no. 3 (1955): 33–47. https://doi.org/10.1007/BF02330951.
