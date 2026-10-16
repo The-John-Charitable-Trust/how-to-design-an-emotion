@@ -308,52 +308,56 @@
 
 <a id="note-77"></a>
 
-77. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987).
+77. This argument and the constraint-structure account of color concepts are my own; see chapters 3 and 6, and note 52.
 
 <a id="note-78"></a>
 
-78. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+78. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987), 29.
 
 <a id="note-79"></a>
 
-79. Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
+79. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-80"></a>
 
-80. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
+80. Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
 
 <a id="note-81"></a>
 
-81. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
+81. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
 
 <a id="note-82"></a>
 
-82. Rosch and Mervis, “Family Resemblances.”
+82. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
 
 <a id="note-83"></a>
 
-83. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
+83. Rosch and Mervis, “Family Resemblances.”
 
 <a id="note-84"></a>
 
-84. Friston, “Free-Energy Principle.”
+84. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
 
 <a id="note-85"></a>
 
-85. Barsalou, “Perceptual Symbol Systems.”
+85. Friston, “Free-Energy Principle.”
 
 <a id="note-86"></a>
 
-86. Rosch, “Cognitive Representations.”
+86. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-87"></a>
 
-87. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+87. Rosch, “Cognitive Representations.”
 
 <a id="note-88"></a>
 
-88. Object Management Group, *Unified Modeling Language*, 126.
+88. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
 
 <a id="note-89"></a>
 
 89. Object Management Group, *Unified Modeling Language*, 126.
+
+<a id="note-90"></a>
+
+90. Object Management Group, *Unified Modeling Language*, 126.
