@@ -267,7 +267,7 @@ This is the corresponding output:
 
 ![Chapter 2 figure 12](../../assets/figures/chapter-02/figure-12.png)
 
-Appendix B extends the framework through more complex UML diagrams. It uses associations such as inheritance and composition to model how affective states such as emotions, moods, and drives derive from feeling as a common structural base. It also applies structuralist syntagmatic relations to show how ordered association, not isolated elements, produces meaning. Finally, it introduces GoF creational patterns, including Factory and Prototype, to model the construction of emotional instances from stable conceptual structure rather than their discovery as natural kinds.<sup><a href="../references/notes/chapter-02.md#note-52">52</a></sup>
+Appendix B extends the framework through more complex UML diagrams. It uses relationships such as generalization (inheritance) and composition to model how affective states such as emotions, moods, and drives derive from feeling as a common structural base. It also applies structuralist syntagmatic relations to show how ordered association, not isolated elements, produces meaning. Finally, it introduces GoF creational patterns, including Factory and Prototype, to model the construction of emotional instances from stable conceptual structure rather than their discovery as natural kinds.<sup><a href="../references/notes/chapter-02.md#note-52">52</a></sup>
 
 The following propositions summarize the architectural commitments required to define, instantiate, and evaluate ideas as structured systems.
 

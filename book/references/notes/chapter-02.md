@@ -209,7 +209,7 @@
 
 <a id="note-52"></a>
 
-52. Posner and Keele, “Genesis of Abstract Ideas.”
+52. This summary describes Appendix B. On generalization and composition, see Object Management Group, *Unified Modeling Language*, 112, 138.
 
 <a id="note-53"></a>
 
