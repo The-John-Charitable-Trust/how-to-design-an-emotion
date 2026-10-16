@@ -4,7 +4,7 @@
 
 *Chapter 3 argued that identity conditions ought to survive the rejection of fixed essences. Chapter 4 examines what follows when theories fail to preserve that distinction.*
 
-*Modern theories rightly reject the classical assumption that concepts derive their identity from fixed essences. Emotion does not come stamped with one neural signature, one bodily pattern, or one universal expression. Concepts do not exist as fixed inner essences awaiting application. Lisa Feldman Barrett, Eleanor Rosch, George Lakoff (b. 1941), Lawrence Barsalou, Andy Clark (b. 1957), and Karl J. Friston (b. 1959) all contribute to dismantling that assumption.*
+*Modern theories rightly reject the classical assumption that concepts derive their identity from fixed essences. Emotion does not come stamped with one neural signature, one bodily pattern, or one universal expression. Concepts do not exist as fixed inner essences awaiting application. Lisa Feldman Barrett (b. 1963), Eleanor Rosch, George Lakoff (b. 1941), Lawrence Barsalou, Andy Clark (b. 1957), and Karl J. Friston (b. 1959) all contribute to dismantling that assumption.*
 
 *Rejecting fixed essences, however, does not by itself explain what secures identity conditions.*
 

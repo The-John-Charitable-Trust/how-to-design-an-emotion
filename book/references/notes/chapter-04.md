@@ -128,7 +128,7 @@
 
 <a id="note-32"></a>
 
-32. Lisa Feldman Barrett, “Concepts and Emotion, Part 1 of 3,” YouTube video, 00:00–02:18, June 11, 2023, https://www.youtube.com/watch?v=mpjrD1jCEls. Excerpted from Lisa Feldman Barrett, “How Emotions are Made (Cinematic Lecture),” Flow, YouTube video, 40:00, April 14, 2020, https://www.youtube.com/watch?v=0rbyC5m557I.
+32. Lisa Feldman Barrett, “Concepts and Emotion, Part 1 of 3,” YouTube video, 00:00–02:18, June 11, 2023, https://www.youtube.com/watch?v=mpjrD1jCEls. Excerpted from Lisa Feldman Barrett, “How Emotions are Made (Cinematic Lecture),” Flow, YouTube video, 20:19–22:54, April 14, 2020, https://www.youtube.com/watch?v=0rbyC5m557I.
 
 <a id="note-33"></a>
 
