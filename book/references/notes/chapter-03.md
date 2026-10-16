@@ -100,7 +100,7 @@
 
 <a id="note-25"></a>
 
-25. Barrett, “Theory of Constructed Emotion.”
+25. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?” and table 1.
 
 <a id="note-26"></a>
 
