@@ -72,7 +72,7 @@
 
 <a id="note-18"></a>
 
-18. A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, https://doi.org/10.1038/nrn894; Russell, “Core Affect”; Barrett, “Theory of Constructed Emotion.”
+18. A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” *Nature Reviews Neuroscience* 3, no. 8 (2002): 655–66, at 655, https://doi.org/10.1038/nrn894; Russell, “Core Affect,” 145; Barrett, “Theory of Constructed Emotion,” 1.
 
 <a id="note-19"></a>
 
