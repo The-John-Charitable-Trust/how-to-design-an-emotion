@@ -16,7 +16,7 @@
 
 <a id="note-4"></a>
 
-4. For the opposing view, developed from Wittgenstein’s notion of family resemblance, that categories need no common defining features, see Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
+4. For the opposing view, developed from Wittgenstein’s notion of family resemblance, that categories need no common defining features, see Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, at 574–75, https://doi.org/10.1016/0010-0285(75)90024-9.
 
 <a id="note-5"></a>
 
