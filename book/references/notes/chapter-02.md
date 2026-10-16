@@ -89,7 +89,7 @@
 
 <a id="note-22"></a>
 
-22. Rand, *Introduction to Objectivist Epistemology*, 40, 51.
+22. Rand, *Introduction to Objectivist Epistemology*, 40.
 
 <a id="note-23"></a>
 
