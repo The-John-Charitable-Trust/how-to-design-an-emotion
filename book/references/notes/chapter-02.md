@@ -117,7 +117,7 @@
 
 <a id="note-29"></a>
 
-29. Gupta, “Definitions.”
+29. Rey, “Analytic/Synthetic Distinction.”
 
 <a id="note-30"></a>
 
