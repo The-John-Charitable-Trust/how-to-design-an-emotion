@@ -236,7 +236,7 @@
 
 <a id="note-59"></a>
 
-59. Barrett, “Theory of Constructed Emotion.”
+59. Barrett, “Theory of Constructed Emotion,” in the sections “The Theory of Constructed Emotion” and “The Computational Architecture of the Brain Is a Conceptual System plus Pattern Generators.”
 
 <a id="note-60"></a>
 
