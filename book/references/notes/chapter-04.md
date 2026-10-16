@@ -244,7 +244,7 @@
 
 <a id="note-61"></a>
 
-61. Lakoff, “Hedges.”
+61. Lakoff, “Hedges,” 459–60.
 
 <a id="note-62"></a>
 
