@@ -80,7 +80,7 @@
 
 <a id="note-20"></a>
 
-20. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development,” in the section “Emotion Concepts and Categories”; Barrett, “Theory of Constructed Emotion,” fig. 5. That this follows from collapsing the priority of identity conditions is my own claim; see chapters 3 and 6.
+20. Hoemann, Xu, and Barrett, “Emotion Words,” in the section “Emotion Concepts and Categories”; Barrett, “Theory of Constructed Emotion,” fig. 5. That this follows from collapsing the priority of identity conditions is my own claim; see chapters 3 and 6.
 
 <a id="note-21"></a>
 
@@ -360,7 +360,7 @@
 
 <a id="note-90"></a>
 
-90. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators”; see also Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development,” in the section “Emotion Concepts and Categories.”
+90. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators”; see also Hoemann, Xu, and Barrett, “Emotion Words,” in the section “Emotion Concepts and Categories.”
 
 <a id="note-91"></a>
 
