@@ -32,7 +32,7 @@
 
 <a id="note-8"></a>
 
-8. Wesley Newcomb Hohfeld, “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning,” *Yale Law Journal* 23, no. 1 (1913): 16–59, https://doi.org/10.2307/785533.
+8. Wesley Newcomb Hohfeld, “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning,” *Yale Law Journal* 23, no. 1 (1913): 16–59, at 30–31, https://doi.org/10.2307/785533.
 
 <a id="note-9"></a>
 
