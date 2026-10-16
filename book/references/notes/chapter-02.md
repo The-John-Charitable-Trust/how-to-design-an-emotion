@@ -93,7 +93,7 @@
 
 <a id="note-23"></a>
 
-23. Gupta, “Definitions.”
+23. Gupta, “Definitions,” §1.1.
 
 <a id="note-24"></a>
 
