@@ -57,7 +57,7 @@ Others have addressed each of these constraints separately (see Chapter 5). My c
 
 Before I define an idea, I state what it is not. It is not a perceptual object, not a natural kind, and not a mind-independent theoretical entity. We perceive rocks, not rights. We weigh mercury, not morality. We detect electrons, not emotions.<sup><a href="../references/notes/chapter-02.md#note-10">10</a></sup>
 
-How, then, do I distinguish the experience of an idea from its existence, and its existence from its meaning? I do not address the phenomenological status of an idea, that is, what it is like to think about an idea or the qualitative character of experience itself. I also do not resolve the noumenological question of whether an idea exists independently of experience. That problem belongs to the hard problem of consciousness.<sup><a href="../references/notes/chapter-02.md#note-11">11</a></sup>
+How, then, do I distinguish the experience of an idea from its existence, and its existence from its meaning? I do not address the phenomenological status of an idea, that is, what it is like to think about an idea or the qualitative character of experience itself; that question belongs to the hard problem of consciousness.<sup><a href="../references/notes/chapter-02.md#note-11">11</a></sup> I also do not resolve the noumenological question of whether an idea exists independently of experience.
 
 Nowhere do these distinctions matter more than in the study of emotion. Theorists often collapse physiology, phenomenology, and conceptual meaning into one explanatory layer, and that collapse obscures the structure the distinction exists to preserve.
 
