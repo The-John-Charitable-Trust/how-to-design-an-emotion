@@ -88,7 +88,7 @@
 
 <a id="note-22"></a>
 
-22. Barrett, “Theory of Constructed Emotion.”
+22. Barrett, “Theory of Constructed Emotion,” in the paragraph preceding the section “Conclusions and Future Directions.”
 
 <a id="note-23"></a>
 
