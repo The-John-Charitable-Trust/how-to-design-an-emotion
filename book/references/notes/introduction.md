@@ -92,4 +92,4 @@
 
 <a id="note-23"></a>
 
-23. Barrett et al., “Emotional Expressions Reconsidered.”
+23. Barrett et al., “Emotional Expressions Reconsidered,” 1.
