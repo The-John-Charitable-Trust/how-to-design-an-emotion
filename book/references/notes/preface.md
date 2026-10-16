@@ -48,7 +48,7 @@
 
 <a id="note-12"></a>
 
-12. Scherer, “What Are Emotions?,” 695–729.
+12. Scherer, “What Are Emotions?,” 695.
 
 <a id="note-13"></a>
 
