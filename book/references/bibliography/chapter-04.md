@@ -30,6 +30,8 @@ Lakoff, George. “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Co
 
 Lindquist, Kristen A., Tor D. Wager, Hedy Kober, Eliza Bliss-Moreau, and Lisa Feldman Barrett. “The Brain Basis of Emotion: A Meta-Analytic Review.” *Behavioral and Brain Sciences* 35, no. 3 (2012): 121–43. https://doi.org/10.1017/S0140525X11000446.
 
+Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision June 17, 2019. https://plato.stanford.edu/entries/concepts/.
+
 McClelland, James L., and David E. Rumelhart. “Distributed Memory and the Representation of General and Specific Information.” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88. https://doi.org/10.1037/0096-3445.114.2.159.
 
 Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.

@@ -52,7 +52,7 @@
 
 <a id="note-13"></a>
 
-13. Object Management Group, *Unified Modeling Language*, 126.
+13. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, ed. Edward N. Zalta, substantive revision June 17, 2019, sec. 2.3, https://plato.stanford.edu/entries/concepts/. The diagnosis and the stronger claim are my own; see chapters 3 and 6.
 
 <a id="note-14"></a>
 
