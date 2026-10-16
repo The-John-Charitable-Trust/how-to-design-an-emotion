@@ -145,7 +145,7 @@
 
 <a id="note-36"></a>
 
-36. Renford Bambrough, “Universals and Family Resemblances,” *Proceedings of the Aristotelian Society* 61 (1960–61): 207–22, https://doi.org/10.1093/aristotelian/61.1.207.
+36. Ludwig Wittgenstein, *Philosophical Investigations*, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), §§66–67; see also Renford Bambrough, “Universals and Family Resemblances,” *Proceedings of the Aristotelian Society* 61 (1960–61): 207–22, https://doi.org/10.1093/aristotelian/61.1.207.
 
 <a id="note-37"></a>
 

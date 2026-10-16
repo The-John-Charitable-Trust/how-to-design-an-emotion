@@ -46,4 +46,6 @@ Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally
 
 Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/spr2024/entries/emotion/.
 
+Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G. E. M. Anscombe. Oxford: Blackwell, 1953.
+
 Zalta, Edward N. “Gottlob Frege.” In *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/frege/.
