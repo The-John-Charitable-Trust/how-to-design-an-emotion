@@ -24,6 +24,8 @@ Kragel, Philip A., and Kevin S. LaBar. “Decoding the Nature of Emotion in the 
 
 Kurth, Charlie. “Are Emotions Psychological Constructions?” *Philosophy of Science* 86, no. 5 (2019): 1227–38. https://doi.org/10.1086/705479.
 
+Loaiza, Juan R. “Emotions and the Problem of Variability.” *Review of Philosophy and Psychology* 12, no. 2 (2021): 329–51. https://doi.org/10.1007/s13164-020-00492-8.
+
 Majeed, Raamy. “Does the Problem of Variability Justify Barrett’s Emotion Revolution?” *Review of Philosophy and Psychology* 14, no. 4 (2023): 1421–41. https://doi.org/10.1007/s13164-022-00650-0.
 
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.

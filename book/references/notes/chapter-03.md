@@ -297,3 +297,15 @@
 <a id="note-74"></a>
 
 74. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+
+<a id="note-75"></a>
+
+75. This argument is my own; see chapters 2 and 4. For concepts described as neural patterns, see Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators”; cf. Kurth, “Are Emotions Psychological Constructions?,” §2; and Piccinini, “Situated Neural Representations,” in the section “How Situatedness Solves the Problems of Content.”
+
+<a id="note-76"></a>
+
+76. This position is my own and is developed in chapter 6; see also notes 49 and 63; cf. Juan R. Loaiza, “Emotions and the Problem of Variability,” *Review of Philosophy and Psychology* 12, no. 2 (2021): 329–51, §4, https://doi.org/10.1007/s13164-020-00492-8.
+
+<a id="note-77"></a>
+
+77. This standard is my own; see chapters 4 and 6. For a related demand that theories state individuation criteria, see Loaiza, “Emotions and the Problem of Variability,” §4.
