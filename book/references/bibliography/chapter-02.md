@@ -12,11 +12,11 @@ Fodor, Jerry A. “Concepts: A Potboiler.” *Cognition* 50, nos. 1–3 (1994): 
 
 Frege, Gottlob. “Sense and Reference.” Translated by Max Black. *Philosophical Review* 57, no. 3 (1948): 209–30. https://doi.org/10.2307/2181485.
 
-Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
+Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/archives/fall2021/entries/definitions/.
 
 Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
 
-Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
+Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/fall2023/entries/concepts/.
 
 National Archives. “Declaration of Independence: A Transcription.” https://www.archives.gov/founding-docs/declaration-transcript.
 
@@ -32,6 +32,6 @@ Rosch, Eleanor. “Cognitive Representations of Semantic Categories.” *Journal
 
 Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally and Albert Sechehaye. Translated by Wade Baskin. New York: Philosophical Library, 1959.
 
-Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
+Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/spr2024/entries/emotion/.
 
 Zalta, Edward N. “Gottlob Frege.” In *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/frege/.

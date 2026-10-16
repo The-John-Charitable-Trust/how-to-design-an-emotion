@@ -5,7 +5,7 @@
 
 <a id="note-1"></a>
 
-1. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
+1. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/archives/fall2021/entries/definitions/.
 
 <a id="note-2"></a>
 
@@ -49,7 +49,7 @@
 
 <a id="note-12"></a>
 
-12. Andrea Scarantino and Ronald de Sousa, “Emotion,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/emotion/.
+12. Andrea Scarantino and Ronald de Sousa, “Emotion,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/spr2024/entries/emotion/.
 
 <a id="note-13"></a>
 
@@ -137,7 +137,7 @@
 
 <a id="note-34"></a>
 
-34. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
+34. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/fall2023/entries/concepts/.
 
 <a id="note-35"></a>
 
