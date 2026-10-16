@@ -4,8 +4,6 @@
 
 Aristotle. *Categories and De Interpretatione*. Translated by J. L. Ackrill. Oxford: Clarendon Press, 1963.
 
-Bambrough, Renford. “Universals and Family Resemblances.” *Proceedings of the Aristotelian Society* 61 (1960–61): 207–22. https://doi.org/10.1093/aristotelian/61.1.207.
-
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
 Bowman, Caitlin R., Takako Iwashita, and Dagmar Zeithamova. “Tracking Prototype and Exemplar Representations in the Brain across Learning.” *eLife* 9 (2020): e59360. https://doi.org/10.7554/eLife.59360.
@@ -20,9 +18,11 @@ Fodor, Jerry A. “Concepts: A Potboiler.” *Cognition* 50, nos. 1–3 (1994): 
 
 Frege, Gottlob. “Sense and Reference.” Translated by Max Black. *Philosophical Review* 57, no. 3 (1948): 209–30. https://doi.org/10.2307/2181485.
 
-Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/archives/fall2021/entries/definitions/.
+Garbacz, Paweł. “Artefacts and Family Resemblance.” *Review of Philosophy and Psychology* 4, no. 3 (2013): 419–47. https://doi.org/10.1007/s13164-013-0145-4.
 
 Guarino, Nicola, and Christopher Welty. “Evaluating Ontological Decisions with OntoClean.” *Communications of the ACM* 45, no. 2 (2002): 61–65. https://doi.org/10.1145/503124.503150.
+
+Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/archives/fall2021/entries/definitions/.
 
 Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
 

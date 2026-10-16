@@ -145,7 +145,7 @@
 
 <a id="note-36"></a>
 
-36. Ludwig Wittgenstein, *Philosophical Investigations*, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), §§66–67; see also Renford Bambrough, “Universals and Family Resemblances,” *Proceedings of the Aristotelian Society* 61 (1960–61): 207–22, https://doi.org/10.1093/aristotelian/61.1.207.
+36. Ludwig Wittgenstein, *Philosophical Investigations*, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), §§66–67; see also Paweł Garbacz, “Artefacts and Family Resemblance,” *Review of Philosophy and Psychology* 4, no. 3 (2013): 419–47, https://doi.org/10.1007/s13164-013-0145-4.
 
 <a id="note-37"></a>
 
@@ -245,4 +245,4 @@
 
 <a id="note-61"></a>
 
-61. This framing is my own and is developed in Chapter 3. On rejecting a common essence in favor of family resemblance, see Wittgenstein, *Philosophical Investigations*, §§66–67; see also Bambrough, “Universals and Family Resemblances.”
+61. This framing is my own and is developed in Chapter 3. On rejecting a common essence in favor of family resemblance, see Wittgenstein, *Philosophical Investigations*, §§66–67; see also Garbacz, “Artefacts and Family Resemblance.”
