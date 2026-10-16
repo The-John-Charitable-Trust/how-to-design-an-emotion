@@ -109,7 +109,7 @@
 
 <a id="note-27"></a>
 
-27. Gupta, “Definitions.”
+27. These principles are my synthesis. For the traditional criteria several of them build on, see Gupta, “Definitions,” §2; on identity conditions, see Guarino and Welty, “OntoClean.”
 
 <a id="note-28"></a>
 
