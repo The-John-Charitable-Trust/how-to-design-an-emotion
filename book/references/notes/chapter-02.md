@@ -193,7 +193,7 @@
 
 <a id="note-48"></a>
 
-48. Gupta, “Definitions.”
+48. This definition of category is my own. On extension as distinct from meaning, see Gupta, “Definitions,” §1.4.
 
 <a id="note-49"></a>
 
