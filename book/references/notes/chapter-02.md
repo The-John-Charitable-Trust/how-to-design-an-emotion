@@ -237,7 +237,7 @@
 
 <a id="note-59"></a>
 
-59. Object Management Group, *Unified Modeling Language*, 126.
+59. This characterization is my own. On UML’s purpose and its diagrams as graphical representations of model elements, see Object Management Group, *Unified Modeling Language*, 1, 683.
 
 <a id="note-60"></a>
 
