@@ -217,7 +217,7 @@
 
 <a id="note-54"></a>
 
-54. Object Management Group, *Unified Modeling Language*.
+54. These definition principles are my own. On standards of adequacy for definitions, see Gupta, “Definitions,” §1.4.
 
 <a id="note-55"></a>
 
