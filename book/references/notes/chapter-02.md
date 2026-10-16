@@ -225,7 +225,7 @@
 
 <a id="note-56"></a>
 
-56. Object Management Group, *Unified Modeling Language*.
+56. Rand, IOE, 40. Passage and page as given in the Ayn Rand Lexicon, s.v. “Definitions,” https://aynrandlexicon.com/lexicon/definitions.html.
 
 <a id="note-57"></a>
 
