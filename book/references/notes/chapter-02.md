@@ -173,7 +173,7 @@
 
 <a id="note-43"></a>
 
-43. Gupta, “Definitions.”
+43. Rand, IOE, 45. Passage and page as given in the Ayn Rand Lexicon, s.v. “Definitions,” https://aynrandlexicon.com/lexicon/definitions.html.
 
 <a id="note-44"></a>
 
