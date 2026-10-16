@@ -157,7 +157,7 @@
 
 <a id="note-39"></a>
 
-39. Gupta, “Definitions.”
+39. This position is my own. On definition as giving the essence of a thing, see Gupta, “Definitions.”
 
 <a id="note-40"></a>
 
