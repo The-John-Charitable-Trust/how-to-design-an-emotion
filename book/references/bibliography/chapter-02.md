@@ -6,6 +6,8 @@ Bambrough, Renford. “Universals and Family Resemblances.” *Proceedings of th
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
+Carnap, Rudolf. “Meaning and Synonymy in Natural Languages.” *Philosophical Studies* 6, no. 3 (1955): 33–47. https://doi.org/10.1007/BF02330951.
+
 Chalmers, David J. “Facing Up to the Problem of Consciousness.” *Journal of Consciousness Studies* 2, no. 3 (1995): 200–219.
 
 Fodor, Jerry A. “Concepts: A Potboiler.” *Cognition* 50, nos. 1–3 (1994): 95–113. https://doi.org/10.1016/0010-0277(94)90023-X.

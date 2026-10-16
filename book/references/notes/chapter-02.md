@@ -29,11 +29,11 @@
 
 <a id="note-7"></a>
 
-7. Object Management Group, *Unified Modeling Language*, 126.
+7. Gupta, “Definitions.”
 
 <a id="note-8"></a>
 
-8. Object Management Group, *Unified Modeling Language*, 126.
+8. Rudolf Carnap, “Meaning and Synonymy in Natural Languages,” *Philosophical Studies* 6, no. 3 (1955): 33–47, https://doi.org/10.1007/BF02330951.
 
 <a id="note-9"></a>
 
@@ -45,7 +45,7 @@
 
 <a id="note-11"></a>
 
-11. Object Management Group, *Unified Modeling Language*, 126.
+11. See Chapter 5.
 
 <a id="note-12"></a>
 
