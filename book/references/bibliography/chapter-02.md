@@ -8,6 +8,8 @@ Bambrough, Renford. “Universals and Family Resemblances.” *Proceedings of th
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
+Bowman, Caitlin R., Takako Iwashita, and Dagmar Zeithamova. “Tracking Prototype and Exemplar Representations in the Brain across Learning.” *eLife* 9 (2020): e59360. https://doi.org/10.7554/eLife.59360.
+
 Carnap, Rudolf. “Meaning and Synonymy in Natural Languages.” *Philosophical Studies* 6, no. 3 (1955): 33–47. https://doi.org/10.1007/BF02330951.
 
 Chalmers, David J. “Facing Up to the Problem of Consciousness.” *Journal of Consciousness Studies* 2, no. 3 (1995): 200–219.
@@ -35,8 +37,6 @@ National Archives. “Declaration of Independence: A Transcription.” https://w
 Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
 
 Plato. *Euthyphro*.
-
-Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63. https://doi.org/10.1037/h0025953.
 
 Rand, Ayn. *Introduction to Objectivist Epistemology*. 2nd ed. Edited by Harry Binswanger and Leonard Peikoff. New York: Meridian, 1990.
 

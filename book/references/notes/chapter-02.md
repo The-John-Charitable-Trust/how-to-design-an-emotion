@@ -129,7 +129,7 @@
 
 <a id="note-32"></a>
 
-32. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/fall2023/entries/concepts/; for the experimental origin of prototype theory, see Michael I. Posner and Steven W. Keele, “On the Genesis of Abstract Ideas,” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63, https://doi.org/10.1037/h0025953.
+32. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/fall2023/entries/concepts/; for prototype models of categorization, see Caitlin R. Bowman, Takako Iwashita, and Dagmar Zeithamova, “Tracking Prototype and Exemplar Representations in the Brain across Learning,” *eLife* 9 (2020): e59360, https://doi.org/10.7554/eLife.59360.
 
 <a id="note-33"></a>
 
