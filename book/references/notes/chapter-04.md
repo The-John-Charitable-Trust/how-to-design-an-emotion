@@ -88,7 +88,7 @@
 
 <a id="note-22"></a>
 
-22. For constructionist accounts, see Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion”; for prototype accounts, Rosch and Mervis, “Family Resemblances,” 580; for embodied accounts, Barsalou, “Perceptual Symbol Systems,” 579; and for predictive accounts, Clark, “Whatever Next?,” 181. How my framework preserves these phenomena is developed in chapter 6.
+22. For constructionist accounts, see Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion”; for prototype accounts, Rosch and Mervis, “Family Resemblances,” 574–75, 580; for embodied accounts, Barsalou, “Perceptual Symbol Systems,” 579; and for predictive accounts, Clark, “Whatever Next?,” 181. How my framework preserves these phenomena is developed in chapter 6.
 
 <a id="note-23"></a>
 
