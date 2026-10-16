@@ -12,7 +12,7 @@ Calvo, Rafael A., and Sidney D’Mello. “Affect Detection: An Interdisciplinar
 
 Grand View Research. *Emotion Detection & Recognition Market Size, Share & Trends Analysis Report, 2026–2033*. Accessed October 13, 2026. https://www.grandviewresearch.com/industry-analysis/emotion-detection-recognition-market-report.
 
-Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
+Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/archives/fall2021/entries/definitions/.
 
 James, William. “What Is an Emotion?” *Mind* 9, no. 34 (1884): 188–205. https://doi.org/10.1093/mind/os-IX.34.188.
 
@@ -22,7 +22,7 @@ Picard, Rosalind W. “Affective Computing: Challenges.” *International Journa
 
 Rosch, Eleanor, and Carolyn B. Mervis. “Family Resemblances: Studies in the Internal Structure of Categories.” *Cognitive Psychology* 7, no. 4 (1975): 573–605. https://doi.org/10.1016/0010-0285(75)90024-9.
 
-Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/emotion/.
+Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/spr2024/entries/emotion/.
 
 Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.
 
