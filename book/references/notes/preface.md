@@ -52,7 +52,7 @@
 
 <a id="note-13"></a>
 
-13. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/.
+13. Anil Gupta, “Definitions,” in *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/archives/fall2021/entries/definitions/.
 
 <a id="note-14"></a>
 
