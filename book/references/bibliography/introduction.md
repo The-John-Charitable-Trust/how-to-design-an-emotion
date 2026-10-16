@@ -34,6 +34,8 @@ Grisez, Germain G. “The First Principle of Practical Reason: A Commentary on t
 
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/archives/fall2021/entries/definitions/.
 
+Hamowy, Ronald. “Jefferson and the Scottish Enlightenment: A Critique of Garry Wills’s *Inventing America: Jefferson’s Declaration of Independence*.” *William and Mary Quarterly* 36, no. 4 (1979): 503ff. https://doi.org/10.2307/1925181.
+
 Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
 
 *The Holy Bible: New Revised Standard Version Updated Edition*. Psalm 118:22. https://www.biblegateway.com/passage/?search=Psalm%20118%3A22&version=NRSVUE.
@@ -69,5 +71,7 @@ Snyder, David C. “Locke on Natural Law and Property Rights.” *Canadian Journ
 Tuckness, Alex. “Locke’s Political Philosophy.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/spr2024/entries/locke-political/.
 
 Vaina, Lucia M. “Marr, David.” In *Encyclopedia of Cognitive Science*. Chichester, UK: Wiley, 2006. https://doi.org/10.1002/0470018860.s00456.
+
+Wills, Garry. *Inventing America: Jefferson’s Declaration of Independence*. Garden City, NY: Doubleday, 1978.
 
 Zlatev, Jordan. “The Semiotic Hierarchy: Life, Consciousness, Signs and Language.” *Cognitive Semiotics* 4, suppl. (2009): 169–200. https://doi.org/10.1515/cogsem.2009.4.spring2009.169.

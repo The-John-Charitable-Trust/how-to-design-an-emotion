@@ -28,7 +28,7 @@
 
 <a id="note-7"></a>
 
-7. “Declaration of Independence: A Transcription,” National Archives, https://www.archives.gov/founding-docs/declaration-transcript; Tuckness, “Locke’s Political Philosophy.”
+7. “Declaration of Independence: A Transcription,” National Archives, https://www.archives.gov/founding-docs/declaration-transcript; Tuckness, “Locke’s Political Philosophy”; on Locke’s influence on the Declaration, see Ronald Hamowy, “Jefferson and the Scottish Enlightenment: A Critique of Garry Wills’s *Inventing America: Jefferson’s Declaration of Independence*,” *William and Mary Quarterly* 36, no. 4 (1979): 503ff., https://doi.org/10.2307/1925181; cf. Garry Wills, *Inventing America: Jefferson’s Declaration of Independence* (Garden City, NY: Doubleday, 1978).
 
 <a id="note-8"></a>
 
