@@ -56,8 +56,6 @@ Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.”
 
 Rosch, Eleanor, and Carolyn B. Mervis. “Family Resemblances: Studies in the Internal Structure of Categories.” *Cognitive Psychology* 7, no. 4 (1975): 573–605. https://doi.org/10.1016/0010-0285(75)90024-9.
 
-Rosch, Eleanor. “Cognitive Representations of Semantic Categories.” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233. https://doi.org/10.1037/0096-3445.104.3.192.
-
 Siegel, Erika H., Molly K. Sands, Wim Van den Noortgate, Paul Condon, Yale Chang, Jennifer Dy, Karen S. Quigley, and Lisa Feldman Barrett. “Emotion Fingerprints or Emotion Populations? A Meta-Analytic Investigation of Autonomic Features of Emotion Categories.” *Psychological Bulletin* 144, no. 4 (2018): 343–93. https://doi.org/10.1037/bul0000128.
 
 Wenar, Leif. “Rights.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision June 7, 2025. https://plato.stanford.edu/entries/rights/.

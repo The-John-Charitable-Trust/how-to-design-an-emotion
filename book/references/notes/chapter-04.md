@@ -336,7 +336,7 @@
 
 <a id="note-84"></a>
 
-84. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
+84. Rosch and Mervis, “Family Resemblances,” 574.
 
 <a id="note-85"></a>
 
