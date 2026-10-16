@@ -2,6 +2,8 @@
 
 [Back to Chapter 3](../../part-2/chapter-03.md) · [Notes](../notes/chapter-03.md)
 
+Adolphs, Ralph. “How Should Neuroscience Study Emotions? By Distinguishing Emotion States, Concepts, and Experiences.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 24–31. https://doi.org/10.1093/scan/nsw153.
+
 Barrett, Lisa Feldman. “Are Emotions Natural Kinds?” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58. https://doi.org/10.1111/j.1745-6916.2006.00003.x.
 
 Barrett, Lisa Feldman. “Emotions Are Real.” *Emotion* 12, no. 3 (2012): 413–29. https://doi.org/10.1037/a0027555.
