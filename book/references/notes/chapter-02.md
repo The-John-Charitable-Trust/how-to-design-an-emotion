@@ -181,7 +181,7 @@
 
 <a id="note-45"></a>
 
-45. Margolis and Laurence, “Concepts.”
+45. This claim is my own. On the type/token distinction, see David Liebesman, “Types and Tokens,” in *The Stanford Encyclopedia of Philosophy*, Summer 2026 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/sum2026/entries/types-tokens/.
 
 <a id="note-46"></a>
 

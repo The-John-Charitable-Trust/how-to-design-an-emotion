@@ -24,6 +24,8 @@ Guarino, Nicola, and Christopher Welty. “Evaluating Ontological Decisions with
 
 Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
 
+Liebesman, David. “Types and Tokens.” In *The Stanford Encyclopedia of Philosophy*, Summer 2026 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/sum2026/entries/types-tokens/.
+
 Locke, John. *Second Treatise of Government*. 1690.
 
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/fall2023/entries/concepts/.
