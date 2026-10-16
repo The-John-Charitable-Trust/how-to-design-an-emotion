@@ -32,7 +32,7 @@
 
 <a id="note-8"></a>
 
-8. Lisa Feldman Barrett, “Emotions Are Real,” *Emotion* 12, no. 3 (2012): 413–29, https://doi.org/10.1037/a0027555; Hoemann, Xu, and Barrett, “Emotion Words.”
+8. Hoemann, Xu, and Barrett, “Emotion Words,” in the section “The Role of Words in Concept Development”; see also Lisa Feldman Barrett, “Emotions Are Real,” *Emotion* 12, no. 3 (2012): 413–29, https://doi.org/10.1037/a0027555.
 
 <a id="note-9"></a>
 
