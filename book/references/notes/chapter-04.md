@@ -40,7 +40,7 @@
 
 <a id="note-10"></a>
 
-10. Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38, https://doi.org/10.1038/nrn2787.
+10. Charlie Kurth, “Are Emotions Psychological Constructions?,” *Philosophy of Science* 86, no. 5 (2019): 1227–38, abstract and sec. 2, https://doi.org/10.1086/705479; Ralph Adolphs, “How Should Neuroscience Study Emotions? By Distinguishing Emotion States, Concepts, and Experiences,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 24–31, in the section “How to Get Confused about Emotions,” https://doi.org/10.1093/scan/nsw153. The claim about identity conditions is my own; see chapters 3 and 6.
 
 <a id="note-11"></a>
 

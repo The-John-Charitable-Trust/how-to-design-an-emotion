@@ -2,6 +2,8 @@
 
 [Back to Chapter 4](../../part-2/chapter-04.md) · [Notes](../notes/chapter-04.md)
 
+Adolphs, Ralph. “How Should Neuroscience Study Emotions? By Distinguishing Emotion States, Concepts, and Experiences.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 24–31. https://doi.org/10.1093/scan/nsw153.
+
 Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017.
 
 Barrett, Lisa Feldman. “Concepts and Emotion, Part 1 of 3.” YouTube video, 2:24. June 11, 2023. https://www.youtube.com/watch?v=mpjrD1jCEls.
@@ -19,6 +21,8 @@ Clark, Andy. “Whatever Next? Predictive Brains, Situated Agents, and the Futur
 Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38. https://doi.org/10.1038/nrn2787.
 
 Hoemann, Katie, Fei Xu, and Lisa Feldman Barrett. “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis.” *Developmental Psychology* 55, no. 9 (2019): 1830–49. https://doi.org/10.1037/dev0000686.
+
+Kurth, Charlie. “Are Emotions Psychological Constructions?” *Philosophy of Science* 86, no. 5 (2019): 1227–38. https://doi.org/10.1086/705479.
 
 Lakoff, George. *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind*. Chicago: University of Chicago Press, 1987.
 
