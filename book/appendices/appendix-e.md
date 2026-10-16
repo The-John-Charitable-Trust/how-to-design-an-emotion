@@ -31,15 +31,15 @@ Paste the following code into the Console, then press Enter. This creates the th
 
 Layer 1: The Concept Object
 
-<img src="../../assets/figures/appendix-e/figure-01.png" />
+<img src="../../assets/figures/appendix-e/figure-01.png" alt="JavaScript code defining the Concept object with identity, sidesRequired, and valid()" />
 
-<p align="center"><ins>Source figure 1</ins></p>
+<p align="center"><ins>Code — Layer 1: Concept Object</ins></p>
 
 Layer 2: The Instance Objects
 
-<img src="../../assets/figures/appendix-e/figure-02.png" />
+<img src="../../assets/figures/appendix-e/figure-02.png" alt="JavaScript code creating equilateral and scalene instances from Concept" />
 
-<p align="center"><ins>Source figure 2</ins></p>
+<p align="center"><ins>Code — Layer 2: Instance Objects</ins></p>
 
 | You can paste both code blocks together. Use Shift + Enter to add lines without running the code too early. Press Enter on a blank line to execute the full block. |
 | --- |
@@ -58,9 +58,9 @@ Click the expand arrow next to the returned object.
 
 At this level, Chrome shows the object's own properties:
 
-<img src="../../assets/figures/appendix-e/figure-03.png" />
+<img src="../../assets/figures/appendix-e/figure-03.png" alt="Chrome Console showing the equilateral instance’s own properties" />
 
-<p align="center"><ins>Source figure 3</ins></p>
+<p align="center"><ins>Chrome Console — Layer 2: Instance Properties</ins></p>
 
 These are the instance's own properties: its particular descriptors and contextual values. This is Layer 2: Instance-Level Realization. The object has a type and a sides value, both assigned at the instance level. They do not define what a triangle is.
 
@@ -73,9 +73,9 @@ Click the expand arrow next to [[Prototype]], sometimes shown as __proto__.
 
 At this level, Chrome shows the inherited structure:
 
-<img src="../../assets/figures/appendix-e/figure-04.png" />
+<img src="../../assets/figures/appendix-e/figure-04.png" alt="Chrome Console showing the Concept prototype with identity, sidesRequired, and valid" />
 
-<p align="center"><ins>Source figure 4</ins></p>
+<p align="center"><ins>Chrome Console — Layer 1: Concept Prototype</ins></p>
 
 This is Layer 1: Concept-Level Constraint. Here you observe:
 
@@ -96,9 +96,9 @@ Expand the second [[Prototype]] entry inside the first.
 
 At this level, Chrome shows JavaScript's runtime infrastructure:
 
-<img src="../../assets/figures/appendix-e/figure-05.png" />
+<img src="../../assets/figures/appendix-e/figure-05.png" alt="Chrome Console showing Object.prototype and a null prototype" />
 
-<p align="center"><ins>Source figure 5</ins></p>
+<p align="center"><ins>Chrome Console — Layer 0: Runtime Infrastructure</ins></p>
 
 This is Layer 0: Runtime Infrastructure Constraint. You have reached Object.prototype, the terminus of JavaScript's ordinary prototype chain. The final [[Prototype]] is null. Delegation has a boundary. Property lookup has an end.
 
@@ -115,9 +115,9 @@ Each operation below targets a different ontological layer and produces a differ
 
 Assign an invalid value to the instance's own property.
 
-<img src="../../assets/figures/appendix-e/figure-06.png" />
+<img src="../../assets/figures/appendix-e/figure-06.png" alt="JavaScript code setting equilateral.sides to 4, so valid() returns false" />
 
-<p align="center">**What this shows:**</p>
+<p align="center"><ins>Code — A. Misinstantiation: Layer 2 Change</ins></p>
 
 What this shows:
 
@@ -134,13 +134,13 @@ Prototype theory can describe variation among instances, but this operation show
 | Typicality gradients and variability (the phenomena prototype theory correctly observes) appear here at Layer 2. But they presuppose the stability of Layer 1. |
 | --- |
 
-<img src="../../assets/figures/appendix-e/figure-07.png" />
-
-<p align="center"><ins>Source figure 7</ins></p>
-
 ### B. Parametric Revision: Layer 1 Change
 
 Revise the governing admissibility condition on the prototype itself.
+
+<img src="../../assets/figures/appendix-e/figure-07.png" alt="JavaScript code setting Concept.sidesRequired to 4 and re-checking both instances" />
+
+<p align="center"><ins>Code — B. Parametric Revision: Layer 1 Change</ins></p>
 
 What this shows:
 
@@ -158,9 +158,9 @@ The extension of the concept shifts, but the architecture remains intact. Classi
 
 Remove the evaluative rule from the prototype.
 
-<img src="../../assets/figures/appendix-e/figure-08.png" />
+<img src="../../assets/figures/appendix-e/figure-08.png" alt="JavaScript code deleting Concept.valid" />
 
-<p align="center"><ins>Source figure 8</ins></p>
+<p align="center"><ins>Code — C. Structural Revision: Layer 1A Change</ins></p>
 
 What this shows:
 

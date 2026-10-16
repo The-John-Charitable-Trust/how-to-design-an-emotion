@@ -8,7 +8,7 @@ Natural language can state that requirement, but it cannot always discipline it.
 
 In the diagrams and design patterns that follow, I do not claim to model neural activity or psychological mechanism. I model structure. Each figure formalizes a requirement the main text develops: the separation of genus and species in affective states, the distinction between identity and instantiation, the syntagmatic ordering required for meaning, and the principled generation of emotional episodes from stable conceptual architecture.<sup><a href="../references/notes/appendix-b.md#note-1">1</a></sup> The diagrams show how emotions can arise as context-sensitive instantiations of declared structure rather than as detected entities or post hoc labels. This appendix therefore demonstrates, rather than merely asserts, how emotional construction can remain explicit, inspectable, and constrained.
 
-<img src="../../assets/figures/appendix-b/figure-01.png" />
+<img src="../../assets/figures/appendix-b/figure-01.png" alt="UML class diagram of the inheritance hierarchy of affective states" />
 
 <p align="center"><ins>Figure B-1. UML Class Diagram: Inheritance Hierarchy of Affective States</ins></p>
 
@@ -20,7 +20,7 @@ Emotion, Mood, and DriveState inherit this core structure and introduce kind-spe
 
 In Aristotelian terms, feeling supplies the genus and the others function as species defined by differentiae. In object-oriented terms, feeling functions as the superclass and the others as subclasses that preserve identity through inheritance while introducing functional constraints. The diagram encodes a proposed set of identity conditions for affective kinds and blocks category error by showing that emotions, moods, and drives differ by how the same affective substrate receives structure and specialization, not by belonging to separate ontological kinds.
 
-<img src="../../assets/figures/appendix-b/figure-02.png" />
+<img src="../../assets/figures/appendix-b/figure-02.png" alt="UML activity diagram of syntagmatic appraisal structure" />
 
 <p align="center"><ins>Figure B-2. UML Activity Diagram: Syntagmatic Appraisal Structure</ins></p>
 
@@ -34,7 +34,7 @@ With the next two diagrams, I introduce Gang of Four design patterns to solve a 
 
 The Gang of Four patterns do not describe mental mechanisms. They formalize structural solutions to recurring problems of construction. I use them here as disciplined syntactic tools. They allow me to model how stable conceptual identities can generate context-sensitive instances without treating emotions as discovered objects, biological essences, or free-floating labels. The aim is not empirical accuracy, but architectural clarity. 
 
-<img src="../../assets/figures/appendix-b/figure-03.png" />
+<img src="../../assets/figures/appendix-b/figure-03.png" alt="UML class diagram of the Factory design pattern for emotion construction" />
 
 <p align="center"><ins>Figure B-3. Factory Design Pattern: Emotion Construction</ins></p>
 
@@ -52,23 +52,21 @@ The corresponding C# project appears in this repository’s code folder for Appe
 
 After navigating to the folder containing the project:
 
-<img src="../../assets/figures/appendix-b/figure-04.png" />
+<img src="../../assets/figures/appendix-b/figure-04.png" alt="Console command: dotnet run fear" />
 
-<p align="center"><ins>Source figure 4</ins></p>
+<p align="center"><ins>Project 1 Run Command</ins></p>
 
-You can also run the code using joy or anger as the input parameter.
+<img src="../../assets/figures/appendix-b/figure-05.png" alt="Console input: emotion construction example with input parameter fear" />
 
-<img src="../../assets/figures/appendix-b/figure-05.png" />
+<p align="center"><ins>Project 1 Input</ins></p>
 
-<p align="center"><ins>Source figure 5</ins></p>
+<img src="../../assets/figures/appendix-b/figure-06.png" alt="Console output: constructed fear emotion with negative valence, danger context, and wide-eyes expression" />
 
-<img src="../../assets/figures/appendix-b/figure-06.png" />
-
-<p align="center"><ins>Source figure 6</ins></p>
+<p align="center"><ins>Project 1 Output</ins></p>
 
 If the input parameter were joy or anger, the output would change accordingly.
 
-<img src="../../assets/figures/appendix-b/figure-07.png" />
+<img src="../../assets/figures/appendix-b/figure-07.png" alt="UML class diagram of the Prototype design pattern for emotion construction" />
 
 <p align="center"><ins>Figure B-4. Prototype Design Pattern: Emotion Construction UML</ins></p>
 

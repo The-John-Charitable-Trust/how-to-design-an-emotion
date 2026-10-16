@@ -352,12 +352,9 @@ The point is not that Romance, Lust, and Attachment name three unrelated emotion
 </tr>
 <tr class="even">
 <td>Referent</td>
-<td><img src="../../assets/figures/chapter-09/figure-04.png" /><strong><br />
-</strong>Romantic encounter</td>
-<td><img src="../../assets/figures/chapter-09/figure-05.png" /><br />
-Sexually charged environment</td>
-<td><img src="../../assets/figures/chapter-09/figure-06.png" /><br />
-Parents with child and dog</td>
+<td align="center"><img src="../../assets/figures/chapter-09/figure-04.png" /><br /><ins>Romantic encounter</ins></td>
+<td align="center"><img src="../../assets/figures/chapter-09/figure-05.png" /><br /><ins>Sexually charged environment</ins></td>
+<td align="center"><img src="../../assets/figures/chapter-09/figure-06.png" /><br /><ins>Parents with child and dog</ins></td>
 </tr>
 <tr class="odd">
 <td>Identifier</td>
@@ -645,7 +642,7 @@ Affect remains causal. Feeling remains experiential. Emotion remains interpretiv
 
 Figure 9-38 integrates these constraints into a single, phase-ordered architecture.
 
-<img src="../../assets/figures/chapter-09/figure-9-37.svg" alt="Figure 9-38. Metamorphosis of an Emotion" />
+<img src="../../assets/figures/chapter-09/figure-9-38.svg" alt="Figure 9-38. Metamorphosis of an Emotion" />
 
 <p align="center"><ins>Figure 9-38. Metamorphosis of an Emotion</ins></p>
 
