@@ -352,32 +352,36 @@
 
 <a id="note-88"></a>
 
-88. Rosch and Mervis, “Family Resemblances.”
+88. Rosch and Mervis, “Family Resemblances,” 574–75.
 
 <a id="note-89"></a>
 
-89. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
+89. This reading of Rosch’s project as descriptive is my own; see chapter 6. Compare Rosch and Mervis, “Family Resemblances,” 575, where they describe their aim as examining “the stimulus relations which underlie such learning” rather than providing “a processing model.”
 
 <a id="note-90"></a>
 
-90. Friston, “Free-Energy Principle.”
+90. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
 
 <a id="note-91"></a>
 
-91. Barsalou, “Perceptual Symbol Systems.”
+91. Friston, “Free-Energy Principle.”
 
 <a id="note-92"></a>
 
-92. Rosch, “Cognitive Representations.”
+92. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-93"></a>
 
-93. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+93. Rosch, “Cognitive Representations.”
 
 <a id="note-94"></a>
 
-94. Object Management Group, *Unified Modeling Language*, 126.
+94. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
 
 <a id="note-95"></a>
 
 95. Object Management Group, *Unified Modeling Language*, 126.
+
+<a id="note-96"></a>
+
+96. Object Management Group, *Unified Modeling Language*, 126.
