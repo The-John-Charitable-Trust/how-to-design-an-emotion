@@ -117,7 +117,7 @@ Appendix A now tests these principles of definition and analytic truth against B
 
 Definitions are not optional refinements. They are acts of intellectual commitment. But no definition can exceed the clarity of the concept it defines. If concepts anchor propositions, sustain analytic truths, and justify normative claims, then leaving them implicit leaves the argument without a foundation.One cannot demand logical rigor while refusing to specify the identity conditions on which logic operates. At this juncture, the inquiry must shift from the identity conditions of a concept to the identity conditions of “the” concept that constrain the identity of every concept: what is “the” concept?
 
-To answer that question, I first examine the two dominant theories that claim to define “the” concept itself. Contemporary theories of concepts divide into two dominant families: classical theories and prototype theories.<sup><a href="../references/notes/chapter-02.md#note-32">32</a></sup>
+To answer that question, I first examine the two dominant theories that claim to define “the” concept itself. Two of the most influential families of theories of concepts are classical theories and prototype theories.<sup><a href="../references/notes/chapter-02.md#note-32">32</a></sup>
 
 According to Classical Theory, a concept declares identity conditions through structure rather than resemblance or typicality. To possess a concept is to grasp the necessary and sufficient conditions that determine what counts as an instance of it. A thing falls under the concept if and only if it satisfies those defining conditions.<sup><a href="../references/notes/chapter-02.md#note-33">33</a></sup>
 
