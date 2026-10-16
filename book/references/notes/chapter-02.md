@@ -33,7 +33,7 @@
 
 <a id="note-8"></a>
 
-8. Object Management Group, *Unified Modeling Language*.
+8. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-9"></a>
 
