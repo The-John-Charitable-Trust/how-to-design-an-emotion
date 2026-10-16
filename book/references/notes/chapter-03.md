@@ -280,7 +280,7 @@
 
 <a id="note-70"></a>
 
-70. Philip A. Kragel and Kevin S. LaBar, “Decoding the Nature of Emotion in the Brain,” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55, https://doi.org/10.1016/j.tics.2016.03.011; James V. Haxby et al., “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex,” *Science* 293, no. 5539 (2001): 2425–30, https://doi.org/10.1126/science.1063736; on individual variation, see Elizabeth Clark-Polner, Timothy D. Johnson, and Lisa Feldman Barrett, “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions,” *Cerebral Cortex* 27, no. 3 (2017): 1944–48, https://doi.org/10.1093/cercor/bhw028.
+70. Philip A. Kragel and Kevin S. LaBar, “Decoding the Nature of Emotion in the Brain,” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55, in the section “Concluding Remarks” and fig. 4 caption, https://doi.org/10.1016/j.tics.2016.03.011; on individual variation, see Elizabeth Clark-Polner, Timothy D. Johnson, and Lisa Feldman Barrett, “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions,” *Cerebral Cortex* 27, no. 3 (2017): 1944–48, abstract, https://doi.org/10.1093/cercor/bhw028. The conclusion is my own.
 
 <a id="note-71"></a>
 

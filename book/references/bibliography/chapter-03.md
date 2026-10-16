@@ -18,8 +18,6 @@ Clark-Polner, Elizabeth, Timothy D. Johnson, and Lisa Feldman Barrett. “Multiv
 
 Gross, James J., and Lisa Feldman Barrett. “Emotion Generation and Emotion Regulation: One or Two Depends on Your Point of View.” *Emotion Review* 3, no. 1 (2011): 8–16. https://doi.org/10.1177/1754073910380974.
 
-Haxby, James V., M. Ida Gobbini, Maura L. Furey, Alumit Ishai, Jennifer L. Schouten, and Pietro Pietrini. “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex.” *Science* 293, no. 5539 (2001): 2425–30. https://doi.org/10.1126/science.1063736.
-
 Hoemann, Katie, Fei Xu, and Lisa Feldman Barrett. “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis.” *Developmental Psychology* 55, no. 9 (2019): 1830–49. https://doi.org/10.1037/dev0000686.
 
 Kragel, Philip A., and Kevin S. LaBar. “Decoding the Nature of Emotion in the Brain.” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55. https://doi.org/10.1016/j.tics.2016.03.011.
