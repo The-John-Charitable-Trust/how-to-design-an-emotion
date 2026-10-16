@@ -192,7 +192,7 @@
 
 <a id="note-48"></a>
 
-48. Object Management Group, *Unified Modeling Language*, 126.
+48. This formalization is my own; see chapter 6 and Project 1. For the analogous relation between a classifier and its instances, compare Object Management Group, *Unified Modeling Language*, 126 (sec. 9.8.1).
 
 <a id="note-49"></a>
 
