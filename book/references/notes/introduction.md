@@ -68,7 +68,7 @@
 
 <a id="note-17"></a>
 
-17. Antonio Damasio and Gil B. Carvalho, “The Nature of Feelings: Evolutionary and Neurobiological Origins,” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52, https://doi.org/10.1038/nrn3403; Russell, “Core Affect.”
+17. Antonio Damasio and Gil B. Carvalho, “The Nature of Feelings: Evolutionary and Neurobiological Origins,” *Nature Reviews Neuroscience* 14, no. 2 (2013): 143–52, at 143, https://doi.org/10.1038/nrn3403; Russell, “Core Affect,” 145.
 
 <a id="note-18"></a>
 
