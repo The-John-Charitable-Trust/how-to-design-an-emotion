@@ -386,7 +386,7 @@ The score remains below perfection because computational implementation preserve
 
 | Candidate Theory / Model | Definitional (30%) | Analytic (20%) | Cognitive-Semiotic (25%) | Computational (25%) | Total Weighted Score |
 | --- | --- | --- | --- | --- | --- |
-| Appraisal Theories (Lazarus, Roseman) | 0.75 × 30 = 22.5 | 0.65 × 20 = 13.0 | 0.70 × 25 = 17.5 | 0.55 × 25 = 13.75 | 66.75 |
+| Appraisal Theories (Lazarus, Roseman) | 0.75 × 30 = 22.5 | 0.65 × 20 = 13.0 | 0.7175 × 25 = 17.94 | 0.55 × 25 = 13.75 | 67.19 |
 | Component Process Model (CPM) (Scherer) | 0.80 × 30 = 24.0 | 0.70 × 20 = 14.0 | 0.65 × 25 = 16.25 | 0.60 × 25 = 15.0 | 69.25 |
 | Affective Neuroscience (Panksepp) (Feeling only) | 0.90 × 30 = 27.0 | 0.75 × 20 = 15.0 | 0.40 × 25 = 10.0 | 0.80 × 25 = 20.0 | 72.00 |
 | Conceptual Act Theory / Theory of Constructed Emotion (TCE) | 0.55 × 30 = 16.5 | 0.50 × 20 = 10.0 | 0.45 × 25 = 11.25 | 0.65 × 25 = 16.25 | 54.00 |
@@ -399,4 +399,4 @@ The trade study demonstrates that no existing candidate preserves every governin
 
 The comparative trade study now stands complete.<sup><a href="../references/notes/appendix-i.md#note-203">203</a></sup> The Constructivist Semiotic Model of Emotions follows from these results rather than competing with them.<sup><a href="../references/notes/appendix-i.md#note-204">204</a></sup> Throughout the remainder of Chapter 9, I finalize the CSME by integrating the strongest architectural contributions of the qualifying candidates while repairing the structural deficiencies identified by the trade study.<sup><a href="../references/notes/appendix-i.md#note-205">205</a></sup> As noted in Appendix F, I also incorporate selected architectural features of Basic Emotion Theory and the Component Process Model whenever those features strengthen the final architecture without reintroducing the identity, cognitive-semiotic, or computational limitations that prevent those theories from serving as complete architectural foundations for emotional meaning.<sup><a href="../references/notes/appendix-i.md#note-206">206</a></sup>
 
-[Return to Chapter 9: *Emotions Are Not Triggered; They Are Made*](../part-4/chapter-09.md)
+[Return to Chapter 9: *Emotions Are Made, Not Triggered: How We Construct Emotional Meaning*](../part-4/chapter-09.md)
