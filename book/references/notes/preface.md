@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. Klaus R. Scherer, “What Are Emotions? And How Can They Be Measured?,” *Social Science Information* 44, no. 4 (2005): 695–729, https://doi.org/10.1177/0539018405058216.
+2. Klaus R. Scherer, “What Are Emotions? And How Can They Be Measured?,” *Social Science Information* 44, no. 4 (2005): 695–729, at 695, https://doi.org/10.1177/0539018405058216.
 
 <a id="note-3"></a>
 
