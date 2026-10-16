@@ -80,7 +80,7 @@
 
 <a id="note-20"></a>
 
-20. Barrett, “Theory of Constructed Emotion.”
+20. Barrett, “Theory of Constructed Emotion,” table 1.
 
 <a id="note-21"></a>
 
