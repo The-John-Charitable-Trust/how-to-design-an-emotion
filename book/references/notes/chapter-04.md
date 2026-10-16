@@ -340,36 +340,44 @@
 
 <a id="note-85"></a>
 
-85. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
+85. Barsalou, “Situated Simulation,” 521, 545. Compare Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, at 211, https://doi.org/10.3758/BF03196968.
 
 <a id="note-86"></a>
 
-86. Rosch and Mervis, “Family Resemblances.”
+86. This argument, including the opening claim of the paragraph, is my own; see chapters 3 and 6.
 
 <a id="note-87"></a>
 
-87. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
+87. This argument is my own; see chapter 6.
 
 <a id="note-88"></a>
 
-88. Friston, “Free-Energy Principle.”
+88. Rosch and Mervis, “Family Resemblances.”
 
 <a id="note-89"></a>
 
-89. Barsalou, “Perceptual Symbol Systems.”
+89. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
 
 <a id="note-90"></a>
 
-90. Rosch, “Cognitive Representations.”
+90. Friston, “Free-Energy Principle.”
 
 <a id="note-91"></a>
 
-91. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+91. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-92"></a>
 
-92. Object Management Group, *Unified Modeling Language*, 126.
+92. Rosch, “Cognitive Representations.”
 
 <a id="note-93"></a>
 
-93. Object Management Group, *Unified Modeling Language*, 126.
+93. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+
+<a id="note-94"></a>
+
+94. Object Management Group, *Unified Modeling Language*, 126.
+
+<a id="note-95"></a>
+
+95. Object Management Group, *Unified Modeling Language*, 126.
