@@ -161,7 +161,7 @@
 
 <a id="note-40"></a>
 
-40. Object Management Group, *Unified Modeling Language*.
+40. This argument is my own. For a formal modeling standard that declares classifications and constrains valid instances, see Object Management Group, *Unified Modeling Language*, 35, 99.
 
 <a id="note-41"></a>
 
