@@ -41,7 +41,7 @@ We marshal arguments as if armed with facts, yet we rarely pause to test our con
 
 Bear with me.”
 
-Saussure warned that before language, nothing is distinct. Without linguistic structure, ideas do not yet exist as propositions. They remain a vague and undifferentiated mass without boundaries or meaning.<sup><a href="../references/notes/chapter-02.md#note-2">2</a></sup>
+Ferdinand de Saussure (1857–1913) warned that before language, nothing is distinct. Without linguistic structure, ideas do not yet exist as propositions. They remain a vague and undifferentiated mass without boundaries or meaning.<sup><a href="../references/notes/chapter-02.md#note-2">2</a></sup>
 
 Rand stands outside the mainstream of cognitive science, and her epistemology is rarely cited in the psychology of concepts. I draw on her as a philosopher, not as an empirical authority. Her account of concept formation by measurement omission states, more precisely than most, the distinction I need: what varies across instances and what must hold for each to count as the same kind.
 
