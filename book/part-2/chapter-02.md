@@ -185,7 +185,7 @@ The argument has now distinguished the intensional and extensional structure of 
 
 This problem motivates the use of the Unified Modeling Language (UML).
 
-UML expresses structure independently of implementation or interpretation. It distinguishes declaration from realization with precision. Class diagrams specify identity conditions and necessary structure. Object diagrams show how particular constructs realize that structure. This maps directly onto the distinction between concept and construct that governs this chapter.<sup><a href="../references/notes/chapter-02.md#note-50">50</a></sup>
+UML expresses structure in a notation separate from any implementation. It distinguishes declaration from realization with precision. Class diagrams specify identity conditions and necessary structure. Object diagrams show how particular constructs realize that structure. This maps directly onto the distinction between concept and construct that governs this chapter.<sup><a href="../references/notes/chapter-02.md#note-50">50</a></sup>
 
 Applied to ideas, UML functions as formal syntax. It represents meaning as architecture rather than prose. It prevents the conflation of definition with instance and exposes structural assumptions that natural language often conceals. UML does not interpret or evaluate ideas. It makes their structure visible so interpretation and evaluation can proceed on stable ground.
 
