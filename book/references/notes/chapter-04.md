@@ -60,7 +60,7 @@
 
 <a id="note-15"></a>
 
-15. Object Management Group, *Unified Modeling Language*, 126.
+15. This argument is my own; see chapters 3 and 6. Compare Barsalou, “Perceptual Symbol Systems,” sec. 2.4.5, 588.
 
 <a id="note-16"></a>
 
