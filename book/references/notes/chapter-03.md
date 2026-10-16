@@ -60,7 +60,7 @@
 
 <a id="note-15"></a>
 
-15. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+15. This reading is my own; see Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.” For a similar reading, see Jonathan Birch, “Emotionless Animals? Constructionist Theories of Emotion Beyond the Human Case,” *Proceedings of the Aristotelian Society* 124, no. 1 (2024): 71–94, §§I, V, https://doi.org/10.1093/arisoc/aoae003.
 
 <a id="note-16"></a>
 

@@ -10,6 +10,8 @@ Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference
 
 Barsalou, Lawrence W. “Ad Hoc Categories.” *Memory & Cognition* 11, no. 3 (1983): 211–27. https://doi.org/10.3758/BF03196968.
 
+Birch, Jonathan. “Emotionless Animals? Constructionist Theories of Emotion Beyond the Human Case.” *Proceedings of the Aristotelian Society* 124, no. 1 (2024): 71–94. https://doi.org/10.1093/arisoc/aoae003.
+
 Clark-Polner, Elizabeth, Timothy D. Johnson, and Lisa Feldman Barrett. “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions.” *Cerebral Cortex* 27, no. 3 (2017): 1944–48. https://doi.org/10.1093/cercor/bhw028.
 
 Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38. https://doi.org/10.1038/nrn2787.
