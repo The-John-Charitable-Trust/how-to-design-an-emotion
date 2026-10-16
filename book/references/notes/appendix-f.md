@@ -28,15 +28,15 @@
 
 <a id="note-7"></a>
 
-7. James A. Russell and Lisa Feldman Barrett, “Core Affect, Prototypical Emotional Episodes, and Other Things Called Emotion: Dissecting the Elephant,” *Journal of Personality and Social Psychology* 76, no. 5 (1999): 805–19, https://doi.org/10.1037/0022-3514.76.5.805.
+7. James A. Russell and Lisa Feldman Barrett, “Core Affect, Prototypical Emotional Episodes, and Other Things Called Emotion: Dissecting the Elephant,” *Journal of Personality and Social Psychology* 76, no. 5 (1999): 805–19, at 805, https://doi.org/10.1037/0022-3514.76.5.805.
 
 <a id="note-8"></a>
 
-8. Jaak Panksepp, “The Basic Emotional Circuits of Mammalian Brains: Do Animals Have Affective Lives?,” *Neuroscience and Biobehavioral Reviews* 35, no. 9 (2011): 1791–1804, https://doi.org/10.1016/j.neubiorev.2011.08.003.
+8. Jaak Panksepp, “The Basic Emotional Circuits of Mammalian Brains: Do Animals Have Affective Lives?,” *Neuroscience and Biobehavioral Reviews* 35, no. 9 (2011): 1791–1804, at 1791, https://doi.org/10.1016/j.neubiorev.2011.08.003.
 
 <a id="note-9"></a>
 
-9. Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?,” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38, https://doi.org/10.1038/nrn2787; Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, at 181, https://doi.org/10.1017/S0140525X12000477.
+9. Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?,” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38, at 127, https://doi.org/10.1038/nrn2787; Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, at 181, https://doi.org/10.1017/S0140525X12000477.
 
 <a id="note-10"></a>
 
@@ -56,4 +56,4 @@
 
 <a id="note-14"></a>
 
-14. John B. Watson, “Psychology as the Behaviorist Views It,” *Psychological Review* 20, no. 2 (1913): 158–77, https://doi.org/10.1037/h0074428; John B. Watson and Rosalie Rayner, “Conditioned Emotional Reactions,” *Journal of Experimental Psychology* 3, no. 1 (1920): 1–14, https://doi.org/10.1037/h0069608.
+14. John B. Watson, “Psychology as the Behaviorist Views It,” *Psychological Review* 20, no. 2 (1913): 158–77, at 158, https://doi.org/10.1037/h0074428; John B. Watson and Rosalie Rayner, “Conditioned Emotional Reactions,” *Journal of Experimental Psychology* 3, no. 1 (1920): 1–14, https://doi.org/10.1037/h0069608.
