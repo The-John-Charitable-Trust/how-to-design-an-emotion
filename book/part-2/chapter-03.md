@@ -46,7 +46,7 @@ A concept fixes what something is. It specifies the admissibility conditions und
 
 Contemporary concept theory faces a structural failure that theorists rarely name. In rejecting naive essentialism, the field has not merely abandoned fixed essences. It has often abandoned identity conditions. Existing accounts explain categorization, prediction, and adaptive success, yet they struggle to explain why distinct episodes count as instances of the same emotion. These theories describe what concepts do, but they do not always secure the admissibility conditions that govern instantiation.
 
-I address this failure through the case of Barrett's Theory of Constructed Emotion.<sup><a href="../references/notes/chapter-03.md#note-1">1</a></sup> Barrett correctly rejects the classical view that emotions possess necessary and sufficient features, invariant neural signatures, or discoverable biological essences.<sup><a href="../references/notes/chapter-03.md#note-2">2</a></sup> Those commitments cannot withstand empirical scrutiny. The empirical record justifies the collapse of naive essentialism.
+I address this failure through the case of Barrett's Theory of Constructed Emotion.<sup><a href="../references/notes/chapter-03.md#note-1">1</a></sup> Barrett correctly rejects the view that emotions are natural kinds with specific causal mechanisms in the brain and boundaries carved in nature.<sup><a href="../references/notes/chapter-03.md#note-2">2</a></sup> Those commitments cannot withstand empirical scrutiny. The empirical record justifies the collapse of naive essentialism.
 
 Before I criticize Barrett's account, I state it in terms she would accept.
 

@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. Lisa Feldman Barrett, “Are Emotions Natural Kinds?” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58, https://doi.org/10.1111/j.1745-6916.2006.00003.x.
+2. Lisa Feldman Barrett, “Are Emotions Natural Kinds?” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58, abstract, https://doi.org/10.1111/j.1745-6916.2006.00003.x.
 
 <a id="note-3"></a>
 
