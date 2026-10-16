@@ -16,6 +16,8 @@ Barsalou, Lawrence W. “Ad Hoc Categories.” *Memory & Cognition* 11, no. 3 (1
 
 Barsalou, Lawrence W. “Perceptual Symbol Systems.” *Behavioral and Brain Sciences* 22, no. 4 (1999): 577–660. https://doi.org/10.1017/S0140525X99002149.
 
+Battaglia, Peter W., Jessica B. Hamrick, Victor Bapst, et al. “Relational Inductive Biases, Deep Learning, and Graph Networks.” Preprint, arXiv, October 17, 2018. https://doi.org/10.48550/arXiv.1806.01261.
+
 Bird, Alexander, and Emma Tobin. “Natural Kinds.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision January 28, 2022. https://plato.stanford.edu/entries/natural-kinds/.
 
 Clark, Andy. “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science.” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204. https://doi.org/10.1017/S0140525X12000477.
