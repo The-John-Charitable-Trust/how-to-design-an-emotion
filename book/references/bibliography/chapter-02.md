@@ -10,6 +10,8 @@ Carnap, Rudolf. “Meaning and Synonymy in Natural Languages.” *Philosophical 
 
 Chalmers, David J. “Facing Up to the Problem of Consciousness.” *Journal of Consciousness Studies* 2, no. 3 (1995): 200–219.
 
+Chalmers, David J. “Verbal Disputes.” *Philosophical Review* 120, no. 4 (2011): 515–66. https://doi.org/10.1215/00318108-1334478.
+
 Fodor, Jerry A. “Concepts: A Potboiler.” *Cognition* 50, nos. 1–3 (1994): 95–113. https://doi.org/10.1016/0010-0277(94)90023-X.
 
 Frege, Gottlob. “Sense and Reference.” Translated by Max Black. *Philosophical Review* 57, no. 3 (1948): 209–30. https://doi.org/10.2307/2181485.

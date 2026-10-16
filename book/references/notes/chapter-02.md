@@ -49,7 +49,7 @@
 
 <a id="note-12"></a>
 
-12. Gupta, “Definitions.”
+12. David J. Chalmers, “Verbal Disputes,” *Philosophical Review* 120, no. 4 (2011): 515–66, https://doi.org/10.1215/00318108-1334478.
 
 <a id="note-13"></a>
 
