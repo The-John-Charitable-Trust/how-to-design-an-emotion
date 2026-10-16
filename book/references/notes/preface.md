@@ -12,7 +12,7 @@
 
 <a id="note-3"></a>
 
-3. Andrea Scarantino and Ronald de Sousa, “Emotion,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/emotion/.
+3. Andrea Scarantino and Ronald de Sousa, “Emotion,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/spr2024/entries/emotion/.
 
 <a id="note-4"></a>
 
