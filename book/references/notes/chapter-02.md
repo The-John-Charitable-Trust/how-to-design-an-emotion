@@ -97,7 +97,7 @@
 
 <a id="note-24"></a>
 
-24. Object Management Group, *Unified Modeling Language*.
+24. Gupta, “Definitions,” §1.1.
 
 <a id="note-25"></a>
 
