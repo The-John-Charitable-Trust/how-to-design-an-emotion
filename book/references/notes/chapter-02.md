@@ -165,7 +165,7 @@
 
 <a id="note-41"></a>
 
-41. Rand, *Introduction to Objectivist Epistemology*, chap. 2, “Concept-Formation.”
+41. Rand, IOE, 13. Passage and page as given in the Ayn Rand Lexicon, s.v. “Concepts,” https://aynrandlexicon.com/lexicon/concepts.html.
 
 <a id="note-42"></a>
 
