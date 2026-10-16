@@ -1,8 +1,8 @@
-# Appendix M: Formal CSS Walkthrough
+# Appendix M: Code, Color, and Sound
 
-## The Color Red, The Sound of a Tree, and Gamelan
+## A Software Architect’s Walkthrough of Constructivist Semiotics
 
-Lisa Feldman Barrett uses the red apple, the falling tree, and unfamiliar gamelan music to illustrate the claim that perception depends upon concepts.<sup><a href="../references/notes/appendix-m.md#note-1">1</a></sup> Cognitive science and philosophy of perception widely support the view that sensory input alone does not yield determinate experience. Conceptual constraint organizes sensory input into recognizable categories such as color, sound, or music.<sup><a href="../references/notes/appendix-m.md#note-2">2</a></sup>
+Lisa Feldman Barrett (b. 1963) uses the red apple, the falling tree, and unfamiliar gamelan music to illustrate the claim that perception depends upon concepts.<sup><a href="../references/notes/appendix-m.md#note-1">1</a></sup> Cognitive science and philosophy of perception widely support the view that sensory input alone does not yield determinate experience. Conceptual constraint organizes sensory input into recognizable categories such as color, sound, or music.<sup><a href="../references/notes/appendix-m.md#note-2">2</a></sup>
 
 My extension is architectural. Conceptual constraint provides a necessary condition for meaning, but it is not sufficient for full semiotic interpretation. Meaning arises only when conceptual constraint operates within a broader structure of interpretation. The constituents of the sign must coordinate for intensional interpretation to occur. Each case below can therefore be analyzed as an instance of this semiotic architecture.
 

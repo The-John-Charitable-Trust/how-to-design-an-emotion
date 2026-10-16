@@ -16,7 +16,7 @@
 
 <a id="note-4"></a>
 
-4. Jonathan Winawer et al., “Russian Blues Reveal Effects of Language on Color Discrimination,” *Proceedings of the National Academy of Sciences* 104, no. 19 (2007): 7780–85, https://doi.org/10.1073/pnas.0701644104.
+4. Jonathan Winawer et al., “Russian Blues Reveal Effects of Language on Color Discrimination,” *Proceedings of the National Academy of Sciences* 104, no. 19 (2007): 7780–85, at 7780, https://doi.org/10.1073/pnas.0701644104.
 
 <a id="note-5"></a>
 
