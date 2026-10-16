@@ -64,7 +64,7 @@
 
 <a id="note-16"></a>
 
-16. Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38, https://doi.org/10.1038/nrn2787.
+16. This position is my own. On the views it rejects, see Barrett, “Theory of Constructed Emotion,” in the sections “The Theory of Constructed Emotion” and “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.” For a parallel rejection of Barrett’s dilemma, see Raamy Majeed, “Does the Problem of Variability Justify Barrett’s Emotion Revolution?” *Review of Philosophy and Psychology* 14, no. 4 (2023): 1421–41, §1, https://doi.org/10.1007/s13164-022-00650-0.
 
 <a id="note-17"></a>
 
@@ -148,7 +148,7 @@
 
 <a id="note-37"></a>
 
-37. Friston, “Free-Energy Principle.”
+37. Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38, https://doi.org/10.1038/nrn2787.
 
 <a id="note-38"></a>
 
