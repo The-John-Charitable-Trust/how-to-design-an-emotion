@@ -24,6 +24,8 @@ Cohnitz, Daniel. “Nelson Goodman.” In *The Stanford Encyclopedia of Philosop
 
 Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38. https://doi.org/10.1038/nrn2787.
 
+Goldinger, Stephen D., Megan H. Papesh, Anthony S. Barnhart, Whitney A. Hansen, and Michael C. Hout. “The Poverty of Embodied Cognition.” *Psychonomic Bulletin & Review* 23, no. 4 (2016): 959–78. https://doi.org/10.3758/s13423-015-0860-1.
+
 Henderson, Leah. “The Problem of Induction.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision November 22, 2022. https://plato.stanford.edu/entries/induction-problem/.
 
 Hoemann, Katie, Fei Xu, and Lisa Feldman Barrett. “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis.” *Developmental Psychology* 55, no. 9 (2019): 1830–49. https://doi.org/10.1037/dev0000686.

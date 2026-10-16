@@ -116,7 +116,7 @@
 
 <a id="note-29"></a>
 
-29. Michael I. Posner and Steven W. Keele, “On the Genesis of Abstract Ideas,” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63, https://doi.org/10.1037/h0025953.
+29. Michael I. Posner and Steven W. Keele, “On the Genesis of Abstract Ideas,” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63, https://doi.org/10.1037/h0025953. For a description of the paradigm, see Stephen D. Goldinger et al., “The Poverty of Embodied Cognition,” *Psychonomic Bulletin & Review* 23, no. 4 (2016): 959–78, https://doi.org/10.3758/s13423-015-0860-1, in the section “2) Concepts and Prototypes.”
 
 <a id="note-30"></a>
 
