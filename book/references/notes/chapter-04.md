@@ -140,7 +140,7 @@
 
 <a id="note-35"></a>
 
-35. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+35. Barrett, “Theory of Constructed Emotion,” in the section “Selected Implications of the Theory.”
 
 <a id="note-36"></a>
 
