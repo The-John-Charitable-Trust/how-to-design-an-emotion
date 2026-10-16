@@ -88,47 +88,47 @@
 
 <a id="note-22"></a>
 
-22. Friston, “Free-Energy Principle.”
+22. For constructionist accounts, see Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion”; for prototype accounts, Rosch and Mervis, “Family Resemblances,” 580; for embodied accounts, Barsalou, “Perceptual Symbol Systems,” 579; and for predictive accounts, Clark, “Whatever Next?,” 181. How my framework preserves these phenomena is developed in chapter 6.
 
 <a id="note-23"></a>
 
-23. Object Management Group, *Unified Modeling Language*, 126.
+23. This diagnosis is my own; see chapters 3 and 6.
 
 <a id="note-24"></a>
 
-24. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+24. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-25"></a>
 
-25. Michael I. Posner and Steven W. Keele, “On the Genesis of Abstract Ideas,” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63, https://doi.org/10.1037/h0025953.
+25. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
 
 <a id="note-26"></a>
 
-26. Lisa Feldman Barrett, “Concepts and Emotion, Part 1 of 3,” YouTube video, 00:00–02:18, June 11, 2023, https://www.youtube.com/watch?v=mpjrD1jCEls. Excerpted from Lisa Feldman Barrett, “How Emotions are Made (Cinematic Lecture),” Flow, YouTube video, 40:00, April 14, 2020, https://www.youtube.com/watch?v=0rbyC5m557I.
+26. Michael I. Posner and Steven W. Keele, “On the Genesis of Abstract Ideas,” *Journal of Experimental Psychology* 77, no. 3 (1968): 353–63, https://doi.org/10.1037/h0025953.
 
 <a id="note-27"></a>
 
-27. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:09–00:59, 01:49–02:18.
+27. Lisa Feldman Barrett, “Concepts and Emotion, Part 1 of 3,” YouTube video, 00:00–02:18, June 11, 2023, https://www.youtube.com/watch?v=mpjrD1jCEls. Excerpted from Lisa Feldman Barrett, “How Emotions are Made (Cinematic Lecture),” Flow, YouTube video, 40:00, April 14, 2020, https://www.youtube.com/watch?v=0rbyC5m557I.
 
 <a id="note-28"></a>
 
-28. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
+28. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:09–00:59, 01:49–02:18.
 
 <a id="note-29"></a>
 
-29. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+29. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
 
 <a id="note-30"></a>
 
-30. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion,” citing Posner and Keele, “Genesis of Abstract Ideas.”
+30. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
 
 <a id="note-31"></a>
 
-31. Posner and Keele, “Genesis of Abstract Ideas.”
+31. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion,” citing Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-32"></a>
 
-32. Object Management Group, *Unified Modeling Language*, 126.
+32. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-33"></a>
 
@@ -140,27 +140,27 @@
 
 <a id="note-35"></a>
 
-35. Barrett, “Theory of Constructed Emotion.”
+35. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-36"></a>
 
-36. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+36. Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-37"></a>
 
-37. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:45–00:59.
+37. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
 
 <a id="note-38"></a>
 
-38. Object Management Group, *Unified Modeling Language*, 126.
+38. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:45–00:59.
 
 <a id="note-39"></a>
 
-39. Barrett, “Concepts and Emotion, Part 1 of 3,” 01:56–02:10.
+39. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-40"></a>
 
-40. Barrett, “Theory of Constructed Emotion.”
+40. Barrett, “Concepts and Emotion, Part 1 of 3,” 01:56–02:10.
 
 <a id="note-41"></a>
 
@@ -168,92 +168,96 @@
 
 <a id="note-42"></a>
 
-42. George Lakoff, “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Concepts,” *Journal of Philosophical Logic* 2, no. 4 (1973): 458–508, https://doi.org/10.1007/BF00262952.
+42. Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-43"></a>
 
-43. Lakoff, “Hedges.”
+43. George Lakoff, “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Concepts,” *Journal of Philosophical Logic* 2, no. 4 (1973): 458–508, https://doi.org/10.1007/BF00262952.
 
 <a id="note-44"></a>
 
-44. Lawrence W. Barsalou, “Perceptual Symbol Systems,” *Behavioral and Brain Sciences* 22, no. 4 (1999): 577–660, https://doi.org/10.1017/S0140525X99002149.
+44. Lakoff, “Hedges.”
 
 <a id="note-45"></a>
 
-45. Posner and Keele, “Genesis of Abstract Ideas.”
+45. Lawrence W. Barsalou, “Perceptual Symbol Systems,” *Behavioral and Brain Sciences* 22, no. 4 (1999): 577–660, https://doi.org/10.1017/S0140525X99002149.
 
 <a id="note-46"></a>
 
-46. Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, https://doi.org/10.1017/S0140525X12000477.
+46. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-47"></a>
 
-47. Friston, “Free-Energy Principle.”
+47. Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, https://doi.org/10.1017/S0140525X12000477.
 
 <a id="note-48"></a>
 
-48. James L. McClelland and David E. Rumelhart, “Distributed Memory and the Representation of General and Specific Information,” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88, https://doi.org/10.1037/0096-3445.114.2.159.
+48. Friston, “Free-Energy Principle.”
 
 <a id="note-49"></a>
 
-49. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+49. James L. McClelland and David E. Rumelhart, “Distributed Memory and the Representation of General and Specific Information,” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88, https://doi.org/10.1037/0096-3445.114.2.159.
 
 <a id="note-50"></a>
 
-50. Barsalou, “Perceptual Symbol Systems.”
+50. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-51"></a>
 
-51. Friston, “Free-Energy Principle.”
+51. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-52"></a>
 
-52. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987).
+52. Friston, “Free-Energy Principle.”
 
 <a id="note-53"></a>
 
-53. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+53. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987).
 
 <a id="note-54"></a>
 
-54. Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
+54. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-55"></a>
 
-55. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
+55. Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
 
 <a id="note-56"></a>
 
-56. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
+56. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
 
 <a id="note-57"></a>
 
-57. Rosch and Mervis, “Family Resemblances.”
+57. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
 
 <a id="note-58"></a>
 
-58. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
+58. Rosch and Mervis, “Family Resemblances.”
 
 <a id="note-59"></a>
 
-59. Friston, “Free-Energy Principle.”
+59. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
 
 <a id="note-60"></a>
 
-60. Barsalou, “Perceptual Symbol Systems.”
+60. Friston, “Free-Energy Principle.”
 
 <a id="note-61"></a>
 
-61. Rosch, “Cognitive Representations.”
+61. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-62"></a>
 
-62. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+62. Rosch, “Cognitive Representations.”
 
 <a id="note-63"></a>
 
-63. Object Management Group, *Unified Modeling Language*, 126.
+63. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
 
 <a id="note-64"></a>
 
 64. Object Management Group, *Unified Modeling Language*, 126.
+
+<a id="note-65"></a>
+
+65. Object Management Group, *Unified Modeling Language*, 126.
