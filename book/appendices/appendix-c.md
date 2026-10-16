@@ -1,8 +1,8 @@
-# Appendix C: Reconstructing Goal-Based Concepts
+# Appendix C: Are Concepts Just Goals?
 
-## A Constraint Analysis of Feldman Barrett's Theory of Concepts
+## Putting Constructivist Concept Theory to the Test
 
-Barrett argues that concepts can adapt to changing purposes. She describes goal-based concepts as highly flexible and adaptable to the situation.<sup><a href="../references/notes/appendix-c.md#note-1">1</a></sup> She immediately ties that flexibility to goal variation, adding that concepts are malleable and context-dependent because goals can change with the situation. She illustrates the point with the fish example: when someone asks what kind of fish they would like, the active purpose constrains the answer. One may answer "goldfish" under one purpose and reject "poached salmon" under another. She then generalizes the same mechanism with an artifact example: a single car can enter different concepts depending on the active purpose. In different contexts, a car may function as transportation, a status symbol, a bed, a murder weapon, or an artificial reef.
+Lisa Feldman Barrett (b. 1963) argues that concepts can adapt to changing purposes. She describes goal-based concepts as highly flexible and adaptable to the situation.<sup><a href="../references/notes/appendix-c.md#note-1">1</a></sup> She immediately ties that flexibility to goal variation, adding that concepts are malleable and context-dependent because goals can change with the situation. She illustrates the point with the fish example: when someone asks what kind of fish they would like, the active purpose constrains the answer. One may answer "goldfish" under one purpose and reject "poached salmon" under another. She then generalizes the same mechanism with an artifact example: a single car can enter different concepts depending on the active purpose. In different contexts, a car may function as transportation, a status symbol, a bed, a murder weapon, or an artificial reef.
 
 I agree that Barrett identifies a real phenomenon: goals regulate conceptual use. Research on ad hoc categories and situated conceptualization also supports the idea that agents form or activate categories relative to practical purposes.<sup><a href="../references/notes/appendix-c.md#note-2">2</a></sup> But that phenomenon does not establish that identity conditions are fluid. It supports a more precise interpretation: goal-indexed regulation can operate over a stable constraint structure.
 
@@ -67,7 +67,7 @@ In Project 1, the code evaluates a specific candidate passed as a command-line a
 
 You get a valid response for the first two object diagrams; for example, when you pass goldfish as an input parameter:
 
-However, you get an  invalid response when you pass rock as the input parameter:
+However, you get an invalid response when you pass rock as the input parameter:
 
 This behavior demonstrates that identity conditions operate upstream of all other processes. They constrain the space of possible instances before any goal-based filtering or contextual interpretation occurs. Project 1 therefore establishes the first architectural claim: identity conditions define admissibility and constrain what can count as an instance in the first place.
 
@@ -150,10 +150,10 @@ The object diagrams show how the same set of instances receives different select
 **Figure C-9. Selection ****Under**** a Pet Goal**
 
 <img src="../../assets/figures/appendix-c/figure-17.png" />
-<p align="center">**Figure C-9. Selection Under a Dinner Goal**</p>
+<p align="center">**Figure C-10. Selection Under a Dinner Goal**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
-**Figure C-9. Selection ****Under**** a Dinner Goal**
+**Figure C-10. Selection ****Under**** a Dinner Goal**
 
 In Project 3, the code applies a goal to a fixed set of instances. The goal determines which instances satisfy its selection constraint, but it does not alter the instances themselves or the concept they instantiate. The README for Project 3 provides the canonical run commands and expected outputs.
 
