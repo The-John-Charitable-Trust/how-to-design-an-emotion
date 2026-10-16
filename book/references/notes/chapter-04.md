@@ -292,15 +292,15 @@
 
 <a id="note-73"></a>
 
-73. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+73. Barrett, “Theory of Constructed Emotion,” in the sections “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators” and “An Internal Model Is Predictive, Not Reactive.”
 
 <a id="note-74"></a>
 
-74. Barsalou, “Perceptual Symbol Systems.”
+74. Barsalou, “Situated Simulation,” 521.
 
 <a id="note-75"></a>
 
-75. Friston, “Free-Energy Principle.”
+75. Clark, “Whatever Next?,” 181; Friston, “Free-Energy Principle,” 127.
 
 <a id="note-76"></a>
 
