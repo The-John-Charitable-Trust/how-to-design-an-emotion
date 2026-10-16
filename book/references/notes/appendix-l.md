@@ -12,7 +12,7 @@
 
 <a id="note-3"></a>
 
-3. Daniel David et al., “50 Years of Rational-Emotive and Cognitive-Behavioral Therapy: A Systematic Review and Meta-Analysis,” *Journal of Clinical Psychology* 74, no. 3 (2018): 304–18, https://doi.org/10.1002/jclp.22514.
+3. Daniel David et al., “50 Years of Rational-Emotive and Cognitive-Behavioral Therapy: A Systematic Review and Meta-Analysis,” *Journal of Clinical Psychology* 74, no. 3 (2018): 304–18, at 304, https://doi.org/10.1002/jclp.22514.
 
 <a id="note-4"></a>
 
@@ -44,7 +44,7 @@
 
 <a id="note-11"></a>
 
-11. Steven C. Hayes, “Acceptance and Commitment Therapy: Towards a Unified Model of Behavior Change,” *World Psychiatry* 18, no. 2 (2019): 226–27, https://doi.org/10.1002/wps.20626.
+11. Steven C. Hayes, “Acceptance and Commitment Therapy: Towards a Unified Model of Behavior Change,” *World Psychiatry* 18, no. 2 (2019): 226–27, at 226, https://doi.org/10.1002/wps.20626.
 
 <a id="note-12"></a>
 
