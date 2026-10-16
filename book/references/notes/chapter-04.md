@@ -56,7 +56,7 @@
 
 <a id="note-14"></a>
 
-14. Object Management Group, *Unified Modeling Language*, 126.
+14. On color, see Alex Byrne and David R. Hilbert, quoted in Barry Maund, “Color,” in *The Stanford Encyclopedia of Philosophy*, ed. Edward N. Zalta, substantive revision August 9, 2024, sec. 1.3, https://plato.stanford.edu/entries/color/. On emotion, see Adolphs, “How Should Neuroscience Study Emotions?,” abstract and the section “What Are Emotions?” On rights, see Wesley Newcomb Hohfeld, “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning,” *Yale Law Journal* 23, no. 1 (1913): 58, https://doi.org/10.2307/785533; and Leif Wenar, “Rights,” in *The Stanford Encyclopedia of Philosophy*, ed. Edward N. Zalta, substantive revision June 7, 2025, sec. 2.2.1, https://plato.stanford.edu/entries/rights/.
 
 <a id="note-15"></a>
 

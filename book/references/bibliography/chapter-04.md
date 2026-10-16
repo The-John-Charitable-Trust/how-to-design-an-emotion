@@ -22,6 +22,8 @@ Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature 
 
 Hoemann, Katie, Fei Xu, and Lisa Feldman Barrett. “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis.” *Developmental Psychology* 55, no. 9 (2019): 1830–49. https://doi.org/10.1037/dev0000686.
 
+Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
+
 Kurth, Charlie. “Are Emotions Psychological Constructions?” *Philosophy of Science* 86, no. 5 (2019): 1227–38. https://doi.org/10.1086/705479.
 
 Lakoff, George. *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind*. Chicago: University of Chicago Press, 1987.
@@ -31,6 +33,8 @@ Lakoff, George. “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Co
 Lindquist, Kristen A., Tor D. Wager, Hedy Kober, Eliza Bliss-Moreau, and Lisa Feldman Barrett. “The Brain Basis of Emotion: A Meta-Analytic Review.” *Behavioral and Brain Sciences* 35, no. 3 (2012): 121–43. https://doi.org/10.1017/S0140525X11000446.
 
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision June 17, 2019. https://plato.stanford.edu/entries/concepts/.
+
+Maund, Barry. “Color.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision August 9, 2024. https://plato.stanford.edu/entries/color/.
 
 McClelland, James L., and David E. Rumelhart. “Distributed Memory and the Representation of General and Specific Information.” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88. https://doi.org/10.1037/0096-3445.114.2.159.
 
@@ -43,3 +47,5 @@ Rosch, Eleanor, and Carolyn B. Mervis. “Family Resemblances: Studies in the In
 Rosch, Eleanor. “Cognitive Representations of Semantic Categories.” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233. https://doi.org/10.1037/0096-3445.104.3.192.
 
 Siegel, Erika H., Molly K. Sands, Wim Van den Noortgate, Paul Condon, Yale Chang, Jennifer Dy, Karen S. Quigley, and Lisa Feldman Barrett. “Emotion Fingerprints or Emotion Populations? A Meta-Analytic Investigation of Autonomic Features of Emotion Categories.” *Psychological Bulletin* 144, no. 4 (2018): 343–93. https://doi.org/10.1037/bul0000128.
+
+Wenar, Leif. “Rights.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision June 7, 2025. https://plato.stanford.edu/entries/rights/.
