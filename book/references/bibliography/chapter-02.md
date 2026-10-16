@@ -2,9 +2,9 @@
 
 [← Chapter 2](../../part-2/chapter-02.md) · [Notes](../notes/chapter-02.md)
 
-Bambrough, Renford. “Universals and Family Resemblances.” *Proceedings of the Aristotelian Society* 61 (1960–61): 207–22. https://doi.org/10.1093/aristotelian/61.1.207.
-
 Aristotle. *Categories and De Interpretatione*. Translated by J. L. Ackrill. Oxford: Clarendon Press, 1963.
+
+Bambrough, Renford. “Universals and Family Resemblances.” *Proceedings of the Aristotelian Society* 61 (1960–61): 207–22. https://doi.org/10.1093/aristotelian/61.1.207.
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
 
