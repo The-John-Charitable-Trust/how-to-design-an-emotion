@@ -1,8 +1,8 @@
-# Appendix A: Basic Emotion Theory
+# Appendix A: The Myth of Universal Emotions
 
-## An Assessment by Formal Identity and Truth Conditions
+## Putting the Classical Theory to the Test
 
-This appendix applies the conceptual principles I  established in Chapter 2 to Basic Emotion Theory. In that chapter, I argued that a theory cannot use a concept with authority unless it first specifies the identity conditions that govern the concept's meaning. Definition specifies identity conditions. Analytic truth enforces consequence. Without that sequence, theory mistakes familiar categories for concepts under constraint.
+This appendix applies the conceptual principles I established in Chapter 2 to Basic Emotion Theory. In that chapter, I argued that a theory cannot use a concept with authority unless it first specifies the identity conditions that govern the concept's meaning. Definition specifies identity conditions. Analytic truth enforces consequence. Without that sequence, theory mistakes familiar categories for concepts under constraint.
 
 Basic Emotion Theory asserts that at least some emotions form discrete, universal, biologically grounded kinds.<sup><a href="../references/notes/appendix-a.md#note-1">1</a></sup> Those claims carry conceptual obligations. If a theory asserts universality, discreteness, or biological necessity, then it must identify what makes an emotion the kind of thing it claims emotion to be. It must supply determinate identity conditions, non-circular criteria of application, scope discipline, and principled differentiation. Data, correlation, and explanatory usefulness can support a theory, but they cannot replace concept fixation.
 
@@ -36,4 +36,4 @@ Appendix A applies Chapter 2's standards to Basic Emotion Theory and reaches a p
 
 The appendix shows that the theory does not meet that burden. Prototypical expressions, biological correlates, and behavioral patterns can help researchers recognize or investigate affective episodes, but they do not explain what makes fear fear or anger anger across cases. The fear-face example exposes the deeper circularity: the facial pattern counts as evidence of fear only because the theory has already classified it as a fear expression. Without an independent intensional specification, the theory cannot say which variations preserve identity, which variations revise the category, and which variations negate the claim. It can describe recurring indicators, but it cannot enforce analytic consequence.
 
-Basic Emotion theory's strongest claims require conceptual architecture: identity conditions, non-circular criteria, scope determinacy, and inferential constraint. Where those conditions remain implicit, data can accumulate without definition, and explanation can appear stronger than the concept beneath it. Appendix A therefore confirms the central lesson of Chapter 2: evidence can test or refine a definition, but it cannot replace the identity conditions that make definition possible.
+Basic Emotion Theory's strongest claims require conceptual architecture: identity conditions, non-circular criteria, scope determinacy, and inferential constraint. Where those conditions remain implicit, data can accumulate without definition, and explanation can appear stronger than the concept beneath it. Appendix A therefore confirms the central lesson of Chapter 2: evidence can test or refine a definition, but it cannot replace the identity conditions that make definition possible.
