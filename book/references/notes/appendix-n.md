@@ -4,11 +4,11 @@
 
 <a id="note-1"></a>
 
-1. Kurt Gödel, “What Is Cantor’s Continuum Problem?,” *American Mathematical Monthly* 54, no. 9 (1947): 515–25, https://doi.org/10.2307/2304666.
+1. Kurt Gödel, “What Is Cantor’s Continuum Problem?,” *American Mathematical Monthly* 54, no. 9 (1947): 515–25, https://doi.org/10.2307/2304666; on the Quine–Putnam indispensability argument, see Mark Colyvan, “Indispensability Arguments in the Philosophy of Mathematics,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/spr2024/entries/mathphil-indis/, §1.
 
 <a id="note-2"></a>
 
-2. Paul Benacerraf, “What Numbers Could Not Be,” *Philosophical Review* 74, no. 1 (1965): 47–73, https://doi.org/10.2307/2183530; Stewart Shapiro, “Mathematics and Reality,” *Philosophy of Science* 50, no. 4 (1983): 523–48, https://doi.org/10.1086/289138.
+2. Paul Benacerraf, “What Numbers Could Not Be,” *Philosophical Review* 74, no. 1 (1965): 47–73, https://doi.org/10.2307/2183530; Stewart Shapiro, “Mathematics and Reality,” *Philosophy of Science* 50, no. 4 (1983): 523–48, https://doi.org/10.1086/289138; Erich Reck and Georg Schiemer, “Structuralism in the Philosophy of Mathematics,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/spr2024/entries/structuralism-mathematics/.
 
 <a id="note-3"></a>
 
