@@ -4,13 +4,13 @@
 
 Allais, Lucy. “Kant, Non-Conceptual Content and the Representation of Space.” *Journal of the History of Philosophy* 47, no. 3 (2009): 383–413. https://doi.org/10.1353/hph.0.0134.
 
-Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements.” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68. https://doi.org/10.1177/1529100619832930.
-
 Barrett, Lisa Feldman. “Are Emotions Natural Kinds?” *Perspectives on Psychological Science* 1, no. 1 (2006): 28–58. https://doi.org/10.1111/j.1745-6916.2006.00003.x.
 
 Barrett, Lisa Feldman. “Categories and Their Role in the Science of Emotion.” *Psychological Inquiry* 28, no. 1 (2017): 20–26. https://doi.org/10.1080/1047840X.2017.1261581.
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
+
+Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements.” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68. https://doi.org/10.1177/1529100619832930.
 
 Bolton, Robert. “Essentialism and Semantic Theory in Aristotle: *Posterior Analytics*, II, 7–10.” *Philosophical Review* 85, no. 4 (1976): 514–44. https://doi.org/10.2307/2184277.
 
@@ -24,6 +24,8 @@ Damasio, Antonio, and Gil B. Carvalho. “The Nature of Feelings: Evolutionary a
 
 Darwall, Stephen, Allan Gibbard, and Peter Railton. “Toward Fin de siècle Ethics: Some Trends.” *Philosophical Review* 101, no. 1 (1992): 115–89. https://doi.org/10.2307/2185045.
 
+“Declaration of Independence: A Transcription.” National Archives. https://www.archives.gov/founding-docs/declaration-transcript.
+
 Edelman, Shimon. “Marr, David.” In *Encyclopedia of Cognitive Science*. Chichester, UK: Wiley, 2006. https://doi.org/10.1002/0470018860.s00143.
 
 Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
@@ -35,6 +37,8 @@ Grisez, Germain G. “The First Principle of Practical Reason: A Commentary on t
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/archives/fall2021/entries/definitions/.
 
 Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
+
+*The Holy Bible: New Revised Standard Version Updated Edition*. Psalm 118:22. https://www.biblegateway.com/passage/?search=Psalm%20118%3A22&version=NRSVUE.
 
 Juslin, Patrik N., and Daniel Västfjäll. “Emotional Responses to Music: The Need to Consider Underlying Mechanisms.” *Behavioral and Brain Sciences* 31, no. 5 (2008): 559–75. https://doi.org/10.1017/S0140525X08005293.
 
@@ -67,8 +71,3 @@ Simmons, A. John. “Locke’s Political Philosophy.” In *The Stanford Encyclo
 Snyder, David C. “Locke on Natural Law and Property Rights.” *Canadian Journal of Philosophy* 16, no. 4 (1986): 723–50. https://doi.org/10.1080/00455091.1986.10717145.
 
 Zlatev, Jordan. “The Semiotic Hierarchy: Life, Consciousness, Signs and Language.” *Cognitive Semiotics* 4, suppl. (2009): 169–200. https://doi.org/10.1515/cogsem.2009.4.spring2009.169.
-
-
-“Declaration of Independence: A Transcription.” National Archives. https://www.archives.gov/founding-docs/declaration-transcript.
-
-*The Holy Bible: New Revised Standard Version Updated Edition*. Psalm 118:22. https://www.biblegateway.com/passage/?search=Psalm%20118%3A22&version=NRSVUE.
