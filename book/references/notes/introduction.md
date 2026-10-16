@@ -44,7 +44,7 @@
 
 <a id="note-11"></a>
 
-11. For persistent definitional disagreement, see Paul R. Kleinginna Jr. and Anne M. Kleinginna, “A Categorized List of Emotion Definitions, with Suggestions for a Consensual Definition,” *Motivation and Emotion* 5, no. 4 (1981): 345–79, https://doi.org/10.1007/BF00992553; for one proposed remedy, see Klaus R. Scherer, “What Are Emotions? And How Can They Be Measured?,” *Social Science Information* 44, no. 4 (2005): 695–729, https://doi.org/10.1177/0539018405058216.
+11. For persistent definitional disagreement, see Paul R. Kleinginna Jr. and Anne M. Kleinginna, “A Categorized List of Emotion Definitions, with Suggestions for a Consensual Definition,” *Motivation and Emotion* 5, no. 4 (1981): 345–79, at 345, https://doi.org/10.1007/BF00992553; for one proposed remedy, see Klaus R. Scherer, “What Are Emotions? And How Can They Be Measured?,” *Social Science Information* 44, no. 4 (2005): 695–729, at 697, https://doi.org/10.1177/0539018405058216.
 
 <a id="note-12"></a>
 
