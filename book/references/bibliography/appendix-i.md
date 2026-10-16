@@ -86,4 +86,4 @@ Watson, John B., and Rosalie Rayner. “Conditioned Emotional Reactions.” *Jou
 
 Wehrle, Thomas, and Klaus R. Scherer. “Towards Computational Modeling of Appraisal Theories.” In *Appraisal Processes in Emotion: Theory, Methods, Research*, edited by Klaus R. Scherer, Angela Schorr, and Tom Johnstone, 350–65. New York: Oxford University Press, 2001.
 
-Wilson-Mendenhall, Christine D., Lisa Feldman Barrett, and Lawrence W. Barsalou. “Grounding Emotion in Situated Conceptualization.” *Neuropsychologia* 49, no. 5 (2011): 1105–27.
+Wilson-Mendenhall, Christine D., Lisa Feldman Barrett, W. Kyle Simmons, and Lawrence W. Barsalou. “Grounding Emotion in Situated Conceptualization.” *Neuropsychologia* 49, no. 5 (2011): 1105–27.

@@ -279,7 +279,7 @@
 92. Klaus R. Scherer, “Appraisal Considered as a Process of Multilevel Sequential Checking,” in *Appraisal Processes in Emotion: Theory, Methods, Research*, ed. Klaus R. Scherer, Angela Schorr, and Tom Johnstone (New York: Oxford University Press, 2001), 92–120. Scherer’s Component Process Model organizes appraisal through an ordered sequence of stimulus-evaluation checks.
 
 <a id="note-93"></a>
-93. Klaus R. Scherer, “What Are Emotions? And How Can They Be Measured?,” *Social Science Information* 44, no. 4 (2005): 697–700. CPM treats neurophysiological change as a differentiated component of the emotional episode.
+93. Scherer, “What Are Emotions?,” 697–700. CPM treats neurophysiological change as a differentiated component of the emotional episode.
 
 <a id="note-94"></a>
 94. Scherer, “What Are Emotions?,” 697–700. Motor expression, including facial, vocal, and bodily expression, constitutes a separate component within CPM.
@@ -324,7 +324,7 @@
 107. Barrett, “Theory of Constructed Emotion,” 4–17. TCE treats the brain as a predictive system that constructs simulations from prior experience and uses sensory prediction error to update its internal model.
 
 <a id="note-108"></a>
-108. Christine D. Wilson-Mendenhall, Lisa Feldman Barrett, and Lawrence W. Barsalou, “Grounding Emotion in Situated Conceptualization,” *Neuropsychologia* 49, no. 5 (2011): 1105–27. The authors describe emotional conceptualization as situated and sensitive to the bodily and environmental context in which an emotional instance occurs.
+108. Christine D. Wilson-Mendenhall, Lisa Feldman Barrett, W. Kyle Simmons, and Lawrence W. Barsalou, “Grounding Emotion in Situated Conceptualization,” *Neuropsychologia* 49, no. 5 (2011): 1105–27. The authors describe emotional conceptualization as situated and sensitive to the bodily and environmental context in which an emotional instance occurs.
 
 <a id="note-109"></a>
 109. Barrett, “Are Emotions Natural Kinds?,” 28–58; Barrett, “Theory of Constructed Emotion,” 1–23. These works reject the identification of emotion with a single physiological pattern, facial expression, or dedicated neural circuit.
@@ -363,7 +363,7 @@
 120. Barrett, “Solving the Emotion Paradox,” 27–40; Barrett, “Theory of Constructed Emotion,” 14–18. Categorization makes affective sensations meaningful as particular emotional instances.
 
 <a id="note-121"></a>
-121. Wilson-Mendenhall, Barrett, and Barsalou, “Grounding Emotion,” 1105–27. Situated conceptualizations incorporate bodily states, environmental conditions, prior experience, and current situational information.
+121. Wilson-Mendenhall et al., “Grounding Emotion,” 1105–27. Situated conceptualizations incorporate bodily states, environmental conditions, prior experience, and current situational information.
 
 <a id="note-122"></a>
 122. Barrett, “Theory of Constructed Emotion,” 14–18. If emotional instances are constructed categories rather than fixed biological kinds, the theory coherently entails roles for prediction, concepts, categorization, and contextual information. The Logical Entailment score is the author’s evaluation.
@@ -384,7 +384,7 @@
 127. Barrett, “Are Emotions Natural Kinds?,” 28–58. The rejection of invariant natural-kind essences entails that emotional meaning is not an intrinsic biological property shared identically by every instance of an emotion category.
 
 <a id="note-128"></a>
-128. Barrett, “Solving the Emotion Paradox,” 27–40; Wilson-Mendenhall, Barrett, and Barsalou, “Grounding Emotion,” 1105–27. Emotional meaning is constructed by using conceptual knowledge to categorize affect within a particular embodied and situational context.
+128. Barrett, “Solving the Emotion Paradox,” 27–40; Wilson-Mendenhall et al., “Grounding Emotion,” 1105–27. Emotional meaning is constructed by using conceptual knowledge to categorize affect within a particular embodied and situational context.
 
 <a id="note-129"></a>
 129. Barrett, “Are Emotions Natural Kinds?,” 28–58. Barrett argues that emotion categories lack the invariant physical and biological features expected of classical natural kinds.
@@ -426,7 +426,7 @@
 141. Barrett, “Theory of Constructed Emotion,” 14–18. Concepts consist of distributed populations of predictions, and categorization occurs when those predictions explain and organize sensory events.
 
 <a id="note-142"></a>
-142. Barrett, “Theory of Constructed Emotion,” 14–18; Wilson-Mendenhall, Barrett, and Barsalou, “Grounding Emotion,” 1105–27. Predictions are selected and adjusted relative to the current bodily, environmental, and goal-related context.
+142. Barrett, “Theory of Constructed Emotion,” 14–18; Wilson-Mendenhall et al., “Grounding Emotion,” 1105–27. Predictions are selected and adjusted relative to the current bodily, environmental, and goal-related context.
 
 <a id="note-143"></a>
 143. Barrett, “Theory of Constructed Emotion,” 10–18. Prediction errors update the internal model, correct predicted sensory and motor states, and contribute to subsequent concept learning.
@@ -576,7 +576,7 @@
 191. Panksepp, *Affective Neuroscience*, 9–48; Panksepp, “Basic Emotional Circuits,” 1791–1804. Affective neuroscience provides a detailed causal architecture capable of supporting formal representation of primary affective organization. The conclusion that it stops short of a computational architecture of emotional meaning is the author’s final evaluation.
 
 <a id="note-192"></a>
-192. Table I-18 is the author’s consolidation of the domain scores, micro-level weights, and candidate evaluations developed in Appendices G, H, and I. It reports the results of the trade study rather than an independently published empirical finding.
+192. Table I-17 is the author’s consolidation of the domain scores, micro-level weights, and candidate evaluations developed in Appendices G, H, and I. It reports the results of the trade study rather than an independently published empirical finding.
 
 <a id="note-193"></a>
 193. Panksepp, “Cross-Species Affective Neuroscience,” e21236; Panksepp, “Basic Emotional Circuits,” 1791–1804. These sources support the biological and causal architecture underlying Affective Neuroscience’s high definitional and computational scores. Its ranking as the highest-scoring candidate is the author’s result.
