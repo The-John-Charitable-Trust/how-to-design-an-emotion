@@ -20,7 +20,7 @@
 
 <a id="note-5"></a>
 
-5. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators” (“what Barsalou refers to as ‘ad hoc’ concepts”); Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
+5. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators” (“what Barsalou refers to as ‘ad hoc’ concepts”; “the brain constructs an on-line concept of happiness, not in absolute terms, but with reference to a particular goal in the situation”); see also Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
 
 <a id="note-6"></a>
 
