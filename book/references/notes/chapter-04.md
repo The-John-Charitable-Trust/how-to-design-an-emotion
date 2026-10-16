@@ -48,7 +48,7 @@
 
 <a id="note-12"></a>
 
-12. Friston, “Free-Energy Principle.”
+12. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators”; Katie Hoemann, Fei Xu, and Lisa Feldman Barrett, “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis,” *Developmental Psychology* 55, no. 9 (2019): 1830–49, in the sections “Emotion Concepts and Categories” and “The Role of Concepts in Prediction,” https://doi.org/10.1037/dev0000686; see also Barsalou, “Ad Hoc Categories,” 211. The claim that this displaces upstream identity conditions is my own; see chapters 3 and 6.
 
 <a id="note-13"></a>
 
@@ -228,7 +228,7 @@
 
 <a id="note-57"></a>
 
-57. Katie Hoemann, Fei Xu, and Lisa Feldman Barrett, “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis,” *Developmental Psychology* 55, no. 9 (2019): 1830–49, https://doi.org/10.1037/dev0000686.
+57. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
 
 <a id="note-58"></a>
 
