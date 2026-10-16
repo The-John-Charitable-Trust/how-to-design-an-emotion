@@ -80,11 +80,11 @@
 
 <a id="note-20"></a>
 
-20. Friston, “Free-Energy Principle.”
+20. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development,” in the section “Emotion Concepts and Categories”; Barrett, “Theory of Constructed Emotion,” fig. 5. That this follows from collapsing the priority of identity conditions is my own claim; see chapters 3 and 6.
 
 <a id="note-21"></a>
 
-21. Friston, “Free-Energy Principle.”
+21. This critique is my own; see chapter 6. Compare Kurth, “Are Emotions Psychological Constructions?,” sec. 2.
 
 <a id="note-22"></a>
 
