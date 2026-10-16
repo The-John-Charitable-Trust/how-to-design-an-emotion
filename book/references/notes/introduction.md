@@ -88,7 +88,7 @@
 
 <a id="note-22"></a>
 
-22. Scarantino and de Sousa, “Emotion.”
+22. Scarantino and de Sousa, “Emotion,” §1.
 
 <a id="note-23"></a>
 
