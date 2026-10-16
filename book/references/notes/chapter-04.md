@@ -196,7 +196,7 @@
 
 <a id="note-49"></a>
 
-49. Barrett, “Theory of Constructed Emotion.”
+49. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:00–01:12. The architectural reading of the example is my own; see chapter 6.
 
 <a id="note-50"></a>
 
