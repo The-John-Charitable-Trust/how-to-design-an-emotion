@@ -216,7 +216,7 @@
 
 <a id="note-54"></a>
 
-54. Barrett, “Concepts and Emotion, Part 1 of 3,” 01:56–02:10.
+54. Barrett, “Concepts and Emotion, Part 1 of 3,” 02:00–02:17. The architectural reading, that classification varies but kind does not, is my own; see chapter 6.
 
 <a id="note-55"></a>
 
