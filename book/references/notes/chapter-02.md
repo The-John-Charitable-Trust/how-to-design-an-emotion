@@ -189,7 +189,7 @@
 
 <a id="note-47"></a>
 
-47. Object Management Group, *Unified Modeling Language*.
+47. This mapping of class and object onto universal and particular is my own; see <a href="#note-46">note 46</a>.
 
 <a id="note-48"></a>
 
