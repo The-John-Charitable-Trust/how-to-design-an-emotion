@@ -141,7 +141,7 @@
 
 <a id="note-35"></a>
 
-35. Gupta, “Definitions.”
+35. Margolis and Laurence, “Concepts,” §2.2.
 
 <a id="note-36"></a>
 
