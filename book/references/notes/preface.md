@@ -24,7 +24,7 @@
 
 <a id="note-6"></a>
 
-6. Terry A. Maroney, “Law and Emotion: A Proposed Taxonomy of an Emerging Field,” *Law and Human Behavior* 30, no. 2 (2006): 119–42, https://doi.org/10.1007/s10979-006-9029-9.
+6. Terry A. Maroney, “Law and Emotion: A Proposed Taxonomy of an Emerging Field,” *Law and Human Behavior* 30, no. 2 (2006): 119–42, at 119, https://doi.org/10.1007/s10979-006-9029-9.
 
 <a id="note-7"></a>
 
