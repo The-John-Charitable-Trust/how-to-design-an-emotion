@@ -121,7 +121,7 @@
 
 <a id="note-30"></a>
 
-30. Object Management Group, *Unified Modeling Language*.
+30. Gupta, “Definitions”; Guarino and Welty, “OntoClean.”
 
 <a id="note-31"></a>
 
