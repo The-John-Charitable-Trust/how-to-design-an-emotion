@@ -37,7 +37,7 @@ Before I define an idea, I return to the problem Chapter 1 hands to this inquiry
 
 We treat so many ideas as if they exist in space and time: natural kinds awaiting discovery, metaphysical entities endowed with mind-independent identity and meaning.
 
-We marshal arguments as if armed with facts, yet we rarely pause to test our conceptual foundations. Our propositions collapse under vague, ambiguous, and imprecise definitions.<sup><a href="../references/notes/chapter-02.md#note-1">1</a></sup>This collapse does not expose a failure of intelligence. It exposes a flaw in intension,and it exacts a moral, psychological, and intellectual cost.
+We marshal arguments as if armed with facts, yet we rarely pause to test our conceptual foundations. Our propositions collapse under vague, ambiguous, and imprecise definitions.<sup><a href="../references/notes/chapter-02.md#note-1">1</a></sup> This collapse does not expose a failure of intelligence. It exposes a flaw in intension, and it exacts a moral, psychological, and intellectual cost.
 
 Bear with me.”
 
