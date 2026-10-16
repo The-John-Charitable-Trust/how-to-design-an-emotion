@@ -17,11 +17,11 @@
 
 <a id="note-4"></a>
 
-4. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF.
+4. On identity conditions as what fixes the kind of thing a concept’s instances are, see Nicola Guarino and Christopher Welty, “Evaluating Ontological Decisions with OntoClean,” *Communications of the ACM* 45, no. 2 (2002): 61–65, https://doi.org/10.1145/503124.503150.
 
 <a id="note-5"></a>
 
-5. Object Management Group, *Unified Modeling Language*.
+5. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF.
 
 <a id="note-6"></a>
 

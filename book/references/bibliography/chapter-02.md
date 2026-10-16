@@ -16,6 +16,8 @@ Frege, Gottlob. “Sense and Reference.” Translated by Max Black. *Philosophic
 
 Gupta, Anil. “Definitions.” In *The Stanford Encyclopedia of Philosophy*, Fall 2021 ed., edited by Edward N. Zalta. https://plato.stanford.edu/archives/fall2021/entries/definitions/.
 
+Guarino, Nicola, and Christopher Welty. “Evaluating Ontological Decisions with OntoClean.” *Communications of the ACM* 45, no. 2 (2002): 61–65. https://doi.org/10.1145/503124.503150.
+
 Hohfeld, Wesley Newcomb. “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning.” *Yale Law Journal* 23, no. 1 (1913): 16–59. https://doi.org/10.2307/785533.
 
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/fall2023/entries/concepts/.
