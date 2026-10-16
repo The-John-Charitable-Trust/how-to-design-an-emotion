@@ -64,4 +64,4 @@
 
 <a id="note-16"></a>
 
-16. Scarantino and de Sousa, “Emotion”; Scherer, “What Are Emotions?”
+16. Scarantino and de Sousa, “Emotion”; Scherer, “What Are Emotions?,” 697
