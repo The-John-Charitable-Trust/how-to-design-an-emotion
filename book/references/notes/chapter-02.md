@@ -185,7 +185,7 @@
 
 <a id="note-46"></a>
 
-46. Margolis and Laurence, “Concepts.”
+46. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-47"></a>
 
@@ -193,27 +193,27 @@
 
 <a id="note-48"></a>
 
-48. Object Management Group, *Unified Modeling Language*.
+48. Gupta, “Definitions.”
 
 <a id="note-49"></a>
 
-49. Gupta, “Definitions.”
+49. Gottlob Frege, “Sense and Reference,” trans. Max Black, *Philosophical Review* 57, no. 3 (1948): 209–30, https://doi.org/10.2307/2181485; Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/.
 
 <a id="note-50"></a>
 
-50. Gottlob Frege, “Sense and Reference,” trans. Max Black, *Philosophical Review* 57, no. 3 (1948): 209–30, https://doi.org/10.2307/2181485; Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/.
+50. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-51"></a>
 
-51. Object Management Group, *Unified Modeling Language*, 126.
+51. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-52"></a>
 
-52. Object Management Group, *Unified Modeling Language*.
+52. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-53"></a>
 
-53. Posner and Keele, “Genesis of Abstract Ideas.”
+53. Object Management Group, *Unified Modeling Language*.
 
 <a id="note-54"></a>
 
@@ -229,7 +229,7 @@
 
 <a id="note-57"></a>
 
-57. Object Management Group, *Unified Modeling Language*.
+57. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-58"></a>
 
@@ -241,12 +241,8 @@
 
 <a id="note-60"></a>
 
-60. Object Management Group, *Unified Modeling Language*, 126.
+60. Jerry A. Fodor, “Concepts: A Potboiler,” *Cognition* 50, nos. 1–3 (1994): 95–113, https://doi.org/10.1016/0010-0277(94)90023-X.
 
 <a id="note-61"></a>
 
-61. Jerry A. Fodor, “Concepts: A Potboiler,” *Cognition* 50, nos. 1–3 (1994): 95–113, https://doi.org/10.1016/0010-0277(94)90023-X.
-
-<a id="note-62"></a>
-
-62. Bambrough, “Universals and Family Resemblances.”
+61. Bambrough, “Universals and Family Resemblances.”
