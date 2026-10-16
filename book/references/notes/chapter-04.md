@@ -364,15 +364,15 @@
 
 <a id="note-91"></a>
 
-91. Friston, “Free-Energy Principle.”
+91. Clark, “Whatever Next?,” 181; Friston, “Free-Energy Principle,” 128.
 
 <a id="note-92"></a>
 
-92. Barsalou, “Perceptual Symbol Systems.”
+92. Barsalou, “Perceptual Symbol Systems,” 577.
 
 <a id="note-93"></a>
 
-93. Rosch, “Cognitive Representations.”
+93. Rosch and Mervis, “Family Resemblances,” 574.
 
 <a id="note-94"></a>
 
