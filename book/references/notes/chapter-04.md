@@ -136,7 +136,7 @@
 
 <a id="note-34"></a>
 
-34. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
+34. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion”; Barrett, “Concepts and Emotion, Part 1 of 3,” 00:09–00:25, 00:45–00:55.
 
 <a id="note-35"></a>
 
@@ -168,7 +168,7 @@
 
 <a id="note-42"></a>
 
-42. Barrett, *How Emotions Are Made*, chap. 5, “Concepts, Goals, and Words.”
+42. Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain* (Boston: Houghton Mifflin Harcourt, 2017), chap. 5, “Concepts, Goals, and Words.”
 
 <a id="note-43"></a>
 
