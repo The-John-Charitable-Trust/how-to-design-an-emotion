@@ -85,7 +85,7 @@
 
 <a id="note-21"></a>
 
-21. Rand, *Introduction to Objectivist Epistemology*, 40, 51.
+21. Rand, *Introduction to Objectivist Epistemology*, 51. Passage and page as given in the Ayn Rand Lexicon, s.v. “Definitions,” https://aynrandlexicon.com/lexicon/definitions.html.
 
 <a id="note-22"></a>
 
