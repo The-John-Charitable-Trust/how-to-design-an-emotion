@@ -112,7 +112,7 @@
 
 <a id="note-28"></a>
 
-28. Hoemann, Xu, and Barrett, “Emotion Words.”
+28. Hoemann, Xu, and Barrett, “Emotion Words,” in the section “Emotion Concepts and Categories.”
 
 <a id="note-29"></a>
 
