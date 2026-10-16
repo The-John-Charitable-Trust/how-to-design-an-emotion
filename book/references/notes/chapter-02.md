@@ -133,7 +133,7 @@
 
 <a id="note-33"></a>
 
-33. Margolis and Laurence, “Concepts.”
+33. Margolis and Laurence, “Concepts,” §2.1.
 
 <a id="note-34"></a>
 
