@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. Stephen R. Leighton, “Aristotle and the Emotions,” *Phronesis* 27 (1982): 144–74, https://doi.org/10.1163/156852882X00104.
+2. Stephen R. Leighton, “Aristotle and the Emotions,” *Phronesis* 27, nos. 1–2 (1982): 144–74, https://doi.org/10.1163/156852882X00104.
 
 <a id="note-3"></a>
 
@@ -56,7 +56,7 @@
 
 <a id="note-14"></a>
 
-14. Bramble, “Distinctive Feeling Theory,” states the standard heterogeneity objection to this view and defends the view against it. The three criticisms in the text are my own.
+14. Bramble, “Distinctive Feeling Theory,” discusses the heterogeneity objection. The three criticisms in the text are my own.
 
 <a id="note-15"></a>
 
@@ -104,7 +104,7 @@
 
 <a id="note-26"></a>
 
-26. Beverley Fehr and James A. Russell, “Concept of Emotion Viewed from a Prototype Perspective,” *Journal of Experimental Psychology: General* 113, no. 3 (1984): 464–86, https://doi.org/10.1037/0096-3445.113.3.464. Their opening line makes the point: “Everyone knows what an emotion is, until asked to give a definition.”
+26. Beverley Fehr and James A. Russell, “Concept of Emotion Viewed from a Prototype Perspective,” *Journal of Experimental Psychology: General* 113, no. 3 (1984): 464–86, at 464, https://doi.org/10.1037/0096-3445.113.3.464. Their opening line makes the point: “Everyone knows what an emotion is, until asked to give a definition.”
 
 <a id="note-27"></a>
 
@@ -128,4 +128,4 @@
 
 <a id="note-32"></a>
 
-32. W. V. O. Quine, “Two Dogmas of Empiricism,” *Philosophical Review* 60, no. 1 (1951): 20–43, https://doi.org/10.2307/2181906.
+32. On the revisability of concepts, see W. V. O. Quine, “Two Dogmas of Empiricism,” *Philosophical Review* 60, no. 1 (1951): 20–43, https://doi.org/10.2307/2181906.

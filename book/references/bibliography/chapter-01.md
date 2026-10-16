@@ -36,7 +36,7 @@ Hoffman, Paul. “Cartesian Passions and Cartesian Dualism.” *Pacific Philosop
 
 James, William. “What Is an Emotion?” *Mind* 9, no. 34 (1884): 188–205. https://doi.org/10.1093/mind/os-IX.34.188.
 
-Leighton, Stephen R. “Aristotle and the Emotions.” *Phronesis* 27 (1982): 144–74. https://doi.org/10.1163/156852882X00104.
+Leighton, Stephen R. “Aristotle and the Emotions.” *Phronesis* 27, nos. 1–2 (1982): 144–74. https://doi.org/10.1163/156852882X00104.
 
 Lindquist, Kristen A., Ajay B. Satpute, and Maria Gendron. “Does Language Do More Than Communicate Emotion?” *Current Directions in Psychological Science* 24, no. 2 (2015): 99–108. https://doi.org/10.1177/0963721414553440.
 
