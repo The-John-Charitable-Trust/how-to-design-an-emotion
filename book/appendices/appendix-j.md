@@ -23,20 +23,20 @@ I use terms such as “application server,” “stored procedures,” and “qu
 Because I prioritize architectural coherence over mechanistic reduction, this model demands a clear division of labor. If emotion can go wrong, change under correction, and depend on concepts, the system must distinguish between processes that simulate or regulate and the act that interprets and commits. This appendix demonstrates one internally consistent way to formalize that distinction.
 
 <img src="../../assets/figures/appendix-j/figure-aj-1.svg" />
-<p align="center">**Figure AJ-1. CCME Architecture Overview**</p>
+<p align="center">**Figure J-1. CCME Architecture Overview**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Figure AJ-1. Constructivist Computational Model of Emotions (CCME) -Conscious Emotional Cognition
+Figure J-1. Constructivist Computational Model of Emotions (CCME): Conscious Emotional Cognition
 
-I now introduce the architecture in visual and functional terms. Figures AJ-1 and AJ-2 present the CCME as a layered system where I define components by their operational roles rather than anchoring them to specific brain structures. The diagrams distinguish four major domains: stimulus activation, contextual framing, the Biological Intelligence Application Server, and agency. They also mark the meaning boundary between processes that prepare interpretation and the act through which the agent commits.
+I now introduce the architecture in visual and functional terms. Figures J-1 and J-2 present the CCME as a layered system where I define components by their operational roles rather than anchoring them to specific brain structures. The diagrams distinguish four major domains: stimulus activation, contextual framing, the Biological Intelligence Application Server, and agency. They also mark the meaning boundary between processes that prepare interpretation and the act through which the agent commits.
 
 Within the diagrams, I show the Database Lane as a visually distinct layer, but I do not treat it as an additional architectural domain. The database functions as the persistent memory substrate of the Biological Intelligence Application Server. It stores learned schemas, stored procedures, and conceptual repertoires that the system retrieves during computation. I separate it graphically only to illustrate retrieval and update operations during emotional processing.
 
 <img src="../../assets/figures/appendix-j/figure-aj-2.svg" />
-<p align="center">**Figure AJ-2. CCME Database Lane Architecture**</p>
+<p align="center">**Figure J-2. CCME Database Lane Architecture**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Figure AJ-2. Constructivist Computational Model of Emotions (CCME) -Non-Conscious Emotional Cognition
+Figure J-2. Constructivist Computational Model of Emotions (CCME): Non-Conscious Emotional Cognition
 
 The flow begins with stimulus activation. An exteroceptive input reaches the agent within a determinate context. Context is no passive backdrop; it functions as a structural parameter. It shapes simulation, modulates relevance, and alters which category schemas the system retrieves from memory. Because a stimulus never occurs in isolation, this fully embedded situation provides the raw material for all subsequent processing.
 
@@ -50,7 +50,7 @@ Simulation begins when the architecture constructs a situation model. Given a st
 
 Parallel to situation simulation, the system performs anticipatory regulation of the body budget. Allostatic prediction prepares energetic resources in light of environmental demand. This regulation generates arousal, urgency, cost expectations, and readiness states. These do not yet constitute emotional meaning. They represent dynamic adjustments that increase or decrease the agent’s capacity to respond. The organism does not wait for meaning before it prepares; preparation precedes interpretation.<sup><a href="../references/notes/appendix-j.md#note-3">3</a></sup>
 
-Felt awareness emerges from this regulatory activity. A heightened arousal state, elevated urgency, or constrained energy profile becomes phenomenally available. This availability carries causal significance. It biases attention and action tendency. Yet it remains semantically available. It supplies raw intensity and valence, but it defers the final task of reference-marking to the interpretive stage.
+Felt awareness emerges from this regulatory activity. A heightened arousal state, elevated urgency, or constrained energy profile becomes phenomenally available. This availability carries causal significance. It biases attention and action tendency. Yet it remains semantically indeterminate. It supplies raw intensity and valence, but it defers the final task of reference-marking to the interpretive stage.
 
 The crucial move occurs when the system binds feeling to the simulated situation. The system forms a referent that combines bodily readiness with a projected world-model under contextual constraint. This referent possesses structure but lacks interpretation. It serves as a candidate for meaning. Because the simulation remains probabilistic and the feeling remains real but not self-interpreting, error remains possible. A high-urgency state in a dim café may bind to a danger simulation, yet the simulation may prove mistaken. The architecture preserves this distinction deliberately. The bodily readiness state may persist even when the simulated situation misrepresents the world, because the feeling itself does not assert a proposition about the situation. Within this model, both affect and the felt state remain non-propositional; neither encodes a determinate evaluative judgment before interpretation.
 
@@ -88,13 +88,13 @@ The C# executables for the projects below are in the matching project folders in
 <p align="center">**Project 1 — Architecture Diagram**</p>
 
 -----------------------------------------------------------------------------------------------------------------------------
-Figure AJ-3. UML Class Diagram for PreparationTrace
+Figure J-3. UML Class Diagram for PreparationTrace
 
 <img src="../../assets/figures/appendix-j/figure-04.png" />
 <p align="center">**Project 1 — Component Detail**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------
-Figure AJ-4. UML Object Diagram for PreparationTrace
+Figure J-4. UML Object Diagram for PreparationTrace
 
 Project 1 demonstrates the computational preparation layer of the model before any emotion exists. I make one proposition operationally explicit: simulation, prediction, bodily regulation, referent formation, and schema retrieval can all occur while emotional meaning remains absent. This matters because I argue that these processes prepare and constrain interpretation, but do not themselves confer meaning. The code therefore models an affective-cognitive trace rather than an emotion construct. It takes a stimulus, simulates a situation, registers bodily readiness, retrieves candidate schemas, and then stops before interpretive commitment. In that sense, the project remains deliberately incomplete. Its incompleteness carries the argument.
 
@@ -118,21 +118,21 @@ At this stage, the system has fully prepared the field of possible interpretatio
 <p align="center">**Project 1 — Execution Result**</p>
 
 ----------------------------------------------------------------------------------------------------------------------------
-Figure AJ-5. UML Object Diagram for Fear Instance
+Figure J-5. UML Object Diagram for Fear Instance
 
 <img src="../../assets/figures/appendix-j/figure-08.png" />
 <p align="center">**Project 1 — Final Output**</p>
 
 ----------------------------------------------------------------------------------------------------------------------------
-Figure AJ-6. UML Object Diagram for Interest Instance
+Figure J-6. UML Object Diagram for Interest Instance
 
 Project 2 demonstrates the interpretive layer of the model, where the agent constructs emotional meaning. It makes explicit the decisive operation that Project 1 deliberately withheld: commitment to a concept under a governing goal. Project 1 showed that simulation, prediction, bodily regulation, referent formation, and schema retrieval can all occur without producing emotion. Project 2 now shows that emotion emerges only when the agent selects a concept, binds it to the referent, and assigns an identifier under a goal.
 
-Figures AJ-5 and AJ-6 show the decisive contrast. In Figure AJ-5, the agent operates under the goal safety, selects the concept fear, assigns the identifier Fear(snake), and orients action toward withdrawal. In Figure AJ-6, the stimulus remains a snake, but the governing goal changes to curiosity; the agent selects interest, assigns the identifier Interest(snake), and orients action toward cautious approach.
+Figures J-5 and J-6 show the decisive contrast. In Figure J-5, the agent operates under the goal safety, selects the concept fear, assigns the identifier Fear(snake), and orients action toward withdrawal. In Figure J-6, the stimulus remains a snake, but the governing goal changes to curiosity; the agent selects interest, assigns the identifier Interest(snake), and orients action toward cautious approach.
 
 When the agent runs dotnet run -- snake safety, the program selects fear, assigns Fear(snake), and orients action toward withdrawal. When the agent runs dotnet run -- snake curiosity, the program selects interest, assigns Interest(snake), and orients action toward cautious approach. When the agent runs dotnet run -- dog safety, the program returns no qualifying concept, no identifier, and no action because the input does not satisfy the available interpretive conditions.
 
-This project operationalizes the central claim of the model: computation does not produce meaning by itself; the agent achieves meaning through interpretive commitment. Emotional meaning does not reside in the stimulus, the body state, or predictive processing alone. It arises when the agent selects a concept, binds it to the referent, and commits to an identifier under a goal. Figures AJ-5 and AJ-6 show that the goal parameter crosses the meaning boundary: the agent does not merely process the snake; the agent constructs the snake as fear-relevant or interest-relevant.
+This project operationalizes the central claim of the model: computation does not produce meaning by itself; the agent achieves meaning through interpretive commitment. Emotional meaning does not reside in the stimulus, the body state, or predictive processing alone. It arises when the agent selects a concept, binds it to the referent, and commits to an identifier under a goal. Figures J-5 and J-6 show that the goal parameter crosses the meaning boundary: the agent does not merely process the snake; the agent constructs the snake as fear-relevant or interest-relevant.
 
 The run command is shown in the following image.
 
