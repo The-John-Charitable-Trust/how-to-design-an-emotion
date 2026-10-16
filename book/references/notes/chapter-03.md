@@ -248,16 +248,24 @@
 
 <a id="note-62"></a>
 
-62. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+62. On the dilemma, see Barrett, “Theory of Constructed Emotion,” introduction; and Kurth, “Are Emotions Psychological Constructions?,” introduction. The third architecture is my own and is developed in chapter 6.
 
 <a id="note-63"></a>
 
-63. Philip A. Kragel and Kevin S. LaBar, “Decoding the Nature of Emotion in the Brain,” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55, https://doi.org/10.1016/j.tics.2016.03.011; James V. Haxby et al., “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex,” *Science* 293, no. 5539 (2001): 2425–30, https://doi.org/10.1126/science.1063736; on individual variation, see Elizabeth Clark-Polner, Timothy D. Johnson, and Lisa Feldman Barrett, “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions,” *Cerebral Cortex* 27, no. 3 (2017): 1944–48, https://doi.org/10.1093/cercor/bhw028.
+63. This position is my own and is developed in chapter 6; see also note 49.
 
 <a id="note-64"></a>
 
-64. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+64. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
 
 <a id="note-65"></a>
 
-65. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+65. Philip A. Kragel and Kevin S. LaBar, “Decoding the Nature of Emotion in the Brain,” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55, https://doi.org/10.1016/j.tics.2016.03.011; James V. Haxby et al., “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex,” *Science* 293, no. 5539 (2001): 2425–30, https://doi.org/10.1126/science.1063736; on individual variation, see Elizabeth Clark-Polner, Timothy D. Johnson, and Lisa Feldman Barrett, “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions,” *Cerebral Cortex* 27, no. 3 (2017): 1944–48, https://doi.org/10.1093/cercor/bhw028.
+
+<a id="note-66"></a>
+
+66. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+
+<a id="note-67"></a>
+
+67. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
