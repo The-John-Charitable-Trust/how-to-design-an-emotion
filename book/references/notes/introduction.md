@@ -40,7 +40,7 @@
 
 <a id="note-10"></a>
 
-10. Jules L. Coleman, “Negative and Positive Positivism,” *Journal of Legal Studies* 11, no. 1 (1982): 139–64, https://doi.org/10.1086/467696.
+10. Jules L. Coleman, “Negative and Positive Positivism,” *Journal of Legal Studies* 11, no. 1 (1982): 139–64, at 140–42, https://doi.org/10.1086/467696.
 
 <a id="note-11"></a>
 
