@@ -232,7 +232,7 @@
 
 <a id="note-58"></a>
 
-58. Barrett, “Theory of Constructed Emotion.”
+58. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System plus Pattern Generators.” The claim that this treats categorization as the origin of concepts is my own; see chapter 6.
 
 <a id="note-59"></a>
 
