@@ -36,7 +36,7 @@ Posner, Michael I., and Steven W. Keele. “On the Genesis of Abstract Ideas.”
 
 Rand, Ayn. *Introduction to Objectivist Epistemology*. 2nd ed. Edited by Harry Binswanger and Leonard Peikoff. New York: Meridian, 1990.
 
-Rey, Georges. “The Analytic/Synthetic Distinction.” In *The Stanford Encyclopedia of Philosophy*. Substantive revision June 1, 2026. https://plato.stanford.edu/entries/analytic-synthetic/.
+Rey, Georges. “The Analytic/Synthetic Distinction.” In *The Stanford Encyclopedia of Philosophy*, Summer 2026 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/sum2026/entries/analytic-synthetic/.
 
 Rosch, Eleanor. “Cognitive Representations of Semantic Categories.” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233. https://doi.org/10.1037/0096-3445.104.3.192.
 
