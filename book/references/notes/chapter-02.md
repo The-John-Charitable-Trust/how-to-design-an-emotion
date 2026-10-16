@@ -197,7 +197,7 @@
 
 <a id="note-49"></a>
 
-49. Gottlob Frege, “Sense and Reference,” trans. Max Black, *Philosophical Review* 57, no. 3 (1948): 209–30, https://doi.org/10.2307/2181485; Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/frege/.
+49. The taxonomy is my own. On meaning (sense) as distinct from what a term picks out (denotation), see Gottlob Frege, “Sense and Reference,” trans. Max Black, *Philosophical Review* 57, no. 3 (1948): 209–30, https://doi.org/10.2307/2181485; Edward N. Zalta, “Gottlob Frege,” in *The Stanford Encyclopedia of Philosophy*, Fall 2026 ed., ed. Edward N. Zalta and Uri Nodelman, §3.2, https://plato.stanford.edu/archives/fall2026/entries/frege/.
 
 <a id="note-50"></a>
 

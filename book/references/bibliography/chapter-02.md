@@ -50,4 +50,4 @@ Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclo
 
 Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G. E. M. Anscombe. Oxford: Blackwell, 1953.
 
-Zalta, Edward N. “Gottlob Frege.” In *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/frege/.
+Zalta, Edward N. “Gottlob Frege.” In *The Stanford Encyclopedia of Philosophy*, Fall 2026 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/fall2026/entries/frege/.
