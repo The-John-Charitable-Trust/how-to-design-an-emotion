@@ -24,7 +24,7 @@
 
 <a id="note-6"></a>
 
-6. Katie Hoemann, Fei Xu, and Lisa Feldman Barrett, “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis,” *Developmental Psychology* 55, no. 9 (2019): 1830–49, https://doi.org/10.1037/dev0000686.
+6. Katie Hoemann, Fei Xu, and Lisa Feldman Barrett, “Emotion Words, Emotion Concepts, and Emotional Development in Children: A Constructionist Hypothesis,” *Developmental Psychology* 55, no. 9 (2019): 1830–49, introduction, https://doi.org/10.1037/dev0000686.
 
 <a id="note-7"></a>
 
