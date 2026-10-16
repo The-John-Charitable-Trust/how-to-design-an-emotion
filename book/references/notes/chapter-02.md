@@ -229,7 +229,7 @@
 
 <a id="note-57"></a>
 
-57. Object Management Group, *Unified Modeling Language*, 126.
+57. This mapping is my own; see <a href="#note-46">note 46</a>. For the definition of a class, see Object Management Group, *Unified Modeling Language*, 221.
 
 <a id="note-58"></a>
 
