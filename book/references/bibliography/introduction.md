@@ -66,8 +66,8 @@ Scarantino, Andrea, and Ronald de Sousa. “Emotion.” In *The Stanford Encyclo
 
 Scherer, Klaus R. “What Are Emotions? And How Can They Be Measured?” *Social Science Information* 44, no. 4 (2005): 695–729. https://doi.org/10.1177/0539018405058216.
 
-Simmons, A. John. “Locke’s Political Philosophy.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/locke-political/.
-
 Snyder, David C. “Locke on Natural Law and Property Rights.” *Canadian Journal of Philosophy* 16, no. 4 (1986): 723–50. https://doi.org/10.1080/00455091.1986.10717145.
+
+Tuckness, Alex. “Locke’s Political Philosophy.” In *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/spr2024/entries/locke-political/.
 
 Zlatev, Jordan. “The Semiotic Hierarchy: Life, Consciousness, Signs and Language.” *Cognitive Semiotics* 4, suppl. (2009): 169–200. https://doi.org/10.1515/cogsem.2009.4.spring2009.169.

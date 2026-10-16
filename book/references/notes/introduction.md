@@ -12,7 +12,7 @@
 
 <a id="note-3"></a>
 
-3. David C. Snyder, “Locke on Natural Law and Property Rights,” *Canadian Journal of Philosophy* 16, no. 4 (1986): 723–50, https://doi.org/10.1080/00455091.1986.10717145; A. John Simmons, “Locke’s Political Philosophy,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/locke-political/.
+3. David C. Snyder, “Locke on Natural Law and Property Rights,” *Canadian Journal of Philosophy* 16, no. 4 (1986): 723–50, https://doi.org/10.1080/00455091.1986.10717145; Alex Tuckness, “Locke’s Political Philosophy,” in *The Stanford Encyclopedia of Philosophy*, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/spr2024/entries/locke-political/.
 
 <a id="note-4"></a>
 
@@ -28,7 +28,7 @@
 
 <a id="note-7"></a>
 
-7. “Declaration of Independence: A Transcription,” National Archives, https://www.archives.gov/founding-docs/declaration-transcript; Simmons, “Locke’s Political Philosophy.”
+7. “Declaration of Independence: A Transcription,” National Archives, https://www.archives.gov/founding-docs/declaration-transcript; Tuckness, “Locke’s Political Philosophy.”
 
 <a id="note-8"></a>
 
