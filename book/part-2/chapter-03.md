@@ -6,7 +6,7 @@
 
 *Chapter 3 begins with a different question. If contemporary theory rejects fixed essences, what now secures the identity conditions of concepts?*
 
-*Rejecting naive essentialism does not eliminate the need for identity conditions. It relocates the problem. If concepts no longer derive their identity from essences, a theory must explain what now constrains their admissible instances. For example, we can see how some constructivist theories, particularly Barrett's Theory of Constructed Emotion, relocate conceptual stability into prediction, categorization, and use rather than reconstructing identity conditions themselves. On this approach, meaning risks becoming performance, correctness risks becoming predictive success, and disagreement risks becoming mere difference.*
+*Rejecting naive essentialism does not eliminate the need for identity conditions. It relocates the problem. If concepts no longer derive their identity from essences, a theory must explain what now constrains their admissible instances. For example, we can see how some constructivist theories, particularly Lisa Feldman Barrett (b. 1963)'s Theory of Constructed Emotion, relocate conceptual stability into prediction, categorization, and use rather than reconstructing identity conditions themselves. On this approach, meaning risks becoming performance, correctness risks becoming predictive success, and disagreement risks becoming mere difference.*
 
 *Without identity conditions, construction risks becoming drift.*
 
@@ -32,7 +32,7 @@ In Chapter 2, I established the principles that govern definition. I showed that
 
 Chapter 3 begins with a different question. If contemporary theory rejects fixed essences, what now secures the identity conditions of concepts?
 
-Rejecting naive essentialism does not eliminate the need for identity conditions. It relocates the problem. If concepts no longer derive their identity from essences, a theory must explain what now constrains their admissible instances. For example, we can see how some constructivist theories, particularly Barrett's Theory of Constructed Emotion, relocate conceptual stability into prediction, categorization, and use rather than reconstructing identity conditions themselves. On this approach, meaning risks becoming performance, correctness risks becoming predictive success, and disagreement risks becoming mere difference.
+Rejecting naive essentialism does not eliminate the need for identity conditions. It relocates the problem. If concepts no longer derive their identity from essences, a theory must explain what now constrains their admissible instances. For example, we can see how some constructivist theories, particularly Lisa Feldman Barrett (b. 1963)'s Theory of Constructed Emotion, relocate conceptual stability into prediction, categorization, and use rather than reconstructing identity conditions themselves. On this approach, meaning risks becoming performance, correctness risks becoming predictive success, and disagreement risks becoming mere difference.
 
 Without identity conditions, construction risks becoming drift.
 
@@ -46,7 +46,7 @@ A concept fixes what something is. It specifies the admissibility conditions und
 
 Contemporary concept theory faces a structural failure that theorists rarely name. In rejecting naive essentialism, the field has not merely abandoned fixed essences. It has often abandoned identity conditions. Existing accounts explain categorization, prediction, and adaptive success, yet they struggle to explain why distinct episodes count as instances of the same emotion. These theories describe what concepts do, but they do not always secure the admissibility conditions that govern instantiation.
 
-I address this failure through the case of Lisa Feldman Barrett's Theory of Constructed Emotion.<sup><a href="../references/notes/chapter-03.md#note-1">1</a></sup> Barrett correctly rejects the classical view that emotions possess necessary and sufficient features, invariant neural signatures, or discoverable biological essences.<sup><a href="../references/notes/chapter-03.md#note-2">2</a></sup> Those commitments cannot withstand empirical scrutiny. The empirical record justifies the collapse of naive essentialism.
+I address this failure through the case of Barrett's Theory of Constructed Emotion.<sup><a href="../references/notes/chapter-03.md#note-1">1</a></sup> Barrett correctly rejects the classical view that emotions possess necessary and sufficient features, invariant neural signatures, or discoverable biological essences.<sup><a href="../references/notes/chapter-03.md#note-2">2</a></sup> Those commitments cannot withstand empirical scrutiny. The empirical record justifies the collapse of naive essentialism.
 
 Before I criticize Barrett's account, I state it in terms she would accept.
 

@@ -4,7 +4,7 @@
 
 <a id="note-1"></a>
 
-1. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, abstract and fig. 1, https://doi.org/10.1093/scan/nsw154.
+1. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, abstract, https://doi.org/10.1093/scan/nsw154.
 
 <a id="note-2"></a>
 
