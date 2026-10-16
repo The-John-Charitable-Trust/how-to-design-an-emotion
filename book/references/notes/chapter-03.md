@@ -72,7 +72,7 @@
 
 <a id="note-18"></a>
 
-18. Hoemann, Xu, and Barrett, “Emotion Words.”
+18. Hoemann, Xu, and Barrett, “Emotion Words,” in the sections “Emotion Concepts and Categories” and “Empirical Evidence of Emotions as Abstract, Conceptual Categories.”
 
 <a id="note-19"></a>
 
