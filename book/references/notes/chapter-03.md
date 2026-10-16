@@ -260,12 +260,32 @@
 
 <a id="note-65"></a>
 
-65. Philip A. Kragel and Kevin S. LaBar, “Decoding the Nature of Emotion in the Brain,” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55, https://doi.org/10.1016/j.tics.2016.03.011; James V. Haxby et al., “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex,” *Science* 293, no. 5539 (2001): 2425–30, https://doi.org/10.1126/science.1063736; on individual variation, see Elizabeth Clark-Polner, Timothy D. Johnson, and Lisa Feldman Barrett, “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions,” *Cerebral Cortex* 27, no. 3 (2017): 1944–48, https://doi.org/10.1093/cercor/bhw028.
+65. On prototype theory and its limits, see Margolis and Laurence, “Concepts,” sec. 2.2. The diagnosis is my own; see chapter 5.
 
 <a id="note-66"></a>
 
-66. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+66. See Hoemann, Xu, and Barrett, “Emotion Words,” introduction and the section “Emotion Concepts and Categories.” The assessment is my own; see chapter 4.
 
 <a id="note-67"></a>
 
-67. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+67. This position is my own and is developed in chapter 6; see also chapter 2.
+
+<a id="note-68"></a>
+
+68. This position is my own and is developed in chapter 6. For a parallel view of each emotion as its own variable category, see Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+
+<a id="note-69"></a>
+
+69. This analogy is my own; on analytic truth within a system, see chapter 2.
+
+<a id="note-70"></a>
+
+70. Philip A. Kragel and Kevin S. LaBar, “Decoding the Nature of Emotion in the Brain,” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55, https://doi.org/10.1016/j.tics.2016.03.011; James V. Haxby et al., “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex,” *Science* 293, no. 5539 (2001): 2425–30, https://doi.org/10.1126/science.1063736; on individual variation, see Elizabeth Clark-Polner, Timothy D. Johnson, and Lisa Feldman Barrett, “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions,” *Cerebral Cortex* 27, no. 3 (2017): 1944–48, https://doi.org/10.1093/cercor/bhw028.
+
+<a id="note-71"></a>
+
+71. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+
+<a id="note-72"></a>
+
+72. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
