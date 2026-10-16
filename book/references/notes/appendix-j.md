@@ -12,7 +12,7 @@
 
 <a id="note-3"></a>
 
-3. Peter Sterling, “Allostasis: A Model of Predictive Regulation,” *Physiology and Behavior* 106, no. 1 (2012): 5–15, https://doi.org/10.1016/j.physbeh.2011.06.004.
+3. Peter Sterling, “Allostasis: A Model of Predictive Regulation,” *Physiology and Behavior* 106, no. 1 (2012): 5–15, at 5, https://doi.org/10.1016/j.physbeh.2011.06.004.
 
 <a id="note-4"></a>
 
@@ -32,4 +32,4 @@
 
 <a id="note-8"></a>
 
-8. David Sander, Didier Grandjean, and Klaus R. Scherer, “A Systems Approach to Appraisal Mechanisms in Emotion,” *Neural Networks* 18, no. 4 (2005): 317–52, https://doi.org/10.1016/j.neunet.2005.03.001.
+8. David Sander, Didier Grandjean, and Klaus R. Scherer, “A Systems Approach to Appraisal Mechanisms in Emotion,” *Neural Networks* 18, no. 4 (2005): 317–52, at 317, https://doi.org/10.1016/j.neunet.2005.03.001.
