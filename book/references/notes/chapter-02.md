@@ -125,7 +125,7 @@
 
 <a id="note-31"></a>
 
-31. Rey, “Analytic/Synthetic Distinction.”
+31. This conclusion is my own. For the debate over truth in virtue of meaning, including Quine’s objections, see Rey, “Analytic/Synthetic Distinction.”
 
 <a id="note-32"></a>
 
