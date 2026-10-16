@@ -248,7 +248,7 @@
 
 <a id="note-62"></a>
 
-62. Lawrence W. Barsalou, “Perceptual Symbol Systems,” *Behavioral and Brain Sciences* 22, no. 4 (1999): 577–660, https://doi.org/10.1017/S0140525X99002149.
+62. Lawrence W. Barsalou, “Situated Simulation in the Human Conceptual System,” *Language and Cognitive Processes* 18, nos. 5–6 (2003): 513–62, at 513, 521, https://doi.org/10.1080/01690960344000026. Compare Barsalou, “Perceptual Symbol Systems,” 577.
 
 <a id="note-63"></a>
 
