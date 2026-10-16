@@ -284,8 +284,16 @@
 
 <a id="note-71"></a>
 
-71. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+71. This position is my own and is developed in chapter 6; on analytic truth within a system, see chapter 2; see also notes 49–50.
 
 <a id="note-72"></a>
 
-72. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+72. This claim is my own and is developed in chapter 6, in the discussion of misapplication. For the analogous distinction between a classifier and its instances in software modeling, see Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+
+<a id="note-73"></a>
+
+73. This assessment is my own; see chapter 6.
+
+<a id="note-74"></a>
+
+74. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
