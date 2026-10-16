@@ -101,7 +101,7 @@
 
 <a id="note-25"></a>
 
-25. Object Management Group, *Unified Modeling Language*.
+25. Gupta, “Definitions,” §2.1.
 
 <a id="note-26"></a>
 
