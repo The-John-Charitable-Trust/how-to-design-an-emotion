@@ -1,8 +1,6 @@
 [Contents](README.md) · [Notes](../references/notes/chapter-09.md) · [Bibliography](../references/bibliography/chapter-09.md)
 
-# Chapter 9: Emotions Are Not Triggered; They Are Made
-
-*How We Construct Emotional Meaning*
+# Chapter 9: Emotions Are Made, Not Triggered: How We Construct Emotional Meaning
 
 *In Chapter 8, I established that meaning is not intrinsic but is achieved through an agent interpreting signs under constraint. Saussure showed that signs gain stability through relations, and Peirce showed that interpretation is indispensable, but neither framework secured the full architecture of the Constructivist Semiotic Sign. In this chapter, I instantiate that architecture as the Constructivist Semiotic Model of Emotions (CSME). If emotional meaning is a semiotic achievement rather than an intrinsic property of bodily states, then emotion cannot be identified with physiological affect or bodily activity. I must therefore explain what it means for an agent to feel, how feeling becomes semiotically available for interpretation, and how an agent constructs emotional meaning as an interpretive act.*
 
@@ -66,7 +64,7 @@ I report only the final results here. Appendix F documents candidate selection. 
 
 | Candidate Theory / Model                               | Definitional (30%) | Analytic (20%)   | Cognitive–Semiotic (25%) | Computational (25%) | Total Weighted Score |
 |--------------------------------------------------------|--------------------|------------------|--------------------------|---------------------|----------------------|
-| Appraisal Theories (Lazarus, Roseman)                  | 0.75 × 30 = 22.5   | 0.65 × 20 = 13.0 | 0.70 × 25 = 17.5         | 0.55 × 25 = 13.75   | 66.75                |
+| Appraisal Theories (Lazarus, Roseman)                  | 0.75 × 30 = 22.5   | 0.65 × 20 = 13.0 | 0.7175 × 25 = 17.94     | 0.55 × 25 = 13.75   | 67.19                |
 | Component Process Model (CPM) (Scherer)                | 0.80 × 30 = 24.0   | 0.70 × 20 = 14.0 | 0.65 × 25 = 16.25        | 0.60 × 25 = 15.0    | 69.25                |
 | Affective Neuroscience (Panksepp) (Feeling Layer only) | 0.90 × 30 = 27.0   | 0.75 × 20 = 15.0 | 0.40 × 25 = 10.0         | 0.80 × 25 = 20.0    | 72.00                |
 | Conceptual Act Theory / TCE (Barrett) (Conditional)    | 0.55 × 30 = 16.5   | 0.50 × 20 = 10.0 | 0.45 × 25 = 11.25        | 0.65 × 25 = 16.25   | 54.00                |
@@ -79,20 +77,20 @@ Within those limits, I tested whether the ranking depends on the weights. Table 
 
 | Weights (Def / Ana / Cog–Sem / Comp) | Affective Neuroscience | CPM | Appraisal | CAT / TCE | Order changed? |
 | --- | --- | --- | --- | --- | --- |
-| 30 / 20 / 25 / 25 (book) | 72.00 | 69.25 | 66.75 | 54.00 | — |
-| 25 / 25 / 25 / 25 (equal) | 71.25 | 68.75 | 66.25 | 53.75 | No |
-| 40 / 10 / 25 / 25 | 73.50 | 70.25 | 67.75 | 54.50 | No |
-| 40 / 20 / 15 / 25 | 77.00 | 70.75 | 67.25 | 55.00 | No |
-| 40 / 20 / 25 / 15 | 73.00 | 71.25 | 68.75 | 53.00 | No |
-| 20 / 30 / 25 / 25 | 70.50 | 68.25 | 65.75 | 53.50 | No |
-| 30 / 30 / 15 / 25 | 75.50 | 69.75 | 66.25 | 54.50 | No |
-| 30 / 30 / 25 / 15 | 71.50 | 70.25 | 67.75 | 52.50 | No |
-| 20 / 20 / 35 / 25 | 67.00 | 67.75 | 66.25 | 53.00 | Yes: CPM first |
-| 30 / 10 / 35 / 25 | 68.50 | 68.75 | 67.25 | 53.50 | Yes: CPM first |
-| 30 / 20 / 35 / 15 | 68.00 | 69.75 | 68.25 | 52.00 | Yes: CPM, then appraisal, ahead of affective neuroscience |
-| 20 / 20 / 25 / 35 | 71.00 | 67.25 | 64.75 | 55.00 | No |
-| 30 / 10 / 25 / 35 | 72.50 | 68.25 | 65.75 | 55.50 | No |
-| 30 / 20 / 15 / 35 | 76.00 | 68.75 | 65.25 | 56.00 | No |
+| 30 / 20 / 25 / 25 (book) | 72.00 | 69.25 | 67.19 | 54.00 | — |
+| 25 / 25 / 25 / 25 (equal) | 71.25 | 68.75 | 66.69 | 53.75 | No |
+| 40 / 10 / 25 / 25 | 73.50 | 70.25 | 68.19 | 54.50 | No |
+| 40 / 20 / 15 / 25 | 77.00 | 70.75 | 67.51 | 55.00 | No |
+| 40 / 20 / 25 / 15 | 73.00 | 71.25 | 69.19 | 53.00 | No |
+| 20 / 30 / 25 / 25 | 70.50 | 68.25 | 66.19 | 53.50 | No |
+| 30 / 30 / 15 / 25 | 75.50 | 69.75 | 66.51 | 54.50 | No |
+| 30 / 30 / 25 / 15 | 71.50 | 70.25 | 68.19 | 52.50 | No |
+| 20 / 20 / 35 / 25 | 67.00 | 67.75 | 66.86 | 53.00 | Yes: CPM first |
+| 30 / 10 / 35 / 25 | 68.50 | 68.75 | 67.86 | 53.50 | Yes: CPM first |
+| 30 / 20 / 35 / 15 | 68.00 | 69.75 | 68.86 | 52.00 | Yes: CPM, then appraisal, ahead of affective neuroscience |
+| 20 / 20 / 25 / 35 | 71.00 | 67.25 | 65.19 | 55.00 | No |
+| 30 / 10 / 25 / 35 | 72.50 | 68.25 | 66.19 | 55.50 | No |
+| 30 / 20 / 15 / 35 | 76.00 | 68.75 | 65.51 | 56.00 | No |
 
 <p align="center">**Table 9-2. Sensitivity of the Weighted Score Matrix to Domain Weights**</p>
 
