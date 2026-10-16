@@ -81,7 +81,7 @@
 
 <a id="note-20"></a>
 
-20. Gupta, “Definitions.”
+20. This analysis is my own. For the theory under critique, see Barrett, “Theory of Constructed Emotion”; on the standards a definition must meet, see Gupta, “Definitions.”
 
 <a id="note-21"></a>
 
