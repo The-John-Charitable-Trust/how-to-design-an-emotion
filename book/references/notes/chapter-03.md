@@ -76,7 +76,7 @@
 
 <a id="note-19"></a>
 
-19. Barrett, “Theory of Constructed Emotion,” abstract and fig. 1.
+19. Barrett, “Theory of Constructed Emotion,” fig. 1 and the section “The Theory of Constructed Emotion.”
 
 <a id="note-20"></a>
 
