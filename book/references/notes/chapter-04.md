@@ -208,15 +208,15 @@
 
 <a id="note-52"></a>
 
-52. Object Management Group, *Unified Modeling Language*, 126.
+52. Standard accounts describe color by hue, saturation, and brightness; see Maund, “Color,” secs. 1.2 and 1.4. The choice of wavelength, luminance, and saturation as the dimensions of my model, the claim that a color concept specifies these dimensions without fixing values, and the ordering of concept, instance, and category are my own; see chapter 6 and Project 1.
 
 <a id="note-53"></a>
 
-53. Barrett, “Concepts and Emotion, Part 1 of 3,” 01:56–02:10.
+53. Object Management Group, *Unified Modeling Language*, 126.
 
 <a id="note-54"></a>
 
-54. Barrett, “Theory of Constructed Emotion.”
+54. Barrett, “Concepts and Emotion, Part 1 of 3,” 01:56–02:10.
 
 <a id="note-55"></a>
 
@@ -224,92 +224,96 @@
 
 <a id="note-56"></a>
 
-56. George Lakoff, “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Concepts,” *Journal of Philosophical Logic* 2, no. 4 (1973): 458–508, https://doi.org/10.1007/BF00262952.
+56. Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-57"></a>
 
-57. Lakoff, “Hedges.”
+57. George Lakoff, “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Concepts,” *Journal of Philosophical Logic* 2, no. 4 (1973): 458–508, https://doi.org/10.1007/BF00262952.
 
 <a id="note-58"></a>
 
-58. Lawrence W. Barsalou, “Perceptual Symbol Systems,” *Behavioral and Brain Sciences* 22, no. 4 (1999): 577–660, https://doi.org/10.1017/S0140525X99002149.
+58. Lakoff, “Hedges.”
 
 <a id="note-59"></a>
 
-59. Posner and Keele, “Genesis of Abstract Ideas.”
+59. Lawrence W. Barsalou, “Perceptual Symbol Systems,” *Behavioral and Brain Sciences* 22, no. 4 (1999): 577–660, https://doi.org/10.1017/S0140525X99002149.
 
 <a id="note-60"></a>
 
-60. Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, https://doi.org/10.1017/S0140525X12000477.
+60. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-61"></a>
 
-61. Friston, “Free-Energy Principle.”
+61. Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, https://doi.org/10.1017/S0140525X12000477.
 
 <a id="note-62"></a>
 
-62. James L. McClelland and David E. Rumelhart, “Distributed Memory and the Representation of General and Specific Information,” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88, https://doi.org/10.1037/0096-3445.114.2.159.
+62. Friston, “Free-Energy Principle.”
 
 <a id="note-63"></a>
 
-63. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+63. James L. McClelland and David E. Rumelhart, “Distributed Memory and the Representation of General and Specific Information,” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88, https://doi.org/10.1037/0096-3445.114.2.159.
 
 <a id="note-64"></a>
 
-64. Barsalou, “Perceptual Symbol Systems.”
+64. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-65"></a>
 
-65. Friston, “Free-Energy Principle.”
+65. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-66"></a>
 
-66. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987).
+66. Friston, “Free-Energy Principle.”
 
 <a id="note-67"></a>
 
-67. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+67. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987).
 
 <a id="note-68"></a>
 
-68. Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
+68. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-69"></a>
 
-69. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
+69. Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
 
 <a id="note-70"></a>
 
-70. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
+70. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
 
 <a id="note-71"></a>
 
-71. Rosch and Mervis, “Family Resemblances.”
+71. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
 
 <a id="note-72"></a>
 
-72. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
+72. Rosch and Mervis, “Family Resemblances.”
 
 <a id="note-73"></a>
 
-73. Friston, “Free-Energy Principle.”
+73. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
 
 <a id="note-74"></a>
 
-74. Barsalou, “Perceptual Symbol Systems.”
+74. Friston, “Free-Energy Principle.”
 
 <a id="note-75"></a>
 
-75. Rosch, “Cognitive Representations.”
+75. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-76"></a>
 
-76. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+76. Rosch, “Cognitive Representations.”
 
 <a id="note-77"></a>
 
-77. Object Management Group, *Unified Modeling Language*, 126.
+77. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
 
 <a id="note-78"></a>
 
 78. Object Management Group, *Unified Modeling Language*, 126.
+
+<a id="note-79"></a>
+
+79. Object Management Group, *Unified Modeling Language*, 126.
