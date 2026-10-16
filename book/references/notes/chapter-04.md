@@ -252,80 +252,88 @@
 
 <a id="note-63"></a>
 
-63. Posner and Keele, “Genesis of Abstract Ideas.”
+63. This diagnosis of an architectural inversion is my own; see chapter 6.
 
 <a id="note-64"></a>
 
-64. Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, https://doi.org/10.1017/S0140525X12000477.
+64. This argument is my own; see chapter 6, which develops the constraint field these sentences presuppose, and [Appendix D](../../appendices/appendix-d.md).
 
 <a id="note-65"></a>
 
-65. Friston, “Free-Energy Principle.”
+65. Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-66"></a>
 
-66. James L. McClelland and David E. Rumelhart, “Distributed Memory and the Representation of General and Specific Information,” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88, https://doi.org/10.1037/0096-3445.114.2.159.
+66. Andy Clark, “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science,” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204, https://doi.org/10.1017/S0140525X12000477.
 
 <a id="note-67"></a>
 
-67. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+67. Friston, “Free-Energy Principle.”
 
 <a id="note-68"></a>
 
-68. Barsalou, “Perceptual Symbol Systems.”
+68. James L. McClelland and David E. Rumelhart, “Distributed Memory and the Representation of General and Specific Information,” *Journal of Experimental Psychology: General* 114, no. 2 (1985): 159–88, https://doi.org/10.1037/0096-3445.114.2.159.
 
 <a id="note-69"></a>
 
-69. Friston, “Free-Energy Principle.”
+69. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-70"></a>
 
-70. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987).
+70. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-71"></a>
 
-71. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+71. Friston, “Free-Energy Principle.”
 
 <a id="note-72"></a>
 
-72. Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
+72. George Lakoff, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* (Chicago: University of Chicago Press, 1987).
 
 <a id="note-73"></a>
 
-73. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
+73. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-74"></a>
 
-74. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
+74. Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
 
 <a id="note-75"></a>
 
-75. Rosch and Mervis, “Family Resemblances.”
+75. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
 
 <a id="note-76"></a>
 
-76. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
+76. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
 
 <a id="note-77"></a>
 
-77. Friston, “Free-Energy Principle.”
+77. Rosch and Mervis, “Family Resemblances.”
 
 <a id="note-78"></a>
 
-78. Barsalou, “Perceptual Symbol Systems.”
+78. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
 
 <a id="note-79"></a>
 
-79. Rosch, “Cognitive Representations.”
+79. Friston, “Free-Energy Principle.”
 
 <a id="note-80"></a>
 
-80. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+80. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-81"></a>
 
-81. Object Management Group, *Unified Modeling Language*, 126.
+81. Rosch, “Cognitive Representations.”
 
 <a id="note-82"></a>
 
-82. Object Management Group, *Unified Modeling Language*, 126.
+82. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+
+<a id="note-83"></a>
+
+83. Object Management Group, *Unified Modeling Language*, 126.
+
+<a id="note-84"></a>
+
+84. Object Management Group, *Unified Modeling Language*, 126.
