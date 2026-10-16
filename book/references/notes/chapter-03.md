@@ -188,7 +188,7 @@
 
 <a id="note-47"></a>
 
-47. Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38, https://doi.org/10.1038/nrn2787.
+47. This argument is my own; see note 14. On predictive accounts measuring error against practical ends, see Williams, “Representation Wars,” in the section “Content Determination.”
 
 <a id="note-48"></a>
 

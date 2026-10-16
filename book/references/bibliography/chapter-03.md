@@ -16,8 +16,6 @@ Birch, Jonathan. “Emotionless Animals? Constructionist Theories of Emotion Bey
 
 Clark-Polner, Elizabeth, Timothy D. Johnson, and Lisa Feldman Barrett. “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions.” *Cerebral Cortex* 27, no. 3 (2017): 1944–48. https://doi.org/10.1093/cercor/bhw028.
 
-Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” *Nature Reviews Neuroscience* 11, no. 2 (2010): 127–38. https://doi.org/10.1038/nrn2787.
-
 Gross, James J., and Lisa Feldman Barrett. “Emotion Generation and Emotion Regulation: One or Two Depends on Your Point of View.” *Emotion Review* 3, no. 1 (2011): 8–16. https://doi.org/10.1177/1754073910380974.
 
 Haxby, James V., M. Ida Gobbini, Maura L. Furey, Alumit Ishai, Jennifer L. Schouten, and Pietro Pietrini. “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex.” *Science* 293, no. 5539 (2001): 2425–30. https://doi.org/10.1126/science.1063736.
