@@ -68,7 +68,7 @@
 
 <a id="note-17"></a>
 
-17. Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
+17. On the classical view of emotion, see Barrett, “Theory of Constructed Emotion,” introduction. On the classical theory of concepts, see Eric Margolis and Stephen Laurence, “Concepts,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, §2.1, https://plato.stanford.edu/archives/fall2023/entries/concepts/.
 
 <a id="note-18"></a>
 
