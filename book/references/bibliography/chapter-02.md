@@ -38,6 +38,8 @@ Object Management Group. *Unified Modeling Language*. Version 2.5.1, formal/17-1
 
 Plato. *Euthyphro*.
 
+Pölzler, Thomas, and Ivar R. Hannikainen. “The Typicality Effect in Basic Needs.” *Synthese* 200 (2022): art. 382. https://doi.org/10.1007/s11229-022-03859-9.
+
 Rand, Ayn. *Introduction to Objectivist Epistemology*. 2nd ed. Edited by Harry Binswanger and Leonard Peikoff. New York: Meridian, 1990.
 
 Rey, Georges. “The Analytic/Synthetic Distinction.” In *The Stanford Encyclopedia of Philosophy*, Summer 2026 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/sum2026/entries/analytic-synthetic/.
