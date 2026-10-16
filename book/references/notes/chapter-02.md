@@ -221,7 +221,7 @@
 
 <a id="note-55"></a>
 
-55. Object Management Group, *Unified Modeling Language*.
+55. These analytic truth principles are my own. On analytic truths as knowable solely by knowing meanings, see Rey, “Analytic/Synthetic Distinction.”
 
 <a id="note-56"></a>
 
