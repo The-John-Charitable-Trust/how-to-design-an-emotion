@@ -80,7 +80,7 @@
 
 <a id="note-20"></a>
 
-20. On music and emotional meaning, see Patrik N. Juslin and Daniel Västfjäll, “Emotional Responses to Music: The Need to Consider Underlying Mechanisms,” *Behavioral and Brain Sciences* 31, no. 5 (2008): 559–75, https://doi.org/10.1017/S0140525X08005293. On variation within emotion categories, see Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
+20. On music and emotional meaning, see Patrik N. Juslin and Daniel Västfjäll, “Emotional Responses to Music: The Need to Consider Underlying Mechanisms,” *Behavioral and Brain Sciences* 31, no. 5 (2008): 559–75, at 559, https://doi.org/10.1017/S0140525X08005293. On variation within emotion categories, see Lisa Feldman Barrett, “Categories and Their Role in the Science of Emotion,” *Psychological Inquiry* 28, no. 1 (2017): 20–26, https://doi.org/10.1080/1047840X.2017.1261581.
 
 <a id="note-21"></a>
 
