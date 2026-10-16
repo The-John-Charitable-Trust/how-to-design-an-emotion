@@ -132,7 +132,7 @@
 
 <a id="note-33"></a>
 
-33. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:09–00:59, 01:49–02:18.
+33. Barrett, “Concepts and Emotion, Part 1 of 3,” 00:09–01:04, 01:48–02:17.
 
 <a id="note-34"></a>
 
