@@ -4,6 +4,8 @@
 
 Adolphs, Ralph. “How Should Neuroscience Study Emotions? By Distinguishing Emotion States, Concepts, and Experiences.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 24–31. https://doi.org/10.1093/scan/nsw153.
 
+Atkin, Albert. “Peirce’s Theory of Signs.” In *The Stanford Encyclopedia of Philosophy*. Substantive revision August 4, 2022. https://plato.stanford.edu/entries/peirce-semiotics/.
+
 Barrett, Lisa Feldman. “Concepts and Emotion, Part 1 of 3.” YouTube video, 2:24. June 11, 2023. https://www.youtube.com/watch?v=mpjrD1jCEls.
 
 Barrett, Lisa Feldman. “How Emotions are Made (Cinematic Lecture).” Flow. YouTube video, 40:00. April 14, 2020. https://www.youtube.com/watch?v=0rbyC5m557I.
@@ -43,6 +45,8 @@ Lakoff, George. *Women, Fire, and Dangerous Things: What Categories Reveal about
 Lakoff, George. “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Concepts.” *Journal of Philosophical Logic* 2, no. 4 (1973): 458–508. https://doi.org/10.1007/BF00262952.
 
 Lindquist, Kristen A., Tor D. Wager, Hedy Kober, Eliza Bliss-Moreau, and Lisa Feldman Barrett. “The Brain Basis of Emotion: A Meta-Analytic Review.” *Behavioral and Brain Sciences* 35, no. 3 (2012): 121–43. https://doi.org/10.1017/S0140525X11000446.
+
+Liebesman, David. “Types and Tokens.” In *The Stanford Encyclopedia of Philosophy*. First published May 1, 2026. https://plato.stanford.edu/entries/types-tokens/.
 
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision June 17, 2019. https://plato.stanford.edu/entries/concepts/.
 

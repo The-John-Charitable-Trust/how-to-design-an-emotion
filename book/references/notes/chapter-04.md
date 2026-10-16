@@ -380,8 +380,16 @@
 
 <a id="note-95"></a>
 
-95. Object Management Group, *Unified Modeling Language*, 126.
+95. This argument is my own; see chapters 3 and 6.
 
 <a id="note-96"></a>
 
-96. Object Management Group, *Unified Modeling Language*, 126.
+96. Albert Atkin, “Peirce’s Theory of Signs,” in *The Stanford Encyclopedia of Philosophy*, substantive revision August 4, 2022, secs. 1 and 1.3, https://plato.stanford.edu/entries/peirce-semiotics/.
+
+<a id="note-97"></a>
+
+97. This ordering claim is my own; see chapter 6. On the type–token distinction, see David Liebesman, “Types and Tokens,” in *The Stanford Encyclopedia of Philosophy*, first published May 1, 2026, sec. 1, https://plato.stanford.edu/entries/types-tokens/.
+
+<a id="note-98"></a>
+
+98. Object Management Group, *Unified Modeling Language*, 126.
