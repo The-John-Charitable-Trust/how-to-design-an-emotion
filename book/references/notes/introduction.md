@@ -76,7 +76,7 @@
 
 <a id="note-19"></a>
 
-19. Jordan Zlatev, “The Semiotic Hierarchy: Life, Consciousness, Signs and Language,” *Cognitive Semiotics* 4, suppl. (2009): 169–200, https://doi.org/10.1515/cogsem.2009.4.spring2009.169.
+19. Jordan Zlatev, “The Semiotic Hierarchy: Life, Consciousness, Signs and Language,” *Cognitive Semiotics* 4, suppl. (2009): 169–200, at 169, https://doi.org/10.1515/cogsem.2009.4.spring2009.169.
 
 <a id="note-20"></a>
 
