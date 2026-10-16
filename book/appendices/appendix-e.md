@@ -1,6 +1,6 @@
-# Appendix E: Chrome DevTools
+# Appendix E: Under the Hood of Mind and Meaning
 
-## Demonstration of Layered Ontology
+## A Software Developer’s Guide to Layered Ontology
 
 ## Purpose of This Demonstration
 
@@ -173,7 +173,7 @@ The prototype chain visible in DevTools renders the layered ontology argued in C
 
 | Layer | Name | Role | Corresponds To |
 | --- | --- | --- | --- |
-| 0 | Runtime Infrastructure | Bounds delegation; terminates at null |  |
+| 0 | Runtime Infrastructure | Bounds delegation; terminates at null | Object.prototype → null |
 | 1 | Concept-Level Constraint | Encodes identity; fixes admissibility conditions and evaluative rule | Concept prototype object |
 | 2 | Instance-Level Realization | Contextual values; particular assignments; graded variability | equilateral, scalene objects |
 
