@@ -83,7 +83,7 @@ Natural language is one paradigmatic instantiation of this architecture. Mathema
 | Music | Note | Motif / Phrase | Thematic or Expressive Structure |
 | Formal Systems | Token / Symbol | Statement / Instruction | Executable Program or Proof |
 
-<p align="center">**Table 10-1. Hierarchical Organization of Meaning Across Symbolic Domains**</p>
+<p align="center"><ins>Table 10-1. Hierarchical Organization of Meaning Across Symbolic Domains</ins></p>
 
 Table 10-1 illustrates a common structural pattern. Discrete elements do not merely accumulate; they are organized under rule into increasingly complex configurations that admit interpretation. Where such generative structure operates, symbols can function as components of structured meaning. Where it does not, tokens fail to enter relations with one another, and significance cannot stabilize.
 

@@ -38,7 +38,7 @@ After I specified the architecture and its threshold clearly in Chapter 10, I ca
 | 8 | Normative Emotional Evaluation | Emotional interpretation evaluated under reasons and standards | Reflective comparison across alternatives | Reflectively governed emotional meaning | Animal: Not established / Adolescent: Established |
 | 9 | Recursive Emotional Self-Regulation | Ongoing revision of emotional | Iterative metarepresentation | Fully recursive emotional agency | Animal: Not established / Adolescent: Established |
 
-<p align="center">**Table 11-1. Emotional Meaning Architecture: Animal vs. Neurotypical Adolescent**</p>
+<p align="center"><ins>Table 11-1. Emotional Meaning Architecture: Animal vs. Neurotypical Adolescent</ins></p>
 
 Table 11-1 presents the Emotional Meaning Architecture in its complete form. Each level specifies what must exist structurally for a felt state to qualify as emotional meaning in the strict semiotic sense.
 
@@ -121,7 +121,7 @@ Current evidence does not show that animals reach Level 7. Without detachable sy
 | 6 | Goal‑Governed Emotional Organization | ~3–4 years | Emotion integrated relative to stake and alternatives | Stable endorsement under concept; reflective capacity emerging | Partially reflective emotional meaning |
 | 7 | Metarepresentational Endorsement | ~4–5 years | Emotional interpretation becomes object of evaluation | Detachment, endorsement, and metarepresentation present | Full emotional meaning |
 
-<p align="center">**Table 11-2. Neurotypical Infant Development from Affective Activation to Full Emotional Meaning**</p>
+<p align="center"><ins>Table 11-2. Neurotypical Infant Development from Affective Activation to Full Emotional Meaning</ins></p>
 
 Table 11-2 traces the developmental ascent toward emotional meaning. The age ranges are approximate and represent typical developmental windows rather than rigid thresholds. The architecture is the constant; developmental timing may vary across individuals.
 

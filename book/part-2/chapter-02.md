@@ -195,15 +195,11 @@ The corresponding C# executables for the projects below appear in the matching p
 
 ![Chapter 2 figure 01](../../assets/figures/chapter-02/figure-01.png)
 
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-Figure 2-1. Integer Concept UML Class Diagram
+<p align="center"><ins>Figure 2-1. Integer Concept UML Class Diagram</ins></p>
 
 ![Chapter 2 figure 02](../../assets/figures/chapter-02/figure-02.png)
 
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-Figure 2-2. Integer Construct UML Object Diagram
+<p align="center"><ins>Figure 2-2. Integer Construct UML Object Diagram</ins></p>
 
 To illustrate my use of object-oriented architecture and UML to model the ontology of an idea, consider the simple case of an integer. The UML class diagram in figure 2-1 declares the concept by fixing its identity conditions independently of any particular instance. In C#, this corresponds to a declaration of type without determinate assignment.
 
@@ -223,15 +219,11 @@ This is the corresponding output:
 
 ![Chapter 2 figure 05](../../assets/figures/chapter-02/figure-05.png)
 
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-Figure 2-3. Right Concept UML Class Diagram
+<p align="center"><ins>Figure 2-3. Right Concept UML Class Diagram</ins></p>
 
 ![Chapter 2 figure 06](../../assets/figures/chapter-02/figure-06.png)
 
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-Figure 2-4. Driving Right UML Object Diagram
+<p align="center"><ins>Figure 2-4. Driving Right UML Object Diagram</ins></p>
 
 Figure 2-3 presents the concept Right as a UML class. It fixes the intensional structure of a right by declaring its essential components: an identifier, the value at stake, an assertion of authority over that value, and an attestation that validates the claim. In line with the analytic definition advanced here, a right is the authority to gain or keep a value. The class declares identity conditions without asserting that any particular right exists.
 
@@ -249,27 +241,19 @@ Figures 2-5 through 2-8 model core affect as the physiological substrate of feel
 
 ![Chapter 2 figure 08](../../assets/figures/chapter-02/figure-08.png)
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-Figure 2-5. Core Affect Concept UML Class Diagram
+<p align="center"><ins>Figure 2-5. Core Affect Concept UML Class Diagram</ins></p>
 
 ![Chapter 2 figure 09](../../assets/figures/chapter-02/figure-09.png)
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-Figure 2-6. Calm State UML Object Diagram
+<p align="center"><ins>Figure 2-6. Calm State UML Object Diagram</ins></p>
 
 ![Chapter 2 figure 10](../../assets/figures/chapter-02/figure-10.png)
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-Figure 2-7. Excited State UML Object Diagram
+<p align="center"><ins>Figure 2-7. Excited State UML Object Diagram</ins></p>
 
 ![Chapter 2 figure 11](../../assets/figures/chapter-02/figure-11.png)
 
-
------------------------------------------------------------------------------------------------------------------------------------------------------
-Figure 2-8. Distress State UML Object Diagram
+<p align="center"><ins>Figure 2-8. Distress State UML Object Diagram</ins></p>
 
 The corresponding object diagrams in figures 2-6 through 2-8 show multiple instantiated core affect states. Each object assigns determinate values to the same declared structure, demonstrating how a single concept admits diverse realizations without altering its identity conditions. The concept continues to govern each realization. Identity conditions do not change. Only instantiation varies.
 

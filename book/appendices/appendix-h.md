@@ -15,7 +15,7 @@ I assign macro-level weights to the four governing domains according to their lo
 | Cognitive-Semiotic | 25% | Meaning Achievement |
 | Computational | 25% | Formal Survivability |
 
-Table H-1. Macro-Level Weighting of the Dependency-Ordered Governing Domains
+<p align="center"><ins>Table H-1. Macro-Level Weighting of the Dependency-Ordered Governing Domains</ins></p>
 
 H.1 Definitional (Concept-Fixing) Domain — 30%
 
@@ -31,7 +31,7 @@ I assign the definitional domain the highest macro-level weight because it estab
 | D6. Ontological Coherence | 10% | Prevents category collapse among affect, feeling, emotion, and related constructs. |
 | Total | 100% |  |
 
-Table H-2. Definitional Domain: Micro-Level Weighting of the Governing Principles
+<p align="center"><ins>Table H-2. Definitional Domain: Micro-Level Weighting of the Governing Principles</ins></p>
 
 The micro-level weightings in Table H-2 derive from the logical dependency among the definitional principles. Identity Fixation receives the highest weighting because it establishes the object of definition upon which every remaining principle depends. Without a stable object of inquiry, no subsequent principle can determine how the concept applies, whether it remains internally consistent, or whether it preserves its identity across contexts (a priority judgment informed by Aristotle [384–322 BCE], Rudolf Carnap [1891–1970], Gottlob Frege [1848–1925], and Saul A. Kripke [1940–2022] on conceptual identity).<sup><a href="../references/notes/appendix-h.md#note-1">1</a></sup>
 
@@ -56,7 +56,7 @@ I assign the analytic domain the second-highest macro-level priority because it 
 | A7. Non-Circular Justification | 10% | Prevents propositions from assuming what they must prove. |
 | Total | 100% |  |
 
-Table H-3. Analytic Domain: Micro-Level Weighting of the Governing Principles
+<p align="center"><ins>Table H-3. Analytic Domain: Micro-Level Weighting of the Governing Principles</ins></p>
 
 The micro-level weightings in Table H-3 derive from the logical dependency among the analytic principles. Logical Entailment receives the highest weighting because it determines whether propositions follow necessarily from the fixed definitions established in the preceding domain. Without necessary entailment, no subsequent analytic principle can evaluate the coherence, necessity, or validity of the theory's propositions (informed by Alfred Tarski [1901–1983], Carnap, and Suppes on logical entailment).<sup><a href="../references/notes/appendix-h.md#note-4">4</a></sup>
 
@@ -79,7 +79,7 @@ I assign the cognitive-semiotic domain a higher macro-level weight than the anal
 | CS7. Goals Govern Meaning | 10% | Fixes relevance and standards of interpretive success. |
 | Total | 100% |  |
 
-Table H-4. Cognitive-Semiotic Domain: Micro-Level Weighting of the Governing Principles
+<p align="center"><ins>Table H-4. Cognitive-Semiotic Domain: Micro-Level Weighting of the Governing Principles</ins></p>
 
 The micro-level weightings in Table H-4 derive from the logical dependency among the cognitive-semiotic principles. The first six principles receive equal weight because each follows directly from the Foundational Cognitive-Semiotic Principle established in Chapter 7. Together, they define the minimum architectural conditions required for meaning as an interpretive achievement. No single principle can perform the work of another. A theory that fails any one of these principles cannot adequately explain meaning as a governed act of interpretation (a judgment informed by C. S. Peirce [1839–1914], Umberto Eco [1932–2016], and Robert Brandom [b. 1950] on governed interpretation).<sup><a href="../references/notes/appendix-h.md#note-7">7</a></sup>
 
@@ -102,7 +102,7 @@ I assign the computational domain the same macro-level weight as the cognitive-s
 | C6. Agent and Goal Preservation | 10% | Preserves the goal-directed interpreting agent. |
 | Total | 100% |  |
 
-Table H-5. Computational Domain: Micro-Level Weighting of the Governing Principles
+<p align="center"><ins>Table H-5. Computational Domain: Micro-Level Weighting of the Governing Principles</ins></p>
 
 The micro-level weightings in Table H-5 derive from the logical dependency among the computational principles. Executability Without Collapse receives the highest weighting because it determines whether the theory preserves every architectural distinction it claims to make under formal execution. A theory may appear coherent in prose yet fail when implemented computationally. This principle therefore evaluates the integrity of the computational architecture as a whole rather than any individual component (a judgment informed by David Marr [1945–1980], Luciano Floridi [b. 1964], and Grady Booch [b. 1955], James Rumbaugh [b. 1947], and Ivar Jacobson [b. 1939]).<sup><a href="../references/notes/appendix-h.md#note-9">9</a></sup>
 

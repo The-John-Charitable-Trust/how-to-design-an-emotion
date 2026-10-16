@@ -237,13 +237,11 @@ Figure 7-1 presents the UML Class Diagram for the Integer Constructivist Semioti
 
 ![Chapter 7 illustration 1](../../assets/figures/chapter-07/figure-01.png)
 
-
-*Figure 7-1. Foundational Integer Constructivist Semiotic Sign UML Class Diagram*
+<p align="center"><ins>Figure 7-1. Foundational Integer Constructivist Semiotic Sign UML Class Diagram</ins></p>
 
 ![Chapter 7 illustration 2](../../assets/figures/chapter-07/figure-02.png)
 
-
-*Figure 7-2. Foundational Integer Constructivist Semiotic Sign UML Object Diagram*
+<p align="center"><ins>Figure 7-2. Foundational Integer Constructivist Semiotic Sign UML Object Diagram</ins></p>
 
 Figure 7-2 presents the UML Object Diagram, showing a concrete execution of the architecture. Here, the model assigns specific values to each abstract class. This demonstrates instantiation integrity: the system preserves the distinction between definition (Concept) and instance (Construct) under execution.
 
@@ -373,15 +371,13 @@ With these demonstrations complete, the Constructivist Semiotic Sign has survive
 
 ![Chapter 7 illustration 21](../../assets/figures/chapter-07/figure-21.png)
 
-
-*Figure 7-3. Formal Integer Constructivist Semiotic Sign UML Class Diagram*
+<p align="center"><ins>Figure 7-3. Formal Integer Constructivist Semiotic Sign UML Class Diagram</ins></p>
 
 Figure 7-3 represents the Class Diagram, the foundational architecture for this theory of meaning. It defines the necessary constituents: Identifier, Concept, Construct, Referent, and Interpreter, and the specific relationships between them. The Interpreter coordinates the architecture by consuming the Identifier, Concept, Construct, and Referent and generating meaning under a governing goal. This structure shows that meaning is not a physical object to be found, but a result produced by an agent under constraint. By defining the GenerateMeaning() method within the Interpreter, the architecture ensures that interpretation remains a governed cognitive act rather than a subjective feeling.
 
 ![Chapter 7 illustration 22](../../assets/figures/chapter-07/figure-22.png)
 
-
-*Figure 7-4. Formal Integer Constructivist Semiotic Sign UML Object Diagram*
+<p align="center"><ins>Figure 7-4. Formal Integer Constructivist Semiotic Sign UML Object Diagram</ins></p>
 
 Figure 7-4 provides the Object Diagram, representing a concrete instance of formal execution. It captures the system in the act of specific identification.
 
@@ -405,8 +401,7 @@ This output is the evidence of the system. It is the dependent achievement of a 
 
 ![Chapter 7 illustration 23](../../assets/figures/chapter-07/figure-23.png)
 
-
-*Figure 7-5. Integer Constructivist Semiotic Sign UML Activity Diagram*
+<p align="center"><ins>Figure 7-5. Integer Constructivist Semiotic Sign UML Activity Diagram</ins></p>
 
 Figure 7-5 illustrates the architectural execution of the sign through a UML activity diagram. Having shown architecture (class) and instance (object), I now show process (activity) so the order of interpretive constraints becomes explicit. This diagram maps the transition from raw symbolic inputs to a concrete, goal-directed interpretation.<sup><a href="../references/notes/chapter-07.md#note-22">22</a></sup>
 

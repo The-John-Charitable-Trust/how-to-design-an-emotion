@@ -64,11 +64,11 @@ The case matters because it seems to show that the mind can derive a central pat
 
 ![Figure 1](../../assets/figures/chapter-04/figure-01.png)
 
-Figure 4-1. Dot-Pattern Distortions and Prototype Abstraction
+<p align="center"><ins>Figure 4-1. Dot-Pattern Distortions and Prototype Abstraction</ins></p>
 
 ![Figure 2](../../assets/figures/chapter-04/figure-02.png)
 
-Figure 4-2. Dot-Pattern Central Tendency and Inferred Prototype
+<p align="center"><ins>Figure 4-2. Dot-Pattern Central Tendency and Inferred Prototype</ins></p>
 
 The color-boundary and grub examples I analyze in this chapter come from Lisa Feldman Barrett's cinematic lecture on concepts accompanying How Emotions Are Made.<sup><a href="../references/notes/chapter-04.md#note-20">20</a></sup> In that lecture, she uses color continua and cross-cultural categorization, such as grubs as food in one culture and pests in another, to argue that conceptual boundaries arise through construction rather than discovery.<sup><a href="../references/notes/chapter-04.md#note-21">21</a></sup> She argues that the brain constructs concepts and uses them to categorize sensory input rather than discovering ready-made categories in the world, and she treats color boundaries as boundaries imposed by a perceiver rather than dictated by nature.<sup><a href="../references/notes/chapter-04.md#note-22">22</a></sup> She also invokes the dot-diagram study to challenge the assumption that concepts must exist as fixed templates, definitions, or prototypes.<sup><a href="../references/notes/chapter-04.md#note-23">23</a></sup> In her account of constructed emotion, referring to the classic Posner and Keele paradigm, she explains that participants can abstract a central tendency from exemplars even though they never saw the prototype itself.<sup><a href="../references/notes/chapter-04.md#note-24">24</a></sup>
 
@@ -98,15 +98,15 @@ The color-boundary example clarifies the distinction. Viewed rhetorically, the e
 
 ![Figure 3](../../assets/figures/chapter-04/figure-03.png)
 
-Figure 4-3. Color Concept UML Class Diagram
+<p align="center"><ins>Figure 4-3. Color Concept UML Class Diagram</ins></p>
 
 ![Figure 4](../../assets/figures/chapter-04/figure-04.png)
 
-Figure 4-4. Color Constructs UML Object Diagrams
+<p align="center"><ins>Figure 4-4. Color Constructs UML Object Diagrams</ins></p>
 
 ![Figure 5](../../assets/figures/chapter-04/figure-05.png)
 
-Figure 4-5. Color Category UML Object Diagram
+<p align="center"><ins>Figure 4-5. Color Category UML Object Diagram</ins></p>
 
 Barrett uses the color-boundary example to argue that color categories do not reflect fixed divisions in the world. In How Emotions Are Made, she writes that the physical world does not dictate objective boundaries between one color and another.<sup><a href="../references/notes/chapter-04.md#note-30">30</a></sup> In her cinematic lecture, she similarly argues that conceptual activity constructs color categories rather than discovers them.<sup><a href="../references/notes/chapter-04.md#note-31">31</a></sup>
 
@@ -126,11 +126,11 @@ The sequence matters. Figure 4-6 presents the Grub concept as the class-level st
 
 ![Figure 6](../../assets/figures/chapter-04/figure-06.svg)
 
-Figure 4-6. Grub Concept UML Class Diagram
+<p align="center"><ins>Figure 4-6. Grub Concept UML Class Diagram</ins></p>
 
 ![Figure 7](../../assets/figures/chapter-04/figure-07.svg)
 
-Figure 4-7. Grub Constructs UML Object Diagrams
+<p align="center"><ins>Figure 4-7. Grub Constructs UML Object Diagrams</ins></p>
 
 The distinction sharpens in discrete cases. Figures 4-6 and 4-7 show why the grub remains the same kind of organism even when later classifications differ. Barrett uses the grub example to show that one culture may classify a grub as food while another may classify it as a pest.<sup><a href="../references/notes/chapter-04.md#note-33">33</a></sup> She presents the example as evidence of cultural construction and variability in categorization. Viewed architecturally, however, the example demonstrates something narrower and more precise: classification varies, but kind does not.
 

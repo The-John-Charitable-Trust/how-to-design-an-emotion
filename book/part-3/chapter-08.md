@@ -46,7 +46,7 @@ Saussure sought to identify the structural principles that make communication po
 
 ![Illustration from Chapter 8](../../assets/figures/chapter-08/ch08-e34fcee32740.png)
 
-Figure 8-1. Saussure's Dyadic Sign
+<p align="center"><ins>Figure 8-1. Saussure's Dyadic Sign</ins></p>
 
 Figure 8-1 depicts the dyadic sign, a unity composed of two inseparable components:
 
@@ -58,7 +58,7 @@ Saussure argues that the bond between these two elements is arbitrary. There is 
 
 I now examine Saussure's dyadic sign to determine whether it can support a cognitive-semiotic and computational architecture of meaning. The results explain why Constructivist Semiotics refactors the historical semiotic sign while retaining Saussure's enduring insights.
 
-Table 8-1. Saussure's Framework Evaluated Against the Cognitive-Semiotic Principles of Constructivist Semiotics
+<p align="center"><ins>Table 8-1. Saussure's Framework Evaluated Against the Cognitive-Semiotic Principles of Constructivist Semiotics</ins></p>
 
 | Cognitive-Semiotic Principle | Saussure Result | Core Reason |
 | --- | --- | --- |
@@ -84,7 +84,7 @@ Saussure does not conform to the sixth principle because his model shifts meanin
 
 Saussure does not conform to the seventh principle because he does not define meaning relative to a goal. A speaker may use “tree” to classify a plant, teach a child, give directions, or interpret a diagram. Each use requires a different purpose. Saussure’s model explains stable linguistic value, but it does not explain how goals govern meaning in use.
 
-Table 8-2. Saussure's Framework Evaluated Against the Computational Principles of Constructivist Semiotics
+<p align="center"><ins>Table 8-2. Saussure's Framework Evaluated Against the Computational Principles of Constructivist Semiotics</ins></p>
 
 | Computational Principle | Saussure Result | Core Reason |
 | --- | --- | --- |
@@ -162,7 +162,7 @@ In Figure 8-2, Charles Sanders Peirce presents a triadic model of the sign, whic
 
 ![Illustration from Chapter 8](../../assets/figures/chapter-08/ch08-aed635a8c4c1.png)
 
-Figure 8-2. Peirce's Triadic Sign
+<p align="center"><ins>Figure 8-2. Peirce's Triadic Sign</ins></p>
 
 Peirce’s model defines a sign as an irreducible relationship between three parts:
 
@@ -178,7 +178,7 @@ Peirce’s central objective was to show that meaning is neither a static mental
 
 Unlike Saussure, Peirce did not aim to isolate a closed system of signs. He aimed to explain how signs participate in an open process of inquiry. He treated meaning as something that unfolds through interpretation across time, potentially without final termination. His model emphasizes mediation, inferential development, and the generative nature of sign activity.
 
-Table 8-3. Peirce's Framework Evaluated Against the Cognitive-Semiotic Principles of Constructivist Semiotics
+<p align="center"><ins>Table 8-3. Peirce's Framework Evaluated Against the Cognitive-Semiotic Principles of Constructivist Semiotics</ins></p>
 
 | Cognitive-Semiotic Principle | Peirce Result | Core Reason |
 | --- | --- | --- |
@@ -208,7 +208,7 @@ Peirce does not conform to the sixth principle because the interpretant is not t
 
 Peirce does not conform to the seventh principle because open-ended semiosis does not terminate interpretation through a governing purpose. A sign can generate another sign indefinitely. That openness helps explain inquiry, but action requires closure. If a driver sees a stop sign, interpretation must end in a practical judgment: stop now. Peirce explains the expansion of meaning, but he does not explain how a goal closes the chain.
 
-Table 8-4. Peirce's Framework Evaluated Against the Computational Principles of Constructivist Semiotics
+<p align="center"><ins>Table 8-4. Peirce's Framework Evaluated Against the Computational Principles of Constructivist Semiotics</ins></p>
 
 | Computational Principle | Peirce Result | Core Reason |
 | --- | --- | --- |
@@ -290,7 +290,7 @@ The preceding analysis isolates a common architectural gap in classical semiotic
 
 ![Illustration from Chapter 8](../../assets/figures/chapter-08/ch08-e9f444abc6a5.png)
 
-Figure 8-3. Constructivist Semiotic Sign UML Class Diagram
+<p align="center"><ins>Figure 8-3. Constructivist Semiotic Sign UML Class Diagram</ins></p>
 
 Figure 8-3 illustrates the Constructivist Semiotic Sign as a multi-constituent formal architecture. Unlike historical dyadic or triadic models, this framework uses architecture and governing principles to maintain strict boundaries between the elements of meaning so that they remain operationally distinct under formal execution.
 
