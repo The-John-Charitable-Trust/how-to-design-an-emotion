@@ -233,7 +233,7 @@
 
 <a id="note-58"></a>
 
-58. Object Management Group, *Unified Modeling Language*, 126.
+58. This mapping is my own; see <a href="#note-46">note 46</a>. For instances and their slot values, see Object Management Group, *Unified Modeling Language*, 126, 155.
 
 <a id="note-59"></a>
 
