@@ -212,7 +212,7 @@
 
 <a id="note-53"></a>
 
-53. Object Management Group, *Unified Modeling Language*, 126.
+53. This argument is my own; see chapter 6 and Project 1. For the analogous relation between a classifier and its instances, compare Object Management Group, *Unified Modeling Language*, 126 (sec. 9.8.1).
 
 <a id="note-54"></a>
 
