@@ -112,7 +112,7 @@
 
 <a id="note-28"></a>
 
-28. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+28. Barrett, “Theory of Constructed Emotion,” in the sections “What Is a Brain?” and “Selected Implications of the Theory.”
 
 <a id="note-29"></a>
 
