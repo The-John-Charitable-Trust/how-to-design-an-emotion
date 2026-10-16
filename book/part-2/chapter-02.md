@@ -49,7 +49,7 @@ Ayn Rand (1905–1982) held that attributes cannot exist by themselves; they are
 
 To prevent whole doctrines from resting on concepts that no one has specified, concepts that remain incoherent, or concepts that lack structural soundness, I proceed in the order that integrity requires.
 
-First, language makes ideas distinct and propositional.Second, analysis fixes definitions and tests them against objective principles of inference and consistency.<sup><a href="../references/notes/chapter-02.md#note-6">6</a></sup>Third, ontology distinguishes concept from construct and intension from extension, so identity conditions do not collapse into identity and meaning does not collapse into category.<sup><a href="../references/notes/chapter-02.md#note-7">7</a></sup>
+First, language makes ideas distinct and propositional. Second, analysis fixes definitions and tests them against objective principles of inference and consistency.<sup><a href="../references/notes/chapter-02.md#note-6">6</a></sup> Third, ontology distinguishes concept from construct and intension from extension, so identity conditions do not collapse into identity and meaning does not collapse into category.<sup><a href="../references/notes/chapter-02.md#note-7">7</a></sup>
 
 Fourth, object-oriented grammar declares principles of identity by separating definition from instantiation.<sup><a href="../references/notes/chapter-02.md#note-8">8</a></sup>Fifth, UML renders that structure explicit and separates identity from instantiation without rhetorical drift.<sup><a href="../references/notes/chapter-02.md#note-9">9</a></sup>
 
