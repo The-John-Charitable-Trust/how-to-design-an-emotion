@@ -22,6 +22,8 @@ Battaglia, Peter W., Jessica B. Hamrick, Victor Bapst, et al. “Relational Indu
 
 Bird, Alexander, and Emma Tobin. “Natural Kinds.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision January 28, 2022. https://plato.stanford.edu/entries/natural-kinds/.
 
+Booch, Grady, James Rumbaugh, and Ivar Jacobson. *The Unified Modeling Language User Guide*. 2nd ed. Boston: Addison-Wesley, 2005.
+
 Clark, Andy. “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science.” *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204. https://doi.org/10.1017/S0140525X12000477.
 
 Cohnitz, Daniel. “Nelson Goodman.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. Substantive revision February 8, 2024. https://plato.stanford.edu/entries/goodman/.

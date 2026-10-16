@@ -392,4 +392,8 @@
 
 <a id="note-98"></a>
 
-98. Object Management Group, *Unified Modeling Language*, 126.
+98. Object Management Group, *Unified Modeling Language*, 127, 194–95. The claim that a class fixes identity conditions, and that multiple instantiation preserves identity across contexts, is my own; see chapters 3 and 6.
+
+<a id="note-99"></a>
+
+99. Grady Booch, James Rumbaugh, and Ivar Jacobson, *The Unified Modeling Language User Guide*, 2nd ed. (Boston: Addison-Wesley, 2005), 47, 49.
