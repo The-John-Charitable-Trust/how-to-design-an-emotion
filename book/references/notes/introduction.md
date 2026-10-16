@@ -36,7 +36,7 @@
 
 <a id="note-9"></a>
 
-9. Germain G. Grisez, “The First Principle of Practical Reason: A Commentary on the *Summa theologiae*, 1–2, Question 94, Article 2,” *American Journal of Jurisprudence* 10, no. 1 (1965): 168–201, https://doi.org/10.1093/ajj/10.1.168; Mark C. Murphy, “The Natural Law Tradition in Ethics,” in *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/natural-law-ethics/.
+9. Germain G. Grisez, “The First Principle of Practical Reason: A Commentary on the *Summa theologiae*, 1–2, Question 94, Article 2,” *American Journal of Jurisprudence* 10, no. 1 (1965): 168–201, https://doi.org/10.1093/ajj/10.1.168; Mark C. Murphy, “The Natural Law Tradition in Ethics,” in *The Stanford Encyclopedia of Philosophy*, Summer 2019 ed., ed. Edward N. Zalta, https://plato.stanford.edu/archives/sum2019/entries/natural-law-ethics/.
 
 <a id="note-10"></a>
 
