@@ -240,7 +240,7 @@
 
 <a id="note-60"></a>
 
-60. George Lakoff, “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Concepts,” *Journal of Philosophical Logic* 2, no. 4 (1973): 458–508, https://doi.org/10.1007/BF00262952.
+60. George Lakoff, “Hedges: A Study in Meaning Criteria and the Logic of Fuzzy Concepts,” *Journal of Philosophical Logic* 2, no. 4 (1973): 458–508, at 458, 460–61, https://doi.org/10.1007/BF00262952.
 
 <a id="note-61"></a>
 
