@@ -328,44 +328,48 @@
 
 <a id="note-82"></a>
 
-82. Eleanor Rosch and Carolyn B. Mervis, “Family Resemblances: Studies in the Internal Structure of Categories,” *Cognitive Psychology* 7, no. 4 (1975): 573–605, https://doi.org/10.1016/0010-0285(75)90024-9.
+82. This argument is my own; see chapter 6.
 
 <a id="note-83"></a>
 
-83. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
+83. Rosch and Mervis, “Family Resemblances,” 573–74.
 
 <a id="note-84"></a>
 
-84. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
+84. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
 
 <a id="note-85"></a>
 
-85. Rosch and Mervis, “Family Resemblances.”
+85. Lawrence W. Barsalou, “Ad Hoc Categories,” *Memory & Cognition* 11, no. 3 (1983): 211–27, https://doi.org/10.3758/BF03196968.
 
 <a id="note-86"></a>
 
-86. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
+86. Rosch and Mervis, “Family Resemblances.”
 
 <a id="note-87"></a>
 
-87. Friston, “Free-Energy Principle.”
+87. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
 
 <a id="note-88"></a>
 
-88. Barsalou, “Perceptual Symbol Systems.”
+88. Friston, “Free-Energy Principle.”
 
 <a id="note-89"></a>
 
-89. Rosch, “Cognitive Representations.”
+89. Barsalou, “Perceptual Symbol Systems.”
 
 <a id="note-90"></a>
 
-90. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+90. Rosch, “Cognitive Representations.”
 
 <a id="note-91"></a>
 
-91. Object Management Group, *Unified Modeling Language*, 126.
+91. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
 
 <a id="note-92"></a>
 
 92. Object Management Group, *Unified Modeling Language*, 126.
+
+<a id="note-93"></a>
+
+93. Object Management Group, *Unified Modeling Language*, 126.
