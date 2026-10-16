@@ -2,6 +2,8 @@
 
 [← Chapter 2](../../part-2/chapter-02.md) · [Notes](../notes/chapter-02.md)
 
+Aerts, Diederik, Jan Broekaert, Liane Gabora, and Sandro Sozzo. “Generalizing Prototype Theory: A Formal Quantum Framework.” *Frontiers in Psychology* 7 (2016): 418. https://doi.org/10.3389/fpsyg.2016.00418.
+
 Aristotle. *Categories and De Interpretatione*. Translated by J. L. Ackrill. Oxford: Clarendon Press, 1963.
 
 Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
@@ -13,8 +15,6 @@ Carnap, Rudolf. “Meaning and Synonymy in Natural Languages.” *Philosophical 
 Chalmers, David J. “Facing Up to the Problem of Consciousness.” *Journal of Consciousness Studies* 2, no. 3 (1995): 200–219.
 
 Chalmers, David J. “Verbal Disputes.” *Philosophical Review* 120, no. 4 (2011): 515–66. https://doi.org/10.1215/00318108-1334478.
-
-Fodor, Jerry A. “Concepts: A Potboiler.” *Cognition* 50, nos. 1–3 (1994): 95–113. https://doi.org/10.1016/0010-0277(94)90023-X.
 
 Frege, Gottlob. “Sense and Reference.” Translated by Max Black. *Philosophical Review* 57, no. 3 (1948): 209–30. https://doi.org/10.2307/2181485.
 

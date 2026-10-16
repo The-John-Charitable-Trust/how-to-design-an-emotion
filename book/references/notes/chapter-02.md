@@ -241,7 +241,7 @@
 
 <a id="note-60"></a>
 
-60. This summary is my own. On challenges facing contemporary theories of concepts, see Margolis and Laurence, “Concepts,” §2.2; see also Jerry A. Fodor, “Concepts: A Potboiler,” *Cognition* 50, nos. 1–3 (1994): 95–113, https://doi.org/10.1016/0010-0277(94)90023-X.
+60. This summary is my own. On challenges facing contemporary theories of concepts, see Margolis and Laurence, “Concepts,” §2.2; see also Diederik Aerts, Jan Broekaert, Liane Gabora, and Sandro Sozzo, “Generalizing Prototype Theory: A Formal Quantum Framework,” *Frontiers in Psychology* 7 (2016): 418, §1, https://doi.org/10.3389/fpsyg.2016.00418.
 
 <a id="note-61"></a>
 
