@@ -196,40 +196,48 @@
 
 <a id="note-49"></a>
 
-49. Barrett, “Theory of Constructed Emotion,” in the section “An Internal Model Is Predictive, Not Reactive.”
+49. This position is my own; see chapters 2 and 6. On the absence of fixed neural signatures, see Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion” and table 1.
 
 <a id="note-50"></a>
 
-50. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+50. This argument is my own; see chapters 4, 5, and 6, and note 46. For a related objection, see Charlie Kurth, “Are Emotions Psychological Constructions?,” *Philosophy of Science* 86, no. 5 (2019): 1227–38, §2, https://doi.org/10.1086/705479.
 
 <a id="note-51"></a>
 
-51. Barrett, “Theory of Constructed Emotion,” figs. 4 and 5 captions, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
+51. Barrett, “Theory of Constructed Emotion,” in the section “An Internal Model Is Predictive, Not Reactive.”
 
 <a id="note-52"></a>
 
-52. Margolis and Laurence, “Concepts,” sec. 2.
+52. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-53"></a>
 
-53. Barrett, “Theory of Constructed Emotion.”
+53. Barrett, “Theory of Constructed Emotion,” figs. 4 and 5 captions, in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators.”
 
 <a id="note-54"></a>
 
-54. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+54. Margolis and Laurence, “Concepts,” sec. 2.
 
 <a id="note-55"></a>
 
-55. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+55. Barrett, “Theory of Constructed Emotion.”
 
 <a id="note-56"></a>
 
-56. Philip A. Kragel and Kevin S. LaBar, “Decoding the Nature of Emotion in the Brain,” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55, https://doi.org/10.1016/j.tics.2016.03.011; James V. Haxby et al., “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex,” *Science* 293, no. 5539 (2001): 2425–30, https://doi.org/10.1126/science.1063736; on individual variation, see Elizabeth Clark-Polner, Timothy D. Johnson, and Lisa Feldman Barrett, “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions,” *Cerebral Cortex* 27, no. 3 (2017): 1944–48, https://doi.org/10.1093/cercor/bhw028.
+56. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
 
 <a id="note-57"></a>
 
-57. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+57. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
 
 <a id="note-58"></a>
 
-58. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”
+58. Philip A. Kragel and Kevin S. LaBar, “Decoding the Nature of Emotion in the Brain,” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55, https://doi.org/10.1016/j.tics.2016.03.011; James V. Haxby et al., “Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex,” *Science* 293, no. 5539 (2001): 2425–30, https://doi.org/10.1126/science.1063736; on individual variation, see Elizabeth Clark-Polner, Timothy D. Johnson, and Lisa Feldman Barrett, “Multivoxel Pattern Analysis Does Not Provide Evidence to Support the Existence of Basic Emotions,” *Cerebral Cortex* 27, no. 3 (2017): 1944–48, https://doi.org/10.1093/cercor/bhw028.
+
+<a id="note-59"></a>
+
+59. Object Management Group, *Unified Modeling Language*, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF.
+
+<a id="note-60"></a>
+
+60. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion.”

@@ -24,6 +24,8 @@ Hoemann, Katie, Fei Xu, and Lisa Feldman Barrett. “Emotion Words, Emotion Conc
 
 Kragel, Philip A., and Kevin S. LaBar. “Decoding the Nature of Emotion in the Brain.” *Trends in Cognitive Sciences* 20, no. 6 (2016): 444–55. https://doi.org/10.1016/j.tics.2016.03.011.
 
+Kurth, Charlie. “Are Emotions Psychological Constructions?” *Philosophy of Science* 86, no. 5 (2019): 1227–38. https://doi.org/10.1086/705479.
+
 Majeed, Raamy. “Does the Problem of Variability Justify Barrett’s Emotion Revolution?” *Review of Philosophy and Psychology* 14, no. 4 (2023): 1421–41. https://doi.org/10.1007/s13164-022-00650-0.
 
 Margolis, Eric, and Stephen Laurence. “Concepts.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
