@@ -1,6 +1,6 @@
-# Appendix D: Formal Reconstruction of the Posner-Keele Paradigm
+# Appendix D: The Limits of Pattern Recognition
 
-## Why Statistical Abstraction Does Not Constitute Identity Conditions
+## A Formal Look at the Posner-Keele Paradigm
 
 In the Posner and Keele paradigm, the stimuli have a geometrically simple and mathematically precise structure. Each pattern consists of a fixed number n of dots positioned within a bounded coordinate system, such as a 30 × 30 grid. Formally, each stimulus can be represented as a vector in ℝ²ⁿ:
 
