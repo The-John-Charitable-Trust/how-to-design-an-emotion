@@ -164,7 +164,7 @@
 
 <a id="note-41"></a>
 
-41. Object Management Group, *Unified Modeling Language*, 126.
+41. Goldinger et al., “Poverty of Embodied Cognition,” in the section “2) Concepts and Prototypes”; Margolis and Laurence, “Concepts,” sec. 2.2. The inference from this case to the constructivist claim, and the contrast with a fixed template, are my own; see chapter 6.
 
 <a id="note-42"></a>
 
