@@ -57,11 +57,11 @@
 
 <a id="note-14"></a>
 
-14. Object Management Group, *Unified Modeling Language*.
+14. Wesley Newcomb Hohfeld, “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning,” *Yale Law Journal* 23, no. 1 (1913): 16–59, https://doi.org/10.2307/785533.
 
 <a id="note-15"></a>
 
-15. Wesley Newcomb Hohfeld, “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning,” *Yale Law Journal* 23, no. 1 (1913): 16–59, https://doi.org/10.2307/785533.
+15. Hohfeld, “Fundamental Legal Conceptions.”
 
 <a id="note-16"></a>
 
