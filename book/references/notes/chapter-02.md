@@ -61,7 +61,7 @@
 
 <a id="note-15"></a>
 
-15. Hohfeld, “Fundamental Legal Conceptions.”
+15. John Locke, *Second Treatise of Government* (1690), §§87, 123; Hohfeld, “Fundamental Legal Conceptions.”
 
 <a id="note-16"></a>
 
