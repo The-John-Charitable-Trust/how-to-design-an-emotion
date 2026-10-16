@@ -24,7 +24,7 @@
 
 <a id="note-6"></a>
 
-6. Ps. 118:22 (New Revised Standard Version Updated Edition).
+6. Ps. 118:22 (New Revised Standard Version Updated Edition): “The stone that the builders rejected has become the chief cornerstone.”
 
 <a id="note-7"></a>
 
