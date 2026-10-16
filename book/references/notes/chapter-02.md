@@ -149,7 +149,7 @@
 
 <a id="note-37"></a>
 
-37. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192.
+37. Eleanor Rosch, “Cognitive Representations of Semantic Categories,” *Journal of Experimental Psychology: General* 104, no. 3 (1975): 192–233, https://doi.org/10.1037/0096-3445.104.3.192; for the apples-and-plums illustration, see Margolis and Laurence, “Concepts,” §2.2.
 
 <a id="note-38"></a>
 
