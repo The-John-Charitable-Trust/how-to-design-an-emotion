@@ -360,7 +360,7 @@
 
 <a id="note-90"></a>
 
-90. Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development.”
+90. Barrett, “Theory of Constructed Emotion,” in the section “The Computational Architecture of the Brain Is a Conceptual System Plus Pattern Generators”; see also Hoemann, Xu, and Barrett, “Emotion Words, Emotion Concepts, and Emotional Development,” in the section “Emotion Concepts and Categories.”
 
 <a id="note-91"></a>
 
@@ -376,7 +376,7 @@
 
 <a id="note-94"></a>
 
-94. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?”
+94. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?” and the table in the section “Selected Implications of the Theory.”
 
 <a id="note-95"></a>
 
