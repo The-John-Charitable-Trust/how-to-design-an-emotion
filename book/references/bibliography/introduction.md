@@ -58,7 +58,7 @@ Panksepp, Jaak. “Affective Consciousness: Core Emotional Feelings in Animals a
 
 Picard, Rosalind W. “Affective Computing: Challenges.” *International Journal of Human-Computer Studies* 59, nos. 1–2 (2003): 55–64. https://doi.org/10.1016/S1071-5819(03)00052-1.
 
-Rohlf, Michael. “Immanuel Kant.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/kant/.
+Rohlf, Michael. “Immanuel Kant.” In *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/archives/fall2023/entries/kant/.
 
 Russell, James A. “Core Affect and the Psychological Construction of Emotion.” *Psychological Review* 110, no. 1 (2003): 145–72. https://doi.org/10.1037/0033-295X.110.1.145.
 

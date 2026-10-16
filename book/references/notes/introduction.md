@@ -64,7 +64,7 @@
 
 <a id="note-16"></a>
 
-16. Robert Bolton, “Essentialism and Semantic Theory in Aristotle: *Posterior Analytics*, II, 7–10,” *Philosophical Review* 85, no. 4 (1976): 514–44, https://doi.org/10.2307/2184277; Lucy Allais, “Kant, Non-Conceptual Content and the Representation of Space,” *Journal of the History of Philosophy* 47, no. 3 (2009): 383–413, https://doi.org/10.1353/hph.0.0134; Michael Rohlf, “Immanuel Kant,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/kant/.
+16. Robert Bolton, “Essentialism and Semantic Theory in Aristotle: *Posterior Analytics*, II, 7–10,” *Philosophical Review* 85, no. 4 (1976): 514–44, https://doi.org/10.2307/2184277; Lucy Allais, “Kant, Non-Conceptual Content and the Representation of Space,” *Journal of the History of Philosophy* 47, no. 3 (2009): 383–413, https://doi.org/10.1353/hph.0.0134; Michael Rohlf, “Immanuel Kant,” in *The Stanford Encyclopedia of Philosophy*, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/archives/fall2023/entries/kant/.
 
 <a id="note-17"></a>
 
