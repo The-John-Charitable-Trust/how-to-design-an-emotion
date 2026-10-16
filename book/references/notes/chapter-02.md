@@ -153,7 +153,7 @@
 
 <a id="note-38"></a>
 
-38. Posner and Keele, “Genesis of Abstract Ideas.”
+38. Margolis and Laurence, “Concepts,” §2.2.
 
 <a id="note-39"></a>
 
