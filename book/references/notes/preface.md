@@ -20,7 +20,7 @@
 
 <a id="note-5"></a>
 
-5. Jerome C. Wakefield, “The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values,” *American Psychologist* 47, no. 3 (1992): 373–88, https://doi.org/10.1037/0003-066X.47.3.373.
+5. Jerome C. Wakefield, “The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values,” *American Psychologist* 47, no. 3 (1992): 373–88, at 373, https://doi.org/10.1037/0003-066X.47.3.373.
 
 <a id="note-6"></a>
 
