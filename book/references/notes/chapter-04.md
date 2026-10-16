@@ -144,7 +144,7 @@
 
 <a id="note-36"></a>
 
-36. Barrett, “Theory of Constructed Emotion,” in the section “The Theory of Constructed Emotion,” citing Posner and Keele, “Genesis of Abstract Ideas.”
+36. Barrett, “Theory of Constructed Emotion,” in the section “What Is a Brain?,” citing Posner and Keele, “Genesis of Abstract Ideas.”
 
 <a id="note-37"></a>
 
