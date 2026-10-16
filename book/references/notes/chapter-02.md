@@ -245,4 +245,4 @@
 
 <a id="note-61"></a>
 
-61. Bambrough, “Universals and Family Resemblances.”
+61. This framing is my own and is developed in Chapter 3. On rejecting a common essence in favor of family resemblance, see Wittgenstein, *Philosophical Investigations*, §§66–67; see also Bambrough, “Universals and Family Resemblances.”
