@@ -20,4 +20,8 @@
 
 <a id="note-5"></a>
 
-5. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
+5. On moods as longer-lasting, see Ekman, “Argument for Basic Emotions,” 186; on mood as free-floating core affect and emotion as core affect attributed to something, Russell, “Core Affect,” 145. The appraisal-and-attitude constraint and the definition of DriveState are my own.
+
+<a id="note-6"></a>
+
+6. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
