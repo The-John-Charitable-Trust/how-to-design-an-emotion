@@ -36,23 +36,29 @@ The valid and invalid candidates appear in separate object diagrams. Figure C-2 
 
 <p align="center"><ins>Figure C-4. Rock UML Object Diagram (Invalid Fish)</ins></p>
 
-In Project 1, the code evaluates a specific candidate passed as a command-line argument. This makes the admissibility test explicit. The system does not switch between an abstract valid mode and invalid mode. It evaluates whether a given candidate satisfies the admissibility conditions of Fish. The README for Project 1 provides the canonical run commands and expected outputs. When you execute the C# code with the following commands:
+In Project 1, the code evaluates a specific candidate passed as a command-line argument. This makes the admissibility test explicit. The system does not switch between an abstract valid mode and invalid mode. It evaluates whether a given candidate satisfies the admissibility conditions of Fish. The README for Project 1 provides the canonical run commands and expected outputs. After navigating to the folder containing the project, build it:
+
+<img src="../../assets/figures/appendix-c/figure-05-build.png" alt="Console command: dotnet build" />
+
+<p align="center"><ins>Project 1 Build Command</ins></p>
+
+Then run it with the following commands:
 
 <img src="../../assets/figures/appendix-c/figure-05.png" />
 
 <p align="center"><ins>Project 1 Run Commands</ins></p>
 
+You get a valid response for the first two object diagrams; for example, when you pass goldfish as an input parameter:
+
 <img src="../../assets/figures/appendix-c/figure-06.png" />
 
 <p align="center"><ins>Project 1 Valid Output</ins></p>
 
+However, you get an invalid response when you pass rock as the input parameter:
+
 <img src="../../assets/figures/appendix-c/figure-07.png" />
 
-<p align="center"><ins>Project 1 invalid Output</ins></p>
-
-You get a valid response for the first two object diagrams; for example, when you pass goldfish as an input parameter:
-
-However, you get an invalid response when you pass rock as the input parameter:
+<p align="center"><ins>Project 1 Invalid Output</ins></p>
 
 This behavior demonstrates that identity conditions operate upstream of all other processes. They constrain the space of possible instances before any goal-based filtering or contextual interpretation occurs. Project 1 therefore establishes the first architectural claim: identity conditions define admissibility and constrain what can count as an instance in the first place.
 

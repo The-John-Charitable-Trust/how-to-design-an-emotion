@@ -2,12 +2,18 @@ Instructions for general environment setup can be found in: *How to Run the Code
 
 This README is the canonical source for the exact commands and expected outputs for Appendix C, Project 1.
 
-## Run Commands
+## Build Command
 
-Run from inside the `Project_1` folder.
+Run from inside the `project-1` folder.
 
 ```bash
 cd .\IdentityLayerDemo\
+dotnet build
+```
+
+## Run Commands
+
+```bash
 dotnet run -- goldfish
 ```
 
