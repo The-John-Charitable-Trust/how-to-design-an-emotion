@@ -16,7 +16,7 @@ Iᵢ = P + εᵢ
 
 where εᵢ is a noise vector. The empirical finding is that participants later classify novel patterns in accordance with an inferred central tendency, even though they never saw P itself.<sup><a href="../references/notes/appendix-d.md#note-1">1</a></sup> Researchers originally took this result as evidence that people abstract a prototype from the instances they have seen, rather than merely storing those instances, though later work showed that exemplar-storage models can produce the same effect.<sup><a href="../references/notes/appendix-d.md#note-2">2</a></sup>
 
-That conclusion is correct as far as it goes. Participants can approximate a central tendency, which in statistical terms corresponds to estimating:
+That reading is reasonable as far as it goes. Participants can approximate a central tendency,<sup><a href="../references/notes/appendix-d.md#note-3">3</a></sup> which in statistical terms corresponds to estimating:
 
 P̂ = (1/k) Σᵢ₌₁ᵏ Iᵢ
 
@@ -24,7 +24,7 @@ Classification can then proceed by computing distance in the same space, for exa
 
 d(x, P) = ‖x − P‖
 
-and assigning category membership based on proximity.
+and assigning category membership based on proximity.<sup><a href="../references/notes/appendix-d.md#note-4">4</a></sup>
 
 The paradigm demonstrates the extraction of statistical regularities within a shared representational space. By itself, however, it does not establish that those regularities constitute identity conditions. At most, it shows that agents can recover central tendencies under distortion. It does not show that central tendency can ground identity conditions for the concept.
 
