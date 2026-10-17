@@ -232,7 +232,7 @@ Project 4 therefore establishes the fourth architectural claim: conceptual flexi
 
 Project 5 isolates multi-concept participation. The goal is to show that a single object can participate in multiple goal-bound concepts without changing its identity. Conceptual plurality arises when different constraint structures evaluate the same object under different purposes. It does not require a transformation of the object itself.<sup><a href="../references/notes/appendix-c.md#note-9">9</a></sup>
 
-In Project 5, the object Car remains constant across all evaluations. What varies is the goal under which the system evaluates it. Each goal defines a different constraint structure, and the same object may satisfy more than one such structure.
+Project 5 switches from Fish to cars, objects that people routinely use for more than one purpose. In Project 5, each Car object remains constant across all evaluations. What varies is the goal under which the system evaluates it. Each goal defines a different constraint structure, and the same object may satisfy more than one such structure.
 
 <img src="../../assets/figures/appendix-c/figure-28.png" />
 
