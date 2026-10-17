@@ -36,12 +36,16 @@
 
 <a id="note-9"></a>
 
-9. Ekman, “Argument for Basic Emotions,” 172, 182.
+9. Ekman, “Argument for Basic Emotions,” 170; Barrett et al., “Emotional Expressions Reconsidered,” in the section “Studies That Measure Emotion Perception with Choice-from-Array Tasks.” The conclusion that this procedure presupposes the concept is my own argument.
 
 <a id="note-10"></a>
 
-10. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+10. Ekman, “Argument for Basic Emotions,” 172, 182.
 
 <a id="note-11"></a>
 
-11. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+11. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+
+<a id="note-12"></a>
+
+12. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
