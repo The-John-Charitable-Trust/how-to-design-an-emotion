@@ -4,6 +4,8 @@
 
 Aristotle. *Topics*. Translated by W. A. Pickard-Cambridge. Internet Classics Archive. https://classics.mit.edu/Aristotle/topics.html.
 
+Barrett, Lisa Feldman. “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23. https://doi.org/10.1093/scan/nsw154.
+
 Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
 
 Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software*. Reading, MA: Addison-Wesley, 1995.
