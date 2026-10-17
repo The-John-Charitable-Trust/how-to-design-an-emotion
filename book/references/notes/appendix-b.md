@@ -45,3 +45,7 @@
 <a id="note-11"></a>
 
 11. The construction-versus-identity problem and the use of these patterns to address it are my own; on realization, see note 1.
+
+<a id="note-12"></a>
+
+12. On patterns as solutions to recurring design problems, see Gamma et al., *Design Patterns*. Their use here as syntactic tools for modeling emotion is my own.
