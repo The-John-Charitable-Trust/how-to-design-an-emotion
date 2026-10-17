@@ -48,12 +48,16 @@
 
 <a id="note-12"></a>
 
-12. Ekman, “Argument for Basic Emotions,” 172, 182.
+12. Ekman, “Argument for Basic Emotions,” 173. The claims that the theory cannot derive binding analytic consequences and that explanation gives way to description are my own argument.
 
 <a id="note-13"></a>
 
-13. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+13. Ekman, “Argument for Basic Emotions,” 172, 182.
 
 <a id="note-14"></a>
 
-14. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+14. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+
+<a id="note-15"></a>
+
+15. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
