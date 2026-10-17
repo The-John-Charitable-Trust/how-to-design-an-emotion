@@ -78,7 +78,7 @@ If the input parameter were joy or anger, the output would change accordingly; t
 
 Figure B-4 models emotion construction using the Prototype design pattern. The diagram shows how new emotional instances can arise through structured reuse rather than fresh construction.<sup><a href="../references/notes/appendix-b.md#note-18">18</a></sup>
 
-Here, Emotion again defines the abstract identity of an emotion and declares a clone() operation. This operation specifies how instances replicate structural identity while allowing contextual variation.
+Here, Emotion again defines the abstract identity of an emotion and declares a clone() operation. This operation specifies how instances replicate structural identity while allowing contextual variation.<sup><a href="../references/notes/appendix-b.md#note-19">19</a></sup>
 
 JoyEmotion, FearEmotion, and AngerEmotion serve as concrete prototypes. Each implements cloning so that Joy produces Joy instances, Fear produces Fear instances, and Anger produces Anger instances. Identity remains fixed. Realization varies.
 

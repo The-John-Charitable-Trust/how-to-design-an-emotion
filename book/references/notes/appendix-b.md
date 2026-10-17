@@ -73,3 +73,7 @@
 <a id="note-18"></a>
 
 18. Gamma et al., *Design Patterns*, chap. 3, on the Prototype pattern. The application to emotional instances is my own.
+
+<a id="note-19"></a>
+
+19. The reading of clone() as replicating conceptual identity is my own; the setters in Figure B-4 carry the contextual variation. See note 16.
