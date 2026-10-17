@@ -68,4 +68,8 @@
 
 <a id="note-17"></a>
 
-17. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+17. The argument that empirical success cannot offset conceptual instability is my own; see chapter 2.
+
+<a id="note-18"></a>
+
+18. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
