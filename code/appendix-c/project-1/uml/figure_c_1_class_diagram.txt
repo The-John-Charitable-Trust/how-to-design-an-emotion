@@ -4,9 +4,9 @@
     +--------------------------------------------------+
     |                       Fish                       |
     +--------------------------------------------------+
-    | - Species : string                              |
-    | - IsAquatic : bool                              |
-    | - IsOrganism : bool                             |
+    | + Species : string                              |
+    | + IsAquatic : bool                              |
+    | + IsOrganism : bool                             |
     +--------------------------------------------------+
     | + Fish(species : string, isAquatic : bool,      |
     |        isOrganism : bool)                       |

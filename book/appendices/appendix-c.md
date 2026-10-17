@@ -20,7 +20,7 @@ In Project 1, I represent the concept Fish as a class with invariant admissibili
 
 <p align="center"><ins>Figure C-1. Fish UML Class Diagram</ins></p>
 
-Figure C-1 defines the admissibility conditions that any instance must satisfy. No goals, parameters, or contextual modifiers appear at this level.
+Figure C-1 defines the admissibility conditions that any instance must satisfy. No goals, goal parameters, or contextual modifiers appear at this level.
 
 The valid and invalid candidates appear in separate object diagrams. Figure C-2 shows a valid Goldfish instance. Figure C-3 shows a valid Salmon instance. Figure C-4 shows an invalid Rock candidate.
 
