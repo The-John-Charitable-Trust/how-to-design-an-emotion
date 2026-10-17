@@ -41,3 +41,7 @@
 <a id="note-10"></a>
 
 10. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
+
+<a id="note-11"></a>
+
+11. The construction-versus-identity problem and the use of these patterns to address it are my own; on realization, see note 1.
