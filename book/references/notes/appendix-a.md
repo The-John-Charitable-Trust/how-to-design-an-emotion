@@ -12,20 +12,24 @@
 
 <a id="note-3"></a>
 
-3. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements,” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68, Executive Summary, https://doi.org/10.1177/1529100619832930. On display rules, see Paul Ekman and Wallace V. Friesen, “The Repertoire of Nonverbal Behavior: Categories, Origins, Usage, and Coding,” *Semiotica* 1, no. 1 (1969): 75, https://doi.org/10.1515/semi.1969.1.1.49.
+3. Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements,” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68, in the section “Studies of Healthy Adults Living in Small-Scale, Remote Cultures,” https://doi.org/10.1177/1529100619832930; Erika H. Siegel et al., “Emotion Fingerprints or Emotion Populations? A Meta-Analytic Investigation of Autonomic Features of Emotion Categories,” *Psychological Bulletin* 144, no. 4 (2018): 343–93, abstract, https://doi.org/10.1037/bul0000128.
 
 <a id="note-4"></a>
 
-4. Erika H. Siegel et al., “Emotion Fingerprints or Emotion Populations? A Meta-Analytic Investigation of Autonomic Features of Emotion Categories,” *Psychological Bulletin* 144, no. 4 (2018): 343–93, abstract and the section “Evaluation of Specificity and Consistency,” https://doi.org/10.1037/bul0000128.
+4. Barrett et al., “Emotional Expressions Reconsidered,” Executive Summary. On display rules, see Paul Ekman and Wallace V. Friesen, “The Repertoire of Nonverbal Behavior: Categories, Origins, Usage, and Coding,” *Semiotica* 1, no. 1 (1969): 75, https://doi.org/10.1515/semi.1969.1.1.49.
 
 <a id="note-5"></a>
 
-5. Ekman, “Argument for Basic Emotions,” 172, 182.
+5. Siegel et al., “Emotion Fingerprints or Emotion Populations?,” abstract and the section “Evaluation of Specificity and Consistency.”
 
 <a id="note-6"></a>
 
-6. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+6. Ekman, “Argument for Basic Emotions,” 172, 182.
 
 <a id="note-7"></a>
 
-7. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+7. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+
+<a id="note-8"></a>
+
+8. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
