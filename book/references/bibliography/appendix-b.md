@@ -9,3 +9,5 @@ Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns:
 Object Management Group. *Unified Modeling Language*. Version 2.5.1. formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
 
 Panksepp, Jaak. “Cross-Species Affective Neuroscience Decoding of the Primal Affective Experiences of Humans and Related Animals.” *PLoS ONE* 6, no. 9 (2011): e21236. https://doi.org/10.1371/journal.pone.0021236.
+
+Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally and Albert Sechehaye. Translated by Wade Baskin. New York: Philosophical Library, 1959.

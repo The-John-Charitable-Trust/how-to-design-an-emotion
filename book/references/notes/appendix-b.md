@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. On the notation, see Object Management Group, *Unified Modeling Language*.
+2. On the notation, see Object Management Group, *Unified Modeling Language*. Genus and species, and identity and instantiation, are developed in chapter 3; syntagmatic ordering in chapter 2, after Ferdinand de Saussure, *Course in General Linguistics*, ed. Charles Bally and Albert Sechehaye, trans. Wade Baskin (New York: Philosophical Library, 1959), pt. 2, chap. 5; the generation of episodes in chapters 2–4. The modeling claims are my own.
 
 <a id="note-3"></a>
 
