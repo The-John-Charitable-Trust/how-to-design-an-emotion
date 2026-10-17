@@ -81,3 +81,7 @@
 <a id="note-20"></a>
 
 20. This summarizes my argument above; on the fear-face example, see notes 9–10, and on variation, Ekman, “Argument for Basic Emotions,” 173 (note 12). The argument is my own; see chapter 2.
+
+<a id="note-21"></a>
+
+21. The four requirements are my own, set out in chapter 2 (see note 2); the conclusion is my own argument.
