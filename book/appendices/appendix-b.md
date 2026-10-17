@@ -50,7 +50,13 @@ The pattern illustrates how emotional episodes can be generated as instances of 
 
 The corresponding C# project appears in this repository’s code folder for Appendix B, [Project 1](../../code/appendix-b/project-1/). The project README provides the canonical build command, run command, supported input values, and expected output. The appendix explains the conceptual purpose of the code; the README governs execution.
 
-After navigating to the folder containing the project:
+After navigating to the folder containing the project, build it:
+
+<img src="../../assets/figures/appendix-b/figure-04-build.png" alt="Console command: dotnet build" />
+
+<p align="center"><ins>Project 1 Build Command</ins></p>
+
+Then run it:
 
 <img src="../../assets/figures/appendix-b/figure-04.png" alt="Console command: dotnet run -- fear" />
 
