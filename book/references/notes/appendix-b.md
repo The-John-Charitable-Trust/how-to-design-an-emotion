@@ -53,3 +53,7 @@
 <a id="note-13"></a>
 
 13. On Factory Method and its parameterized variant, see Gamma et al., *Design Patterns*, chap. 3. The mapping of emotion types to classes is my own.
+
+<a id="note-14"></a>
+
+14. On generalization hierarchies, see Object Management Group, *Unified Modeling Language*, sec. 9.2.1. Reading inheritance as preserving conceptual identity is my own.

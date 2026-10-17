@@ -40,7 +40,7 @@ The Gang of Four patterns do not describe mental mechanisms. They formalize stru
 
 Figure B-3 models emotion construction using a parameterized form of the Factory Method pattern, which separates the declaration of a type from the logic responsible for creating its instances. In this architecture, Emotion functions as an abstract class that fixes the shared structural properties of an emotion, such as valence, context, and expression. The class defines identity conditions but does not instantiate any emotional episode.<sup><a href="../references/notes/appendix-b.md#note-13">13</a></sup>
 
-Concrete subclasses, Joy, Fear, and Anger, inherit this structure while assigning different values to it. In object-oriented terms, inheritance preserves conceptual identity while allowing variation in individual instances.
+Concrete subclasses, Joy, Fear, and Anger, inherit this structure and specialize it. In object-oriented terms, generalization lets subclasses share a superclass’s structure, and individual instances vary in the values they assign to it; I read that sharing as preserving conceptual identity.<sup><a href="../references/notes/appendix-b.md#note-14">14</a></sup>
 
 The EmotionFactory centralizes instantiation. Instead of constructing a concrete emotion directly, the client requests an emotion from the factory, which selects the appropriate subclass and returns it as the abstract type Emotion. The client therefore interacts with the stable abstract interface rather than with specific implementations.
 
