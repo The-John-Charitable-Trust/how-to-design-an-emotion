@@ -2,7 +2,7 @@
 
 ## A Formal Look at the Posner-Keele Paradigm
 
-In the Posner and Keele paradigm, the stimuli have a geometrically simple and mathematically precise structure. Each pattern consists of a small, fixed number of dots (nine in Posner's stimuli) whose positions can be specified as coordinates on a bounded grid. Formally, each stimulus can be represented as a vector in ℝ²ⁿ:
+In the Posner and Keele paradigm, the stimuli have a geometrically simple and mathematically precise structure. Each pattern consists of a small, fixed number n of dots (n = 9 in Posner's stimuli) whose positions can be specified as coordinates on a bounded grid. Formally, each stimulus can be represented as a vector in ℝ²ⁿ:
 
 x = (x₁, y₁, …, xₙ, yₙ)
 
