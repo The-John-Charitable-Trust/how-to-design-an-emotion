@@ -72,4 +72,4 @@
 
 <a id="note-18"></a>
 
-18. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+18. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version). The argument of this paragraph is my own; see chapter 2.
