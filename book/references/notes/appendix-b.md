@@ -77,3 +77,7 @@
 <a id="note-19"></a>
 
 19. The reading of clone() as replicating conceptual identity is my own; the setters in Figure B-4 carry the contextual variation. See note 16.
+
+<a id="note-20"></a>
+
+20. That each prototype yields copies of its own class is the intent of the Prototype pattern (see note 18); the reading as fixed identity is my own.

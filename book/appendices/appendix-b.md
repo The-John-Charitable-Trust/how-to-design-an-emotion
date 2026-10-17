@@ -80,7 +80,7 @@ Figure B-4 models emotion construction using the Prototype design pattern. The d
 
 Here, Emotion again defines the abstract identity of an emotion and declares a clone() operation. This operation specifies how instances replicate structural identity while allowing contextual variation.<sup><a href="../references/notes/appendix-b.md#note-19">19</a></sup>
 
-JoyEmotion, FearEmotion, and AngerEmotion serve as concrete prototypes. Each implements cloning so that Joy produces Joy instances, Fear produces Fear instances, and Anger produces Anger instances. Identity remains fixed. Realization varies.
+JoyEmotion, FearEmotion, and AngerEmotion serve as concrete prototypes. Each implements clone() so that a JoyEmotion prototype yields JoyEmotion copies, and likewise for FearEmotion and AngerEmotion. Identity remains fixed. Realization varies.<sup><a href="../references/notes/appendix-b.md#note-20">20</a></sup>
 
 The EmotionCache stores initialized prototypes indexed by key. When the client requests an emotion, the cache returns a clone of the appropriate prototype rather than constructing a new object from scratch.
 
