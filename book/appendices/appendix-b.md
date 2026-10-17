@@ -42,7 +42,7 @@ Figure B-3 models emotion construction using a parameterized form of the Factory
 
 Concrete subclasses, Joy, Fear, and Anger, inherit this structure and specialize it. In object-oriented terms, generalization lets subclasses share a superclass’s structure, and individual instances vary in the values they assign to it; I read that sharing as preserving conceptual identity.<sup><a href="../references/notes/appendix-b.md#note-14">14</a></sup>
 
-The EmotionFactory centralizes instantiation. Instead of constructing a concrete emotion directly, the client requests an emotion from the factory, which selects the appropriate subclass and returns it as the abstract type Emotion. The client therefore interacts with the stable abstract interface rather than with specific implementations.
+The EmotionFactory centralizes instantiation. Instead of constructing a concrete emotion directly, the client requests an emotion from the factory, which selects the appropriate subclass and returns it as the abstract type Emotion. The client therefore interacts with the stable abstract interface rather than with specific implementations.<sup><a href="../references/notes/appendix-b.md#note-15">15</a></sup>
 
 Architecturally, this structure separates identity from instantiation. The abstract class corresponds to the emotion concept, while the instantiated object corresponds to a specific emotional episode. The factory models rule-governed construction that preserves conceptual identity while allowing contextual differentiation. 
 

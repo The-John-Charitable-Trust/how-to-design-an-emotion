@@ -57,3 +57,7 @@
 <a id="note-14"></a>
 
 14. On generalization hierarchies, see Object Management Group, *Unified Modeling Language*, sec. 9.2.1. Reading inheritance as preserving conceptual identity is my own.
+
+<a id="note-15"></a>
+
+15. On creating objects through a factory and on programming to an interface rather than an implementation, see Gamma et al., *Design Patterns*, chaps. 1 and 3.
