@@ -8,7 +8,7 @@
 
 <a id="note-2"></a>
 
-2. On the notation, see Object Management Group, *Unified Modeling Language*. Genus and species, and identity and instantiation, are developed in chapter 3; syntagmatic ordering in chapter 2, after Ferdinand de Saussure, *Course in General Linguistics*, ed. Charles Bally and Albert Sechehaye, trans. Wade Baskin (New York: Philosophical Library, 1959), pt. 2, chap. 5; the generation of episodes in chapters 2–4. The modeling claims are my own.
+2. On the notation, see Object Management Group, *Unified Modeling Language*. Genus and species, and identity and instantiation, are developed in chapter 3; syntagmatic ordering in chapter 2, after Ferdinand de Saussure; see John E. Joseph, “‘This Eternal Wanderer’: A Non-Dogmatic Reading of Saussure,” *Cahiers de l’ILSL* 57 (2018): 197–208, at 203, https://doi.org/10.26034/la.cdclsl.2018.125; the generation of episodes in chapters 2–4. The modeling claims are my own.
 
 <a id="note-3"></a>
 
@@ -32,4 +32,8 @@
 
 <a id="note-8"></a>
 
-8. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
+8. On control nodes, partitions, and final nodes, see Object Management Group, *Unified Modeling Language*, secs. 15.3 and 15.6; on value as a function of syntagmatic and associative relations, Joseph, “This Eternal Wanderer,” 203. Reading appraisal as a syntagmatic operation is my own.
+
+<a id="note-9"></a>
+
+9. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
