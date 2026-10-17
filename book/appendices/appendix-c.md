@@ -274,7 +274,7 @@ Each goal evaluates the same two cars in turn and lists the cars it selects:
 
 <p align="center"><ins>Project 5 Run Output</ins></p>
 
-This behavior demonstrates that a single object can satisfy multiple goal-bound constraint structures. Its identity remains stable across all evaluations. What changes is the role the object plays under different goals.
+In this architecture, a single object can satisfy multiple goal-bound constraint structures. Its identity remains stable across all evaluations. What changes is the role the object plays under different goals.
 
 Project 5 therefore establishes the fifth architectural claim: conceptual plurality does not imply identity change. It reflects the application of different constraint structures to the same object.
 
