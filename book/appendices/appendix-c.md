@@ -86,13 +86,25 @@ Both instances satisfy the identity conditions of Fish established in Project 1.
 
 In Project 2, the code creates fish instances with different parameter assignments. The system does not ask whether every possible object is a fish at this stage. It works only with candidates that satisfy the admissibility layer and then assigns determinate values. The README for Project 2 provides the canonical run commands and expected outputs.
 
+After navigating to the folder containing the project, build it:
+
+<img src="../../assets/figures/appendix-c/figure-11-build.png" alt="Console command: dotnet build" />
+
+<p align="center"><ins>Project 2 Build Command</ins></p>
+
+Then run it:
+
 <img src="../../assets/figures/appendix-c/figure-11.png" />
 
 <p align="center"><ins>Project 2 Valid Run Commands</ins></p>
 
+You get a valid response, with both instances created from the same Fish structure:
+
 <img src="../../assets/figures/appendix-c/figure-12.png" />
 
 <p align="center"><ins>Project 2 Valid Output</ins></p>
+
+However, you get an invalid response when the code tries to assign a type outside FishType:
 
 <img src="../../assets/figures/appendix-c/figure-13.png" />
 

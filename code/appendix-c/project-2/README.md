@@ -2,34 +2,36 @@ Instructions for general environment setup can be found in: *How to Run the Code
 
 This README is the canonical source for the exact commands and expected outputs for Appendix C, Project 2.
 
-## Run Command
+## Build Command
 
-Run from inside the `Project_2` folder.
+Run from inside the `project-2` folder.
 
 ```bash
-dotnet run --project IdentityLayerDemo -- valid
+cd .\IdentityLayerDemo\
+dotnet build
+```
+
+## Run Commands
+
+```bash
+dotnet run -- valid
 ```
 
 ## Expected Output
 
 ```text
-Scenario: Valid Fish Instantiation
-----------------------------------
-Created: Goldfish
-IsOrganism: True
-IsAquatic: True
-Result: admissible instance of Fish.
+Fish instance created: Goldfish (PET)
+Fish instance created: Salmon (FOOD)
+Shared structure: Fish (Species, Type)
 ```
 
-## Other Option
+## Other Options
 
 ```bash
-dotnet run --project IdentityLayerDemo -- invalid
+dotnet run -- invalid
 ```
 
 ```text
-Scenario: Invalid Fish Instantiation
-------------------------------------
-Identity violation: 'House Cat' cannot instantiate Fish because Habitat='Terrestrial'. A Fish must be aquatic.
-Result: rejected at the identity layer.
+Rejected: TOY is not a FishType
+Reason: Type must be PET or FOOD
 ```

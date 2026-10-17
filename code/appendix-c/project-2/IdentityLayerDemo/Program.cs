@@ -1,141 +1,50 @@
 using System;
-using System.Collections.Generic;
 
-namespace IdentityLayerDemo;
-
-public abstract class Organism
+namespace IdentityLayerDemo
 {
-    public required string Name { get; init; }
-    public bool IsOrganism => true;
-}
+    enum FishType { PET, FOOD }
 
-public sealed class Fish : Organism
-{
-    public required string Habitat { get; init; }
-    public bool IsAquatic => string.Equals(Habitat, "Aquatic", StringComparison.OrdinalIgnoreCase);
-
-    public static Fish Create(string name, string habitat)
+    class Fish
     {
-        if (!string.Equals(habitat, "Aquatic", StringComparison.OrdinalIgnoreCase))
+        public string Species { get; set; }
+        public FishType Type { get; set; }
+
+        public Fish(string species, FishType type)
         {
-            throw new IdentityViolationException(
-                $"Identity violation: '{name}' cannot instantiate Fish because Habitat='{habitat}'. A Fish must be aquatic.");
+            Species = species;
+            Type = type;
         }
 
-        return new Fish
-        {
-            Name = name,
-            Habitat = habitat
-        };
-    }
-}
-
-public sealed class IdentityViolationException : Exception
-{
-    public IdentityViolationException(string message) : base(message) { }
-}
-
-internal static class Program
-{
-    private static readonly Dictionary<string, Func<int>> Commands = new(StringComparer.OrdinalIgnoreCase)
-    {
-        ["valid"] = RunValid,
-        ["invalid"] = RunInvalid,
-        ["batch"] = RunBatch,
-        ["help"] = ShowHelp
-    };
-
-    private static int Main(string[] args)
-    {
-        if (args.Length == 0)
-        {
-            return ShowHelp();
-        }
-
-        var command = args[0];
-        if (Commands.TryGetValue(command, out var action))
-        {
-            return action();
-        }
-
-        Console.WriteLine($"Unknown command: {command}");
-        Console.WriteLine();
-        return ShowHelp();
+        public override string ToString() => $"{Species} ({Type})";
     }
 
-    private static int ShowHelp()
+    class Program
     {
-        Console.WriteLine("IdentityLayerDemo");
-        Console.WriteLine("Demonstrates upstream admissibility conditions for the Fish concept.");
-        Console.WriteLine();
-        Console.WriteLine("Commands:");
-        Console.WriteLine("  dotnet run --project IdentityLayerDemo -- valid");
-        Console.WriteLine("  dotnet run --project IdentityLayerDemo -- invalid");
-        Console.WriteLine("  dotnet run --project IdentityLayerDemo -- batch");
-        Console.WriteLine("  dotnet run --project IdentityLayerDemo -- help");
-        return 0;
-    }
-
-    private static int RunValid()
-    {
-        Console.WriteLine("Scenario: Valid Fish Instantiation");
-        Console.WriteLine("----------------------------------");
-
-        var goldfish = Fish.Create("Goldfish", "Aquatic");
-        Console.WriteLine($"Created: {goldfish.Name}");
-        Console.WriteLine($"IsOrganism: {goldfish.IsOrganism}");
-        Console.WriteLine($"IsAquatic: {goldfish.IsAquatic}");
-        Console.WriteLine("Result: admissible instance of Fish.");
-        return 0;
-    }
-
-    private static int RunInvalid()
-    {
-        Console.WriteLine("Scenario: Invalid Fish Instantiation");
-        Console.WriteLine("------------------------------------");
-
-        try
+        static void Main(string[] args)
         {
-            _ = Fish.Create("House Cat", "Terrestrial");
-            Console.WriteLine("Unexpected success.");
-            return 1;
-        }
-        catch (IdentityViolationException ex)
-        {
-            Console.WriteLine(ex.Message);
-            Console.WriteLine("Result: rejected at the identity layer.");
-            return 0;
-        }
-    }
+            string mode = args.Length > 0 ? args[0].ToLowerInvariant() : "valid";
 
-    private static int RunBatch()
-    {
-        Console.WriteLine("Scenario: Batch Admissibility Test");
-        Console.WriteLine("----------------------------------");
-
-        var candidates = new (string Name, string Habitat)[]
-        {
-            ("Goldfish", "Aquatic"),
-            ("Salmon", "Aquatic"),
-            ("House Cat", "Terrestrial"),
-            ("Eagle", "Aerial")
-        };
-
-        foreach (var candidate in candidates)
-        {
-            try
+            if (mode == "invalid")
             {
-                var fish = Fish.Create(candidate.Name, candidate.Habitat);
-                Console.WriteLine($"ACCEPTED: {fish.Name} satisfies Fish identity conditions.");
-            }
-            catch (IdentityViolationException ex)
-            {
-                Console.WriteLine($"REJECTED: {ex.Message}");
-            }
-        }
+                string requestedType = "TOY";
 
-        Console.WriteLine();
-        Console.WriteLine("Conclusion: admissibility is decided before goal selection or contextual use.");
-        return 0;
+                if (!Enum.TryParse(requestedType, out FishType type) || !Enum.IsDefined(typeof(FishType), type))
+                {
+                    Console.WriteLine($"Rejected: {requestedType} is not a FishType");
+                    Console.WriteLine("Reason: Type must be PET or FOOD");
+                    return;
+                }
+
+                Console.WriteLine($"Fish instance created: {new Fish("Goldfish", type)}");
+                return;
+            }
+
+            var goldfish = new Fish("Goldfish", FishType.PET);
+            var salmon = new Fish("Salmon", FishType.FOOD);
+
+            Console.WriteLine($"Fish instance created: {goldfish}");
+            Console.WriteLine($"Fish instance created: {salmon}");
+            Console.WriteLine("Shared structure: Fish (Species, Type)");
+        }
     }
 }
