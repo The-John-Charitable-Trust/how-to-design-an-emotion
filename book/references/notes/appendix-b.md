@@ -28,4 +28,8 @@
 
 <a id="note-7"></a>
 
-7. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
+7. Major appraisal theories treat appraisal as relational, an organism’s evaluation of features of the environment significant for its well-being; see Agnes Moors, Phoebe C. Ellsworth, Klaus R. Scherer, and Nico H. Frijda, “Appraisal Theories of Emotion: State of the Art and Future Development,” *Emotion Review* 5, no. 2 (2013): 119–24, at 119, https://doi.org/10.1177/1754073912468165. The agent–object–relation–end-point analysis is my own.
+
+<a id="note-8"></a>
+
+8. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
