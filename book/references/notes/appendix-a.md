@@ -20,20 +20,28 @@
 
 <a id="note-5"></a>
 
-5. Barrett et al., “Emotional Expressions Reconsidered,” Executive Summary. On display rules, see Paul Ekman and Wallace V. Friesen, “The Repertoire of Nonverbal Behavior: Categories, Origins, Usage, and Coding,” *Semiotica* 1, no. 1 (1969): 75, https://doi.org/10.1515/semi.1969.1.1.49.
+5. Ekman lists “anger, fear, sadness, enjoyment, disgust, and surprise”; Ekman, “Argument for Basic Emotions,” 170.
 
 <a id="note-6"></a>
 
-6. Siegel et al., “Emotion Fingerprints or Emotion Populations?,” abstract and the section “Evaluation of Specificity and Consistency.”
+6. Barrett et al., “Emotional Expressions Reconsidered,” Executive Summary. On display rules, see Paul Ekman and Wallace V. Friesen, “The Repertoire of Nonverbal Behavior: Categories, Origins, Usage, and Coding,” *Semiotica* 1, no. 1 (1969): 75, https://doi.org/10.1515/semi.1969.1.1.49.
 
 <a id="note-7"></a>
 
-7. Ekman, “Argument for Basic Emotions,” 172, 182.
+7. Siegel et al., “Emotion Fingerprints or Emotion Populations?,” abstract and the section “Evaluation of Specificity and Consistency.”
 
 <a id="note-8"></a>
 
-8. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+8. This is my own argument.
 
 <a id="note-9"></a>
 
-9. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+9. Ekman, “Argument for Basic Emotions,” 172, 182.
+
+<a id="note-10"></a>
+
+10. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+
+<a id="note-11"></a>
+
+11. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
