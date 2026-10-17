@@ -77,3 +77,7 @@
 <a id="note-19"></a>
 
 19. Ekman, “Argument for Basic Emotions,” 169–70, 175, 179–84. The assessment and the identity-conditions argument are my own; see chapter 2.
+
+<a id="note-20"></a>
+
+20. This summarizes my argument above; on the fear-face example, see notes 9–10, and on variation, Ekman, “Argument for Basic Emotions,” 173 (note 12). The argument is my own; see chapter 2.
