@@ -196,17 +196,31 @@ The object diagrams show the constructed constraint specifications.
 
 These constraints are not predefined classes. The system constructs them at runtime and applies them to the available instances. At this layer, the constructed constraint determines whether the instance qualifies. The code builds a ConceptSpecification based on the input goal and applies its constraint to the set of Fish instances. It performs two steps: it constructs the constraint, then it evaluates instances against that constraint. The README for Project 4 provides the canonical run commands and expected outputs.
 
+After navigating to the folder containing the project, build it:
+
+<img src="../../assets/figures/appendix-c/figure-25-build.png" alt="Console command: dotnet build RuntimeConstructionDemo" />
+
+<p align="center"><ins>Project 4 Build Command</ins></p>
+
+Then run it with the dinner goal:
+
 <img src="../../assets/figures/appendix-c/figure-25.png" />
 
 <p align="center"><ins>Project 4 Dinner Run Commands</ins></p>
+
+The dinner goal builds a constraint that admits only the instance whose type is FOOD:
 
 <img src="../../assets/figures/appendix-c/figure-26.png" />
 
 <p align="center"><ins>Project 4 Dinner Output</ins></p>
 
+Run the same instances under the pet goal:
+
 <img src="../../assets/figures/appendix-c/figure-27.png" />
 
 <p align="center"><ins>Project 4 Pet Run Commands</ins></p>
+
+The pet goal builds a constraint that admits only the instance whose type is PET:
 
 <img src="../../assets/figures/appendix-c/figure-21.png" />
 

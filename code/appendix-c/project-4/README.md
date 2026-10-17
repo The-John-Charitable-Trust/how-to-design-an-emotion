@@ -2,9 +2,15 @@ Instructions for general environment setup can be found in: *How to Run the Code
 
 This README is the canonical source for the exact commands and expected outputs for Appendix C, Project 4.
 
-## Run Command
+## Build Command
 
-Run from inside the `Project_4` folder.
+Run from inside the `project-4` folder.
+
+```bash
+dotnet build RuntimeConstructionDemo
+```
+
+## Run Commands
 
 ```bash
 dotnet run --project RuntimeConstructionDemo -- dinner
@@ -18,7 +24,7 @@ Runtime Goal: dinner
 Admissible under goal: Salmon (FOOD)
 ```
 
-## Other Option
+## Other Options
 
 ```bash
 dotnet run --project RuntimeConstructionDemo -- pet
