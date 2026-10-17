@@ -1,6 +1,12 @@
 Instructions for general environment setup can be found in: *How to Run the Code Examples in This Book*.
 
-This README is the canonical source for the exact command and expected output for Appendix B, Project 1.
+This README is the canonical source for the exact build command, run command, and expected output for Appendix B, Project 1.
+
+## Build Command
+
+```bash
+dotnet build
+```
 
 ## Run Command
 

@@ -52,7 +52,7 @@ The corresponding C# project appears in this repository’s code folder for Appe
 
 After navigating to the folder containing the project:
 
-<img src="../../assets/figures/appendix-b/figure-04.png" alt="Console command: dotnet run fear" />
+<img src="../../assets/figures/appendix-b/figure-04.png" alt="Console command: dotnet run -- fear" />
 
 <p align="center"><ins>Project 1 Run Command</ins></p>
 
