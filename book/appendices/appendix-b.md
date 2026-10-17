@@ -98,7 +98,7 @@ This pattern formalizes a central constructionist claim without psychologizing i
 
 As noted above, these diagrams do not model mental mechanisms. They claim something narrower and stronger: any coherent account of emotion must separate identity from instantiation. The Gang of Four patterns provide a formal grammar for making that separation explicit, inspectable, and non-rhetorical.<sup><a href="../references/notes/appendix-b.md#note-24">24</a></sup>
 
-Please see *Appendix E: Under the Hood of Mind and Meaning: A Software Developer’s Guide to Layered Ontology* for a code walkthrough of the JavaScript Prototype Object Model.
+Please see [*Appendix E: Under the Hood of Mind and Meaning: A Software Developer’s Guide to Layered Ontology*](appendix-e.md) for a code walkthrough of the JavaScript prototype chain.
 
 Appendix B completes Chapter 2’s constructive argument: emotion can be constructed without losing identity, provided the model preserves the architecture that distinguishes concept, instance, context, and interpretation. The inheritance diagram separates genus from species: Feeling supplies shared affective structure, while Emotion, Mood, and DriveState specialize that structure through different constraints. The syntagmatic appraisal diagram then fixes the relational form that meaning requires. An agent appraises something as something. That ordered relation prevents appraisal from collapsing into a private impression, a bodily mechanism, or an isolated label.
 
