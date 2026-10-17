@@ -16,4 +16,8 @@
 
 <a id="note-4"></a>
 
-4. Barsalou, “Ad Hoc Categories.”
+4. Barsalou, “Ad Hoc Categories,” 211 (“People construct ad hoc categories to achieve goals”); Lawrence W. Barsalou, “Simulation, Situated Conceptualization, and Prediction,” *Philosophical Transactions of the Royal Society B: Biological Sciences* 364, no. 1521 (2009): 1281–89, https://doi.org/10.1098/rstb.2008.0319, where “situated conceptualizations capture patterns of multi-modal simulation associated with frequently experienced situations” and current perception activates them.
+
+<a id="note-5"></a>
+
+5. This interpretation is my own: goals regulate which instances are selected and constructed, but they do not alter identity conditions. See chapter 6 and Projects 1–5 in this appendix.
