@@ -33,3 +33,7 @@
 <a id="note-8"></a>
 
 8. These are deliberately simplified necessary conditions, not a biological definition. The standard account defines a fish as “any of approximately 34,000 species of vertebrate animals (phylum Chordata) found in the fresh and salt waters of the world” and notes that the term “describes a life-form rather than a taxonomic group.” Stanley H. Weitzman, “Fish,” *Encyclopaedia Britannica*, https://www.britannica.com/animal/fish. A full definition would add conditions such as being a vertebrate without changing the architecture.
+
+<a id="note-9"></a>
+
+9. Compare the cross-classification example in note 3.
