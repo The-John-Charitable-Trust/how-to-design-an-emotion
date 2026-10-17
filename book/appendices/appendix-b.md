@@ -82,7 +82,7 @@ Here, Emotion again defines the abstract identity of an emotion and declares a c
 
 JoyEmotion, FearEmotion, and AngerEmotion serve as concrete prototypes. Each implements clone() so that a JoyEmotion prototype yields JoyEmotion copies, and likewise for FearEmotion and AngerEmotion. Identity remains fixed. Realization varies.<sup><a href="../references/notes/appendix-b.md#note-20">20</a></sup>
 
-The EmotionCache stores initialized prototypes indexed by key. When the client requests an emotion, the cache returns a clone of the appropriate prototype rather than constructing a new object from scratch.
+The EmotionCache stores initialized prototypes indexed by key. When the client requests an emotion, the cache returns a clone of the appropriate prototype rather than constructing a new object from scratch.<sup><a href="../references/notes/appendix-b.md#note-21">21</a></sup>
 
 The architectural mapping remains precise:
 

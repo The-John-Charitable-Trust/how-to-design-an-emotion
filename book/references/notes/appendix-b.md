@@ -81,3 +81,7 @@
 <a id="note-20"></a>
 
 20. That each prototype yields copies of its own class is the intent of the Prototype pattern (see note 18); the reading as fixed identity is my own.
+
+<a id="note-21"></a>
+
+21. Gamma et al., *Design Patterns*, chap. 3, “Prototype,” Implementation, item 1 (“Using a prototype manager”). Here the cache returns the clone directly, a common variant. See Figure B-4.
