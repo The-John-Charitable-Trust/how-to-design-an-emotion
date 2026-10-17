@@ -238,7 +238,7 @@ Project 5 switches from Fish to cars, objects that people routinely use for more
 
 <p align="center"><ins>Figure C-14. Goal Layer Selection Structure for Car UML Class Diagram</ins></p>
 
-The Car class defines the object's identity and properties. The goal interface defines a selection function. Each goal applies a different constraint. TransportGoal selects all cars. StatusGoal selects cars above a value threshold. ShelterGoal selects cars that can function as temporary shelter.
+The Car class defines the object's identity and properties. The goal interface defines a selection function. Each goal applies its own constraint. TransportGoal selects all cars. StatusGoal selects cars above a value threshold. ShelterGoal, simplified here, treats every car as able to serve as temporary shelter.
 
 The UML object diagrams show how the same objects participate differently under each goal.
 
