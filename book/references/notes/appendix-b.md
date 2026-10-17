@@ -105,3 +105,7 @@
 <a id="note-26"></a>
 
 26. This paragraph summarizes the argument above; see notes 13–24.
+
+<a id="note-27"></a>
+
+27. The conclusion is my own; see Appendix A, chapter 6, and notes 17 and 23.
