@@ -36,4 +36,8 @@
 
 <a id="note-9"></a>
 
-9. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
+9. This is my own argument; on the relational view of appraisal, see note 7, and on reference, see chapters 7–8.
+
+<a id="note-10"></a>
+
+10. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
