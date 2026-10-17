@@ -118,7 +118,7 @@ In this architecture, instantiation assigns determinate values within a stable c
 
 Project 2 therefore establishes the second architectural claim: instantiation introduces variability without altering identity conditions. Identity conditions determine what can count as an instance. Instantiation assigns determinate values to the instance.
 
-Project 3 isolates the goal layer. The goal is to show that purpose regulates selection among admissible instances without altering identity conditions or instantiation. Context enters the system as a selection mechanism. It does not determine conceptual identity.
+Project 3 isolates the goal layer. The goal is to show that purpose regulates selection among admissible instances without altering identity conditions or instantiation. In this model, context enters the system as a selection mechanism; it does not determine conceptual identity.
 
 The concept Fish remains unchanged. The instantiated objects remain unchanged. The system now introduces a goal interface that evaluates which instances matter under a given purpose. Different goals apply different selection criteria to the same set of admitted instances.
 
