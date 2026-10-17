@@ -16,7 +16,7 @@ Project 1 implements identity conditions as admissibility constraints that opera
 
 In Project 1, I represent the concept Fish as a class with invariant admissibility conditions. For this demonstration, my model gives Fish two simplified admissibility conditions: a fish must be aquatic, and it must be an organism.<sup><a href="../references/notes/appendix-c.md#note-8">8</a></sup> These conditions do not vary with context. The constructor enforces them as necessary constraints. The system admits only candidates that satisfy them and rejects all others.
 
-<img src="../../assets/figures/appendix-c/figure-01.png" />
+<img src="../../assets/figures/appendix-c/figure-01.png" alt="UML class diagram of Fish" />
 
 <p align="center"><ins>Figure C-1. Fish UML Class Diagram</ins></p>
 
@@ -24,15 +24,15 @@ Figure C-1 defines the admissibility conditions that any instance must satisfy. 
 
 The valid and invalid candidates appear in separate object diagrams. Figure C-2 shows a valid Goldfish instance. Figure C-3 shows a valid Salmon instance. Figure C-4 shows an invalid Rock candidate.
 
-<img src="../../assets/figures/appendix-c/figure-02.png" />
+<img src="../../assets/figures/appendix-c/figure-02.png" alt="UML object diagram of Goldfish" />
 
 <p align="center"><ins>Figure C-2. Goldfish UML Object Diagram</ins></p>
 
-<img src="../../assets/figures/appendix-c/figure-03.png" />
+<img src="../../assets/figures/appendix-c/figure-03.png" alt="UML object diagram of Salmon" />
 
 <p align="center"><ins>Figure C-3. Salmon UML Object Diagram</ins></p>
 
-<img src="../../assets/figures/appendix-c/figure-04.png" />
+<img src="../../assets/figures/appendix-c/figure-04.png" alt="UML object diagram of Rock as an invalid Fish" />
 
 <p align="center"><ins>Figure C-4. Rock UML Object Diagram (Invalid Fish)</ins></p>
 
@@ -44,19 +44,19 @@ In Project 1, the code evaluates a specific candidate passed as a command-line a
 
 Then run it with the following commands:
 
-<img src="../../assets/figures/appendix-c/figure-05.png" />
+<img src="../../assets/figures/appendix-c/figure-05.png" alt="Console command: dotnet run for goldfish, salmon, and rock" />
 
 <p align="center"><ins>Project 1 Run Commands</ins></p>
 
 You get a valid response for the first two object diagrams; for example, when you pass goldfish as an input parameter:
 
-<img src="../../assets/figures/appendix-c/figure-06.png" />
+<img src="../../assets/figures/appendix-c/figure-06.png" alt="Console output: Valid Fish created: Goldfish" />
 
 <p align="center"><ins>Project 1 Valid Output</ins></p>
 
 However, you get an invalid response when you pass rock as the input parameter:
 
-<img src="../../assets/figures/appendix-c/figure-07.png" />
+<img src="../../assets/figures/appendix-c/figure-07.png" alt="Console output: Rejected: rock is not a Fish" />
 
 <p align="center"><ins>Project 1 Invalid Output</ins></p>
 
@@ -66,7 +66,7 @@ Project 2 isolates the instantiation layer. The goal is to show that multiple in
 
 In Project 2, the concept Fish remains unchanged. The system applies its admissibility conditions upstream. What changes at this stage is the assignment of parameter values to instances that already qualify as fish. Each instance has properties such as species and type, where type takes the value PET or FOOD.
 
-<img src="../../assets/figures/appendix-c/figure-08.png" />
+<img src="../../assets/figures/appendix-c/figure-08.png" alt="UML class diagram of shared-structure Fish" />
 
 <p align="center"><ins>Figure C-5. Shared Structure Fish UML Class Diagram</ins></p>
 
@@ -74,11 +74,11 @@ Figure C-5 defines the shared structure that all instances must satisfy. The adm
 
 The object diagrams show distinct instantiations of the same concept. Figure C-6 represents a Goldfish instance. Figure C-7 represents a Salmon instance.
 
-<img src="../../assets/figures/appendix-c/figure-09.png" />
+<img src="../../assets/figures/appendix-c/figure-09.png" alt="UML object diagram of Goldfish" />
 
 <p align="center"><ins>Figure C-6. Goldfish UML Object Diagram</ins></p>
 
-<img src="../../assets/figures/appendix-c/figure-10.png" />
+<img src="../../assets/figures/appendix-c/figure-10.png" alt="UML object diagram of Salmon" />
 
 <p align="center"><ins>Figure C-7. Salmon UML Object Diagram</ins></p>
 
@@ -94,23 +94,23 @@ After navigating to the folder containing the project, build it:
 
 Then run it:
 
-<img src="../../assets/figures/appendix-c/figure-11.png" />
+<img src="../../assets/figures/appendix-c/figure-11.png" alt="Console command: dotnet run -- valid" />
 
 <p align="center"><ins>Project 2 Valid Run Commands</ins></p>
 
 You get a valid response, with both instances created from the same Fish structure:
 
-<img src="../../assets/figures/appendix-c/figure-12.png" />
+<img src="../../assets/figures/appendix-c/figure-12.png" alt="Console output: Fish instances Goldfish (PET) and Salmon (FOOD) with shared structure" />
 
 <p align="center"><ins>Project 2 Valid Output</ins></p>
 
 However, you get an invalid response when the code tries to assign a type outside FishType:
 
-<img src="../../assets/figures/appendix-c/figure-13.png" />
+<img src="../../assets/figures/appendix-c/figure-13.png" alt="Console command: dotnet run -- invalid" />
 
 <p align="center"><ins>Project 2 Invalid Run Commands</ins></p>
 
-<img src="../../assets/figures/appendix-c/figure-14.png" />
+<img src="../../assets/figures/appendix-c/figure-14.png" alt="Console output: Rejected: TOY is not a FishType" />
 
 <p align="center"><ins>Project 2 Invalid Output</ins></p>
 
@@ -122,7 +122,7 @@ Project 3 isolates the goal layer. The goal is to show that purpose regulates se
 
 The concept Fish remains unchanged. The instantiated objects remain unchanged. The system now introduces a goal interface that evaluates which instances matter under a given purpose. Different goals apply different selection criteria to the same set of admitted instances.
 
-<img src="../../assets/figures/appendix-c/figure-15.png" />
+<img src="../../assets/figures/appendix-c/figure-15.png" alt="UML class diagram of goal layer selection structure" />
 
 <p align="center"><ins>Figure C-8. Goal Layer Selection Structure UML Class Diagram</ins></p>
 
@@ -130,11 +130,11 @@ Figure C-8 shows the goal layer at the class level. The interface IGoal defines 
 
 The object diagrams show how the same set of instances receives different selection treatment under different goals.
 
-<img src="../../assets/figures/appendix-c/figure-16.png" />
+<img src="../../assets/figures/appendix-c/figure-16.png" alt="Text listing of selection under a PetGoal" />
 
 <p align="center"><ins>Figure C-9. Selection Under a Pet Goal</ins></p>
 
-<img src="../../assets/figures/appendix-c/figure-17.png" />
+<img src="../../assets/figures/appendix-c/figure-17.png" alt="Text listing of selection under a DinnerGoal" />
 
 <p align="center"><ins>Figure C-10. Selection Under a Dinner Goal</ins></p>
 
@@ -148,25 +148,25 @@ After navigating to the folder containing the project, build it:
 
 Then run it with the dinner goal:
 
-<img src="../../assets/figures/appendix-c/figure-18.png" />
+<img src="../../assets/figures/appendix-c/figure-18.png" alt="Console command: dotnet run --project GoalLayerDemo -- dinner" />
 
 <p align="center"><ins>Project 3 Dinner Run Commands</ins></p>
 
 The dinner goal selects only the instance whose type is FOOD:
 
-<img src="../../assets/figures/appendix-c/figure-19.png" />
+<img src="../../assets/figures/appendix-c/figure-19.png" alt="Console output: Active Goal DinnerGoal selecting Salmon (FOOD)" />
 
 <p align="center"><ins>Project 3 Dinner Output</ins></p>
 
 Run the same instances under the pet goal:
 
-<img src="../../assets/figures/appendix-c/figure-20.png" />
+<img src="../../assets/figures/appendix-c/figure-20.png" alt="Console command: dotnet run --project GoalLayerDemo -- pet" />
 
 <p align="center"><ins>Project 3 Pet Run Commands</ins></p>
 
 The pet goal selects only the instance whose type is PET:
 
-<img src="../../assets/figures/appendix-c/figure-21-p3.png" />
+<img src="../../assets/figures/appendix-c/figure-21-p3.png" alt="Console output: Active Goal PetGoal selecting Goldfish (PET)" />
 
 <p align="center"><ins>Project 3 Pet Output</ins></p>
 
@@ -178,7 +178,7 @@ Project 4 isolates runtime construction. The goal is to show that flexibility ca
 
 The system no longer applies a goal directly as a filter over instances. Instead, a builder constructs a constraint specification at runtime based on the active goal. This specification determines which condition the instance must satisfy in that context. The concept does not vanish into use. The system constructs a determinate constraint structure and then evaluates instances under it.
 
-<img src="../../assets/figures/appendix-c/figure-22.png" />
+<img src="../../assets/figures/appendix-c/figure-22.png" alt="UML class diagram of runtime construction layer" />
 
 <p align="center"><ins>Figure C-11. Runtime Construction Layer UML Class Diagram</ins></p>
 
@@ -186,11 +186,11 @@ The ConceptSpecification class encapsulates a constraint function. The RuntimeCo
 
 The object diagrams show the constructed constraint specifications.
 
-<img src="../../assets/figures/appendix-c/figure-23.png" />
+<img src="../../assets/figures/appendix-c/figure-23.png" alt="Text listing of runtime specification for PetGoal" />
 
 <p align="center"><ins>Figure C-12. Runtime Specification for Pet Goal</ins></p>
 
-<img src="../../assets/figures/appendix-c/figure-24.png" />
+<img src="../../assets/figures/appendix-c/figure-24.png" alt="Text listing of runtime specification for DinnerGoal" />
 
 <p align="center"><ins>Figure C-13. Runtime Specification for Dinner Goal</ins></p>
 
@@ -204,25 +204,25 @@ After navigating to the folder containing the project, build it:
 
 Then run it with the dinner goal:
 
-<img src="../../assets/figures/appendix-c/figure-25.png" />
+<img src="../../assets/figures/appendix-c/figure-25.png" alt="Console command: dotnet run --project RuntimeConstructionDemo -- dinner" />
 
 <p align="center"><ins>Project 4 Dinner Run Commands</ins></p>
 
 The dinner goal builds a constraint that admits only the instance whose type is FOOD:
 
-<img src="../../assets/figures/appendix-c/figure-26.png" />
+<img src="../../assets/figures/appendix-c/figure-26.png" alt="Console output: Runtime Goal dinner admitting Salmon (FOOD)" />
 
 <p align="center"><ins>Project 4 Dinner Output</ins></p>
 
 Run the same instances under the pet goal:
 
-<img src="../../assets/figures/appendix-c/figure-27.png" />
+<img src="../../assets/figures/appendix-c/figure-27.png" alt="Console command: dotnet run --project RuntimeConstructionDemo -- pet" />
 
 <p align="center"><ins>Project 4 Pet Run Commands</ins></p>
 
 The pet goal builds a constraint that admits only the instance whose type is PET:
 
-<img src="../../assets/figures/appendix-c/figure-21.png" />
+<img src="../../assets/figures/appendix-c/figure-21.png" alt="Console output: Runtime Goal pet admitting Goldfish (PET)" />
 
 <p align="center"><ins>Project 4 Pet Output</ins></p>
 
@@ -234,7 +234,7 @@ Project 5 isolates multi-concept participation. The goal is to show that a singl
 
 Project 5 switches from Fish to cars, objects that people routinely use for more than one purpose. In Project 5, each Car object remains constant across all evaluations. What varies is the goal under which the system evaluates it. Each goal defines a different constraint structure, and the same object may satisfy more than one such structure.
 
-<img src="../../assets/figures/appendix-c/figure-28.png" />
+<img src="../../assets/figures/appendix-c/figure-28.png" alt="UML class diagram of Car goal layer selection structure" />
 
 <p align="center"><ins>Figure C-14. Goal Layer Selection Structure for Car UML Class Diagram</ins></p>
 
@@ -242,15 +242,15 @@ The Car class defines the object's identity and properties. The goal interface d
 
 The UML object diagrams show how the same objects participate differently under each goal.
 
-<img src="../../assets/figures/appendix-c/figure-29.png" />
+<img src="../../assets/figures/appendix-c/figure-29.png" alt="Text listing of TransportGoal selection over cars" />
 
 <p align="center"><ins>Figure C-15. Transport Goal UML Object Diagram</ins></p>
 
-<img src="../../assets/figures/appendix-c/figure-30.png" />
+<img src="../../assets/figures/appendix-c/figure-30.png" alt="Text listing of StatusGoal selection over cars" />
 
 <p align="center"><ins>Figure C-16. Status Goal UML Object Diagram</ins></p>
 
-<img src="../../assets/figures/appendix-c/figure-31.png" />
+<img src="../../assets/figures/appendix-c/figure-31.png" alt="Text listing of ShelterGoal selection over cars" />
 
 <p align="center"><ins>Figure C-17. Shelter Goal UML Object Diagram</ins></p>
 
@@ -264,13 +264,13 @@ After navigating to the folder containing the project, build it:
 
 Then run it:
 
-<img src="../../assets/figures/appendix-c/figure-32.png" />
+<img src="../../assets/figures/appendix-c/figure-32.png" alt="Console command: dotnet run --project MultiConceptDemo" />
 
 <p align="center"><ins>Project 5 Run Commands</ins></p>
 
 Each goal evaluates the same two cars in turn and lists the cars it selects:
 
-<img src="../../assets/figures/appendix-c/figure-33.png" />
+<img src="../../assets/figures/appendix-c/figure-33.png" alt="Console output: cars selected under Transport, Status, and Shelter goals" />
 
 <p align="center"><ins>Project 5 Run Output</ins></p>
 
