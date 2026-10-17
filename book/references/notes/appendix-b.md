@@ -97,3 +97,7 @@
 <a id="note-24"></a>
 
 24. The claim is my own; see note 17. On the patterns, see notes 13 and 18.
+
+<a id="note-25"></a>
+
+25. This paragraph summarizes the argument above; see notes 3, 6–9, and 17, and chapter 2.
