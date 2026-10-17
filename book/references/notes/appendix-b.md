@@ -69,3 +69,7 @@
 <a id="note-17"></a>
 
 17. This requirement is my own; I argue for it in chapter 2, and Appendix A applies it to Basic Emotion Theory.
+
+<a id="note-18"></a>
+
+18. Gamma et al., *Design Patterns*, chap. 3, on the Prototype pattern. The application to emotional instances is my own.

@@ -76,7 +76,7 @@ If the input parameter were joy or anger, the output would change accordingly; t
 
 <p align="center"><ins>Figure B-4. Prototype Design Pattern: Emotion Construction UML</ins></p>
 
-Figure B-4 models emotion construction using the Prototype design pattern. The diagram shows how new emotional instances can arise through structured reuse rather than fresh construction.
+Figure B-4 models emotion construction using the Prototype design pattern. The diagram shows how new emotional instances can arise through structured reuse rather than fresh construction.<sup><a href="../references/notes/appendix-b.md#note-18">18</a></sup>
 
 Here, Emotion again defines the abstract identity of an emotion and declares a clone() operation. This operation specifies how instances replicate structural identity while allowing contextual variation.
 
