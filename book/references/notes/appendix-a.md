@@ -16,7 +16,7 @@
 
 <a id="note-4"></a>
 
-4. Ekman, “Argument for Basic Emotions.”
+4. Ekman, “Argument for Basic Emotions,” 172, 182.
 
 <a id="note-5"></a>
 
