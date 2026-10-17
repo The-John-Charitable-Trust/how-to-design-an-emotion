@@ -65,3 +65,7 @@
 <a id="note-16"></a>
 
 16. The mapping of class to concept and object to episode is my own; on identity and instantiation, see chapters 2–3.
+
+<a id="note-17"></a>
+
+17. This requirement is my own; I argue for it in chapter 2, and Appendix A applies it to Basic Emotion Theory.
