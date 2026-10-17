@@ -16,20 +16,24 @@
 
 <a id="note-4"></a>
 
-4. Barrett et al., “Emotional Expressions Reconsidered,” Executive Summary. On display rules, see Paul Ekman and Wallace V. Friesen, “The Repertoire of Nonverbal Behavior: Categories, Origins, Usage, and Coding,” *Semiotica* 1, no. 1 (1969): 75, https://doi.org/10.1515/semi.1969.1.1.49.
+4. Zara Ambadar, Jeffrey F. Cohn, and Lawrence Ian Reed, “All Smiles Are Not Created Equal: Morphology and Timing of Smiles Perceived as Amused, Polite, and Embarrassed/Nervous,” *Journal of Nonverbal Behavior* 33, no. 1 (2009): 17–34, abstract, https://doi.org/10.1007/s10919-008-0059-5; Barrett et al., “Emotional Expressions Reconsidered,” in the section “Studies of Congenitally Blind Individuals”; Siegel et al., “Emotion Fingerprints or Emotion Populations?,” abstract.
 
 <a id="note-5"></a>
 
-5. Siegel et al., “Emotion Fingerprints or Emotion Populations?,” abstract and the section “Evaluation of Specificity and Consistency.”
+5. Barrett et al., “Emotional Expressions Reconsidered,” Executive Summary. On display rules, see Paul Ekman and Wallace V. Friesen, “The Repertoire of Nonverbal Behavior: Categories, Origins, Usage, and Coding,” *Semiotica* 1, no. 1 (1969): 75, https://doi.org/10.1515/semi.1969.1.1.49.
 
 <a id="note-6"></a>
 
-6. Ekman, “Argument for Basic Emotions,” 172, 182.
+6. Siegel et al., “Emotion Fingerprints or Emotion Populations?,” abstract and the section “Evaluation of Specificity and Consistency.”
 
 <a id="note-7"></a>
 
-7. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+7. Ekman, “Argument for Basic Emotions,” 172, 182.
 
 <a id="note-8"></a>
 
-8. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+8. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+
+<a id="note-9"></a>
+
+9. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).

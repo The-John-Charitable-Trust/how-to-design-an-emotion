@@ -2,6 +2,8 @@
 
 [Return to Appendix A](../../appendices/appendix-a.md) · [Notes](../notes/appendix-a.md)
 
+Ambadar, Zara, Jeffrey F. Cohn, and Lawrence Ian Reed. “All Smiles Are Not Created Equal: Morphology and Timing of Smiles Perceived as Amused, Polite, and Embarrassed/Nervous.” *Journal of Nonverbal Behavior* 33, no. 1 (2009): 17–34. https://doi.org/10.1007/s10919-008-0059-5.
+
 Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. “Emotional Expressions Reconsidered: Challenges to Inferring Emotion from Human Facial Movements.” *Psychological Science in the Public Interest* 20, no. 1 (2019): 1–68. https://doi.org/10.1177/1529100619832930.
 
 Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
