@@ -70,7 +70,7 @@ Then run it:
 
 <p align="center"><ins>Project 1 Output</ins></p>
 
-If the input parameter were joy or anger, the output would change accordingly.
+If the input parameter were joy or anger, the output would change accordingly; the README lists the expected output for each.
 
 <img src="../../assets/figures/appendix-b/figure-07.png" alt="UML class diagram of the Prototype design pattern for emotion construction" />
 
