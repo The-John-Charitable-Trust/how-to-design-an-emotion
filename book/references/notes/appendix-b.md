@@ -93,3 +93,7 @@
 <a id="note-23"></a>
 
 23. Lisa Feldman Barrett, “The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,” *Social Cognitive and Affective Neuroscience* 12, no. 1 (2017): 1–23, https://doi.org/10.1093/scan/nsw154, in the section “The Computational Architecture of the Brain Is a Conceptual System plus Pattern Generators,” where the brain “uses emotion concepts to categorize sensations to construct an instance of emotion.” Barrett treats such concepts as constructed ad hoc rather than as stable templates; stable conceptual identity is my model’s choice (see chapter 6).
+
+<a id="note-24"></a>
+
+24. The claim is my own; see note 17. On the patterns, see notes 13 and 18.

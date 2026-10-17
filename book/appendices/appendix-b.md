@@ -96,7 +96,7 @@ The architectural mapping remains precise:
 
 This pattern formalizes a central constructionist claim without psychologizing it. Emotional episodes arise as context-specific realizations of emotion concepts, which my model treats as stable conceptual templates. Identity precedes instance. Structure governs variation.<sup><a href="../references/notes/appendix-b.md#note-23">23</a></sup>
 
-These diagrams do not claim that the mind implements factories or prototypes. They claim something narrower and stronger: any coherent account of emotion must separate identity from instantiation. The Gang of Four patterns provide a formal grammar for making that separation explicit, inspectable, and non-rhetorical.
+As noted above, these diagrams do not model mental mechanisms. They claim something narrower and stronger: any coherent account of emotion must separate identity from instantiation. The Gang of Four patterns provide a formal grammar for making that separation explicit, inspectable, and non-rhetorical.<sup><a href="../references/notes/appendix-b.md#note-24">24</a></sup>
 
 Please see *Appendix E: Under the Hood of Mind and Meaning: A Software Developer’s Guide to Layered Ontology* for a code walkthrough of the JavaScript Prototype Object Model.
 
