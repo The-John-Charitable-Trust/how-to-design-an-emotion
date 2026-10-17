@@ -44,12 +44,16 @@
 
 <a id="note-11"></a>
 
-11. Ekman, “Argument for Basic Emotions,” 172, 182.
+11. On what the theory claims, see Ekman, “Argument for Basic Emotions,” 169–70, 173. The argument about analytic truth is my own; I develop it in chapter 2.
 
 <a id="note-12"></a>
 
-12. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+12. Ekman, “Argument for Basic Emotions,” 172, 182.
 
 <a id="note-13"></a>
 
-13. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+13. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+
+<a id="note-14"></a>
+
+14. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
