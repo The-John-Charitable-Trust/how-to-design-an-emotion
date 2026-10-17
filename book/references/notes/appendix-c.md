@@ -25,3 +25,7 @@
 <a id="note-6"></a>
 
 6. My distinction parallels Barsalou's between context-independent properties, which “form the core meanings of words” and are “activated by the word for a concept on all occasions,” and context-dependent properties, which “are activated only by relevant contexts in which the word appears.” Lawrence W. Barsalou, “Context-Independent and Context-Dependent Information in Concepts,” *Memory and Cognition* 10, no. 1 (1982): 82–93, at 82, https://doi.org/10.3758/BF03197629. Barsalou addresses property activation, not identity conditions; treating the stable core as admissibility constraints is my own extension (see note 5).
+
+<a id="note-7"></a>
+
+7. The five-layer division is my own. Goal selection corresponds to Barsalou's goal-derived categories (note 4) and multi-concept classification to his cross-classification (note 3); the reading of Barrett's examples refers to those in notes 1–2. Projects 1–5 implement each layer.
