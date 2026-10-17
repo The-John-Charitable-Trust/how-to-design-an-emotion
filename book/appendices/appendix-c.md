@@ -140,19 +140,33 @@ The object diagrams show how the same set of instances receives different select
 
 In Project 3, the code applies a goal to a fixed set of instances. The goal determines which instances satisfy its selection constraint, but it does not alter the instances themselves or the concept they instantiate. The README for Project 3 provides the canonical run commands and expected outputs.
 
+After navigating to the folder containing the project, build it:
+
+<img src="../../assets/figures/appendix-c/figure-18-build.png" alt="Console command: dotnet build GoalLayerDemo" />
+
+<p align="center"><ins>Project 3 Build Command</ins></p>
+
+Then run it with the dinner goal:
+
 <img src="../../assets/figures/appendix-c/figure-18.png" />
 
 <p align="center"><ins>Project 3 Dinner Run Commands</ins></p>
+
+The dinner goal selects only the instance whose type is FOOD:
 
 <img src="../../assets/figures/appendix-c/figure-19.png" />
 
 <p align="center"><ins>Project 3 Dinner Output</ins></p>
 
+Run the same instances under the pet goal:
+
 <img src="../../assets/figures/appendix-c/figure-20.png" />
 
 <p align="center"><ins>Project 3 Pet Run Commands</ins></p>
 
-<img src="../../assets/figures/appendix-c/figure-21.png" />
+The pet goal selects only the instance whose type is PET:
+
+<img src="../../assets/figures/appendix-c/figure-21-p3.png" />
 
 <p align="center"><ins>Project 3 Pet Output</ins></p>
 
