@@ -11,3 +11,5 @@ Barsalou, Lawrence W. “Context-Independent and Context-Dependent Information i
 Barsalou, Lawrence W. “Ad Hoc Categories.” *Memory and Cognition* 11, no. 3 (1983): 211–27. https://doi.org/10.3758/BF03196968.
 
 Barsalou, Lawrence W. “Simulation, Situated Conceptualization, and Prediction.” *Philosophical Transactions of the Royal Society B: Biological Sciences* 364, no. 1521 (2009): 1281–89. https://doi.org/10.1098/rstb.2008.0319.
+
+Weitzman, Stanley H. “Fish.” *Encyclopaedia Britannica*. https://www.britannica.com/animal/fish.

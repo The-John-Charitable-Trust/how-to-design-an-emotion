@@ -29,3 +29,7 @@
 <a id="note-7"></a>
 
 7. The five-layer division is my own. Goal selection corresponds to Barsalou's goal-derived categories (note 4) and multi-concept classification to his cross-classification (note 3); the reading of Barrett's examples refers to those in notes 1–2. Projects 1–5 implement each layer.
+
+<a id="note-8"></a>
+
+8. These are deliberately simplified necessary conditions, not a biological definition. The standard account defines a fish as “any of approximately 34,000 species of vertebrate animals (phylum Chordata) found in the fresh and salt waters of the world” and notes that the term “describes a life-form rather than a taxonomic group.” Stanley H. Weitzman, “Fish,” *Encyclopaedia Britannica*, https://www.britannica.com/animal/fish. A full definition would add conditions such as being a vertebrate without changing the architecture.

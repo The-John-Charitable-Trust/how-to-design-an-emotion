@@ -14,7 +14,7 @@ The corresponding C# executables for the projects below appear in the matching p
 
 Project 1 implements identity conditions as admissibility constraints that operate before instantiation, selection, or context. The goal is to show that a concept must first specify what can count as an admissible instance at all. I isolate identity conditions from downstream processes so that goal-based selection and contextual variability cannot usurp their role.
 
-In Project 1, I represent the concept Fish as a class with invariant admissibility conditions. A fish must be aquatic, and it must be an organism. These conditions do not vary with context. The constructor enforces them as necessary constraints. The system admits only candidates that satisfy them and rejects all others.
+In Project 1, I represent the concept Fish as a class with invariant admissibility conditions. For this demonstration, my model gives Fish two simplified admissibility conditions: a fish must be aquatic, and it must be an organism.<sup><a href="../references/notes/appendix-c.md#note-8">8</a></sup> These conditions do not vary with context. The constructor enforces them as necessary constraints. The system admits only candidates that satisfy them and rejects all others.
 
 <img src="../../assets/figures/appendix-c/figure-01.png" />
 
