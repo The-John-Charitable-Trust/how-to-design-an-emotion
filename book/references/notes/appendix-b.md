@@ -16,7 +16,7 @@
 
 <a id="note-4"></a>
 
-4. For such accounts, see Paul Ekman, “An Argument for Basic Emotions,” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200, at 169, https://doi.org/10.1080/02699939208411068; and Jaak Panksepp, “Cross-Species Affective Neuroscience Decoding of the Primal Affective Experiences of Humans and Related Animals,” *PLoS ONE* 6, no. 9 (2011): e21236, https://doi.org/10.1371/journal.pone.0021236.
+4. On core affect as feeling good or bad, energized or enervated, see James A. Russell, “Core Affect and the Psychological Construction of Emotion,” *Psychological Review* 110, no. 1 (2003): 145–72, at 145, https://doi.org/10.1037/0033-295X.110.1.145; treating these dimensions as primitives is my model’s choice. For accounts that favor basic affective systems, see Paul Ekman, “An Argument for Basic Emotions,” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200, at 170, https://doi.org/10.1080/02699939208411068; and Jaak Panksepp, “Cross-Species Affective Neuroscience Decoding of the Primal Affective Experiences of Humans and Related Animals,” *PLoS ONE* 6, no. 9 (2011): e21236, https://doi.org/10.1371/journal.pone.0021236.
 
 <a id="note-5"></a>
 

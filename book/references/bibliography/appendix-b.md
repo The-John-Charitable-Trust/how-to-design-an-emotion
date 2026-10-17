@@ -10,4 +10,6 @@ Object Management Group. *Unified Modeling Language*. Version 2.5.1. formal/17-1
 
 Panksepp, Jaak. “Cross-Species Affective Neuroscience Decoding of the Primal Affective Experiences of Humans and Related Animals.” *PLoS ONE* 6, no. 9 (2011): e21236. https://doi.org/10.1371/journal.pone.0021236.
 
+Russell, James A. “Core Affect and the Psychological Construction of Emotion.” *Psychological Review* 110, no. 1 (2003): 145–72. https://doi.org/10.1037/0033-295X.110.1.145.
+
 Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally and Albert Sechehaye. Translated by Wade Baskin. New York: Philosophical Library, 1959.
