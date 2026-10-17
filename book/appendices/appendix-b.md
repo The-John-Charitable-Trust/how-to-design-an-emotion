@@ -92,7 +92,7 @@ The architectural mapping remains precise:
 
 • The cache models stored conceptual templates.
 
-• Cloning models instantiation through reuse rather than discovery.
+• Cloning models instantiation through reuse rather than discovery.<sup><a href="../references/notes/appendix-b.md#note-22">22</a></sup>
 
 This pattern formalizes a central constructionist claim without psychologizing it. Emotional episodes arise as context-specific realizations of stable conceptual templates. Identity precedes instance. Structure governs variation.
 

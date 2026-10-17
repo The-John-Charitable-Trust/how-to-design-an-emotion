@@ -85,3 +85,7 @@
 <a id="note-21"></a>
 
 21. Gamma et al., *Design Patterns*, chap. 3, “Prototype,” Implementation, item 1 (“Using a prototype manager”). Here the cache returns the clone directly, a common variant. See Figure B-4.
+
+<a id="note-22"></a>
+
+22. These correspondences are my own, extending the mapping in note 16 to the Prototype pattern; on discovery versus construction, see Appendix A.
