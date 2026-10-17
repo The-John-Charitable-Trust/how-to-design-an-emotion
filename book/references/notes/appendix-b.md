@@ -61,3 +61,7 @@
 <a id="note-15"></a>
 
 15. On creating objects through a factory and on programming to an interface rather than an implementation, see Gamma et al., *Design Patterns*, chaps. 1 and 3.
+
+<a id="note-16"></a>
+
+16. The mapping of class to concept and object to episode is my own; on identity and instantiation, see chapters 2–3.
