@@ -40,12 +40,16 @@
 
 <a id="note-10"></a>
 
-10. Ekman, “Argument for Basic Emotions,” 172, 182.
+10. For the proposed fear configuration, see Barrett et al., “Emotional Expressions Reconsidered,” in the sections “Studies of Healthy Adults Living in Small-Scale, Remote Cultures” and “Facial Movement in Fetuses, Infants and Young Children.” The worked example and the argument that follows are my own.
 
 <a id="note-11"></a>
 
-11. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+11. Ekman, “Argument for Basic Emotions,” 172, 182.
 
 <a id="note-12"></a>
 
-12. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+12. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+
+<a id="note-13"></a>
+
+13. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
