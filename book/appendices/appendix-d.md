@@ -2,7 +2,7 @@
 
 ## A Formal Look at the Posner-Keele Paradigm
 
-In the Posner and Keele paradigm, the stimuli have a geometrically simple and mathematically precise structure. Each pattern consists of a fixed number n of dots positioned within a bounded coordinate system, such as a 30 × 30 grid. Formally, each stimulus can be represented as a vector in ℝ²ⁿ:
+In the Posner and Keele paradigm, the stimuli have a geometrically simple and mathematically precise structure. Each pattern consists of a small, fixed number of dots (nine in Posner's stimuli) whose positions can be specified as coordinates on a bounded grid. Formally, each stimulus can be represented as a vector in ℝ²ⁿ:
 
 x = (x₁, y₁, …, xₙ, yₙ)
 
@@ -14,7 +14,7 @@ and each training exemplar arises through distortion:
 
 Iᵢ = P + εᵢ
 
-where εᵢ is a noise vector. The empirical finding is that participants later classify novel patterns in accordance with an inferred central tendency, even though they never saw P itself.<sup><a href="../references/notes/appendix-d.md#note-1">1</a></sup> From this result, theorists often conclude that abstraction can occur without retrieving a stored canonical template.<sup><a href="../references/notes/appendix-d.md#note-2">2</a></sup>
+where εᵢ is a noise vector. The empirical finding is that participants later classify novel patterns in accordance with an inferred central tendency, even though they never saw P itself.<sup><a href="../references/notes/appendix-d.md#note-1">1</a></sup> Researchers originally took this result as evidence that people abstract a prototype from the instances they have seen, rather than merely storing those instances, though later work showed that exemplar-storage models can produce the same effect.<sup><a href="../references/notes/appendix-d.md#note-2">2</a></sup>
 
 That conclusion is correct as far as it goes. Participants can approximate a central tendency, which in statistical terms corresponds to estimating:
 
