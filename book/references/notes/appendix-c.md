@@ -37,3 +37,7 @@
 <a id="note-9"></a>
 
 9. Compare the cross-classification example in note 3.
+
+<a id="note-10"></a>
+
+10. See note 1.
