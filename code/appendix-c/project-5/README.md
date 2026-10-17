@@ -2,9 +2,15 @@ Instructions for general environment setup can be found in: *How to Run the Code
 
 This README is the canonical source for the exact command and expected output for Appendix C, Project 5.
 
-## Run Command
+## Build Command
 
-Run from inside the `Project_5` folder.
+Run from inside the `project-5` folder.
+
+```bash
+dotnet build MultiConceptDemo
+```
+
+## Run Command
 
 ```bash
 dotnet run --project MultiConceptDemo
@@ -23,4 +29,5 @@ Goal: Status
 Goal: Shelter
   Selected: Honda Civic ($25000)
   Selected: Mercedes S-Class ($120000)
+
 ```

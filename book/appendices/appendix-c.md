@@ -256,9 +256,19 @@ The UML object diagrams show how the same objects participate differently under 
 
 In Project 5, the code applies multiple goals sequentially to the same set of objects. Each goal evaluates the objects according to its own constraint. The objects do not change. Only their participation in the selected set changes. The README for Project 5 provides the canonical run command and expected output.
 
+After navigating to the folder containing the project, build it:
+
+<img src="../../assets/figures/appendix-c/figure-32-build.png" alt="Console command: dotnet build MultiConceptDemo" />
+
+<p align="center"><ins>Project 5 Build Command</ins></p>
+
+Then run it:
+
 <img src="../../assets/figures/appendix-c/figure-32.png" />
 
 <p align="center"><ins>Project 5 Run Commands</ins></p>
+
+Each goal evaluates the same two cars in turn and lists the cars it selects:
 
 <img src="../../assets/figures/appendix-c/figure-33.png" />
 
