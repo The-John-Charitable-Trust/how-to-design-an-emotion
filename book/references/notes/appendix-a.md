@@ -56,8 +56,12 @@
 
 <a id="note-14"></a>
 
-14. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+14. The explanatory-adequacy reply and its rebuttal are my own argument; see chapter 2.
 
 <a id="note-15"></a>
 
-15. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
+15. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+
+<a id="note-16"></a>
+
+16. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
