@@ -12,8 +12,12 @@
 
 <a id="note-3"></a>
 
-3. For such accounts, see Paul Ekman, “An Argument for Basic Emotions,” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200, at 169, https://doi.org/10.1080/02699939208411068; and Jaak Panksepp, “Cross-Species Affective Neuroscience Decoding of the Primal Affective Experiences of Humans and Related Animals,” *PLoS ONE* 6, no. 9 (2011): e21236, https://doi.org/10.1371/journal.pone.0021236.
+3. This classification is my own model; on genus and species, see chapter 3, and on the contrast with biological kinds, Appendix A.
 
 <a id="note-4"></a>
 
-4. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
+4. For such accounts, see Paul Ekman, “An Argument for Basic Emotions,” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200, at 169, https://doi.org/10.1080/02699939208411068; and Jaak Panksepp, “Cross-Species Affective Neuroscience Decoding of the Primal Affective Experiences of Humans and Related Animals,” *PLoS ONE* 6, no. 9 (2011): e21236, https://doi.org/10.1371/journal.pone.0021236.
+
+<a id="note-5"></a>
+
+5. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
