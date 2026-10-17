@@ -21,3 +21,7 @@
 <a id="note-5"></a>
 
 5. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
+
+<a id="note-6"></a>
+
+6. An inversion of Psalm 118:22: “The stone which the builders refused is become the head stone of the corner” (King James Version).
