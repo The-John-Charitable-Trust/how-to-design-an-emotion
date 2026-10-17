@@ -49,3 +49,7 @@
 <a id="note-12"></a>
 
 12. On patterns as solutions to recurring design problems, see Gamma et al., *Design Patterns*. Their use here as syntactic tools for modeling emotion is my own.
+
+<a id="note-13"></a>
+
+13. On Factory Method and its parameterized variant, see Gamma et al., *Design Patterns*, chap. 3. The mapping of emotion types to classes is my own.

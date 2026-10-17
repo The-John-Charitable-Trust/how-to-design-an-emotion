@@ -34,11 +34,11 @@ With the next two diagrams, I introduce Gang of Four design patterns to solve a 
 
 The Gang of Four patterns do not describe mental mechanisms. They formalize structural solutions to recurring problems of construction. I use them here as disciplined syntactic tools. They allow me to model how stable conceptual identities can generate context-sensitive instances without treating emotions as discovered objects, biological essences, or free-floating labels. The aim is not empirical accuracy, but architectural clarity.<sup><a href="../references/notes/appendix-b.md#note-12">12</a></sup> 
 
-<img src="../../assets/figures/appendix-b/figure-03.png" alt="UML class diagram of the Factory design pattern for emotion construction" />
+<img src="../../assets/figures/appendix-b/figure-03.png" alt="UML class diagram of the parameterized Factory Method pattern for emotion construction" />
 
-<p align="center"><ins>Figure B-3. Factory Design Pattern: Emotion Construction</ins></p>
+<p align="center"><ins>Figure B-3. Parameterized Factory Method Pattern: Emotion Construction</ins></p>
 
-Figure B-3 models emotion construction using the Factory design pattern, which separates the declaration of a type from the logic responsible for creating its instances. In this architecture, Emotion functions as an abstract class that fixes the shared structural properties of an emotion, such as valence, context, and expression. The class defines identity conditions but does not instantiate any emotional episode.
+Figure B-3 models emotion construction using a parameterized form of the Factory Method pattern, which separates the declaration of a type from the logic responsible for creating its instances. In this architecture, Emotion functions as an abstract class that fixes the shared structural properties of an emotion, such as valence, context, and expression. The class defines identity conditions but does not instantiate any emotional episode.<sup><a href="../references/notes/appendix-b.md#note-13">13</a></sup>
 
 Concrete subclasses, Joy, Fear, and Anger, inherit this structure while assigning different values to it. In object-oriented terms, inheritance preserves conceptual identity while allowing variation in individual instances.
 
