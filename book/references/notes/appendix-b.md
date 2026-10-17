@@ -101,3 +101,7 @@
 <a id="note-25"></a>
 
 25. This paragraph summarizes the argument above; see notes 3, 6–9, and 17, and chapter 2.
+
+<a id="note-26"></a>
+
+26. This paragraph summarizes the argument above; see notes 13–24.
