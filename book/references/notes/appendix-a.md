@@ -20,4 +20,4 @@
 
 <a id="note-5"></a>
 
-5. Ekman, “Argument for Basic Emotions.”
+5. For the cross-cultural evidence on facial expressions, see Ekman, “Argument for Basic Emotions,” 169–70.
