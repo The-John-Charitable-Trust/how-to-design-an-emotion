@@ -2,6 +2,8 @@
 
 [Return to Appendix B](../../appendices/appendix-b.md) · [Notes](../notes/appendix-b.md)
 
+Aristotle. *Topics*. Translated by W. A. Pickard-Cambridge. Internet Classics Archive. https://classics.mit.edu/Aristotle/topics.html.
+
 Ekman, Paul. “An Argument for Basic Emotions.” *Cognition and Emotion* 6, nos. 3–4 (1992): 169–200. https://doi.org/10.1080/02699939208411068.
 
 Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software*. Reading, MA: Addison-Wesley, 1995.

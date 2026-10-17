@@ -24,4 +24,8 @@
 
 <a id="note-6"></a>
 
-6. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
+6. On definition by genus and differentiae, see Aristotle, *Topics*, trans. W. A. Pickard-Cambridge, Internet Classics Archive, https://classics.mit.edu/Aristotle/topics.html, I.8; on generalization hierarchies, Object Management Group, *Unified Modeling Language*, sec. 9.2.1. The mapping of the two and the identity-conditions claim are my own.
+
+<a id="note-7"></a>
+
+7. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Reading, MA: Addison-Wesley, 1995).
