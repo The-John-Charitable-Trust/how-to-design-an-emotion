@@ -114,7 +114,7 @@ However, you get an invalid response when the code tries to assign a type outsid
 
 <p align="center"><ins>Project 2 Invalid Output</ins></p>
 
-This behavior demonstrates that instantiation assigns determinate values within a stable constraint structure. Variation occurs at the level of parameters such as species and type. It does not alter the concept.
+In this architecture, instantiation assigns determinate values within a stable constraint structure. Variation occurs at the level of the species and type parameters. It does not alter the concept.
 
 Project 2 therefore establishes the second architectural claim: instantiation introduces variability without altering identity conditions. Identity conditions determine what can count as an instance. Instantiation assigns determinate values to the instance.
 
